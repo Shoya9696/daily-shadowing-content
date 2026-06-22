@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-06-22T11:39:06Z",
+  "lessonDate": "2026-06-23",
+  "lessons": [
+    {
+      "id": "beginner-2026-06-23",
+      "levelGroup": "beginner",
+      "title": "Sunny Morning Weather",
+      "cefrLevel": "A2",
+      "summaryJa": "朝の天気を確認して、軽い服装で出かける短い会話です。",
+      "sourceUrls": [
+        "https://www.weather.gov/education"
+      ],
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner.m4a",
+      "durationSeconds": 8,
+      "sentences": [
+        {
+          "id": "beginner-2026-06-23-s01",
+          "index": 0,
+          "text": "Today's weather is sunny and warm.",
+          "translationJa": "今日の天気は晴れて暖かいです。",
+          "startMs": 0,
+          "endMs": 1741,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s01.m4a"
+        },
+        {
+          "id": "beginner-2026-06-23-s02",
+          "index": 1,
+          "text": "I checked the forecast before I left home.",
+          "translationJa": "家を出る前に天気予報を確認しました。",
+          "startMs": 2141,
+          "endMs": 4448,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s02.m4a"
+        },
+        {
+          "id": "beginner-2026-06-23-s03",
+          "index": 2,
+          "text": "A light jacket is enough for the morning.",
+          "translationJa": "朝は薄手のジャケットで十分です。",
+          "startMs": 4848,
+          "endMs": 6760,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s03.m4a"
+        },
+        {
+          "id": "beginner-2026-06-23-s04",
+          "index": 3,
+          "text": "The sky looks clear after lunch.",
+          "translationJa": "昼過ぎも空は晴れていそうです。",
+          "startMs": 7160,
+          "endMs": 8995,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s04.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "weather",
+          "meaningJa": "天気",
+          "exampleEn": "The weather is nice today.",
+          "exampleJa": "今日は天気がいいです。"
+        },
+        {
+          "word": "forecast",
+          "meaningJa": "予報",
+          "exampleEn": "I read the weather forecast.",
+          "exampleJa": "天気予報を読みました。"
+        },
+        {
+          "word": "sunny",
+          "meaningJa": "晴れた",
+          "exampleEn": "It is sunny outside.",
+          "exampleJa": "外は晴れています。"
+        },
+        {
+          "word": "jacket",
+          "meaningJa": "ジャケット",
+          "exampleEn": "She wore a light jacket.",
+          "exampleJa": "彼女は薄手のジャケットを着ました。"
+        },
+        {
+          "word": "clear",
+          "meaningJa": "晴れた・澄んだ",
+          "exampleEn": "The sky is clear.",
+          "exampleJa": "空が晴れています。"
+        }
+      ]
+    },
+    {
+      "id": "intermediate-2026-06-23",
+      "levelGroup": "intermediate",
+      "title": "Commute and Notifications",
+      "cefrLevel": "B1",
+      "summaryJa": "通勤中の習慣と、スマホ通知への対処を扱います。",
+      "sourceUrls": [
+        "https://www.apta.com/research-technical-resources"
+      ],
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate.m4a",
+      "durationSeconds": 12,
+      "sentences": [
+        {
+          "id": "intermediate-2026-06-23-s01",
+          "index": 0,
+          "text": "My commute takes about forty minutes on the train.",
+          "translationJa": "電車での通勤はだいたい40分かかります。",
+          "startMs": 0,
+          "endMs": 2617,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s01.m4a"
+        },
+        {
+          "id": "intermediate-2026-06-23-s02",
+          "index": 1,
+          "text": "I read short articles while I wait on the platform.",
+          "translationJa": "ホームで待つ間に短い記事を読みます。",
+          "startMs": 3017,
+          "endMs": 5858,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s02.m4a"
+        },
+        {
+          "id": "intermediate-2026-06-23-s03",
+          "index": 2,
+          "text": "Smartphone notifications can break my focus during the ride.",
+          "translationJa": "スマホの通知は移動中の集中を妨げることがあります。",
+          "startMs": 6258,
+          "endMs": 9801,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s03.m4a"
+        },
+        {
+          "id": "intermediate-2026-06-23-s04",
+          "index": 3,
+          "text": "I silence non-urgent alerts before I board.",
+          "translationJa": "乗車前に急ぎでない通知を消音にします。",
+          "startMs": 10201,
+          "endMs": 12740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s04.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "commute",
+          "meaningJa": "通勤",
+          "exampleEn": "My commute is long.",
+          "exampleJa": "通勤が長いです。"
+        },
+        {
+          "word": "platform",
+          "meaningJa": "ホーム",
+          "exampleEn": "Wait on the platform.",
+          "exampleJa": "ホームで待ちます。"
+        },
+        {
+          "word": "notification",
+          "meaningJa": "通知",
+          "exampleEn": "Turn off notifications.",
+          "exampleJa": "通知をオフにします。"
+        },
+        {
+          "word": "focus",
+          "meaningJa": "集中",
+          "exampleEn": "I need focus at work.",
+          "exampleJa": "仕事で集中が必要です。"
+        },
+        {
+          "word": "urgent",
+          "meaningJa": "緊急の",
+          "exampleEn": "This is not urgent.",
+          "exampleJa": "これは緊急ではありません。"
+        }
+      ]
+    },
+    {
+      "id": "advanced-2026-06-23",
+      "levelGroup": "advanced",
+      "title": "Cafe Focus Routine",
+      "cefrLevel": "B2",
+      "summaryJa": "カフェでの作業習慣と集中力の保ち方を扱います。",
+      "sourceUrls": [
+        "https://www.apa.org/topics/attention"
+      ],
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced.m4a",
+      "durationSeconds": 14,
+      "sentences": [
+        {
+          "id": "advanced-2026-06-23-s01",
+          "index": 0,
+          "text": "Working from a quiet cafe helps me enter a deep focus state.",
+          "translationJa": "静かなカフェで働くと深い集中状態に入りやすいです。",
+          "startMs": 0,
+          "endMs": 3543,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s01.m4a"
+        },
+        {
+          "id": "advanced-2026-06-23-s02",
+          "index": 1,
+          "text": "Background noise is low, so meetings do not disturb others.",
+          "translationJa": "周囲の雑音が少ないので、会議が周りの人の邪魔になりません。",
+          "startMs": 3943,
+          "endMs": 7512,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s02.m4a"
+        },
+        {
+          "id": "advanced-2026-06-23-s03",
+          "index": 2,
+          "text": "I limit social media to short breaks between sessions.",
+          "translationJa": "作業の合間の短い休憩にだけSNSを使うようにしています。",
+          "startMs": 7912,
+          "endMs": 11101,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s03.m4a"
+        },
+        {
+          "id": "advanced-2026-06-23-s04",
+          "index": 3,
+          "text": "A consistent routine makes difficult tasks feel manageable.",
+          "translationJa": "一定のルーティンがあると難しい作業もこなしやすくなります。",
+          "startMs": 11501,
+          "endMs": 14981,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s04.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "routine",
+          "meaningJa": "日課・ルーティン",
+          "exampleEn": "I follow a morning routine.",
+          "exampleJa": "朝のルーティンを守っています。"
+        },
+        {
+          "word": "manageable",
+          "meaningJa": "対処できる",
+          "exampleEn": "The task feels manageable.",
+          "exampleJa": "その作業は対処できそうです。"
+        },
+        {
+          "word": "disturb",
+          "meaningJa": "邪魔する",
+          "exampleEn": "Please do not disturb others.",
+          "exampleJa": "他の人の邪魔をしないでください。"
+        },
+        {
+          "word": "session",
+          "meaningJa": "作業の区切り",
+          "exampleEn": "Take a break between sessions.",
+          "exampleJa": "作業の合間に休憩を取ります。"
+        },
+        {
+          "word": "consistent",
+          "meaningJa": "一貫した",
+          "exampleEn": "Stay consistent every day.",
+          "exampleJa": "毎日一貫して続けます。"
+        }
+      ]
+    }
+  ]
+}
