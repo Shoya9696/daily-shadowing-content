@@ -4,17 +4,24 @@ Public lesson delivery files for the **Daily Shadowing** app.
 
 This repository hosts `latest.json`, dated lesson archives, and generated m4a audio over **GitHub Pages**.
 
-## Important: sample content only (Step 9-C)
+## Delivery-only repository
 
-The current files are **manual sample lessons for delivery-path verification**.
+This repo holds **published static files only**. Lesson generation, validation, and publish run in the private generator repo:
 
-They are **not** AI-generated daily news lessons. Topics are general everyday themes (weather, commute, focus) to avoid copying news articles.
+- [Shoya9696/daily-shadowing-generator](https://github.com/Shoya9696/daily-shadowing-generator)
 
-Production daily generation will be added in later steps:
+Do not add generation scripts here. Use the generator workflow (`use_sample=true` for pre-production) to update this repo.
 
-- **Step 9-D**: Private generator workflow
-- **Step 9-E**: External cron trigger
-- **Step 9-F**: End-to-end verification
+## Current content (Step 9-F2)
+
+| Item | Status |
+|---|---|
+| Publish path | Generator workflow → `CONTENT_REPO_PUSH_TOKEN` → this repo |
+| Latest publish | `57ef57b` — `lessonDate=2026-06-23` (sample mode) |
+| Production AI | **Not enabled** (`use_sample=false` / Gemini not configured) |
+| External cron | **Not enabled** |
+
+Topics in the current sample set are general everyday themes (not live news). Production daily news generation is a future step.
 
 ## Public URLs
 
@@ -46,12 +53,12 @@ audio/YYYY-MM-DD/{level}-sNN.m4a
 - API keys / secrets / `.env`
 - Firebase configuration
 - App source code
-- Private prompts
+- Generation scripts or prompts
 - Internal documentation
 
 ## App integration
 
-The Flutter app fetches `latest.json` over HTTPS when `RemoteLessonConfig.latestManifestUrl` is set. On failure it falls back to bundled assets.
+The Flutter app fetches `latest.json` over HTTPS from `RemoteLessonConfig.latestManifestUrl`. On failure it falls back to bundled assets.
 
 Vocabulary audio uses on-device TTS (`flutter_tts`). Only full-lesson and sentence audio are served as m4a from this repo.
 
