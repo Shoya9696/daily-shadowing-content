@@ -1,251 +1,251 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-06-22T11:39:06Z",
+  "generatedAtUtc": "2026-06-23T04:31:54Z",
   "lessonDate": "2026-06-23",
   "lessons": [
     {
       "id": "beginner-2026-06-23",
       "levelGroup": "beginner",
-      "title": "Sunny Morning Weather",
+      "title": "Short Breaks at Work",
       "cefrLevel": "A2",
-      "summaryJa": "朝の天気を確認して、軽い服装で出かける短い会話です。",
+      "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。",
       "sourceUrls": [
-        "https://www.weather.gov/education"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner.m4a",
-      "durationSeconds": 8,
+      "durationSeconds": 10,
       "sentences": [
         {
           "id": "beginner-2026-06-23-s01",
           "index": 0,
-          "text": "Today's weather is sunny and warm.",
-          "translationJa": "今日の天気は晴れて暖かいです。",
+          "text": "I take a short break every two hours at work.",
+          "translationJa": "仕事では2時間ごとに短い休憩を取ります。",
           "startMs": 0,
-          "endMs": 1741,
+          "endMs": 2492,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s01.m4a"
         },
         {
           "id": "beginner-2026-06-23-s02",
           "index": 1,
-          "text": "I checked the forecast before I left home.",
-          "translationJa": "家を出る前に天気予報を確認しました。",
-          "startMs": 2141,
-          "endMs": 4448,
+          "text": "A quick walk helps me feel more awake.",
+          "translationJa": "少し歩くと目が覚めた気分になります。",
+          "startMs": 2892,
+          "endMs": 5002,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s02.m4a"
         },
         {
           "id": "beginner-2026-06-23-s03",
           "index": 2,
-          "text": "A light jacket is enough for the morning.",
-          "translationJa": "朝は薄手のジャケットで十分です。",
-          "startMs": 4848,
-          "endMs": 6760,
+          "text": "I drink water and stretch my shoulders.",
+          "translationJa": "水を飲んで肩を伸ばします。",
+          "startMs": 5402,
+          "endMs": 7546,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s03.m4a"
         },
         {
           "id": "beginner-2026-06-23-s04",
           "index": 3,
-          "text": "The sky looks clear after lunch.",
-          "translationJa": "昼過ぎも空は晴れていそうです。",
-          "startMs": 7160,
-          "endMs": 8995,
+          "text": "Then I return to my desk with fresh energy.",
+          "translationJa": "それから元気を取り戻してデスクに戻ります。",
+          "startMs": 7946,
+          "endMs": 10371,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/beginner-s04.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "weather",
-          "meaningJa": "天気",
-          "exampleEn": "The weather is nice today.",
-          "exampleJa": "今日は天気がいいです。"
+          "word": "break",
+          "meaningJa": "休憩",
+          "exampleEn": "Take a short break.",
+          "exampleJa": "短い休憩を取りましょう。"
         },
         {
-          "word": "forecast",
-          "meaningJa": "予報",
-          "exampleEn": "I read the weather forecast.",
-          "exampleJa": "天気予報を読みました。"
+          "word": "awake",
+          "meaningJa": "目が覚めた",
+          "exampleEn": "I feel awake now.",
+          "exampleJa": "今は目が覚めた感じです。"
         },
         {
-          "word": "sunny",
-          "meaningJa": "晴れた",
-          "exampleEn": "It is sunny outside.",
-          "exampleJa": "外は晴れています。"
+          "word": "stretch",
+          "meaningJa": "伸ばす",
+          "exampleEn": "Stretch your arms.",
+          "exampleJa": "腕を伸ばしてください。"
         },
         {
-          "word": "jacket",
-          "meaningJa": "ジャケット",
-          "exampleEn": "She wore a light jacket.",
-          "exampleJa": "彼女は薄手のジャケットを着ました。"
+          "word": "desk",
+          "meaningJa": "机・デスク",
+          "exampleEn": "Go back to your desk.",
+          "exampleJa": "デスクに戻ります。"
         },
         {
-          "word": "clear",
-          "meaningJa": "晴れた・澄んだ",
-          "exampleEn": "The sky is clear.",
-          "exampleJa": "空が晴れています。"
+          "word": "energy",
+          "meaningJa": "元気・エネルギー",
+          "exampleEn": "I need more energy.",
+          "exampleJa": "もっと元気が必要です。"
         }
       ]
     },
     {
       "id": "intermediate-2026-06-23",
       "levelGroup": "intermediate",
-      "title": "Commute and Notifications",
+      "title": "Resetting Focus During the Day",
       "cefrLevel": "B1",
-      "summaryJa": "通勤中の習慣と、スマホ通知への対処を扱います。",
+      "summaryJa": "日中の集中力をリセットする工夫を扱います。",
       "sourceUrls": [
-        "https://www.apta.com/research-technical-resources"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate.m4a",
-      "durationSeconds": 12,
+      "durationSeconds": 14,
       "sentences": [
         {
           "id": "intermediate-2026-06-23-s01",
           "index": 0,
-          "text": "My commute takes about forty minutes on the train.",
-          "translationJa": "電車での通勤はだいたい40分かかります。",
+          "text": "Many office workers schedule short breaks to reset their focus.",
+          "translationJa": "多くの会社員は集中力をリセットするために短い休憩を入れます。",
           "startMs": 0,
-          "endMs": 2617,
+          "endMs": 3441,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s01.m4a"
         },
         {
           "id": "intermediate-2026-06-23-s02",
           "index": 1,
-          "text": "I read short articles while I wait on the platform.",
-          "translationJa": "ホームで待つ間に短い記事を読みます。",
-          "startMs": 3017,
-          "endMs": 5858,
+          "text": "A five-minute walk can reduce eye strain from long screen time.",
+          "translationJa": "5分歩くだけで、長時間の画面作業による目の疲れを和らげられます。",
+          "startMs": 3841,
+          "endMs": 7135,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s02.m4a"
         },
         {
           "id": "intermediate-2026-06-23-s03",
           "index": 2,
-          "text": "Smartphone notifications can break my focus during the ride.",
-          "translationJa": "スマホの通知は移動中の集中を妨げることがあります。",
-          "startMs": 6258,
-          "endMs": 9801,
+          "text": "Hydration and light stretching also support steady productivity.",
+          "translationJa": "水分補給と軽いストレッチも安定した生産性を支えます。",
+          "startMs": 7535,
+          "endMs": 11154,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s03.m4a"
         },
         {
           "id": "intermediate-2026-06-23-s04",
           "index": 3,
-          "text": "I silence non-urgent alerts before I board.",
-          "translationJa": "乗車前に急ぎでない通知を消音にします。",
-          "startMs": 10201,
-          "endMs": 12740,
+          "text": "Small habits like these are easy to repeat every day.",
+          "translationJa": "こうした小さな習慣は毎日続けやすいです。",
+          "startMs": 11554,
+          "endMs": 14435,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/intermediate-s04.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "commute",
-          "meaningJa": "通勤",
-          "exampleEn": "My commute is long.",
-          "exampleJa": "通勤が長いです。"
+          "word": "schedule",
+          "meaningJa": "予定を立てる",
+          "exampleEn": "I schedule breaks.",
+          "exampleJa": "休憩を予定に入れます。"
         },
         {
-          "word": "platform",
-          "meaningJa": "ホーム",
-          "exampleEn": "Wait on the platform.",
-          "exampleJa": "ホームで待ちます。"
+          "word": "strain",
+          "meaningJa": "疲労・負担",
+          "exampleEn": "Eye strain is common.",
+          "exampleJa": "目の疲れはよくあります。"
         },
         {
-          "word": "notification",
-          "meaningJa": "通知",
-          "exampleEn": "Turn off notifications.",
-          "exampleJa": "通知をオフにします。"
+          "word": "hydration",
+          "meaningJa": "水分補給",
+          "exampleEn": "Hydration matters at work.",
+          "exampleJa": "仕事では水分補給が大切です。"
         },
         {
-          "word": "focus",
-          "meaningJa": "集中",
-          "exampleEn": "I need focus at work.",
-          "exampleJa": "仕事で集中が必要です。"
+          "word": "productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Breaks can help productivity.",
+          "exampleJa": "休憩は生産性の助けになります。"
         },
         {
-          "word": "urgent",
-          "meaningJa": "緊急の",
-          "exampleEn": "This is not urgent.",
-          "exampleJa": "これは緊急ではありません。"
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "Build a daily habit.",
+          "exampleJa": "毎日の習慣を作りましょう。"
         }
       ]
     },
     {
       "id": "advanced-2026-06-23",
       "levelGroup": "advanced",
-      "title": "Cafe Focus Routine",
+      "title": "Micro-breaks and Sustainable Focus",
       "cefrLevel": "B2",
-      "summaryJa": "カフェでの作業習慣と集中力の保ち方を扱います。",
+      "summaryJa": "マイクロブレイクと持続可能な集中について扱います。",
       "sourceUrls": [
-        "https://www.apa.org/topics/attention"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced.m4a",
-      "durationSeconds": 14,
+      "durationSeconds": 21,
       "sentences": [
         {
           "id": "advanced-2026-06-23-s01",
           "index": 0,
-          "text": "Working from a quiet cafe helps me enter a deep focus state.",
-          "translationJa": "静かなカフェで働くと深い集中状態に入りやすいです。",
+          "text": "Workplace wellness guidance increasingly emphasizes micro-breaks rather than long idle periods.",
+          "translationJa": "職場の健康づくりの指針は、長い中断よりも短いマイクロブレイクを重視するようになっています。",
           "startMs": 0,
-          "endMs": 3543,
+          "endMs": 5505,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s01.m4a"
         },
         {
           "id": "advanced-2026-06-23-s02",
           "index": 1,
-          "text": "Background noise is low, so meetings do not disturb others.",
-          "translationJa": "周囲の雑音が少ないので、会議が周りの人の邪魔になりません。",
-          "startMs": 3943,
-          "endMs": 7512,
+          "text": "Brief movement and hydration can interrupt mental fatigue without breaking workflow momentum.",
+          "translationJa": "短い運動と水分補給は、作業の流れを大きく途切れさせずに精神的な疲れを中断できます。",
+          "startMs": 5905,
+          "endMs": 10786,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s02.m4a"
         },
         {
           "id": "advanced-2026-06-23-s03",
           "index": 2,
-          "text": "I limit social media to short breaks between sessions.",
-          "translationJa": "作業の合間の短い休憩にだけSNSを使うようにしています。",
-          "startMs": 7912,
-          "endMs": 11101,
+          "text": "Employees who plan short resets often report steadier concentration across the afternoon.",
+          "translationJa": "短いリセットを計画する従業員は、午後の集中力が安定しやすいと答えることが多いです。",
+          "startMs": 11186,
+          "endMs": 16488,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s03.m4a"
         },
         {
           "id": "advanced-2026-06-23-s04",
           "index": 3,
-          "text": "A consistent routine makes difficult tasks feel manageable.",
-          "translationJa": "一定のルーティンがあると難しい作業もこなしやすくなります。",
-          "startMs": 11501,
-          "endMs": 14981,
+          "text": "The key is consistency, not intensity, when building sustainable focus habits.",
+          "translationJa": "持続可能な集中の習慣を作るうえで大切なのは強度ではなく一貫性です。",
+          "startMs": 16888,
+          "endMs": 21881,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-23/advanced-s04.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "routine",
-          "meaningJa": "日課・ルーティン",
-          "exampleEn": "I follow a morning routine.",
-          "exampleJa": "朝のルーティンを守っています。"
+          "word": "micro-break",
+          "meaningJa": "短い休憩",
+          "exampleEn": "Take a micro-break.",
+          "exampleJa": "短い休憩を取りましょう。"
         },
         {
-          "word": "manageable",
-          "meaningJa": "対処できる",
-          "exampleEn": "The task feels manageable.",
-          "exampleJa": "その作業は対処できそうです。"
+          "word": "momentum",
+          "meaningJa": "勢い・流れ",
+          "exampleEn": "Keep your momentum.",
+          "exampleJa": "作業の流れを保ちます。"
         },
         {
-          "word": "disturb",
-          "meaningJa": "邪魔する",
-          "exampleEn": "Please do not disturb others.",
-          "exampleJa": "他の人の邪魔をしないでください。"
+          "word": "fatigue",
+          "meaningJa": "疲労",
+          "exampleEn": "Mental fatigue builds up.",
+          "exampleJa": "精神的な疲れがたまります。"
         },
         {
-          "word": "session",
-          "meaningJa": "作業の区切り",
-          "exampleEn": "Take a break between sessions.",
-          "exampleJa": "作業の合間に休憩を取ります。"
+          "word": "consistency",
+          "meaningJa": "一貫性",
+          "exampleEn": "Consistency matters most.",
+          "exampleJa": "一貫性が最も重要です。"
         },
         {
-          "word": "consistent",
-          "meaningJa": "一貫した",
-          "exampleEn": "Stay consistent every day.",
-          "exampleJa": "毎日一貫して続けます。"
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "Build sustainable habits.",
+          "exampleJa": "持続可能な習慣を作ります。"
         }
       ]
     }
