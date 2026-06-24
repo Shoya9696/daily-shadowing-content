@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-06-24T01:01:51Z",
+  "generatedAtUtc": "2026-06-24T01:57:07Z",
   "lessonDate": "2026-06-24",
   "lessons": [
     {
@@ -113,7 +113,7 @@
         "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate.m4a",
-      "durationSeconds": 41,
+      "durationSeconds": 49,
       "sentences": [
         {
           "id": "intermediate-2026-06-24-s01",
@@ -168,6 +168,15 @@
           "startMs": 34907,
           "endMs": 41699,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s06.m4a"
+        },
+        {
+          "id": "intermediate-2026-06-24-s07",
+          "index": 6,
+          "text": "Over time, these small resets become a reliable habit that protects focus and prevents the afternoon slump many workers feel after lunch.",
+          "translationJa": "時間が経つと、こうした短いリセットは集中力を守り、昼食後に多くの人が感じる午後のだるさを防ぐ頼もしい習慣になります。",
+          "startMs": 42099,
+          "endMs": 50022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s07.m4a"
         }
       ],
       "vocabulary": [
@@ -213,7 +222,7 @@
         "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced.m4a",
-      "durationSeconds": 51,
+      "durationSeconds": 68,
       "sentences": [
         {
           "id": "advanced-2026-06-24-s01",
@@ -268,6 +277,24 @@
           "startMs": 43831,
           "endMs": 51900,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s06.m4a"
+        },
+        {
+          "id": "advanced-2026-06-24-s07",
+          "index": 6,
+          "text": "Research suggests that even brief physical movement can refresh working memory without requiring employees to leave the building for an extended period of time.",
+          "translationJa": "研究によると、短い身体活動でも作業記憶をリフレッシュでき、従業員が長時間外出する必要はありません。",
+          "startMs": 52300,
+          "endMs": 60806,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s07.m4a"
+        },
+        {
+          "id": "advanced-2026-06-24-s08",
+          "index": 7,
+          "text": "Teams that embrace this philosophy often report better morale, because recovery is treated as part of sustainable performance rather than a distraction from it.",
+          "translationJa": "この考え方を取り入れるチームは、回復が作業の妨げではなく持続可能な成果の一部として扱われるため、士気が高まると答えることが多いです。",
+          "startMs": 61206,
+          "endMs": 69553,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s08.m4a"
         }
       ],
       "vocabulary": [
