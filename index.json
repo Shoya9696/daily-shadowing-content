@@ -1,25 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-24T19:00:17Z",
-  "latestLessonDate": "2026-06-24",
+  "generatedAtUtc": "2026-06-24T22:31:06Z",
+  "latestLessonDate": "2026-06-25",
   "days": [
     {
-      "lessonDate": "2026-06-24",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-24.json",
+      "lessonDate": "2026-06-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-25.json",
       "isLatest": true,
       "lessons": [
         {
-          "level": null,
+          "level": "beginner",
+          "title": "The Benefits of a Short Walk",
+          "durationSeconds": 33
+        },
+        {
+          "level": "intermediate",
+          "title": "Boosting Happiness Through Movement",
+          "durationSeconds": 49
+        },
+        {
+          "level": "advanced",
+          "title": "Counteracting Sedentary Risks at Work",
+          "durationSeconds": 73
+        }
+      ]
+    },
+    {
+      "lessonDate": "2026-06-24",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-24.json",
+      "isLatest": false,
+      "lessons": [
+        {
+          "level": "beginner",
           "title": "The Benefits of Walking at Work",
           "durationSeconds": 35
         },
         {
-          "level": null,
+          "level": "intermediate",
           "title": "Improving Workplace Wellness Through Movement",
           "durationSeconds": 54
         },
         {
-          "level": null,
+          "level": "advanced",
           "title": "The Science of Movement for Mental and Physical Well-being",
           "durationSeconds": 77
         }
@@ -31,17 +53,17 @@
       "isLatest": false,
       "lessons": [
         {
-          "level": null,
+          "level": "beginner",
           "title": "Short Breaks at Work",
           "durationSeconds": 10
         },
         {
-          "level": null,
+          "level": "intermediate",
           "title": "Resetting Focus During the Day",
           "durationSeconds": 14
         },
         {
-          "level": null,
+          "level": "advanced",
           "title": "Micro-breaks and Sustainable Focus",
           "durationSeconds": 21
         }
