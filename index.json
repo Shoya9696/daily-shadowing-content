@@ -11,17 +11,20 @@
         {
           "level": "beginner",
           "title": "Health Trends for Young People",
-          "durationSeconds": 36
+          "durationSeconds": 36,
+          "summaryJa": "若者の間で肥満が増加している背景と、健康的な生活習慣の大切さについて学びます。"
         },
         {
           "level": "intermediate",
           "title": "Understanding the Rise in Obesity",
-          "durationSeconds": 52
+          "durationSeconds": 52,
+          "summaryJa": "若年層の肥満増加の要因と、現代社会が抱える健康の課題について詳しく解説します。"
         },
         {
           "level": "advanced",
           "title": "Addressing the Global Obesity Crisis",
-          "durationSeconds": 68
+          "durationSeconds": 68,
+          "summaryJa": "現代の肥満問題の背景にある経済的・社会的要因を考察し、持続可能な解決策を考えます。"
         }
       ]
     },
@@ -33,17 +36,20 @@
         {
           "level": "beginner",
           "title": "The Benefits of Walking at Work",
-          "durationSeconds": 35
+          "durationSeconds": 35,
+          "summaryJa": "仕事中に少し歩くことが、健康と幸福感に与える良い影響について学びます。"
         },
         {
           "level": "intermediate",
           "title": "Improving Workplace Wellness Through Movement",
-          "durationSeconds": 54
+          "durationSeconds": 54,
+          "summaryJa": "座りっぱなしの仕事が健康に与えるリスクと、短い休憩を取り入れる効果について解説します。"
         },
         {
           "level": "advanced",
           "title": "The Science of Movement for Mental and Physical Well-being",
-          "durationSeconds": 77
+          "durationSeconds": 77,
+          "summaryJa": "座り仕事の健康リスクを軽減するための科学的なアプローチと、職場での幸福感を高める方法を考察します。"
         }
       ]
     },
@@ -55,17 +61,20 @@
         {
           "level": "beginner",
           "title": "Short Breaks at Work",
-          "durationSeconds": 10
+          "durationSeconds": 10,
+          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
         },
         {
           "level": "intermediate",
           "title": "Resetting Focus During the Day",
-          "durationSeconds": 14
+          "durationSeconds": 14,
+          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
         },
         {
           "level": "advanced",
           "title": "Micro-breaks and Sustainable Focus",
-          "durationSeconds": 21
+          "durationSeconds": 21,
+          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
         }
       ]
     }
