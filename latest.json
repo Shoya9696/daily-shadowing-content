@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-06-24T22:31:06Z",
-  "lessonDate": "2026-06-25",
+  "generatedAtUtc": "2026-06-24T16:14:29Z",
+  "lessonDate": "2026-06-24",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "The Benefits of a Short Walk",
+      "title": "The Benefits of Walking at Work",
       "cefrLevel": "A2",
       "summaryJa": "仕事中に少し歩くことが、健康と幸福感に与える良い影響について学びます。",
       "sourceUrls": [
@@ -14,429 +14,420 @@
       "sentences": [
         {
           "index": 0,
-          "text": "Many people sit at a desk for many hours every single day.",
-          "translationJa": "多くの人が毎日何時間もデスクに座って仕事をしています。",
-          "id": "beginner-2026-06-25-s01",
+          "text": "Many people sit at their desks for a very long time every single day.",
+          "translationJa": "多くの人が毎日、非常に長い時間デスクに座っています。",
+          "id": "beginner-2026-06-24-s01",
           "startMs": 0,
-          "endMs": 3220,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s01.m4a"
+          "endMs": 3696,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Sitting for a long time is not very good for our health.",
-          "translationJa": "長時間座り続けることは、私たちの健康にとってあまり良くありません。",
-          "id": "beginner-2026-06-25-s02",
-          "startMs": 3620,
-          "endMs": 6467,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s02.m4a"
+          "text": "Sitting for too many hours can be quite bad for your physical health.",
+          "translationJa": "長時間座り続けることは、身体の健康にとって非常に悪い場合があります。",
+          "id": "beginner-2026-06-24-s02",
+          "startMs": 4096,
+          "endMs": 7640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "However, you can easily change this habit during your busy workday.",
-          "translationJa": "しかし、忙しい仕事の合間にこの習慣を簡単に変えることができます。",
-          "id": "beginner-2026-06-25-s03",
-          "startMs": 6867,
-          "endMs": 10602,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s03.m4a"
+          "text": "However, you can easily improve your mood by taking a short, five-minute walk.",
+          "translationJa": "しかし、5分間の短い散歩をすることで、気分を簡単に改善できます。",
+          "id": "beginner-2026-06-24-s03",
+          "startMs": 8040,
+          "endMs": 12692,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You should try to take a short walk for five minutes.",
-          "translationJa": "5分間の短い散歩をすることをお勧めします。",
-          "id": "beginner-2026-06-25-s04",
-          "startMs": 11002,
-          "endMs": 13665,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s04.m4a"
+          "text": "It is a great way to move your body during a busy workday.",
+          "translationJa": "それは忙しい仕事の合間に体を動かすための素晴らしい方法です。",
+          "id": "beginner-2026-06-24-s04",
+          "startMs": 13092,
+          "endMs": 16050,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Walking helps your body feel much better after sitting for hours.",
-          "translationJa": "歩くことは、長時間座った後に体を楽にする助けになります。",
-          "id": "beginner-2026-06-25-s05",
-          "startMs": 14065,
-          "endMs": 17515,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s05.m4a"
+          "text": "You do not need special equipment to start this simple and healthy habit.",
+          "translationJa": "このシンプルで健康的な習慣を始めるのに、特別な道具は必要ありません。",
+          "id": "beginner-2026-06-24-s05",
+          "startMs": 16450,
+          "endMs": 20216,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It also gives your mind a very nice and quick break.",
-          "translationJa": "また、それは心にとても素敵な短い休息を与えてくれます。",
-          "id": "beginner-2026-06-25-s06",
-          "startMs": 17915,
-          "endMs": 20605,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s06.m4a"
+          "text": "Just stand up and walk around the office whenever you feel very tired.",
+          "translationJa": "とても疲れたと感じたら、立ち上がってオフィスの中を歩いてみましょう。",
+          "id": "beginner-2026-06-24-s06",
+          "startMs": 20616,
+          "endMs": 24395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You might feel much happier when you return to your desk.",
-          "translationJa": "デスクに戻ったとき、より幸せな気分になれるかもしれません。",
-          "id": "beginner-2026-06-25-s07",
-          "startMs": 21005,
-          "endMs": 23958,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s07.m4a"
+          "text": "This small change helps you feel more relaxed and happy at your job.",
+          "translationJa": "この小さな変化は、仕事中にリラックスして幸せを感じる助けになります。",
+          "id": "beginner-2026-06-24-s07",
+          "startMs": 24795,
+          "endMs": 28334,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Small changes in your daily life make a really big difference.",
-          "translationJa": "日常生活の小さな変化が、本当に大きな違いを生むのです。",
-          "id": "beginner-2026-06-25-s08",
-          "startMs": 24358,
-          "endMs": 27657,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s08.m4a"
+          "text": "Your brain will also feel much fresher after you take a short break.",
+          "translationJa": "短い休憩を取った後、脳もずっとリフレッシュした気分になるでしょう。",
+          "id": "beginner-2026-06-24-s08",
+          "startMs": 28734,
+          "endMs": 32430,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Please try to move your body more during the work day.",
-          "translationJa": "仕事中に体を動かす時間を増やすようにしてください。",
-          "id": "beginner-2026-06-25-s09",
-          "startMs": 28057,
-          "endMs": 30795,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Your health is very important so please take care of yourself.",
-          "translationJa": "あなたの健康はとても大切ですから、自分を大切にしてくださいね。",
-          "id": "beginner-2026-06-25-s10",
-          "startMs": 31195,
-          "endMs": 34531,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner-s10.m4a"
+          "text": "Please try to walk for five minutes today to see how you feel.",
+          "translationJa": "今日5分間歩いてみて、どのような気分になるか試してみてください。",
+          "id": "beginner-2026-06-24-s09",
+          "startMs": 32830,
+          "endMs": 36067,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
-        {
-          "word": "habit",
-          "meaningJa": "習慣",
-          "exampleEn": "It is a good habit.",
-          "exampleJa": "それは良い習慣です。"
-        },
         {
           "word": "desk",
           "meaningJa": "机",
-          "exampleEn": "I sit at my desk.",
-          "exampleJa": "私は机に座っています。"
+          "exampleEn": "I sit at my desk all day.",
+          "exampleJa": "一日中机に座っています。"
         },
         {
-          "word": "health",
-          "meaningJa": "健康",
-          "exampleEn": "Health is important.",
-          "exampleJa": "健康は大切です。"
+          "word": "physical",
+          "meaningJa": "身体の",
+          "exampleEn": "Exercise is good for your physical health.",
+          "exampleJa": "運動は身体の健康に良いです。"
         },
         {
-          "word": "break",
-          "meaningJa": "休憩",
-          "exampleEn": "Let's take a break.",
-          "exampleJa": "休憩を取りましょう。"
+          "word": "mood",
+          "meaningJa": "気分",
+          "exampleEn": "A walk can improve your mood.",
+          "exampleJa": "散歩は気分を改善できます。"
         },
         {
-          "word": "difference",
-          "meaningJa": "違い",
-          "exampleEn": "It makes a difference.",
-          "exampleJa": "それは違いを生みます。"
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "Walking is a healthy habit.",
+          "exampleJa": "ウォーキングは健康的な習慣です。"
+        },
+        {
+          "word": "relaxed",
+          "meaningJa": "リラックスした",
+          "exampleEn": "I feel relaxed after the break.",
+          "exampleJa": "休憩の後、リラックスした気分です。"
         }
       ],
-      "id": "beginner-2026-06-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/beginner.m4a",
-      "durationSeconds": 33
+      "id": "beginner-2026-06-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/beginner.m4a",
+      "durationSeconds": 35
     },
     {
       "levelGroup": "intermediate",
-      "title": "Boosting Happiness Through Movement",
+      "title": "Improving Workplace Wellness Through Movement",
       "cefrLevel": "B1",
-      "summaryJa": "デスクワーク中の座りすぎを防ぎ、短い散歩で心身をリフレッシュする方法を紹介します。",
+      "summaryJa": "座りっぱなしの仕事が健康に与えるリスクと、短い休憩を取り入れる効果について解説します。",
       "sourceUrls": [
         "https://www.bbc.co.uk/news/articles/c78yzz936evo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many office workers spend most of their day sitting in front of a computer.",
-          "translationJa": "多くのオフィスワーカーは一日の大半をコンピュータの前で座って過ごしています。",
-          "id": "intermediate-2026-06-25-s01",
+          "text": "Modern office life often requires us to remain seated for many consecutive hours daily.",
+          "translationJa": "現代のオフィス生活では、毎日何時間も連続して座り続けることがよく求められます。",
+          "id": "intermediate-2026-06-24-s01",
           "startMs": 0,
-          "endMs": 3719,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s01.m4a"
+          "endMs": 4892,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Research shows that sitting for too long can lead to various physical health problems.",
-          "translationJa": "研究によると、座りすぎは様々な身体の健康問題につながる可能性があります。",
-          "id": "intermediate-2026-06-25-s02",
-          "startMs": 4119,
-          "endMs": 8573,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s02.m4a"
+          "text": "Remaining in a chair for too long can lead to several negative health outcomes.",
+          "translationJa": "椅子に長く座り続けることは、いくつかの健康上の悪影響につながる可能性があります。",
+          "id": "intermediate-2026-06-24-s02",
+          "startMs": 5292,
+          "endMs": 9293,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "However, you do not need to exercise intensely to improve your current situation today.",
-          "translationJa": "しかし、今の状況を改善するために激しい運動をする必要はありません。",
-          "id": "intermediate-2026-06-25-s03",
-          "startMs": 8973,
-          "endMs": 14148,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s03.m4a"
+          "text": "Researchers suggest that taking a five-minute walk can effectively counteract these sedentary life risks.",
+          "translationJa": "研究者は、5分間の散歩がこれらの座りっぱなしの生活のリスクを効果的に打ち消すと示唆しています。",
+          "id": "intermediate-2026-06-24-s03",
+          "startMs": 9693,
+          "endMs": 15459,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Taking a short walk for five minutes is enough to start feeling much better.",
-          "translationJa": "5分間の短い散歩をするだけで、気分がずっと良くなるのを実感できます。",
-          "id": "intermediate-2026-06-25-s04",
-          "startMs": 14548,
-          "endMs": 18321,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s04.m4a"
+          "text": "Even a short burst of physical activity helps to boost your energy and focus.",
+          "translationJa": "短い身体活動であっても、エネルギーと集中力を高める助けになります。",
+          "id": "intermediate-2026-06-24-s04",
+          "startMs": 15859,
+          "endMs": 20058,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "This simple action helps to increase your energy levels during the long afternoon hours.",
-          "translationJa": "この単純な行動は、長い午後の時間帯にエネルギーレベルを高める助けとなります。",
-          "id": "intermediate-2026-06-25-s05",
-          "startMs": 18721,
-          "endMs": 23154,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s05.m4a"
+          "text": "You might find that your productivity increases after you return to your desk chair.",
+          "translationJa": "デスクに戻った後、生産性が向上していることに気づくかもしれません。",
+          "id": "intermediate-2026-06-24-s05",
+          "startMs": 20458,
+          "endMs": 24827,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You will likely find that your focus improves significantly after you move around slightly.",
-          "translationJa": "少し動き回った後には、集中力が大幅に向上していることに気づくでしょう。",
-          "id": "intermediate-2026-06-25-s06",
-          "startMs": 23554,
-          "endMs": 28214,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s06.m4a"
+          "text": "It is important to remember that small movements can make a very big difference.",
+          "translationJa": "小さな動きが非常に大きな違いを生む可能性があることを覚えておくことが重要です。",
+          "id": "intermediate-2026-06-24-s06",
+          "startMs": 25227,
+          "endMs": 29322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "It is a practical way to break the cycle of staying still all day long.",
-          "translationJa": "これは一日中じっとしているというサイクルを断ち切るための実用的な方法です。",
-          "id": "intermediate-2026-06-25-s07",
-          "startMs": 28614,
-          "endMs": 32338,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s07.m4a"
+          "text": "Try to schedule these short walks during your busiest times to stay feeling refreshed.",
+          "translationJa": "リフレッシュした気分を保つために、最も忙しい時間にこれらの短い散歩を予定してみてください。",
+          "id": "intermediate-2026-06-24-s07",
+          "startMs": 29722,
+          "endMs": 34169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Encouraging your colleagues to join you can also create a more positive work environment.",
-          "translationJa": "同僚を誘うことで、より前向きな職場環境を作ることもできます。",
-          "id": "intermediate-2026-06-25-s08",
-          "startMs": 32738,
-          "endMs": 37379,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s08.m4a"
+          "text": "Walking allows your muscles to stretch and improves blood circulation throughout your entire body.",
+          "translationJa": "歩くことで筋肉がほぐれ、全身の血行が改善されます。",
+          "id": "intermediate-2026-06-24-s08",
+          "startMs": 34569,
+          "endMs": 39413,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Remember that your body is designed to move rather than remain in one position.",
-          "translationJa": "体は一箇所にとどまるよりも動くようにできていることを忘れないでください。",
-          "id": "intermediate-2026-06-25-s09",
-          "startMs": 37779,
-          "endMs": 41745,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s09.m4a"
+          "text": "This simple routine is accessible to almost everyone regardless of their specific work environment.",
+          "translationJa": "このシンプルなルーチンは、職場の環境に関係なく、ほぼ誰にでも実践可能です。",
+          "id": "intermediate-2026-06-24-s09",
+          "startMs": 39813,
+          "endMs": 45164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Try to incorporate these short walks into your routine starting from this very week.",
-          "translationJa": "今週から、この短い散歩を日課に取り入れるようにしてみてください。",
-          "id": "intermediate-2026-06-25-s10",
-          "startMs": 42145,
-          "endMs": 46406,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s10.m4a"
+          "text": "Start building this habit today to ensure you feel happier and healthier at work.",
+          "translationJa": "職場でもっと幸せで健康だと感じられるよう、今日からこの習慣を身につけ始めましょう。",
+          "id": "intermediate-2026-06-24-s10",
+          "startMs": 45564,
+          "endMs": 49850,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Small movements contribute greatly to your long-term wellness and happiness at the office.",
-          "translationJa": "小さな動きが、オフィスでの長期的な健康と幸福に大きく貢献します。",
-          "id": "intermediate-2026-06-25-s11",
-          "startMs": 46806,
-          "endMs": 51394,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate-s11.m4a"
+          "text": "Taking care of your well-being is essential for maintaining long-term professional success and happiness.",
+          "translationJa": "長期的な仕事での成功と幸福を維持するためには、自分の健康をケアすることが不可欠です。",
+          "id": "intermediate-2026-06-24-s11",
+          "startMs": 50250,
+          "endMs": 55521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "research",
-          "meaningJa": "研究",
-          "exampleEn": "New research suggests this.",
-          "exampleJa": "新しい研究がそれを示唆しています。"
+          "word": "consecutive",
+          "meaningJa": "連続した",
+          "exampleEn": "I worked for five consecutive hours.",
+          "exampleJa": "5時間連続で働きました。"
         },
         {
-          "word": "intensely",
-          "meaningJa": "激しく",
-          "exampleEn": "Don't exercise too intensely.",
-          "exampleJa": "激しすぎる運動はしないでください。"
+          "word": "sedentary",
+          "meaningJa": "座りがちな",
+          "exampleEn": "A sedentary lifestyle is bad for you.",
+          "exampleJa": "座りがちな生活は体に悪いです。"
         },
         {
-          "word": "practical",
-          "meaningJa": "実用的な",
-          "exampleEn": "That is a practical solution.",
-          "exampleJa": "それは実用的な解決策です。"
+          "word": "counteract",
+          "meaningJa": "打ち消す",
+          "exampleEn": "Exercise can counteract stress.",
+          "exampleJa": "運動はストレスを打ち消すことができます。"
         },
         {
-          "word": "colleague",
-          "meaningJa": "同僚",
-          "exampleEn": "My colleague is helpful.",
-          "exampleJa": "私の同僚は協力的です。"
+          "word": "productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Taking breaks improves productivity.",
+          "exampleJa": "休憩を取ることは生産性を向上させます。"
         },
         {
-          "word": "incorporate",
-          "meaningJa": "組み込む",
-          "exampleEn": "I will incorporate this idea.",
-          "exampleJa": "このアイデアを組み込みます。"
+          "word": "accessible",
+          "meaningJa": "利用しやすい",
+          "exampleEn": "The park is accessible to everyone.",
+          "exampleJa": "その公園は誰でも利用しやすいです。"
         }
       ],
-      "id": "intermediate-2026-06-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/intermediate.m4a",
-      "durationSeconds": 49
+      "id": "intermediate-2026-06-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Counteracting Sedentary Risks at Work",
+      "title": "The Science of Movement for Mental and Physical Well-being",
       "cefrLevel": "B2",
-      "summaryJa": "座りっぱなしの仕事環境が健康に及ぼすリスクと、簡単な運動による改善策を解説します。",
+      "summaryJa": "座り仕事の健康リスクを軽減するための科学的なアプローチと、職場での幸福感を高める方法を考察します。",
       "sourceUrls": [
         "https://www.bbc.co.uk/news/articles/c78yzz936evo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "In the modern professional world, many employees find themselves trapped in a sedentary work lifestyle.",
-          "translationJa": "現代のプロフェッショナルな世界では、多くの従業員が座りっぱなしの仕事のライフスタイルに陥っています。",
-          "id": "advanced-2026-06-25-s01",
+          "text": "In the modern professional landscape, many individuals spend the majority of their day sitting down.",
+          "translationJa": "現代の職業環境において、多くの人が一日の大半を座って過ごしています。",
+          "id": "advanced-2026-06-24-s01",
           "startMs": 0,
-          "endMs": 5976,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s01.m4a"
+          "endMs": 5349,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Prolonged periods of sitting have been linked to numerous health complications that affect our daily performance.",
-          "translationJa": "長時間の着席は、私たちの日常のパフォーマンスに影響を及ぼす数多くの健康上の合併症と関連付けられています。",
-          "id": "advanced-2026-06-25-s02",
-          "startMs": 6376,
-          "endMs": 12167,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s02.m4a"
+          "text": "Prolonged periods of inactivity are increasingly associated with a variety of serious long-term health complications.",
+          "translationJa": "長時間の活動不足は、深刻な長期的な健康上の合併症とますます関連付けられています。",
+          "id": "advanced-2026-06-24-s02",
+          "startMs": 5749,
+          "endMs": 12446,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "However, recent findings suggest that we can effectively mitigate these risks through very minor adjustments.",
-          "translationJa": "しかし、最近の調査結果によると、非常に小さな調整を行うことで、これらのリスクを効果的に軽減できることが示唆されています。",
-          "id": "advanced-2026-06-25-s03",
-          "startMs": 12567,
-          "endMs": 18543,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s03.m4a"
+          "text": "However, recent studies indicate that incorporating brief physical activity can effectively mitigate these sedentary health risks.",
+          "translationJa": "しかし、最近の研究では、短い身体活動を取り入れることが、これらの座りっぱなしによる健康リスクを効果的に軽減できることが示されています。",
+          "id": "advanced-2026-06-24-s03",
+          "startMs": 12846,
+          "endMs": 20262,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Taking a brief five-minute walk during your working hours can yield surprisingly positive results for your well-being.",
-          "translationJa": "勤務時間中に5分間の短い散歩をすることは、幸福感に対して驚くほど良い結果をもたらす可能性があります。",
-          "id": "advanced-2026-06-25-s04",
-          "startMs": 18943,
-          "endMs": 24760,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s04.m4a"
+          "text": "Taking a structured five-minute walk can serve as a powerful tool to revitalize your energy levels.",
+          "translationJa": "計画的に5分間の散歩を行うことは、エネルギーレベルを活性化させるための強力なツールとなります。",
+          "id": "advanced-2026-06-24-s04",
+          "startMs": 20662,
+          "endMs": 25898,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "This short break acts as a mental reset, allowing you to return to your tasks with renewed clarity.",
-          "translationJa": "この短い休憩は精神的なリセットとして機能し、新たな明晰さを持ってタスクに戻ることができます。",
-          "id": "advanced-2026-06-25-s05",
-          "startMs": 25160,
-          "endMs": 30476,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s05.m4a"
+          "text": "This brief interruption in your work routine allows for essential mental and physical recuperation during the day.",
+          "translationJa": "仕事のルーチンにおけるこの短い中断は、日中の不可欠な精神的および身体的な回復を可能にします。",
+          "id": "advanced-2026-06-24-s05",
+          "startMs": 26298,
+          "endMs": 32067,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Physiologically, moving your muscles helps boost circulation and prevents the stiffness associated with maintaining one posture.",
-          "translationJa": "生理学的に言えば、筋肉を動かすことは血行を促進し、同じ姿勢を保つことによる凝りを防ぐ助けとなります。",
-          "id": "advanced-2026-06-25-s06",
-          "startMs": 30876,
-          "endMs": 37948,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s06.m4a"
+          "text": "Beyond the physical benefits, walking has been shown to significantly enhance mood and overall job satisfaction.",
+          "translationJa": "身体的な利点を超えて、歩くことは気分と全体的な仕事の満足度を著しく向上させることが示されています。",
+          "id": "advanced-2026-06-24-s06",
+          "startMs": 32467,
+          "endMs": 39089,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Many people underestimate the power of consistent, small intervals of movement throughout an eight-hour shift.",
-          "translationJa": "多くの人は、8時間の勤務時間を通じて一貫した小さな動きの時間を取ることの力を過小評価しています。",
-          "id": "advanced-2026-06-25-s07",
-          "startMs": 38348,
-          "endMs": 44006,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s07.m4a"
+          "text": "By moving your body, you stimulate blood flow, which helps to clear your mind and improve cognitive function.",
+          "translationJa": "体を動かすことで血流が刺激され、頭がすっきりし、認知機能が向上します。",
+          "id": "advanced-2026-06-24-s07",
+          "startMs": 39489,
+          "endMs": 45600,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "By prioritizing these moments, you are actively investing in your long-term physical health and professional mental stamina.",
-          "translationJa": "こうした瞬間を優先することで、あなたは自身の長期的な身体的健康と仕事上の精神的持久力に積極的に投資しているのです。",
-          "id": "advanced-2026-06-25-s08",
-          "startMs": 44406,
-          "endMs": 51260,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s08.m4a"
+          "text": "Implementing such micro-breaks is a highly efficient strategy for maintaining peak performance in high-pressure environments.",
+          "translationJa": "このような短い休憩を導入することは、プレッシャーの高い環境で最高のパフォーマンスを維持するための非常に効率的な戦略です。",
+          "id": "advanced-2026-06-24-s08",
+          "startMs": 46000,
+          "endMs": 52812,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "It is worth noting that you do not need special equipment or significant time to see these benefits.",
-          "translationJa": "これらの利点を得るために特別な機器や多大な時間が必要なわけではないことは、注目に値します。",
-          "id": "advanced-2026-06-25-s09",
-          "startMs": 51660,
-          "endMs": 56963,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s09.m4a"
+          "text": "It is vital to prioritize these moments of movement to ensure your personal well-being remains a top priority.",
+          "translationJa": "個人の幸福を最優先事項として維持するために、これらの運動の時間を優先することが極めて重要です。",
+          "id": "advanced-2026-06-24-s09",
+          "startMs": 53212,
+          "endMs": 59200,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Simply standing up and walking around the office can significantly improve your overall mood and daily energy.",
-          "translationJa": "単に立ち上がってオフィス内を歩くだけで、全体的な気分や日々のエネルギーを大幅に改善できます。",
-          "id": "advanced-2026-06-25-s10",
-          "startMs": 57363,
-          "endMs": 63101,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s10.m4a"
+          "text": "Many employees report feeling much more focused and creative after integrating short walks into their daily schedule.",
+          "translationJa": "多くの従業員が、短い散歩を毎日のスケジュールに組み込んだ後、より集中力が高まり創造的になったと報告しています。",
+          "id": "advanced-2026-06-24-s10",
+          "startMs": 59600,
+          "endMs": 65758,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "We should strive to integrate these healthy habits into our professional routines to thrive in our careers.",
-          "translationJa": "キャリアの中で成功するために、私たちはこうした健康的な習慣をプロフェッショナルな日常に統合するよう努めるべきです。",
-          "id": "advanced-2026-06-25-s11",
-          "startMs": 63501,
-          "endMs": 68867,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s11.m4a"
+          "text": "Ultimately, small changes to your daily habits can lead to substantial improvements in your long-term health and happiness.",
+          "translationJa": "最終的に、日々の習慣への小さな変化が、長期的な健康と幸福における大幅な改善につながる可能性があります。",
+          "id": "advanced-2026-06-24-s11",
+          "startMs": 66158,
+          "endMs": 72759,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Consistency remains the most important factor when you are trying to change your long-term health outcomes.",
-          "translationJa": "長期的な健康の結果を変えようとする際、一貫性が最も重要な要素であり続けます。",
-          "id": "advanced-2026-06-25-s12",
-          "startMs": 69267,
-          "endMs": 74932,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced-s12.m4a"
+          "text": "I encourage you to embrace this simple practice to experience the positive impacts for yourself starting today.",
+          "translationJa": "今日からこのシンプルな習慣を取り入れて、そのポジティブな影響をご自身で体験してみることをお勧めします。",
+          "id": "advanced-2026-06-24-s12",
+          "startMs": 73159,
+          "endMs": 78937,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "sedentary",
-          "meaningJa": "座りっぱなしの",
-          "exampleEn": "A sedentary job is tiring.",
-          "exampleJa": "座りっぱなしの仕事は疲れます。"
+          "word": "inactivity",
+          "meaningJa": "活動不足",
+          "exampleEn": "Physical inactivity is a health risk.",
+          "exampleJa": "身体の活動不足は健康リスクです。"
         },
         {
           "word": "mitigate",
-          "meaningJa": "和らげる",
-          "exampleEn": "We must mitigate the risks.",
-          "exampleJa": "私たちはリスクを和らげなければなりません。"
+          "meaningJa": "軽減する",
+          "exampleEn": "We must mitigate the risks of sitting.",
+          "exampleJa": "座ることのリスクを軽減しなければなりません。"
         },
         {
-          "word": "physiologically",
-          "meaningJa": "生理学的に",
-          "exampleEn": "It is physiologically impossible.",
-          "exampleJa": "それは生理学的に不可能です。"
+          "word": "revitalize",
+          "meaningJa": "活性化させる",
+          "exampleEn": "A short nap can revitalize the mind.",
+          "exampleJa": "短い昼寝は心を活性化させます。"
         },
         {
-          "word": "stamina",
-          "meaningJa": "持久力",
-          "exampleEn": "He has great mental stamina.",
-          "exampleJa": "彼は素晴らしい精神的持久力を持っています。"
+          "word": "recuperation",
+          "meaningJa": "回復",
+          "exampleEn": "Rest is necessary for recuperation.",
+          "exampleJa": "回復には休息が必要です。"
         },
         {
-          "word": "strive",
-          "meaningJa": "努力する",
-          "exampleEn": "Strive for excellence.",
-          "exampleJa": "卓越を目指して努力してください。"
+          "word": "cognitive",
+          "meaningJa": "認知の",
+          "exampleEn": "Walking improves cognitive function.",
+          "exampleJa": "歩くことは認知機能を改善します。"
         }
       ],
-      "id": "advanced-2026-06-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-25/advanced.m4a",
-      "durationSeconds": 73
+      "id": "advanced-2026-06-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-24/advanced.m4a",
+      "durationSeconds": 77
     }
   ]
 }
