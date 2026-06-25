@@ -1,12 +1,37 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-25T03:26:16Z",
-  "latestLessonDate": "2026-06-25",
+  "generatedAtUtc": "2026-06-25T19:21:09Z",
+  "latestLessonDate": "2026-06-26",
   "days": [
+    {
+      "lessonDate": "2026-06-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Short Breaks at Work",
+          "durationSeconds": 33,
+          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Resetting Focus During the Day",
+          "durationSeconds": 49,
+          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
+        },
+        {
+          "level": "advanced",
+          "title": "Micro-breaks and Sustainable Focus",
+          "durationSeconds": 68,
+          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
+        }
+      ]
+    },
     {
       "lessonDate": "2026-06-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
