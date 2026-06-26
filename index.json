@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-25T19:21:09Z",
+  "generatedAtUtc": "2026-06-26T00:33:38Z",
   "latestLessonDate": "2026-06-26",
   "days": [
     {
@@ -10,21 +10,21 @@
       "lessons": [
         {
           "level": "beginner",
-          "title": "Short Breaks at Work",
-          "durationSeconds": 33,
-          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
+          "title": "A New Medical Treatment for Diabetes",
+          "durationSeconds": 37,
+          "summaryJa": "1型糖尿病の発症を遅らせる新しい薬がイギリスのNHSで利用可能になりました。"
         },
         {
           "level": "intermediate",
-          "title": "Resetting Focus During the Day",
-          "durationSeconds": 49,
-          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
+          "title": "Breakthrough Treatment for Type 1 Diabetes",
+          "durationSeconds": 58,
+          "summaryJa": "1型糖尿病の発症を遅らせる画期的な免疫療法が、イギリスの国民保健サービス（NHS）で導入されました。"
         },
         {
           "level": "advanced",
-          "title": "Micro-breaks and Sustainable Focus",
-          "durationSeconds": 68,
-          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
+          "title": "Advancements in Managing Type 1 Diabetes",
+          "durationSeconds": 62,
+          "summaryJa": "1型糖尿病の進行を遅らせる新しい免疫療法のNHS導入について、その医学的意義と患者への影響を解説します。"
         }
       ]
     },

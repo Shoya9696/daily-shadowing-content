@@ -1,334 +1,424 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-06-25T19:21:09Z",
+  "generatedAtUtc": "2026-06-26T00:33:38Z",
   "lessonDate": "2026-06-26",
   "lessons": [
     {
-      "id": "beginner-2026-06-26",
       "levelGroup": "beginner",
-      "title": "Short Breaks at Work",
+      "title": "A New Medical Treatment for Diabetes",
       "cefrLevel": "A2",
-      "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。",
+      "summaryJa": "1型糖尿病の発症を遅らせる新しい薬がイギリスのNHSで利用可能になりました。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner.m4a",
-      "durationSeconds": 33,
       "sentences": [
         {
-          "id": "beginner-2026-06-26-s01",
           "index": 0,
-          "text": "I take a short break every two hours at my desk during the workday, even when I feel busy.",
-          "translationJa": "忙しく感じていても、仕事では2時間ごとにデスクで短い休憩を取ります。",
+          "text": "Doctors in the United Kingdom now have a new medicine for diabetes patients.",
+          "translationJa": "イギリスの医師たちは、糖尿病患者のための新しい薬を手に入れました。",
+          "id": "beginner-2026-06-26-s01",
           "startMs": 0,
-          "endMs": 5105,
+          "endMs": 4152,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s01.m4a"
         },
         {
-          "id": "beginner-2026-06-26-s02",
           "index": 1,
-          "text": "During that break, I stand up, stretch my shoulders and neck, and walk slowly around the office hallway.",
-          "translationJa": "休憩では立ち上がり、肩と首を伸ばし、オフィスの廊下をゆっくり歩きます。",
-          "startMs": 5505,
-          "endMs": 11545,
+          "text": "This special drug helps people who are at risk of type one diabetes.",
+          "translationJa": "この特別な薬は、1型糖尿病のリスクがある人々を助けます。",
+          "id": "beginner-2026-06-26-s02",
+          "startMs": 4552,
+          "endMs": 8324,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s02.m4a"
         },
         {
-          "id": "beginner-2026-06-26-s03",
           "index": 2,
-          "text": "A quick five-minute walk outside in the fresh air helps me feel more awake and much less tired.",
-          "translationJa": "外の新鮮な空気の中で5分歩くと、目が覚めて疲れがかなり和らぎます。",
-          "startMs": 11945,
-          "endMs": 16899,
+          "text": "It is the first treatment that can delay the start of this disease.",
+          "translationJa": "これは、この病気の発症を遅らせることができる最初の治療法です。",
+          "id": "beginner-2026-06-26-s03",
+          "startMs": 8724,
+          "endMs": 11902,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s03.m4a"
         },
         {
-          "id": "beginner-2026-06-26-s04",
           "index": 3,
-          "text": "I also drink a full glass of water and look away from the computer screen for at least one minute.",
-          "translationJa": "水を一杯飲み、少なくとも1分間はパソコンの画面から目を離します。",
-          "startMs": 17299,
-          "endMs": 22183,
+          "text": "Patients can use this therapy to stay healthy for a much longer time.",
+          "translationJa": "患者はこの治療法を使って、より長い間健康を維持できます。",
+          "id": "beginner-2026-06-26-s04",
+          "startMs": 12302,
+          "endMs": 16165,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s04.m4a"
         },
         {
-          "id": "beginner-2026-06-26-s05",
           "index": 4,
-          "text": "Sometimes I chat with a coworker about something light, which helps me relax before I start again.",
-          "translationJa": "ときどき同僚と軽い話をしてリラックスし、それからまた仕事を始めます。",
-          "startMs": 22583,
-          "endMs": 28333,
+          "text": "It gives both children and adults three extra years without needing daily insulin.",
+          "translationJa": "それは子供と大人の両方に、毎日のインスリン注射なしで3年間の余裕を与えます。",
+          "id": "beginner-2026-06-26-s05",
+          "startMs": 16565,
+          "endMs": 20788,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s05.m4a"
         },
         {
-          "id": "beginner-2026-06-26-s06",
           "index": 5,
-          "text": "Then I return to my desk with fresh energy and finish the rest of my tasks calmly and carefully.",
-          "translationJa": "それから元気を取り戻してデスクに戻り、残りの仕事を落ち着いて丁寧に終えます。",
-          "startMs": 28733,
-          "endMs": 33910,
+          "text": "Managing a chronic condition like this is often very difficult for many families.",
+          "translationJa": "このような慢性疾患を管理することは、多くの家族にとってしばしば非常に困難です。",
+          "id": "beginner-2026-06-26-s06",
+          "startMs": 21188,
+          "endMs": 25650,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "This new medical option offers hope to many people across the whole country.",
+          "translationJa": "この新しい医療の選択肢は、国中の多くの人々に希望を与えています。",
+          "id": "beginner-2026-06-26-s07",
+          "startMs": 26050,
+          "endMs": 30031,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "The health service will provide this medicine to those who need it most.",
+          "translationJa": "保健サービスは、それを最も必要としている人々にこの薬を提供します。",
+          "id": "beginner-2026-06-26-s08",
+          "startMs": 30431,
+          "endMs": 33833,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Science continues to find better ways to improve our daily health and lives.",
+          "translationJa": "科学は、私たちの毎日の健康と生活を改善するためのより良い方法を見つけ続けています。",
+          "id": "beginner-2026-06-26-s09",
+          "startMs": 34233,
+          "endMs": 38206,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "break",
-          "meaningJa": "休憩",
-          "exampleEn": "Take a short break.",
-          "exampleJa": "短い休憩を取りましょう。"
+          "word": "diabetes",
+          "meaningJa": "糖尿病",
+          "exampleEn": "He manages his diabetes with a healthy diet.",
+          "exampleJa": "彼は健康的な食事で糖尿病を管理しています。"
         },
         {
-          "word": "awake",
-          "meaningJa": "目が覚めた",
-          "exampleEn": "I feel awake now.",
-          "exampleJa": "今は目が覚めた感じです。"
+          "word": "delay",
+          "meaningJa": "遅らせる",
+          "exampleEn": "The rain will delay our travel plans.",
+          "exampleJa": "雨が私たちの旅行計画を遅らせるでしょう。"
         },
         {
-          "word": "stretch",
-          "meaningJa": "伸ばす",
-          "exampleEn": "Stretch your arms.",
-          "exampleJa": "腕を伸ばしてください。"
+          "word": "treatment",
+          "meaningJa": "治療法",
+          "exampleEn": "The new treatment is very effective.",
+          "exampleJa": "その新しい治療法は非常に効果的です。"
         },
         {
-          "word": "desk",
-          "meaningJa": "机・デスク",
-          "exampleEn": "Go back to your desk.",
-          "exampleJa": "デスクに戻ります。"
+          "word": "insulin",
+          "meaningJa": "インスリン",
+          "exampleEn": "She needs insulin to control her blood sugar.",
+          "exampleJa": "彼女は血糖値をコントロールするためにインスリンが必要です。"
         },
         {
-          "word": "energy",
-          "meaningJa": "元気・エネルギー",
-          "exampleEn": "I need more energy.",
-          "exampleJa": "もっと元気が必要です。"
+          "word": "chronic",
+          "meaningJa": "慢性の",
+          "exampleEn": "He suffers from a chronic back pain.",
+          "exampleJa": "彼は慢性の腰痛に苦しんでいます。"
         }
-      ]
+      ],
+      "id": "beginner-2026-06-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/beginner.m4a",
+      "durationSeconds": 37
     },
     {
-      "id": "intermediate-2026-06-26",
       "levelGroup": "intermediate",
-      "title": "Resetting Focus During the Day",
+      "title": "Breakthrough Treatment for Type 1 Diabetes",
       "cefrLevel": "B1",
-      "summaryJa": "日中の集中力をリセットする工夫を扱います。",
+      "summaryJa": "1型糖尿病の発症を遅らせる画期的な免疫療法が、イギリスの国民保健サービス（NHS）で導入されました。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate.m4a",
-      "durationSeconds": 49,
       "sentences": [
         {
-          "id": "intermediate-2026-06-26-s01",
           "index": 0,
-          "text": "Many office workers now schedule short breaks during the day to reset their focus and avoid burnout from constant screen time.",
-          "translationJa": "多くの会社員は、画面を見続けることによる燃え尽きを防ぎ集中力をリセットするため、日中に短い休憩を入れるようになっています。",
+          "text": "A groundbreaking new immunotherapy is now available for patients within the National Health Service.",
+          "translationJa": "画期的な新しい免疫療法が、国民保健サービスの患者さん向けに利用可能になりました。",
+          "id": "intermediate-2026-06-26-s01",
           "startMs": 0,
-          "endMs": 6610,
+          "endMs": 5093,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s01.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s02",
           "index": 1,
-          "text": "A five-minute walk away from the desk can reduce eye strain and give the mind a chance to recover before the next task.",
-          "translationJa": "デスクを離れて5分歩くだけで、目の疲れを和らげ、次の仕事の前に頭を休められます。",
-          "startMs": 7010,
-          "endMs": 12951,
+          "text": "This medical advancement aims to delay the onset of type one diabetes in many people.",
+          "translationJa": "この医療の進歩は、多くの人々における1型糖尿病の発症を遅らせることを目的としています。",
+          "id": "intermediate-2026-06-26-s02",
+          "startMs": 5493,
+          "endMs": 10286,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s02.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s03",
           "index": 2,
-          "text": "Hydration, light stretching, and a few deep breaths also help people return to work with clearer attention and better posture.",
-          "translationJa": "水分補給、軽いストレッチ、深呼吸も、よりはっきりした注意力と良い姿勢で仕事に戻る助けになります。",
-          "startMs": 13351,
-          "endMs": 20360,
+          "text": "By targeting the immune system, the drug prevents the body from attacking its own cells.",
+          "translationJa": "免疫系を標的にすることで、その薬は体が自身の細胞を攻撃するのを防ぎます。",
+          "id": "intermediate-2026-06-26-s03",
+          "startMs": 10686,
+          "endMs": 15474,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s03.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s04",
           "index": 3,
-          "text": "Managers are starting to encourage these small habits because they support steady productivity across the long afternoon hours.",
-          "translationJa": "こうした小さな習慣は長い午後の生産性を支えるため、管理者も勧め始めています。",
-          "startMs": 20760,
-          "endMs": 27475,
+          "text": "This process effectively provides patients with three additional years before they require daily insulin injections.",
+          "translationJa": "このプロセスは、患者が毎日のインスリン注射を必要とするまでに、実質的に3年間の猶予を与えます。",
+          "id": "intermediate-2026-06-26-s04",
+          "startMs": 15874,
+          "endMs": 22049,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s04.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s05",
           "index": 4,
-          "text": "Some teams even set shared reminders so everyone remembers to stand up, move, and drink water at similar times.",
-          "translationJa": "全員が同じタイミングで立ち上がり、動き、水を飲むことを忘れないよう、チームでリマインダーを共有する例もあります。",
-          "startMs": 27875,
-          "endMs": 34507,
+          "text": "Managing diabetes is a significant challenge for both children and their worried parents every day.",
+          "translationJa": "糖尿病を管理することは、子供たちと彼らを心配する親の両方にとって、毎日大きな課題です。",
+          "id": "intermediate-2026-06-26-s05",
+          "startMs": 22449,
+          "endMs": 27631,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s05.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s06",
           "index": 5,
-          "text": "The most effective approach is consistency, so workers repeat the same simple routine every day until it feels natural.",
-          "translationJa": "最も効果的なのは一貫性なので、自然に感じられるまで毎日同じシンプルなルーティンを繰り返します。",
-          "startMs": 34907,
-          "endMs": 41699,
+          "text": "The introduction of this therapy represents a major milestone in modern healthcare and medical research.",
+          "translationJa": "この治療法の導入は、現代の医療と医学研究における大きな節目を象徴しています。",
+          "id": "intermediate-2026-06-26-s06",
+          "startMs": 28031,
+          "endMs": 33533,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s06.m4a"
         },
         {
-          "id": "intermediate-2026-06-26-s07",
           "index": 6,
-          "text": "Over time, these small resets become a reliable habit that protects focus and prevents the afternoon slump many workers feel after lunch.",
-          "translationJa": "時間が経つと、こうした短いリセットは集中力を守り、昼食後に多くの人が感じる午後のだるさを防ぐ頼もしい習慣になります。",
-          "startMs": 42099,
-          "endMs": 50022,
+          "text": "Doctors believe this approach will significantly improve the quality of life for many young patients.",
+          "translationJa": "医師たちは、このアプローチが多くの若い患者の生活の質を大幅に向上させると信じています。",
+          "id": "intermediate-2026-06-26-s07",
+          "startMs": 33933,
+          "endMs": 39153,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Patients will need to meet specific clinical criteria to qualify for this new medical treatment.",
+          "translationJa": "患者がこの新しい医療治療を受けるには、特定の臨床基準を満たす必要があります。",
+          "id": "intermediate-2026-06-26-s08",
+          "startMs": 39553,
+          "endMs": 44751,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "While it is not a permanent cure, it offers a vital window of extra time.",
+          "translationJa": "これは永続的な治療法ではありませんが、非常に重要な余命の期間を提供します。",
+          "id": "intermediate-2026-06-26-s09",
+          "startMs": 45151,
+          "endMs": 49321,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Researchers are optimistic that this discovery will lead to even better solutions in the future.",
+          "translationJa": "研究者たちは、この発見が将来さらなる優れた解決策につながると楽観視しています。",
+          "id": "intermediate-2026-06-26-s10",
+          "startMs": 49721,
+          "endMs": 54558,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ongoing monitoring will ensure the safety and effectiveness of this treatment for all eligible individuals.",
+          "translationJa": "継続的なモニタリングにより、対象となるすべての個人に対するこの治療の安全性と有効性が確保されます。",
+          "id": "intermediate-2026-06-26-s11",
+          "startMs": 54958,
+          "endMs": 60398,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "schedule",
-          "meaningJa": "予定を立てる",
-          "exampleEn": "I schedule breaks.",
-          "exampleJa": "休憩を予定に入れます。"
+          "word": "groundbreaking",
+          "meaningJa": "画期的な",
+          "exampleEn": "The scientist made a groundbreaking discovery.",
+          "exampleJa": "その科学者は画期的な発見をしました。"
         },
         {
-          "word": "strain",
-          "meaningJa": "疲労・負担",
-          "exampleEn": "Eye strain is common.",
-          "exampleJa": "目の疲れはよくあります。"
+          "word": "immunotherapy",
+          "meaningJa": "免疫療法",
+          "exampleEn": "Immunotherapy is changing how we treat diseases.",
+          "exampleJa": "免疫療法は病気の治療方法を変えています。"
         },
         {
-          "word": "hydration",
-          "meaningJa": "水分補給",
-          "exampleEn": "Hydration matters at work.",
-          "exampleJa": "仕事では水分補給が大切です。"
+          "word": "onset",
+          "meaningJa": "発症、始まり",
+          "exampleEn": "Early detection can delay the onset of symptoms.",
+          "exampleJa": "早期発見は症状の発症を遅らせることができます。"
         },
         {
-          "word": "productivity",
-          "meaningJa": "生産性",
-          "exampleEn": "Breaks can help productivity.",
-          "exampleJa": "休憩は生産性の助けになります。"
+          "word": "milestone",
+          "meaningJa": "節目、画期的な出来事",
+          "exampleEn": "Graduation is an important milestone in life.",
+          "exampleJa": "卒業は人生における重要な節目です。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性",
-          "exampleEn": "Consistency matters most.",
-          "exampleJa": "一貫性が最も重要です。"
+          "word": "eligible",
+          "meaningJa": "資格のある、適格な",
+          "exampleEn": "Only local residents are eligible for the discount.",
+          "exampleJa": "地元住民のみがその割引の対象となります。"
         }
-      ]
+      ],
+      "id": "intermediate-2026-06-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/intermediate.m4a",
+      "durationSeconds": 58
     },
     {
-      "id": "advanced-2026-06-26",
       "levelGroup": "advanced",
-      "title": "Micro-breaks and Sustainable Focus",
+      "title": "Advancements in Managing Type 1 Diabetes",
       "cefrLevel": "B2",
-      "summaryJa": "マイクロブレイクと持続可能な集中について扱います。",
+      "summaryJa": "1型糖尿病の進行を遅らせる新しい免疫療法のNHS導入について、その医学的意義と患者への影響を解説します。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss"
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced.m4a",
-      "durationSeconds": 68,
       "sentences": [
         {
-          "id": "advanced-2026-06-26-s01",
           "index": 0,
-          "text": "Workplace wellness guidance increasingly emphasizes micro-breaks rather than long idle periods that disrupt workflow momentum and drain mental energy.",
-          "translationJa": "職場の健康づくりの指針は、作業の流れと精神的なエネルギーを奪う長い中断よりも、短いマイクロブレイクを重視するようになっています。",
+          "text": "The National Health Service has introduced a pioneering immunotherapy to delay type one diabetes.",
+          "translationJa": "国民保健サービスは、1型糖尿病を遅らせるための先駆的な免疫療法を導入しました。",
+          "id": "advanced-2026-06-26-s01",
           "startMs": 0,
-          "endMs": 8350,
+          "endMs": 5318,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s01.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s02",
           "index": 1,
-          "text": "Brief movement, hydration, and screen-free moments can interrupt mental fatigue without forcing employees to lose their concentration entirely.",
-          "translationJa": "短い運動、水分補給、画面から離れる時間は、従業員の集中力を完全に失わせずに精神的な疲れを中断できます。",
-          "startMs": 8750,
-          "endMs": 16905,
+          "text": "This treatment serves as a critical intervention for patients at high risk of the disease.",
+          "translationJa": "この治療法は、この病気のリスクが高い患者にとって重要な介入手段となります。",
+          "id": "advanced-2026-06-26-s02",
+          "startMs": 5718,
+          "endMs": 10163,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s02.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s03",
           "index": 2,
-          "text": "Employees who plan short resets throughout the day often report steadier concentration, fewer headaches, and less stiffness during long computer sessions.",
-          "translationJa": "一日を通して短いリセットを計画する従業員は、長時間のパソコン作業中に集中力が安定し、頭痛やこわばりも少ないと答えます。",
-          "startMs": 17305,
-          "endMs": 26148,
+          "text": "By modulating the immune response, the drug preserves the body's ability to produce natural insulin.",
+          "translationJa": "免疫反応を調整することで、その薬は体が自然なインスリンを生成する能力を維持します。",
+          "id": "advanced-2026-06-26-s03",
+          "startMs": 10563,
+          "endMs": 16303,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s03.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s04",
           "index": 3,
-          "text": "Organizations that normalize these habits see better engagement because people feel permission to recover before stress accumulates and performance drops.",
-          "translationJa": "こうした習慣を当たり前にする組織では、ストレスがたまり成果が落ちる前に回復できると感じるため、エンゲージメントが高まります。",
-          "startMs": 26548,
-          "endMs": 34900,
+          "text": "Clinical trials demonstrate that patients can gain three years of independence from insulin therapy.",
+          "translationJa": "臨床試験は、患者がインスリン療法から3年間の自立期間を得られることを示しています。",
+          "id": "advanced-2026-06-26-s04",
+          "startMs": 16703,
+          "endMs": 21995,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s04.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s05",
           "index": 4,
-          "text": "Leaders who model micro-breaks themselves send a practical message that sustainable focus is a shared responsibility, not a personal weakness.",
-          "translationJa": "自分自身がマイクロブレイクを実践するリーダーは、持続可能な集中が個人の弱さではなく共有の責任だという実践的なメッセージを送ります。",
-          "startMs": 35300,
-          "endMs": 43431,
+          "text": "This delay significantly reduces the daily burden of blood glucose monitoring and dietary management.",
+          "translationJa": "この遅延により、毎日の血糖値測定と食事管理の負担が大幅に軽減されます。",
+          "id": "advanced-2026-06-26-s05",
+          "startMs": 22395,
+          "endMs": 28013,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s05.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s06",
           "index": 5,
-          "text": "The key is consistency rather than intensity, because durable attention depends on small routines that are easy to repeat every single working day.",
-          "translationJa": "持続する注意力は毎営業日繰り返しやすい小さなルーティンにかかっているため、大切なのは強度ではなく一貫性です。",
-          "startMs": 43831,
-          "endMs": 51900,
+          "text": "For children, this extra time allows for physical and emotional development without constant medical intervention.",
+          "translationJa": "子供たちにとって、この追加の時間は、絶え間ない医療介入なしでの身体的および感情的な成長を可能にします。",
+          "id": "advanced-2026-06-26-s06",
+          "startMs": 28413,
+          "endMs": 34777,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s06.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s07",
           "index": 6,
-          "text": "Research suggests that even brief physical movement can refresh working memory without requiring employees to leave the building for an extended period of time.",
-          "translationJa": "研究によると、短い身体活動でも作業記憶をリフレッシュでき、従業員が長時間外出する必要はありません。",
-          "startMs": 52300,
-          "endMs": 60806,
+          "text": "Medical professionals emphasize that this is a therapeutic delay rather than a complete cure.",
+          "translationJa": "医療専門家は、これが完全な治癒ではなく、治療的な遅延であると強調しています。",
+          "id": "advanced-2026-06-26-s07",
+          "startMs": 35177,
+          "endMs": 40116,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s07.m4a"
         },
         {
-          "id": "advanced-2026-06-26-s08",
           "index": 7,
-          "text": "Teams that embrace this philosophy often report better morale, because recovery is treated as part of sustainable performance rather than a distraction from it.",
-          "translationJa": "この考え方を取り入れるチームは、回復が作業の妨げではなく持続可能な成果の一部として扱われるため、士気が高まると答えることが多いです。",
-          "startMs": 61206,
-          "endMs": 69553,
+          "text": "The rollout of this medicine marks a significant shift in how chronic conditions are managed.",
+          "translationJa": "この薬の展開は、慢性疾患がどのように管理されるかという点において大きな転換点となります。",
+          "id": "advanced-2026-06-26-s08",
+          "startMs": 40516,
+          "endMs": 45253,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Strict clinical criteria determine which patients are suitable candidates for this specific type of therapy.",
+          "translationJa": "厳格な臨床基準が、どの患者がこの特定の治療法の適切な候補者であるかを決定します。",
+          "id": "advanced-2026-06-26-s09",
+          "startMs": 45653,
+          "endMs": 51518,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Healthcare providers are now receiving specialized training to administer this complex drug safely and effectively.",
+          "translationJa": "医療提供者は現在、この複雑な薬を安全かつ効果的に投与するための専門的な訓練を受けています。",
+          "id": "advanced-2026-06-26-s10",
+          "startMs": 51918,
+          "endMs": 58045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Future research will likely build upon these findings to improve long-term outcomes for patients worldwide.",
+          "translationJa": "今後の研究は、世界中の患者の長期的な転帰を改善するために、これらの知見に基づいたものになるでしょう。",
+          "id": "advanced-2026-06-26-s11",
+          "startMs": 58445,
+          "endMs": 64101,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "micro-break",
-          "meaningJa": "短い休憩",
-          "exampleEn": "Take a micro-break.",
-          "exampleJa": "短い休憩を取りましょう。"
+          "word": "pioneering",
+          "meaningJa": "先駆的な",
+          "exampleEn": "They are doing pioneering work in genetics.",
+          "exampleJa": "彼らは遺伝学において先駆的な仕事をしています。"
         },
         {
-          "word": "momentum",
-          "meaningJa": "勢い・流れ",
-          "exampleEn": "Keep your momentum.",
-          "exampleJa": "作業の流れを保ちます。"
+          "word": "intervention",
+          "meaningJa": "介入",
+          "exampleEn": "Early intervention is key to success.",
+          "exampleJa": "早期の介入が成功の鍵です。"
         },
         {
-          "word": "fatigue",
-          "meaningJa": "疲労",
-          "exampleEn": "Mental fatigue builds up.",
-          "exampleJa": "精神的な疲れがたまります。"
+          "word": "modulate",
+          "meaningJa": "調整する",
+          "exampleEn": "The medicine helps to modulate his mood.",
+          "exampleJa": "その薬は彼の気分を調整する助けになります。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性",
-          "exampleEn": "Consistency matters most.",
-          "exampleJa": "一貫性が最も重要です。"
+          "word": "burden",
+          "meaningJa": "負担",
+          "exampleEn": "The new policy reduces the tax burden.",
+          "exampleJa": "新しい政策は税負担を軽減します。"
         },
         {
-          "word": "sustainable",
-          "meaningJa": "持続可能な",
-          "exampleEn": "Build sustainable habits.",
-          "exampleJa": "持続可能な習慣を作ります。"
+          "word": "administer",
+          "meaningJa": "投与する、管理する",
+          "exampleEn": "Only nurses can administer this medication.",
+          "exampleJa": "看護師だけがこの薬を投与できます。"
         }
-      ]
+      ],
+      "id": "advanced-2026-06-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-06-26/advanced.m4a",
+      "durationSeconds": 62
     }
   ]
 }
