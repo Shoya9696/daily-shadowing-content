@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-26T00:33:38Z",
-  "latestLessonDate": "2026-06-26",
+  "generatedAtUtc": "2026-06-26T16:24:41Z",
+  "latestLessonDate": "2026-06-27",
   "days": [
+    {
+      "lessonDate": "2026-06-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Learning Local Recycling Basics",
+          "durationSeconds": 34,
+          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Learning Local Recycling Basics",
+          "durationSeconds": 51,
+          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Learning Local Recycling Basics",
+          "durationSeconds": 68,
+          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-06-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
