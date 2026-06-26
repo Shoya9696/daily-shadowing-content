@@ -85,21 +85,21 @@
       "lessons": [
         {
           "level": "beginner",
-          "title": "Short Breaks at Work",
-          "durationSeconds": 10,
-          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
+          "title": "Supporting Young People's Health",
+          "durationSeconds": 37,
+          "summaryJa": "専門家たちが、若者の健康と成長を支えるための新しい臨床研究を開始しようとしています。"
         },
         {
           "level": "intermediate",
-          "title": "Resetting Focus During the Day",
-          "durationSeconds": 14,
-          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
+          "title": "Advancing Healthcare Through Clinical Research",
+          "durationSeconds": 59,
+          "summaryJa": "医療専門家が、若者の健康を守るための新しい研究の重要性と、その目的について解説します。"
         },
         {
           "level": "advanced",
-          "title": "Micro-breaks and Sustainable Focus",
-          "durationSeconds": 21,
-          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
+          "title": "Evidence-Based Approaches in Pediatric Healthcare",
+          "durationSeconds": 73,
+          "summaryJa": "小児医療におけるエビデンスの重要性と、臨床試験を通じて医療の質を向上させる取り組みについて説明します。"
         }
       ]
     }
