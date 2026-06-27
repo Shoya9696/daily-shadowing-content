@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-26T16:24:41Z",
-  "latestLessonDate": "2026-06-27",
+  "generatedAtUtc": "2026-06-27T15:01:15Z",
+  "latestLessonDate": "2026-06-28",
   "days": [
+    {
+      "lessonDate": "2026-06-28",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-28.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Say No Kindly",
+          "durationSeconds": 37,
+          "summaryJa": "断るのが苦手な人に向けて、優しく丁寧に「ノー」を伝える方法を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering the Art of Declining Requests",
+          "durationSeconds": 55,
+          "summaryJa": "相手との関係を損なわずに、自分の意思を明確に伝えるための断り方のスキル。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Professional Approach to Saying No",
+          "durationSeconds": 70,
+          "summaryJa": "ビジネスや人間関係において、角を立てずに自分の時間を守るための洗練された断り方。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-06-27",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-27.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
