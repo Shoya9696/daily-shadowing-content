@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-06-28T15:49:44Z",
-  "latestLessonDate": "2026-06-29",
+  "generatedAtUtc": "2026-06-29T15:01:34Z",
+  "latestLessonDate": "2026-06-30",
   "days": [
+    {
+      "lessonDate": "2026-06-30",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-30.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Calm Start to Your Morning",
+          "durationSeconds": 31,
+          "summaryJa": "朝の時間を穏やかに過ごし、良い一日をスタートさせるための習慣について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Designing Your Ideal Morning",
+          "durationSeconds": 48,
+          "summaryJa": "生産性を高め、精神的な余裕を生むための朝のルーティンの作り方を紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of a Balanced Morning Routine",
+          "durationSeconds": 61,
+          "summaryJa": "穏やかな朝の迎え方、最初の1時間の計画、そしてシンプルな習慣で一日を始めるための実践的なアドバイス。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-06-29",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-29.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
