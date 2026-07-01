@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-01T05:03:15Z",
-  "latestLessonDate": "2026-07-01",
+  "generatedAtUtc": "2026-07-01T15:02:56Z",
+  "latestLessonDate": "2026-07-02",
   "days": [
+    {
+      "lessonDate": "2026-07-02",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-02.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Start Your Meeting",
+          "durationSeconds": 28,
+          "summaryJa": "会議を円滑に始めるための挨拶や目的の伝え方を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Setting the Tone for Productive Meetings",
+          "durationSeconds": 47,
+          "summaryJa": "生産的な会議にするための進行役としての振る舞いと目的設定の方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Opening Professional Meetings",
+          "durationSeconds": 58,
+          "summaryJa": "プロフェッショナルな会議の導入部を洗練させ、参加者のエンゲージメントを高める方法。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-01",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-01.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
