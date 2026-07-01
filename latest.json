@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-06-30T18:23:57Z",
+  "generatedAtUtc": "2026-07-01T02:58:26Z",
   "lessonDate": "2026-07-01",
   "lessons": [
     {
@@ -19,7 +19,7 @@
           "text": "I take a short break every two hours at my desk during the workday, even when I feel busy.",
           "translationJa": "忙しく感じていても、仕事では2時間ごとにデスクで短い休憩を取ります。",
           "startMs": 0,
-          "endMs": 5105,
+          "endMs": 5128,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s01.m4a"
         },
         {
@@ -27,8 +27,8 @@
           "index": 1,
           "text": "During that break, I stand up, stretch my shoulders and neck, and walk slowly around the office hallway.",
           "translationJa": "休憩では立ち上がり、肩と首を伸ばし、オフィスの廊下をゆっくり歩きます。",
-          "startMs": 5505,
-          "endMs": 11545,
+          "startMs": 5528,
+          "endMs": 11584,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s02.m4a"
         },
         {
@@ -36,8 +36,8 @@
           "index": 2,
           "text": "A quick five-minute walk outside in the fresh air helps me feel more awake and much less tired.",
           "translationJa": "外の新鮮な空気の中で5分歩くと、目が覚めて疲れがかなり和らぎます。",
-          "startMs": 11945,
-          "endMs": 16899,
+          "startMs": 11984,
+          "endMs": 16938,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s03.m4a"
         },
         {
@@ -45,8 +45,8 @@
           "index": 3,
           "text": "I also drink a full glass of water and look away from the computer screen for at least one minute.",
           "translationJa": "水を一杯飲み、少なくとも1分間はパソコンの画面から目を離します。",
-          "startMs": 17299,
-          "endMs": 22183,
+          "startMs": 17338,
+          "endMs": 22222,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s04.m4a"
         },
         {
@@ -54,8 +54,8 @@
           "index": 4,
           "text": "Sometimes I chat with a coworker about something light, which helps me relax before I start again.",
           "translationJa": "ときどき同僚と軽い話をしてリラックスし、それからまた仕事を始めます。",
-          "startMs": 22583,
-          "endMs": 28333,
+          "startMs": 22622,
+          "endMs": 28372,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s05.m4a"
         },
         {
@@ -63,8 +63,8 @@
           "index": 5,
           "text": "Then I return to my desk with fresh energy and finish the rest of my tasks calmly and carefully.",
           "translationJa": "それから元気を取り戻してデスクに戻り、残りの仕事を落ち着いて丁寧に終えます。",
-          "startMs": 28733,
-          "endMs": 33898,
+          "startMs": 28772,
+          "endMs": 33949,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/beginner-s06.m4a"
         }
       ],
@@ -128,7 +128,7 @@
           "text": "A five-minute walk away from the desk can reduce eye strain and give the mind a chance to recover before the next task.",
           "translationJa": "デスクを離れて5分歩くだけで、目の疲れを和らげ、次の仕事の前に頭を休められます。",
           "startMs": 7010,
-          "endMs": 12974,
+          "endMs": 12951,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s02.m4a"
         },
         {
@@ -136,8 +136,8 @@
           "index": 2,
           "text": "Hydration, light stretching, and a few deep breaths also help people return to work with clearer attention and better posture.",
           "translationJa": "水分補給、軽いストレッチ、深呼吸も、よりはっきりした注意力と良い姿勢で仕事に戻る助けになります。",
-          "startMs": 13374,
-          "endMs": 20383,
+          "startMs": 13351,
+          "endMs": 20360,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s03.m4a"
         },
         {
@@ -145,8 +145,8 @@
           "index": 3,
           "text": "Managers are starting to encourage these small habits because they support steady productivity across the long afternoon hours.",
           "translationJa": "こうした小さな習慣は長い午後の生産性を支えるため、管理者も勧め始めています。",
-          "startMs": 20783,
-          "endMs": 27451,
+          "startMs": 20760,
+          "endMs": 27475,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s04.m4a"
         },
         {
@@ -154,8 +154,8 @@
           "index": 4,
           "text": "Some teams even set shared reminders so everyone remembers to stand up, move, and drink water at similar times.",
           "translationJa": "全員が同じタイミングで立ち上がり、動き、水を飲むことを忘れないよう、チームでリマインダーを共有する例もあります。",
-          "startMs": 27851,
-          "endMs": 34460,
+          "startMs": 27875,
+          "endMs": 34507,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s05.m4a"
         },
         {
@@ -163,8 +163,8 @@
           "index": 5,
           "text": "The most effective approach is consistency, so workers repeat the same simple routine every day until it feels natural.",
           "translationJa": "最も効果的なのは一貫性なので、自然に感じられるまで毎日同じシンプルなルーティンを繰り返します。",
-          "startMs": 34860,
-          "endMs": 41641,
+          "startMs": 34907,
+          "endMs": 41699,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s06.m4a"
         },
         {
@@ -172,8 +172,8 @@
           "index": 6,
           "text": "Over time, these small resets become a reliable habit that protects focus and prevents the afternoon slump many workers feel after lunch.",
           "translationJa": "時間が経つと、こうした短いリセットは集中力を守り、昼食後に多くの人が感じる午後のだるさを防ぐ頼もしい習慣になります。",
-          "startMs": 42041,
-          "endMs": 49964,
+          "startMs": 42099,
+          "endMs": 50022,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/intermediate-s07.m4a"
         }
       ],
@@ -246,7 +246,7 @@
           "text": "Employees who plan short resets throughout the day often report steadier concentration, fewer headaches, and less stiffness during long computer sessions.",
           "translationJa": "一日を通して短いリセットを計画する従業員は、長時間のパソコン作業中に集中力が安定し、頭痛やこわばりも少ないと答えます。",
           "startMs": 17305,
-          "endMs": 26125,
+          "endMs": 26148,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s03.m4a"
         },
         {
@@ -254,8 +254,8 @@
           "index": 3,
           "text": "Organizations that normalize these habits see better engagement because people feel permission to recover before stress accumulates and performance drops.",
           "translationJa": "こうした習慣を当たり前にする組織では、ストレスがたまり成果が落ちる前に回復できると感じるため、エンゲージメントが高まります。",
-          "startMs": 26525,
-          "endMs": 34842,
+          "startMs": 26548,
+          "endMs": 34900,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s04.m4a"
         },
         {
@@ -263,8 +263,8 @@
           "index": 4,
           "text": "Leaders who model micro-breaks themselves send a practical message that sustainable focus is a shared responsibility, not a personal weakness.",
           "translationJa": "自分自身がマイクロブレイクを実践するリーダーは、持続可能な集中が個人の弱さではなく共有の責任だという実践的なメッセージを送ります。",
-          "startMs": 35242,
-          "endMs": 43327,
+          "startMs": 35300,
+          "endMs": 43431,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s05.m4a"
         },
         {
@@ -272,8 +272,8 @@
           "index": 5,
           "text": "The key is consistency rather than intensity, because durable attention depends on small routines that are easy to repeat every single working day.",
           "translationJa": "持続する注意力は毎営業日繰り返しやすい小さなルーティンにかかっているため、大切なのは強度ではなく一貫性です。",
-          "startMs": 43727,
-          "endMs": 51796,
+          "startMs": 43831,
+          "endMs": 51900,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s06.m4a"
         },
         {
@@ -281,8 +281,8 @@
           "index": 6,
           "text": "Research suggests that even brief physical movement can refresh working memory without requiring employees to leave the building for an extended period of time.",
           "translationJa": "研究によると、短い身体活動でも作業記憶をリフレッシュでき、従業員が長時間外出する必要はありません。",
-          "startMs": 52196,
-          "endMs": 60679,
+          "startMs": 52300,
+          "endMs": 60806,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s07.m4a"
         },
         {
@@ -290,8 +290,8 @@
           "index": 7,
           "text": "Teams that embrace this philosophy often report better morale, because recovery is treated as part of sustainable performance rather than a distraction from it.",
           "translationJa": "この考え方を取り入れるチームは、回復が作業の妨げではなく持続可能な成果の一部として扱われるため、士気が高まると答えることが多いです。",
-          "startMs": 61079,
-          "endMs": 69438,
+          "startMs": 61206,
+          "endMs": 69553,
           "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-07-01/advanced-s08.m4a"
         }
       ],
