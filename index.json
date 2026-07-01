@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-01T02:58:26Z",
+  "generatedAtUtc": "2026-07-01T05:03:15Z",
   "latestLessonDate": "2026-07-01",
   "days": [
     {
@@ -10,24 +10,24 @@
       "lessons": [
         {
           "level": "beginner",
-          "title": "Short Breaks at Work",
-          "durationSeconds": 33,
-          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
+          "title": "Simple Meal Planning",
+          "durationSeconds": 36,
+          "summaryJa": "忙しい週のための簡単な食事計画と買い物のコツについて学びます。"
         },
         {
           "level": "intermediate",
-          "title": "Resetting Focus During the Day",
-          "durationSeconds": 49,
-          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
+          "title": "Smart Strategies for Weekly Meal Prep",
+          "durationSeconds": 54,
+          "summaryJa": "効率的に食事の準備を行い、平日のストレスを減らすための賢い方法を紹介します。"
         },
         {
           "level": "advanced",
-          "title": "Micro-breaks and Sustainable Focus",
-          "durationSeconds": 68,
-          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
+          "title": "Mastering the Art of Efficient Meal Planning",
+          "durationSeconds": 62,
+          "summaryJa": "効率的な食事計画を極め、日々の生活の質を向上させるための上級者向け戦略。"
         }
       ],
-      "topicCategory": "news"
+      "topicCategory": "everyday_life"
     },
     {
       "lessonDate": "2026-06-30",
