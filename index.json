@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-01T15:02:56Z",
-  "latestLessonDate": "2026-07-02",
+  "generatedAtUtc": "2026-07-02T15:01:22Z",
+  "latestLessonDate": "2026-07-03",
   "days": [
+    {
+      "lessonDate": "2026-07-03",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-03.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Taking Short Notes After a Call",
+          "durationSeconds": 30,
+          "summaryJa": "通話直後に決定事項や次のステップをメモする習慣の重要性についてのレッスン。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Effective Note-Taking Techniques",
+          "durationSeconds": 57,
+          "summaryJa": "通話後の効率的なメモ取りが仕事の生産性に与える影響についての解説。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Post-Call Documentation",
+          "durationSeconds": 66,
+          "summaryJa": "通話後の記録作成を最適化し、チームの連携と生産性を高めるための戦略。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-02",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-02.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
