@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-02T15:01:22Z",
-  "latestLessonDate": "2026-07-03",
+  "generatedAtUtc": "2026-07-03T15:01:23Z",
+  "latestLessonDate": "2026-07-04",
   "days": [
+    {
+      "lessonDate": "2026-07-04",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-04.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Finding Your Way Around",
+          "durationSeconds": 27,
+          "summaryJa": "新しい街で道に迷った時に、丁寧に道を尋ねるための基本的なフレーズを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Navigating Like a Local",
+          "durationSeconds": 45,
+          "summaryJa": "知らない場所で道を聞く際、より自然で丁寧な表現を使って目的地までたどり着く方法を学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Urban Navigation",
+          "durationSeconds": 57,
+          "summaryJa": "都市部での移動を円滑にするため、詳細なランドマークを用いたルート確認や道案内の受け方を学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-07-03",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-03.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
