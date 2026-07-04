@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-03T15:01:23Z",
-  "latestLessonDate": "2026-07-04",
+  "generatedAtUtc": "2026-07-04T15:01:28Z",
+  "latestLessonDate": "2026-07-05",
   "days": [
+    {
+      "lessonDate": "2026-07-05",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-05.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Setting Up Your New Gadgets",
+          "durationSeconds": 36,
+          "summaryJa": "新しいデバイスをセットアップするための基本的な手順とヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Home Technology",
+          "durationSeconds": 52,
+          "summaryJa": "家庭用デバイスの接続やアップデートをスムーズに行うための実用的なアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Modern Digital Setups",
+          "durationSeconds": 64,
+          "summaryJa": "デジタルデバイスのセットアップを最適化し、トラブルを効率的に解決するための洗練されたアプローチ。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-07-04",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-04.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
