@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-05T15:01:26Z",
-  "latestLessonDate": "2026-07-06",
+  "generatedAtUtc": "2026-07-06T15:01:44Z",
+  "latestLessonDate": "2026-07-07",
   "days": [
+    {
+      "lessonDate": "2026-07-07",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-07.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Planning a Simple Monthly Budget",
+          "durationSeconds": 36,
+          "summaryJa": "毎月の予算管理の基本と、少しずつ貯金をするための実践的なアドバイス。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Planning a Simple Monthly Budget",
+          "durationSeconds": 60,
+          "summaryJa": "効果的な予算管理を通じて、支出を最適化し、将来のための貯蓄を増やす方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "Planning a Simple Monthly Budget",
+          "durationSeconds": 72,
+          "summaryJa": "持続可能な経済的自立を目指し、支出を精査し、戦略的に貯蓄を最大化するための予算編成術。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-07-06",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-06.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
