@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-06T15:01:44Z",
-  "latestLessonDate": "2026-07-07",
+  "generatedAtUtc": "2026-07-07T15:02:01Z",
+  "latestLessonDate": "2026-07-08",
   "days": [
+    {
+      "lessonDate": "2026-07-08",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-08.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Easy Ways to Save Energy",
+          "durationSeconds": 29,
+          "summaryJa": "家庭で簡単にできる節電の習慣について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Practical Tips for Home Energy Efficiency",
+          "durationSeconds": 53,
+          "summaryJa": "家庭でのエネルギー効率を高めるための実践的なヒントを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Household Energy Consumption",
+          "durationSeconds": 65,
+          "summaryJa": "家庭のエネルギー消費を最適化するための戦略的アプローチについて解説します。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-07-07",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-07.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
