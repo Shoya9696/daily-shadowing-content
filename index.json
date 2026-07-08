@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-07T15:02:01Z",
-  "latestLessonDate": "2026-07-08",
+  "generatedAtUtc": "2026-07-08T15:01:43Z",
+  "latestLessonDate": "2026-07-09",
   "days": [
+    {
+      "lessonDate": "2026-07-09",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-09.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Give Kind Feedback",
+          "durationSeconds": 36,
+          "summaryJa": "相手を傷つけずにアドバイスを伝えるための、優しく前向きなコミュニケーション術を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering the Art of Constructive Feedback",
+          "durationSeconds": 59,
+          "summaryJa": "人間関係を良好に保ちながら、相手に建設的なアドバイスを伝えるための実践的なテクニックを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Communicating Suggestions Effectively",
+          "durationSeconds": 69,
+          "summaryJa": "対人関係において、相手を尊重しつつ前向きな変化を促すための、高度で洗練されたフィードバック手法を解説します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-07-08",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-08.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
