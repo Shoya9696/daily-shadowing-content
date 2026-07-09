@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-08T15:01:43Z",
-  "latestLessonDate": "2026-07-09",
+  "generatedAtUtc": "2026-07-09T15:01:42Z",
+  "latestLessonDate": "2026-07-10",
   "days": [
+    {
+      "lessonDate": "2026-07-10",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-10.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Health Challenges in Bangladesh",
+          "durationSeconds": 36,
+          "summaryJa": "バングラデシュで麻疹（はしか）が急増し、多くの子供たちが病院で治療を受けています。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Rising Measles Cases in Bangladesh",
+          "durationSeconds": 58,
+          "summaryJa": "かつて麻疹対策で大きな成果を上げたバングラデシュで、再び感染が急拡大し医療体制が逼迫しています。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Measles Crisis in Bangladesh",
+          "durationSeconds": 68,
+          "summaryJa": "バングラデシュで発生した大規模な麻疹の流行が、かつての保健医療の成功を揺るがし、早急な対策が求められています。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-07-09",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-09.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
