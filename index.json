@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-09T15:01:42Z",
-  "latestLessonDate": "2026-07-10",
+  "generatedAtUtc": "2026-07-10T15:01:45Z",
+  "latestLessonDate": "2026-07-11",
   "days": [
+    {
+      "lessonDate": "2026-07-11",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-11.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Keeping Your Home Tidy",
+          "durationSeconds": 31,
+          "summaryJa": "小さな部屋を整理整頓し、快適な空間を保つためのヒントを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Small Space Organization",
+          "durationSeconds": 49,
+          "summaryJa": "限られたスペースを最大限に活用し、整理された住環境を作るための実践的な方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Minimalist Living in Small Spaces",
+          "durationSeconds": 60,
+          "summaryJa": "ミニマリズムの視点から、限られた住空間を機能的かつ快適に保つための思考法。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-07-10",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-10.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
