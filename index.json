@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-10T15:01:45Z",
-  "latestLessonDate": "2026-07-11",
+  "generatedAtUtc": "2026-07-11T15:01:43Z",
+  "latestLessonDate": "2026-07-12",
   "days": [
+    {
+      "lessonDate": "2026-07-12",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-12.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Workday Right",
+          "durationSeconds": 33,
+          "summaryJa": "一日の仕事の優先順位を決め、効率的に作業を進めるためのヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Daily Workflow",
+          "durationSeconds": 52,
+          "summaryJa": "仕事を効率化し、集中力を維持するためのタイムブロッキングと優先順位付けの技術。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategies for Peak Productivity",
+          "durationSeconds": 62,
+          "summaryJa": "生産性を最大化し、燃え尽きを防ぐための高度な時間管理とタスク選定の戦略。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-11",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-11.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
