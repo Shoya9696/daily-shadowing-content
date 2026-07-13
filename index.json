@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-11T15:01:43Z",
-  "latestLessonDate": "2026-07-12",
+  "generatedAtUtc": "2026-07-13T00:49:59Z",
+  "latestLessonDate": "2026-07-13",
   "days": [
+    {
+      "lessonDate": "2026-07-13",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-13.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Exploring a Local Market",
+          "durationSeconds": 32,
+          "summaryJa": "地元の市場を訪れて食べ物を探したり、店員さんと会話したりする練習。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Joy of Market Shopping",
+          "durationSeconds": 48,
+          "summaryJa": "地元の市場で買い物を楽しみながら、店員と価格交渉や商品の質問をする練習。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Exploring Local Markets",
+          "durationSeconds": 60,
+          "summaryJa": "地元の市場を探索し、屋台の食べ物を楽しんだり、店主と交流したりするための実践的なアドバイス。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-07-12",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-12.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
