@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-13T00:49:59Z",
-  "latestLessonDate": "2026-07-13",
+  "generatedAtUtc": "2026-07-13T15:01:46Z",
+  "latestLessonDate": "2026-07-14",
   "days": [
+    {
+      "lessonDate": "2026-07-14",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-14.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Organizing Your Digital Study Space",
+          "durationSeconds": 33,
+          "summaryJa": "学習アプリやデジタルノートを活用して、効率的に勉強する方法についての解説。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Digital Study Habits",
+          "durationSeconds": 52,
+          "summaryJa": "デジタルツールを整理し、効率的な学習習慣を身につけるための具体的なヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Learning Workflow",
+          "durationSeconds": 63,
+          "summaryJa": "テクノロジーを活用して学習効率を最大化し、長期的なスキル習得を成功させる方法。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-07-13",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-13.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
