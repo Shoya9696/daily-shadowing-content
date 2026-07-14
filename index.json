@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-13T15:01:46Z",
-  "latestLessonDate": "2026-07-14",
+  "generatedAtUtc": "2026-07-14T15:02:01Z",
+  "latestLessonDate": "2026-07-15",
   "days": [
+    {
+      "lessonDate": "2026-07-15",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-15.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Staying Hydrated During Work",
+          "durationSeconds": 31,
+          "summaryJa": "仕事中に水分補給を維持するための実用的なヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Staying Hydrated During Work",
+          "durationSeconds": 54,
+          "summaryJa": "仕事の効率を上げるための水分補給の習慣について。"
+        },
+        {
+          "level": "advanced",
+          "title": "Staying Hydrated During Work",
+          "durationSeconds": 62,
+          "summaryJa": "仕事中の認知機能維持と健康のための水分補給の重要性。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-07-14",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-14.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
