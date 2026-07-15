@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-14T15:02:01Z",
-  "latestLessonDate": "2026-07-15",
+  "generatedAtUtc": "2026-07-15T15:01:56Z",
+  "latestLessonDate": "2026-07-16",
   "days": [
+    {
+      "lessonDate": "2026-07-16",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-16.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Smart Ways to Shop",
+          "durationSeconds": 29,
+          "summaryJa": "賢い買い物のための比較方法と、衝動買いを防ぐためのヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Developing Better Spending Habits",
+          "durationSeconds": 58,
+          "summaryJa": "衝動買いを避け、長期的な価値を判断するための買い物戦略について。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Value-Based Shopping",
+          "durationSeconds": 67,
+          "summaryJa": "価格比較を超えた、価値ベースの消費行動と賢い意思決定プロセスについて。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-07-15",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-15.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
