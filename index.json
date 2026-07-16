@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-15T15:01:56Z",
-  "latestLessonDate": "2026-07-16",
+  "generatedAtUtc": "2026-07-16T15:01:39Z",
+  "latestLessonDate": "2026-07-17",
   "days": [
+    {
+      "lessonDate": "2026-07-17",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-17.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Joining a Community Cleanup",
+          "durationSeconds": 37,
+          "summaryJa": "地域の清掃活動に参加することの意義と、チームで協力して環境を整えることについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Value of Neighborhood Cleanups",
+          "durationSeconds": 53,
+          "summaryJa": "地域清掃活動を通じてコミュニティの絆を深めることの重要性について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Cultivating Local Stewardship",
+          "durationSeconds": 65,
+          "summaryJa": "地域環境の管理責任とコミュニティ意識の育成について考察します。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-07-16",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-16.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
