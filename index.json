@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-16T15:01:39Z",
-  "latestLessonDate": "2026-07-17",
+  "generatedAtUtc": "2026-07-17T15:01:26Z",
+  "latestLessonDate": "2026-07-18",
   "days": [
+    {
+      "lessonDate": "2026-07-18",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-18.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Checking on a Friend",
+          "durationSeconds": 29,
+          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Checking on a Friend",
+          "durationSeconds": 57,
+          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
+        },
+        {
+          "level": "advanced",
+          "title": "Checking on a Friend",
+          "durationSeconds": 68,
+          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-07-17",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-17.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
