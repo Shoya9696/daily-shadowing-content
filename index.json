@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-17T15:01:26Z",
-  "latestLessonDate": "2026-07-18",
+  "generatedAtUtc": "2026-07-18T15:01:10Z",
+  "latestLessonDate": "2026-07-19",
   "days": [
+    {
+      "lessonDate": "2026-07-19",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-19.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Understanding Why We Delay Tasks",
+          "durationSeconds": 32,
+          "summaryJa": "先延ばしをする理由と、その心理について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Psychology Behind Procrastination",
+          "durationSeconds": 51,
+          "summaryJa": "先延ばしの背後にある心理学と、それを改善するための考え方。"
+        },
+        {
+          "level": "advanced",
+          "title": "Understanding Your Procrastination Style",
+          "durationSeconds": 63,
+          "summaryJa": "先延ばしにする理由を9つのタイプに分類し、それが自分について何を教えてくれるのか、また必ずしも悪いことではない理由を解説します。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-07-18",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-18.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
