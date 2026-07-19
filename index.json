@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-18T15:01:10Z",
-  "latestLessonDate": "2026-07-19",
+  "generatedAtUtc": "2026-07-19T15:01:20Z",
+  "latestLessonDate": "2026-07-20",
   "days": [
+    {
+      "lessonDate": "2026-07-20",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-20.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Finish Your Weekend Errands",
+          "durationSeconds": 30,
+          "summaryJa": "週末の用事を効率的に終わらせるためのヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Weekend To-Do List",
+          "durationSeconds": 42,
+          "summaryJa": "週末の用事を効率よく済ませるためのスマートな戦略。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Weekend Errand Routine",
+          "durationSeconds": 61,
+          "summaryJa": "週末の用事を効率的に済ませるための計画術とヒント。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-07-19",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-19.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
