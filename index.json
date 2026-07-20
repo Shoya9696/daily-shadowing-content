@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-19T15:01:20Z",
-  "latestLessonDate": "2026-07-20",
+  "generatedAtUtc": "2026-07-20T15:01:13Z",
+  "latestLessonDate": "2026-07-21",
   "days": [
+    {
+      "lessonDate": "2026-07-21",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-21.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 28,
+          "summaryJa": "ドラフトへのフィードバックを求める際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なトピック。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 53,
+          "summaryJa": "ドラフトへのフィードバックを依頼する際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 59,
+          "summaryJa": "ドラフトへのフィードバックを求める際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なトピック。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-20",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-20.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
