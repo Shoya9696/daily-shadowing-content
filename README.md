@@ -6,11 +6,13 @@ This repository hosts `latest.json`, dated lesson archives, and generated m4a au
 
 ## Delivery-only repository
 
-This repo holds **published static files only**. Lesson generation, validation, and publish run in the private generator repo:
+This repo holds **published static files only**. Lesson generation and publish run in the private generator repo:
 
 - [Shoya9696/daily-shadowing-generator](https://github.com/Shoya9696/daily-shadowing-generator)
 
-Do not add generation scripts here. Use the generator workflow (`use_sample=true` for pre-production) to update this repo.
+Do not add generation scripts or prompts here. Use the generator workflow to update this repo.
+
+Post-deploy public URL checks run in this Public repo via `.github/workflows/validate_pages_deployment.yml` after a successful `github-pages` deployment (`deployment_status`). That workflow is read-only HTTP validation and does not write content.
 
 ## Current content (Step 9-F2)
 
