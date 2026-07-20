@@ -1,0 +1,70 @@
+name: Validate Pages Deployment
+
+on:
+  deployment_status:
+  schedule:
+    # Backup after daily publish. Primary generator cron is 00:00 JST (15:00 UTC).
+    # This runs at 16:00 UTC = 01:00 JST (1 hour later).
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-pages-${{ github.event.deployment.sha || github.sha }}-${{ github.event_name }}
+  cancel-in-progress: false
+
+jobs:
+  report-pages-failure:
+    if: >
+      github.event_name == 'deployment_status' &&
+      github.event.deployment.environment == 'github-pages' &&
+      (github.event.deployment_status.state == 'failure' ||
+       github.event.deployment_status.state == 'error')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Surface Pages deployment failure
+        run: |
+          echo "::error::GitHub Pages deployment did not succeed (state=${{ github.event.deployment_status.state }})"
+          echo "environment=${{ github.event.deployment.environment }}"
+          echo "sha=${{ github.event.deployment.sha }}"
+          echo "ref=${{ github.event.deployment.ref }}"
+          exit 1
+
+  validate:
+    if: >
+      (github.event_name == 'deployment_status' &&
+       github.event.deployment.environment == 'github-pages' &&
+       github.event.deployment_status.state == 'success' &&
+       github.event.deployment.ref == 'main') ||
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout content at deployment SHA
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'deployment_status' && github.event.deployment.sha || github.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run validator unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Validate published Pages URLs
+        env:
+          PAGES_BASE_URL: https://shoya9696.github.io/daily-shadowing-content
+          EVENT_NAME: ${{ github.event_name }}
+          DEPLOYMENT_SHA: ${{ github.event.deployment.sha || github.sha }}
+        run: |
+          REQUIRE_TODAY_ARGS=""
+          if [ "${EVENT_NAME}" = "schedule" ]; then
+            REQUIRE_TODAY_ARGS="--require-today-jst"
+          fi
+          python .github/scripts/validate_pages_deployment.py ${REQUIRE_TODAY_ARGS}
