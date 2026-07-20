@@ -394,6 +394,59 @@ class MainCliTests(unittest.TestCase):
             self.assertEqual(code, 1)
 
 
+class RedirectHandlerTests(unittest.TestCase):
+    def test_redirect_handler_allows_same_origin(self) -> None:
+        handler = v._OriginBoundRedirectHandler(base_url=BASE_URL)
+        req = Request(f'{BASE_URL}/latest.json')
+        redirected = handler.redirect_request(
+            req,
+            fp=None,
+            code=302,
+            msg='Found',
+            headers={'Location': f'{BASE_URL}/lessons/2026-07-20.json'},
+            newurl=f'{BASE_URL}/lessons/2026-07-20.json',
+        )
+        self.assertIsNotNone(redirected)
+        self.assertEqual(redirected.full_url, f'{BASE_URL}/lessons/2026-07-20.json')
+
+    def test_redirect_handler_rejects_off_origin(self) -> None:
+        handler = v._OriginBoundRedirectHandler(base_url=BASE_URL)
+        req = Request(f'{BASE_URL}/latest.json')
+        with self.assertRaises(v.PagesValidationError):
+            handler.redirect_request(
+                req,
+                fp=None,
+                code=302,
+                msg='Found',
+                headers={'Location': 'https://evil.example/steal'},
+                newurl='https://evil.example/steal',
+            )
+
+    def test_default_urlopen_factory_refuses_off_origin_request(self) -> None:
+        opener = v.default_urlopen_factory(BASE_URL)
+        request = Request('https://evil.example/latest.json')
+        with self.assertRaises(v.PagesValidationError):
+            opener(request, timeout=1)
+
+
+class IndexValidationTests(unittest.TestCase):
+    def test_index_latest_lesson_date_must_match_expected(self) -> None:
+        error = v._validate_json_payload(
+            url=f'{BASE_URL}/index.json',
+            kind='index',
+            payload={
+                'schemaVersion': 1,
+                'generatedAtUtc': '2026-07-20T00:00:00Z',
+                'latestLessonDate': '2026-07-19',
+                'days': [],
+            },
+            lesson_date='2026-07-20',
+            expected_latest_date='2026-07-20',
+        )
+        self.assertIsNotNone(error)
+        self.assertIn('latestLessonDate mismatch', error or '')
+
+
 class EventFilterDocumentationTests(unittest.TestCase):
     def test_workflow_yaml_filters_success_github_pages_main(self) -> None:
         workflow = (ROOT / '.github' / 'workflows' / 'validate_pages_deployment.yml').read_text(
@@ -406,6 +459,8 @@ class EventFilterDocumentationTests(unittest.TestCase):
         self.assertIn('report-pages-failure', workflow)
         self.assertNotIn('sleep 300', workflow)
         self.assertIn('ubuntu-latest', workflow)
+        self.assertIn('timeout-minutes: 15', workflow)
+        self.assertIn('01:00 JST', workflow)
 
 
 if __name__ == '__main__':

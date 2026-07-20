@@ -330,6 +330,11 @@ def _validate_json_payload(
         latest_lesson_date = payload.get('latestLessonDate')
         if not isinstance(latest_lesson_date, str) or not latest_lesson_date.strip():
             return f'index.json missing or invalid latestLessonDate ({url})'
+        if latest_lesson_date != expected_latest_date:
+            return (
+                f'index.json latestLessonDate mismatch: expected {expected_latest_date!r}, '
+                f'got {latest_lesson_date!r} ({url})'
+            )
         if 'days' not in payload:
             return f'index.json missing required key: days ({url})'
         if not isinstance(payload.get('days'), list):
