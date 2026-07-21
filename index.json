@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-20T15:01:13Z",
-  "latestLessonDate": "2026-07-21",
+  "generatedAtUtc": "2026-07-21T15:01:17Z",
+  "latestLessonDate": "2026-07-22",
   "days": [
+    {
+      "lessonDate": "2026-07-22",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-22.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Navigating Public Transportation",
+          "durationSeconds": 32,
+          "summaryJa": "新しい場所での公共交通機関の使い方について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Local Transit Systems",
+          "durationSeconds": 52,
+          "summaryJa": "公共交通機関をスムーズに使いこなすためのコツを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Urban Commuting",
+          "durationSeconds": 57,
+          "summaryJa": "都市の公共交通機関を効率的に活用するための洗練されたアプローチ。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-07-21",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-21.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
