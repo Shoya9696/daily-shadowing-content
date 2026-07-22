@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-21T15:01:17Z",
-  "latestLessonDate": "2026-07-22",
+  "generatedAtUtc": "2026-07-22T15:01:26Z",
+  "latestLessonDate": "2026-07-23",
   "days": [
+    {
+      "lessonDate": "2026-07-23",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-23.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Keeping Your Devices Healthy",
+          "durationSeconds": 36,
+          "summaryJa": "バッテリーを長持ちさせ、データを安全に守るための基本的なヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Essential Tips for Device Maintenance",
+          "durationSeconds": 59,
+          "summaryJa": "バッテリーの寿命を延ばし、データの安全性を確保するための実践的なアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Device Longevity and Data Security",
+          "durationSeconds": 66,
+          "summaryJa": "高度なバッテリー管理とデジタルデータの安全なバックアップ戦略。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-07-22",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-22.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
