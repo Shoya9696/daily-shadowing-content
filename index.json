@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-22T15:01:26Z",
-  "latestLessonDate": "2026-07-23",
+  "generatedAtUtc": "2026-07-23T21:50:05Z",
+  "latestLessonDate": "2026-07-24",
   "days": [
+    {
+      "lessonDate": "2026-07-24",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-24.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Taking Stretch Breaks at Your Desk",
+          "durationSeconds": 32,
+          "summaryJa": "デスクワーク中にできる簡単なストレッチや姿勢の改善方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Simple Desk Stretches for Better Wellness",
+          "durationSeconds": 56,
+          "summaryJa": "デスクワークの生産性を高めるための、効果的なストレッチルーチンを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Taking Stretch Breaks at Your Desk",
+          "durationSeconds": 60,
+          "summaryJa": "デスクワーク中の健康管理として、姿勢改善や身体の凝りをほぐすための簡単なストレッチの習慣について学びます。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-07-23",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-23.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -777,31 +803,6 @@
           "title": "The Science of Movement for Mental and Physical Well-being",
           "durationSeconds": 77,
           "summaryJa": "座り仕事の健康リスクを軽減するための科学的なアプローチと、職場での幸福感を高める方法を考察します。"
-        }
-      ]
-    },
-    {
-      "lessonDate": "2026-06-23",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-23.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Supporting Young People's Health",
-          "durationSeconds": 37,
-          "summaryJa": "専門家たちが、若者の健康と成長を支えるための新しい臨床研究を開始しようとしています。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Advancing Healthcare Through Clinical Research",
-          "durationSeconds": 59,
-          "summaryJa": "医療専門家が、若者の健康を守るための新しい研究の重要性と、その目的について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Evidence-Based Approaches in Pediatric Healthcare",
-          "durationSeconds": 73,
-          "summaryJa": "小児医療におけるエビデンスの重要性と、臨床試験を通じて医療の質を向上させる取り組みについて説明します。"
         }
       ]
     }
