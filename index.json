@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-23T21:50:05Z",
-  "latestLessonDate": "2026-07-24",
+  "generatedAtUtc": "2026-07-24T15:01:19Z",
+  "latestLessonDate": "2026-07-25",
   "days": [
+    {
+      "lessonDate": "2026-07-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-25.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Setting a First Savings Goal",
+          "durationSeconds": 30,
+          "summaryJa": "貯金を始めるための目標設定と小さなステップの積み重ね方について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Setting a First Savings Goal",
+          "durationSeconds": 51,
+          "summaryJa": "貯金の目標設定、少額から始めること、進捗確認の重要性について学ぶ実践的なトピック。"
+        },
+        {
+          "level": "advanced",
+          "title": "Setting a First Savings Goal",
+          "durationSeconds": 64,
+          "summaryJa": "貯蓄目標を成功させるための戦略的アプローチと自己規律の重要性について。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-07-24",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-24.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -778,31 +804,6 @@
           "title": "Addressing the Global Obesity Crisis",
           "durationSeconds": 68,
           "summaryJa": "現代の肥満問題の背景にある経済的・社会的要因を考察し、持続可能な解決策を考えます。"
-        }
-      ]
-    },
-    {
-      "lessonDate": "2026-06-24",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-24.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "The Benefits of Walking at Work",
-          "durationSeconds": 35,
-          "summaryJa": "仕事中に少し歩くことが、健康と幸福感に与える良い影響について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Improving Workplace Wellness Through Movement",
-          "durationSeconds": 54,
-          "summaryJa": "座りっぱなしの仕事が健康に与えるリスクと、短い休憩を取り入れる効果について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Science of Movement for Mental and Physical Well-being",
-          "durationSeconds": 77,
-          "summaryJa": "座り仕事の健康リスクを軽減するための科学的なアプローチと、職場での幸福感を高める方法を考察します。"
         }
       ]
     }
