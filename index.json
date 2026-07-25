@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-24T15:01:19Z",
-  "latestLessonDate": "2026-07-25",
+  "generatedAtUtc": "2026-07-25T15:01:28Z",
+  "latestLessonDate": "2026-07-26",
   "days": [
+    {
+      "lessonDate": "2026-07-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Enjoy Public Parks",
+          "durationSeconds": 36,
+          "summaryJa": "公共の公園を快適に利用するためのマナーやルールについてのガイドです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Etiquette for Shared Green Spaces",
+          "durationSeconds": 53,
+          "summaryJa": "公園などの公共スペースを皆が気持ちよく使うためのエチケットについて学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Maintaining Harmony in Public Spaces",
+          "durationSeconds": 60,
+          "summaryJa": "公共の場での調和を保ち、環境を維持するための思慮深い行動について解説します。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-07-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -779,31 +805,6 @@
           "title": "Advancements in Managing Type 1 Diabetes",
           "durationSeconds": 62,
           "summaryJa": "1型糖尿病の進行を遅らせる新しい免疫療法のNHS導入について、その医学的意義と患者への影響を解説します。"
-        }
-      ]
-    },
-    {
-      "lessonDate": "2026-06-25",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-25.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Health Trends for Young People",
-          "durationSeconds": 36,
-          "summaryJa": "若者の間で肥満が増加している背景と、健康的な生活習慣の大切さについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Understanding the Rise in Obesity",
-          "durationSeconds": 52,
-          "summaryJa": "若年層の肥満増加の要因と、現代社会が抱える健康の課題について詳しく解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Addressing the Global Obesity Crisis",
-          "durationSeconds": 68,
-          "summaryJa": "現代の肥満問題の背景にある経済的・社会的要因を考察し、持続可能な解決策を考えます。"
         }
       ]
     }
