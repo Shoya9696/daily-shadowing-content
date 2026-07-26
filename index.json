@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-25T15:01:28Z",
-  "latestLessonDate": "2026-07-26",
+  "generatedAtUtc": "2026-07-26T15:01:14Z",
+  "latestLessonDate": "2026-07-27",
   "days": [
+    {
+      "lessonDate": "2026-07-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting a Friendly Conversation",
+          "durationSeconds": 37,
+          "summaryJa": "自然なスモールトークを始めるための基本的なフレーズとコツを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building Connections Through Casual Chat",
+          "durationSeconds": 54,
+          "summaryJa": "スモールトークを通じて人間関係を深め、会話を円滑に進めるためのテクニックを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Social Interaction",
+          "durationSeconds": 61,
+          "summaryJa": "日常のコミュニケーションを円滑にし、相手との深い信頼関係を築くための高度な対話術。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-07-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,31 +808,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-06-26",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-26.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A New Medical Treatment for Diabetes",
-          "durationSeconds": 37,
-          "summaryJa": "1型糖尿病の発症を遅らせる新しい薬がイギリスのNHSで利用可能になりました。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Breakthrough Treatment for Type 1 Diabetes",
-          "durationSeconds": 58,
-          "summaryJa": "1型糖尿病の発症を遅らせる画期的な免疫療法が、イギリスの国民保健サービス（NHS）で導入されました。"
-        },
-        {
-          "level": "advanced",
-          "title": "Advancements in Managing Type 1 Diabetes",
-          "durationSeconds": 62,
-          "summaryJa": "1型糖尿病の進行を遅らせる新しい免疫療法のNHS導入について、その医学的意義と患者への影響を解説します。"
-        }
-      ]
     }
   ]
 }
