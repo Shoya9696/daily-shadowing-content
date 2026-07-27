@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-26T15:01:14Z",
-  "latestLessonDate": "2026-07-27",
+  "generatedAtUtc": "2026-07-27T15:01:38Z",
+  "latestLessonDate": "2026-07-28",
   "days": [
+    {
+      "lessonDate": "2026-07-28",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-28.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Discussion on Social Care",
+          "durationSeconds": 42,
+          "summaryJa": "保守党党首が首相に対し、社会福祉改革のために増税を避けるよう要請しました。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Proposing Reforms for Social Care",
+          "durationSeconds": 53,
+          "summaryJa": "保守党党首が、増税なしでの社会福祉改革を目指し、首相との協力姿勢を示しました。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Debate Over Social Care Funding",
+          "durationSeconds": 64,
+          "summaryJa": "社会福祉改革をめぐり、保守党党首が増税回避を条件に協力の意思を表明しました。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-07-27",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-27.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-06-27",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-27.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 34,
-          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 51,
-          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 68,
-          "summaryJa": "ゴミの分別方法や、ラベルの読み方、ゴミを減らす工夫について学びます。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }
