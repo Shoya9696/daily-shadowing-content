@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-28T15:01:39Z",
-  "latestLessonDate": "2026-07-29",
+  "generatedAtUtc": "2026-07-29T15:01:23Z",
+  "latestLessonDate": "2026-07-30",
   "days": [
+    {
+      "lessonDate": "2026-07-30",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-30.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Hand Off Tasks Effectively",
+          "durationSeconds": 34,
+          "summaryJa": "チームメイトに仕事をスムーズに引き継ぐための基本的なステップとコツを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering the Art of Work Delegation",
+          "durationSeconds": 53,
+          "summaryJa": "効率的な引き継ぎを行い、チーム全体の生産性を向上させるための実践的なアドバイスです。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategic Approaches to Work Transitions",
+          "durationSeconds": 64,
+          "summaryJa": "組織内での円滑な業務移管を成功させ、プロジェクトの継続性を保つための戦略的アプローチ。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-29",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-29.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-06-29",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-29.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Staying Safe During Hot Weather",
-          "durationSeconds": 33,
-          "summaryJa": "専門家は、猛暑の中では若くて健康な人でも心臓発作のリスクがあるため、運動や飲酒に注意するよう呼びかけています。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Protecting Your Heart in a Heatwave",
-          "durationSeconds": 57,
-          "summaryJa": "猛暑が続く中、専門家は若くて健康な人に対しても、激しい運動や過度な飲酒を控えて心臓への負担を減らすよう警告しています。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Hidden Risks of Heatwaves on Physical Health",
-          "durationSeconds": 67,
-          "summaryJa": "猛暑時の心臓発作リスクについて、専門家は若年層や健康な人に対しても、運動習慣や飲酒の見直しを強く勧めています。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
