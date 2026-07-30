@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-29T15:01:23Z",
-  "latestLessonDate": "2026-07-30",
+  "generatedAtUtc": "2026-07-30T15:01:54Z",
+  "latestLessonDate": "2026-07-31",
   "days": [
+    {
+      "lessonDate": "2026-07-31",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-31.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Visiting a Local Museum",
+          "durationSeconds": 29,
+          "summaryJa": "美術館を初めて訪れる際のチケット購入や館内での行動について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Enjoying a Day at the Museum",
+          "durationSeconds": 50,
+          "summaryJa": "美術館をより楽しむためのチケットの買い方や館内でのマナーについて解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Navigating a Museum Experience",
+          "durationSeconds": 59,
+          "summaryJa": "美術館を初めて訪れる際のチケット購入、展示の見方、基本的な質問の仕方を学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-07-30",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-30.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -779,32 +805,6 @@
           "title": "Mastering the Art of Efficient Meal Planning",
           "durationSeconds": 62,
           "summaryJa": "効率的な食事計画を極め、日々の生活の質を向上させるための上級者向け戦略。"
-        }
-      ],
-      "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-06-30",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-06-30.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A Calm Start to Your Morning",
-          "durationSeconds": 31,
-          "summaryJa": "朝の時間を穏やかに過ごし、良い一日をスタートさせるための習慣について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Designing Your Ideal Morning",
-          "durationSeconds": 48,
-          "summaryJa": "生産性を高め、精神的な余裕を生むための朝のルーティンの作り方を紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of a Balanced Morning Routine",
-          "durationSeconds": 61,
-          "summaryJa": "穏やかな朝の迎え方、最初の1時間の計画、そしてシンプルな習慣で一日を始めるための実践的なアドバイス。"
         }
       ],
       "topicCategory": "everyday_life"
