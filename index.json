@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-07-30T15:01:54Z",
-  "latestLessonDate": "2026-07-31",
+  "generatedAtUtc": "2026-08-01T15:01:13Z",
+  "latestLessonDate": "2026-08-02",
   "days": [
+    {
+      "lessonDate": "2026-08-02",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-02.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 28,
+          "summaryJa": "会議の冒頭で挨拶をし、目的を明確に伝えるための実用的なフレーズを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 47,
+          "summaryJa": "会議を円滑に開始し、参加者の意識を合わせるための構成的なアプローチを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 54,
+          "summaryJa": "会議の効率を最大化するためのプロフェッショナルな導入方法を学びます。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-07-31",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-31.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,58 +782,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-07-02",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-02.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Start Your Meeting",
-          "durationSeconds": 28,
-          "summaryJa": "会議を円滑に始めるための挨拶や目的の伝え方を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Setting the Tone for Productive Meetings",
-          "durationSeconds": 47,
-          "summaryJa": "生産的な会議にするための進行役としての振る舞いと目的設定の方法。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Opening Professional Meetings",
-          "durationSeconds": 58,
-          "summaryJa": "プロフェッショナルな会議の導入部を洗練させ、参加者のエンゲージメントを高める方法。"
-        }
-      ],
-      "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-07-01",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-01.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Simple Meal Planning",
-          "durationSeconds": 36,
-          "summaryJa": "忙しい週のための簡単な食事計画と買い物のコツについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Smart Strategies for Weekly Meal Prep",
-          "durationSeconds": 54,
-          "summaryJa": "効率的に食事の準備を行い、平日のストレスを減らすための賢い方法を紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Efficient Meal Planning",
-          "durationSeconds": 62,
-          "summaryJa": "効率的な食事計画を極め、日々の生活の質を向上させるための上級者向け戦略。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
