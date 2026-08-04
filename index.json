@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-01T15:01:13Z",
-  "latestLessonDate": "2026-08-02",
+  "generatedAtUtc": "2026-08-04T14:01:11Z",
+  "latestLessonDate": "2026-08-04",
   "days": [
+    {
+      "lessonDate": "2026-08-04",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-04.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Making Your Home Smarter",
+          "durationSeconds": 36,
+          "summaryJa": "スマートホームの基本と、音声アシスタントを使った便利な生活について解説します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Improving Daily Life with Smart Technology",
+          "durationSeconds": 53,
+          "summaryJa": "スマートデバイスを活用して、日々のルーチンを効率化する方法について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Evolution of Domestic Smart Automation",
+          "durationSeconds": 69,
+          "summaryJa": "家庭内自動化の進化と、スマートホームがもたらす生活の質的向上について考察します。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-08-02",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-02.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,58 +756,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-07-04",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-04.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Finding Your Way Around",
-          "durationSeconds": 27,
-          "summaryJa": "新しい街で道に迷った時に、丁寧に道を尋ねるための基本的なフレーズを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Navigating Like a Local",
-          "durationSeconds": 45,
-          "summaryJa": "知らない場所で道を聞く際、より自然で丁寧な表現を使って目的地までたどり着く方法を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Urban Navigation",
-          "durationSeconds": 57,
-          "summaryJa": "都市部での移動を円滑にするため、詳細なランドマークを用いたルート確認や道案内の受け方を学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-07-03",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-03.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Taking Short Notes After a Call",
-          "durationSeconds": 30,
-          "summaryJa": "通話直後に決定事項や次のステップをメモする習慣の重要性についてのレッスン。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Effective Note-Taking Techniques",
-          "durationSeconds": 57,
-          "summaryJa": "通話後の効率的なメモ取りが仕事の生産性に与える影響についての解説。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Post-Call Documentation",
-          "durationSeconds": 66,
-          "summaryJa": "通話後の記録作成を最適化し、チームの連携と生産性を高めるための戦略。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
