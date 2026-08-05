@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-04T15:01:22Z",
-  "latestLessonDate": "2026-08-05",
+  "generatedAtUtc": "2026-08-05T16:50:36Z",
+  "latestLessonDate": "2026-08-06",
   "days": [
+    {
+      "lessonDate": "2026-08-06",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-06.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Split a Restaurant Bill",
+          "durationSeconds": 31,
+          "summaryJa": "友人との食事で会計を公平に分けるためのシンプルで役立つ英会話のヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Fair Bill Splitting",
+          "durationSeconds": 51,
+          "summaryJa": "友人との食事で公平に支払いを行うための、スムーズで丁寧なコミュニケーション術。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Etiquette of Shared Expenses",
+          "durationSeconds": 61,
+          "summaryJa": "友人との会食において、金銭の支払いをスムーズかつプロフェッショナルに行うための洗練されたアプローチ。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-08-05",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-05.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-07-06",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-06.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Daily Walking Routine",
-          "durationSeconds": 30,
-          "summaryJa": "忙しい毎日の中で、健康のために短い散歩を習慣化するためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Making Walking a Natural Part of Life",
-          "durationSeconds": 51,
-          "summaryJa": "忙しいスケジュールの中でも、ウォーキングを生活の一部として自然に取り入れる方法。"
-        },
-        {
-          "level": "advanced",
-          "title": "Integrating Movement into a Modern Lifestyle",
-          "durationSeconds": 57,
-          "summaryJa": "多忙な現代生活において、心身の健康を維持するためにウォーキングを戦略的に取り入れる方法。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
