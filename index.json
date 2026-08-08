@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-07T15:01:47Z",
-  "latestLessonDate": "2026-08-08",
+  "generatedAtUtc": "2026-08-08T15:01:42Z",
+  "latestLessonDate": "2026-08-09",
   "days": [
+    {
+      "lessonDate": "2026-08-09",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-09.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Healthy Digital Habits",
+          "durationSeconds": 35,
+          "summaryJa": "デジタル習慣を見直し、健康的な生活を送るためのヒントを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Finding Balance in a Digital World",
+          "durationSeconds": 51,
+          "summaryJa": "デジタル習慣が生活に与える影響と、バランスを取り戻すための具体的な方法について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategies for Digital Well-being",
+          "durationSeconds": 74,
+          "summaryJa": "デジタル依存の兆候を理解し、専門的なアプローチを通じて健全な生活習慣を取り戻す方法を解説します。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-08-08",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-08.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-07-09",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-09.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Give Kind Feedback",
-          "durationSeconds": 36,
-          "summaryJa": "相手を傷つけずにアドバイスを伝えるための、優しく前向きなコミュニケーション術を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering the Art of Constructive Feedback",
-          "durationSeconds": 59,
-          "summaryJa": "人間関係を良好に保ちながら、相手に建設的なアドバイスを伝えるための実践的なテクニックを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Communicating Suggestions Effectively",
-          "durationSeconds": 69,
-          "summaryJa": "対人関係において、相手を尊重しつつ前向きな変化を促すための、高度で洗練されたフィードバック手法を解説します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
