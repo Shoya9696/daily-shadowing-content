@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-11T15:01:45Z",
-  "latestLessonDate": "2026-08-12",
+  "generatedAtUtc": "2026-08-12T15:02:01Z",
+  "latestLessonDate": "2026-08-13",
   "days": [
+    {
+      "lessonDate": "2026-08-13",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-13.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Getting Started with Your New Device",
+          "durationSeconds": 37,
+          "summaryJa": "新しいデバイスを使い始めるための基本的なセットアップ手順とWi-Fi接続のコツについて。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Managing Your Digital Devices Effectively",
+          "durationSeconds": 61,
+          "summaryJa": "デジタルデバイスの管理方法、アプリの更新、および一般的なトラブルシューティングのヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Modern Technology at Home",
+          "durationSeconds": 70,
+          "summaryJa": "家庭でのテクノロジー活用術。効率的なセットアップ、メンテナンスの重要性、およびトラブル解決の戦略。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-08-12",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-12.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-07-13",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-13.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Exploring a Local Market",
-          "durationSeconds": 32,
-          "summaryJa": "地元の市場を訪れて食べ物を探したり、店員さんと会話したりする練習。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Joy of Market Shopping",
-          "durationSeconds": 48,
-          "summaryJa": "地元の市場で買い物を楽しみながら、店員と価格交渉や商品の質問をする練習。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Exploring Local Markets",
-          "durationSeconds": 60,
-          "summaryJa": "地元の市場を探索し、屋台の食べ物を楽しんだり、店主と交流したりするための実践的なアドバイス。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
