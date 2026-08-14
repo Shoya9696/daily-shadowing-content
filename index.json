@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-13T15:02:45Z",
-  "latestLessonDate": "2026-08-14",
+  "generatedAtUtc": "2026-08-14T23:41:10Z",
+  "latestLessonDate": "2026-08-15",
   "days": [
+    {
+      "lessonDate": "2026-08-15",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-15.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Creating Your First Budget",
+          "durationSeconds": 30,
+          "summaryJa": "月々の予算を立てて、お金を賢く管理する方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building Better Spending Habits",
+          "durationSeconds": 53,
+          "summaryJa": "支出を把握し、賢い経済的な選択をするためのステップを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Financial Future",
+          "durationSeconds": 69,
+          "summaryJa": "持続可能な貯蓄と賢い予算管理の戦略を習得します。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-08-14",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-14.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-07-15",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-15.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Staying Hydrated During Work",
-          "durationSeconds": 31,
-          "summaryJa": "仕事中に水分補給を維持するための実用的なヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Staying Hydrated During Work",
-          "durationSeconds": 54,
-          "summaryJa": "仕事の効率を上げるための水分補給の習慣について。"
-        },
-        {
-          "level": "advanced",
-          "title": "Staying Hydrated During Work",
-          "durationSeconds": 62,
-          "summaryJa": "仕事中の認知機能維持と健康のための水分補給の重要性。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
