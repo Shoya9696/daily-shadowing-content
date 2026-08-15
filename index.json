@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-14T23:41:10Z",
-  "latestLessonDate": "2026-08-15",
+  "generatedAtUtc": "2026-08-15T15:01:14Z",
+  "latestLessonDate": "2026-08-16",
   "days": [
+    {
+      "lessonDate": "2026-08-16",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-16.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Easy Ways to Save Electricity",
+          "durationSeconds": 32,
+          "summaryJa": "家庭で簡単にできる節電の方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Sustainable Habits for Your Home",
+          "durationSeconds": 47,
+          "summaryJa": "日常生活で持続可能なエネルギーの使い方を実践する方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "Smart Strategies for Reducing Household Energy Consumption",
+          "durationSeconds": 65,
+          "summaryJa": "家庭での電力消費を抑えるための、賢い節約術と習慣についての解説。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-08-15",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-15.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-07-16",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-16.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Smart Ways to Shop",
-          "durationSeconds": 29,
-          "summaryJa": "賢い買い物のための比較方法と、衝動買いを防ぐためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Developing Better Spending Habits",
-          "durationSeconds": 58,
-          "summaryJa": "衝動買いを避け、長期的な価値を判断するための買い物戦略について。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Value-Based Shopping",
-          "durationSeconds": 67,
-          "summaryJa": "価格比較を超えた、価値ベースの消費行動と賢い意思決定プロセスについて。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
