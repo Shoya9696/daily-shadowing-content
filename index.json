@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-16T16:06:52Z",
-  "latestLessonDate": "2026-08-17",
+  "generatedAtUtc": "2026-08-18T12:37:12Z",
+  "latestLessonDate": "2026-08-18",
   "days": [
+    {
+      "lessonDate": "2026-08-18",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-18.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Important News About Fertility Clinics",
+          "durationSeconds": 36,
+          "summaryJa": "北キプロスの不妊治療クリニックで、精子や卵子の提供者に関する不適切な管理の疑いが報じられています。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Transparency Concerns in Fertility Treatment",
+          "durationSeconds": 55,
+          "summaryJa": "不妊治療におけるドナー情報の不一致に関する懸念と、医療機関の透明性の重要性について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Addressing Ethical Breaches in Reproductive Healthcare",
+          "durationSeconds": 67,
+          "summaryJa": "生殖医療における倫理的違反の可能性と、患者の権利を守るための透明性と規制の必要性について論じます。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-08-17",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-17.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-07-18",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-18.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Checking on a Friend",
-          "durationSeconds": 29,
-          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Checking on a Friend",
-          "durationSeconds": 57,
-          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
-        },
-        {
-          "level": "advanced",
-          "title": "Checking on a Friend",
-          "durationSeconds": 68,
-          "summaryJa": "友人への体調伺いと、思いやりを持って話を聞くための実用的なトピック。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
