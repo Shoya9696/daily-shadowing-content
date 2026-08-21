@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-21T12:38:29Z",
-  "latestLessonDate": "2026-08-21",
+  "generatedAtUtc": "2026-08-21T15:01:11Z",
+  "latestLessonDate": "2026-08-22",
   "days": [
+    {
+      "lessonDate": "2026-08-22",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-22.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Organizing Your Digital Study Space",
+          "durationSeconds": 30,
+          "summaryJa": "デジタル学習ツールを整理して効率的に勉強する方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Maximizing Productivity with Digital Study Tools",
+          "durationSeconds": 55,
+          "summaryJa": "デジタル学習ツールを最大限に活用して、効率的に学習する方法について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Personal Digital Learning Ecosystem",
+          "durationSeconds": 62,
+          "summaryJa": "個人のデジタル学習環境を最適化し、生産性を高めるための戦略を解説します。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-08-21",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-21.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-07-22",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-22.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Navigating Public Transportation",
-          "durationSeconds": 32,
-          "summaryJa": "新しい場所での公共交通機関の使い方について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Local Transit Systems",
-          "durationSeconds": 52,
-          "summaryJa": "公共交通機関をスムーズに使いこなすためのコツを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Urban Commuting",
-          "durationSeconds": 57,
-          "summaryJa": "都市の公共交通機関を効率的に活用するための洗練されたアプローチ。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
