@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-19T15:02:01Z",
-  "latestLessonDate": "2026-08-20",
+  "generatedAtUtc": "2026-08-21T12:38:29Z",
+  "latestLessonDate": "2026-08-21",
   "days": [
+    {
+      "lessonDate": "2026-08-21",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-21.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Exploring a Local Food Market",
+          "durationSeconds": 33,
+          "summaryJa": "地元の市場で食べ物を探したり、価格を尋ねたりする際の会話の練習。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Joy of Shopping at Local Markets",
+          "durationSeconds": 51,
+          "summaryJa": "地元の市場で買い物をする際の楽しみ方や、売り手とのコミュニケーション方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "Cultural Immersion Through Market Visits",
+          "durationSeconds": 62,
+          "summaryJa": "市場訪問を通じた文化的な交流の深め方と、現地の生活を理解するためのコツ。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-08-20",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-20.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-07-21",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-21.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Asking for Feedback on a Draft",
-          "durationSeconds": 28,
-          "summaryJa": "ドラフトへのフィードバックを求める際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なトピック。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Asking for Feedback on a Draft",
-          "durationSeconds": 53,
-          "summaryJa": "ドラフトへのフィードバックを依頼する際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "Asking for Feedback on a Draft",
-          "durationSeconds": 59,
-          "summaryJa": "ドラフトへのフィードバックを求める際、明確なコメントをもらい、文脈を説明し、文書を改善するための実践的なトピック。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
