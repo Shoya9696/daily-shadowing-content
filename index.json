@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-21T15:01:11Z",
-  "latestLessonDate": "2026-08-22",
+  "generatedAtUtc": "2026-08-22T15:01:07Z",
+  "latestLessonDate": "2026-08-23",
   "days": [
+    {
+      "lessonDate": "2026-08-23",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-23.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Simple Ways to Stay Hydrated",
+          "durationSeconds": 30,
+          "summaryJa": "仕事中に水分を摂取し、疲れを防ぐための簡単なヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Maintaining Hydration for Productivity",
+          "durationSeconds": 45,
+          "summaryJa": "生産性を維持するために、仕事中に水分補給を習慣化する方法。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Performance Through Hydration",
+          "durationSeconds": 62,
+          "summaryJa": "水分補給が仕事のパフォーマンスと認知機能に与える影響についての解説。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-08-22",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-22.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-07-23",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-23.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Keeping Your Devices Healthy",
-          "durationSeconds": 36,
-          "summaryJa": "バッテリーを長持ちさせ、データを安全に守るための基本的なヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Essential Tips for Device Maintenance",
-          "durationSeconds": 59,
-          "summaryJa": "バッテリーの寿命を延ばし、データの安全性を確保するための実践的なアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Device Longevity and Data Security",
-          "durationSeconds": 66,
-          "summaryJa": "高度なバッテリー管理とデジタルデータの安全なバックアップ戦略。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
