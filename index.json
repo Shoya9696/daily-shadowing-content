@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-22T15:01:07Z",
-  "latestLessonDate": "2026-08-23",
+  "generatedAtUtc": "2026-08-23T15:01:03Z",
+  "latestLessonDate": "2026-08-24",
   "days": [
+    {
+      "lessonDate": "2026-08-24",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-24.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Smart Shopping Habits",
+          "durationSeconds": 33,
+          "summaryJa": "賢い買い物の習慣について学びましょう。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Making Better Purchasing Decisions",
+          "durationSeconds": 54,
+          "summaryJa": "賢い消費判断を下すためのステップについて学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Value Comparison",
+          "durationSeconds": 62,
+          "summaryJa": "価格と価値を見極めるための高度なアプローチを解説します。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-08-23",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-23.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-07-24",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-24.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Taking Stretch Breaks at Your Desk",
-          "durationSeconds": 32,
-          "summaryJa": "デスクワーク中にできる簡単なストレッチや姿勢の改善方法について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Simple Desk Stretches for Better Wellness",
-          "durationSeconds": 56,
-          "summaryJa": "デスクワークの生産性を高めるための、効果的なストレッチルーチンを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Taking Stretch Breaks at Your Desk",
-          "durationSeconds": 60,
-          "summaryJa": "デスクワーク中の健康管理として、姿勢改善や身体の凝りをほぐすための簡単なストレッチの習慣について学びます。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
