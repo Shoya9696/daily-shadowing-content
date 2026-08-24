@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-23T15:01:03Z",
-  "latestLessonDate": "2026-08-24",
+  "generatedAtUtc": "2026-08-24T15:01:21Z",
+  "latestLessonDate": "2026-08-25",
   "days": [
+    {
+      "lessonDate": "2026-08-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-25.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Helping Out in Our Neighborhood",
+          "durationSeconds": 31,
+          "summaryJa": "地域の清掃活動に参加する楽しさと、協力して環境を良くすることの大切さを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Value of Local Volunteer Work",
+          "durationSeconds": 48,
+          "summaryJa": "地域社会でのボランティア活動を通じて、協力することの意義と環境保護の重要性を考えます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Cultivating Community Through Environmental Stewardship",
+          "durationSeconds": 62,
+          "summaryJa": "環境保護活動を通じてコミュニティの絆を深め、持続可能な生活のあり方について探求します。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-08-24",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-24.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-07-25",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-25.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Setting a First Savings Goal",
-          "durationSeconds": 30,
-          "summaryJa": "貯金を始めるための目標設定と小さなステップの積み重ね方について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Setting a First Savings Goal",
-          "durationSeconds": 51,
-          "summaryJa": "貯金の目標設定、少額から始めること、進捗確認の重要性について学ぶ実践的なトピック。"
-        },
-        {
-          "level": "advanced",
-          "title": "Setting a First Savings Goal",
-          "durationSeconds": 64,
-          "summaryJa": "貯蓄目標を成功させるための戦略的アプローチと自己規律の重要性について。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
