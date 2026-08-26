@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-24T15:01:21Z",
-  "latestLessonDate": "2026-08-25",
+  "generatedAtUtc": "2026-08-26T12:42:49Z",
+  "latestLessonDate": "2026-08-26",
   "days": [
+    {
+      "lessonDate": "2026-08-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Checking on a Friend",
+          "durationSeconds": 31,
+          "summaryJa": "友人への思いやりある声のかけ方と、相手の話に耳を傾けることの大切さについてのレッスンです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Checking on a Friend",
+          "durationSeconds": 51,
+          "summaryJa": "友人との関係を良好に保つための思いやりのあるコミュニケーション術。"
+        },
+        {
+          "level": "advanced",
+          "title": "Checking on a Friend",
+          "durationSeconds": 59,
+          "summaryJa": "友人関係における適切な距離感と、共感的なコミュニケーションの重要性。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-08-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-07-26",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-26.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Enjoy Public Parks",
-          "durationSeconds": 36,
-          "summaryJa": "公共の公園を快適に利用するためのマナーやルールについてのガイドです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Etiquette for Shared Green Spaces",
-          "durationSeconds": 53,
-          "summaryJa": "公園などの公共スペースを皆が気持ちよく使うためのエチケットについて学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Maintaining Harmony in Public Spaces",
-          "durationSeconds": 60,
-          "summaryJa": "公共の場での調和を保ち、環境を維持するための思慮深い行動について解説します。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }
