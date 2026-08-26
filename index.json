@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-26T12:42:49Z",
-  "latestLessonDate": "2026-08-26",
+  "generatedAtUtc": "2026-08-26T15:01:31Z",
+  "latestLessonDate": "2026-08-27",
   "days": [
+    {
+      "lessonDate": "2026-08-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Improving Support for Abuse Survivors",
+          "durationSeconds": 33,
+          "summaryJa": "専門家がNHS（英国民保健サービス）の対応について改善を求めているニュースです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Addressing Care for Abuse Survivors",
+          "durationSeconds": 57,
+          "summaryJa": "NHSの対応に対する専門家の指摘と、改善に向けた取り組みについて。"
+        },
+        {
+          "level": "advanced",
+          "title": "Systemic Failures in Supporting Abuse Survivors",
+          "durationSeconds": 69,
+          "summaryJa": "NHSにおける虐待被害者への対応の現状と、専門家による改革への提言。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-08-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-07-27",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-27.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting a Friendly Conversation",
-          "durationSeconds": 37,
-          "summaryJa": "自然なスモールトークを始めるための基本的なフレーズとコツを紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building Connections Through Casual Chat",
-          "durationSeconds": 54,
-          "summaryJa": "スモールトークを通じて人間関係を深め、会話を円滑に進めるためのテクニックを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Social Interaction",
-          "durationSeconds": 61,
-          "summaryJa": "日常のコミュニケーションを円滑にし、相手との深い信頼関係を築くための高度な対話術。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
