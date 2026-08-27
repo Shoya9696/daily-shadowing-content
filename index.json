@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-26T15:01:31Z",
-  "latestLessonDate": "2026-08-27",
+  "generatedAtUtc": "2026-08-27T15:01:22Z",
+  "latestLessonDate": "2026-08-28",
   "days": [
+    {
+      "lessonDate": "2026-08-28",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-28.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Tips for a Tidy Home",
+          "durationSeconds": 33,
+          "summaryJa": "小さな部屋を整理して快適に過ごすための基本的なコツを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating a Spacious Home",
+          "durationSeconds": 51,
+          "summaryJa": "限られたスペースを最大限に活用し、心地よい住環境を作る方法を解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Minimalist Living",
+          "durationSeconds": 68,
+          "summaryJa": "ミニマリズムの考え方を取り入れ、快適で効率的な住空間を実現するためのヒント。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-08-27",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-27.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-07-28",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-28.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A Discussion on Social Care",
-          "durationSeconds": 42,
-          "summaryJa": "保守党党首が首相に対し、社会福祉改革のために増税を避けるよう要請しました。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Proposing Reforms for Social Care",
-          "durationSeconds": 53,
-          "summaryJa": "保守党党首が、増税なしでの社会福祉改革を目指し、首相との協力姿勢を示しました。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Debate Over Social Care Funding",
-          "durationSeconds": 64,
-          "summaryJa": "社会福祉改革をめぐり、保守党党首が増税回避を条件に協力の意思を表明しました。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
