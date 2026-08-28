@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-27T15:01:22Z",
-  "latestLessonDate": "2026-08-28",
+  "generatedAtUtc": "2026-08-28T15:01:25Z",
+  "latestLessonDate": "2026-08-29",
   "days": [
+    {
+      "lessonDate": "2026-08-29",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-29.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 32,
+          "summaryJa": "ドラフトへのフィードバックを求める際の、明確なコメントの依頼方法や文脈の説明について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 47,
+          "summaryJa": "ドラフトへのフィードバックを求める際の、明確なコメントの依頼方法や文脈の説明について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Requesting Professional Feedback",
+          "durationSeconds": 65,
+          "summaryJa": "効果的なフィードバックを求めるための具体的なステップと、文書を改善するためのコミュニケーション術。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-08-28",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-28.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-07-29",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-29.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Creating an Evening Wind-Down Routine",
-          "durationSeconds": 37,
-          "summaryJa": "仕事の後にリラックスし、翌日の準備をして、より良い睡眠をとるための実用的な習慣について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Creating an Evening Wind-Down Routine",
-          "durationSeconds": 55,
-          "summaryJa": "仕事の後にリラックスし、翌日の準備をして、より良い睡眠をとるための実用的な習慣について。"
-        },
-        {
-          "level": "advanced",
-          "title": "Creating an Evening Wind-Down Routine",
-          "durationSeconds": 67,
-          "summaryJa": "仕事の後にリラックスし、翌日の準備をして、より良い睡眠をとるための実用的な習慣について。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
