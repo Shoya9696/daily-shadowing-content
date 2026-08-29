@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-28T15:01:25Z",
-  "latestLessonDate": "2026-08-29",
+  "generatedAtUtc": "2026-08-29T15:01:06Z",
+  "latestLessonDate": "2026-08-30",
   "days": [
+    {
+      "lessonDate": "2026-08-30",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-30.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Navigating Public Transit",
+          "durationSeconds": 40,
+          "summaryJa": "新しい場所で公共交通機関を上手に利用するための基本的なコツを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Local Transit Systems",
+          "durationSeconds": 58,
+          "summaryJa": "公共交通機関を効率的に活用し、旅をスムーズにするためのアドバイスを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Transit Experience",
+          "durationSeconds": 60,
+          "summaryJa": "公共交通機関を高度に活用して、効率的かつ充実した旅行を実現するための戦略的アプローチ。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-08-29",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-29.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-07-30",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-30.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Hand Off Tasks Effectively",
-          "durationSeconds": 34,
-          "summaryJa": "チームメイトに仕事をスムーズに引き継ぐための基本的なステップとコツを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering the Art of Work Delegation",
-          "durationSeconds": 53,
-          "summaryJa": "効率的な引き継ぎを行い、チーム全体の生産性を向上させるための実践的なアドバイスです。"
-        },
-        {
-          "level": "advanced",
-          "title": "Strategic Approaches to Work Transitions",
-          "durationSeconds": 64,
-          "summaryJa": "組織内での円滑な業務移管を成功させ、プロジェクトの継続性を保つための戦略的アプローチ。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
