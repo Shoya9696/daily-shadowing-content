@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-29T15:01:06Z",
-  "latestLessonDate": "2026-08-30",
+  "generatedAtUtc": "2026-08-30T15:01:09Z",
+  "latestLessonDate": "2026-08-31",
   "days": [
+    {
+      "lessonDate": "2026-08-31",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-31.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Managing Battery Life and Backups",
+          "durationSeconds": 36,
+          "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータをバックアップするコツについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Optimizing Your Digital Devices",
+          "durationSeconds": 51,
+          "summaryJa": "デジタルデバイスのバッテリー寿命を延ばす方法と、効率的なデータ管理術について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Digital Maintenance for Daily Devices",
+          "durationSeconds": 71,
+          "summaryJa": "デバイスのバッテリー管理とデータバックアップを最適化するための実用的なアドバイス。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-08-30",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-30.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-07-31",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-07-31.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Visiting a Local Museum",
-          "durationSeconds": 29,
-          "summaryJa": "美術館を初めて訪れる際のチケット購入や館内での行動について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Enjoying a Day at the Museum",
-          "durationSeconds": 50,
-          "summaryJa": "美術館をより楽しむためのチケットの買い方や館内でのマナーについて解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Navigating a Museum Experience",
-          "durationSeconds": 59,
-          "summaryJa": "美術館を初めて訪れる際のチケット購入、展示の見方、基本的な質問の仕方を学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
