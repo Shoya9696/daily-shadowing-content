@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-30T15:01:09Z",
-  "latestLessonDate": "2026-08-31",
+  "generatedAtUtc": "2026-08-31T15:01:22Z",
+  "latestLessonDate": "2026-09-01",
   "days": [
+    {
+      "lessonDate": "2026-09-01",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-01.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Handing Off Work to a Teammate",
+          "durationSeconds": 30,
+          "summaryJa": "仕事を同僚に引き継ぐ際の、ステータスのまとめ方やファイルの共有方法についてのレッスンです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Handing Off Work to a Teammate",
+          "durationSeconds": 55,
+          "summaryJa": "業務の引継ぎを円滑に行うための、情報共有と責任範囲の明確化に関する練習です。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Delegating Tasks",
+          "durationSeconds": 67,
+          "summaryJa": "同僚に仕事を依頼する際、進捗状況の共有や明確な責任分担を円滑に行うためのヒント。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-08-31",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-31.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
