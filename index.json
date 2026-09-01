@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-08-31T15:01:22Z",
-  "latestLessonDate": "2026-09-01",
+  "generatedAtUtc": "2026-09-01T15:01:28Z",
+  "latestLessonDate": "2026-09-02",
   "days": [
+    {
+      "lessonDate": "2026-09-02",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-02.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Day at the Local Museum",
+          "durationSeconds": 32,
+          "summaryJa": "美術館を初めて訪れる際のチケット購入や館内での基本的なマナーについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Navigating a Large Art Museum",
+          "durationSeconds": 52,
+          "summaryJa": "美術館でスムーズに見学を楽しむためのチケット購入や館内でのコミュニケーション方法を紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Museum Experience",
+          "durationSeconds": 67,
+          "summaryJa": "美術館での深い鑑賞体験を得るための準備や、館内のマナー、効率的な回り方を学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-09-01",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-01.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-08-02",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-02.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 28,
-          "summaryJa": "会議の冒頭で挨拶をし、目的を明確に伝えるための実用的なフレーズを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 47,
-          "summaryJa": "会議を円滑に開始し、参加者の意識を合わせるための構成的なアプローチを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 54,
-          "summaryJa": "会議の効率を最大化するためのプロフェッショナルな導入方法を学びます。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
