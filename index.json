@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-01T15:01:28Z",
-  "latestLessonDate": "2026-09-02",
+  "generatedAtUtc": "2026-09-02T15:01:18Z",
+  "latestLessonDate": "2026-09-03",
   "days": [
+    {
+      "lessonDate": "2026-09-03",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-03.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Staying Safe Online",
+          "durationSeconds": 35,
+          "summaryJa": "デジタル生活の安全を守るための基本的なヒントを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Smart Habits for Digital Privacy",
+          "durationSeconds": 58,
+          "summaryJa": "デジタルプライバシーを維持するための賢い習慣について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Personal Data Security",
+          "durationSeconds": 73,
+          "summaryJa": "個人のデータセキュリティを強化するための高度な手法と習慣を学びます。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-09-02",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-02.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
