@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-02T15:01:18Z",
-  "latestLessonDate": "2026-09-03",
+  "generatedAtUtc": "2026-09-03T15:01:22Z",
+  "latestLessonDate": "2026-09-04",
   "days": [
+    {
+      "lessonDate": "2026-09-04",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-04.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Easy Stretches for Your Desk",
+          "durationSeconds": 29,
+          "summaryJa": "デスクワーク中に簡単にできるストレッチと姿勢の改善方法について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Maintaining Good Posture While Working",
+          "durationSeconds": 47,
+          "summaryJa": "デスクワーク中の正しい姿勢と、定期的なストレッチの重要性について。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Workspace for Wellness",
+          "durationSeconds": 58,
+          "summaryJa": "デスク環境の最適化と、健康的な働き方を維持するための戦略について。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-09-03",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-03.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-08-04",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-04.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Making Your Home Smarter",
-          "durationSeconds": 36,
-          "summaryJa": "スマートホームの基本と、音声アシスタントを使った便利な生活について解説します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Improving Daily Life with Smart Technology",
-          "durationSeconds": 53,
-          "summaryJa": "スマートデバイスを活用して、日々のルーチンを効率化する方法について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Evolution of Domestic Smart Automation",
-          "durationSeconds": 69,
-          "summaryJa": "家庭内自動化の進化と、スマートホームがもたらす生活の質的向上について考察します。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
