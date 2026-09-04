@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-03T15:01:22Z",
-  "latestLessonDate": "2026-09-04",
+  "generatedAtUtc": "2026-09-04T15:41:16Z",
+  "latestLessonDate": "2026-09-05",
   "days": [
+    {
+      "lessonDate": "2026-09-05",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-05.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Savings Journey",
+          "durationSeconds": 32,
+          "summaryJa": "貯金を始めるための基本的なステップと、小さな目標設定の重要性について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Solid Financial Foundation",
+          "durationSeconds": 53,
+          "summaryJa": "貯金を習慣化し、無理のない範囲で目標を達成するための戦略を解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Systematic Savings",
+          "durationSeconds": 70,
+          "summaryJa": "体系的な貯蓄戦略と、長期的な資産管理のためのマインドセットを深掘りします。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-09-04",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-04.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-08-05",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-05.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Tips for Better Sleep",
-          "durationSeconds": 27,
-          "summaryJa": "睡眠の質を高め、規則正しい生活を送るためのヒントを紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Establishing a Healthy Nighttime Routine",
-          "durationSeconds": 52,
-          "summaryJa": "夜のルーティンを整えて、翌朝を快適に迎えるための方法を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Circadian Rhythm",
-          "durationSeconds": 68,
-          "summaryJa": "体内時計を整え、睡眠の質を最大化するための科学的なアプローチについて解説します。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
