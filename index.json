@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-05T15:01:16Z",
-  "latestLessonDate": "2026-09-06",
+  "generatedAtUtc": "2026-09-06T15:01:11Z",
+  "latestLessonDate": "2026-09-07",
   "days": [
+    {
+      "lessonDate": "2026-09-07",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-07.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Start a Friendly Conversation",
+          "durationSeconds": 34,
+          "summaryJa": "会話を始めるためのシンプルでフレンドリーな方法を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Art of Keeping Conversation Flowing",
+          "durationSeconds": 50,
+          "summaryJa": "会話をスムーズに続け、相手とより良い関係を築くためのテクニックを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Nuances of Social Interaction",
+          "durationSeconds": 59,
+          "summaryJa": "社交的な場でのやり取りを洗練させ、自然で心地よい会話を維持するための高度なヒント。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-09-06",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-06.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-08-07",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-07.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 33,
-          "summaryJa": "ゴミの分別方法やラベルの読み方、ゴミを減らす工夫について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 56,
-          "summaryJa": "ゴミの分別方法やラベルの読み方、ゴミを減らす工夫について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Learning Local Recycling Basics",
-          "durationSeconds": 65,
-          "summaryJa": "ゴミの分別方法やラベルの読み方、ゴミを減らす工夫について学びます。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }
