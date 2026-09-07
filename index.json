@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-06T15:01:11Z",
-  "latestLessonDate": "2026-09-07",
+  "generatedAtUtc": "2026-09-07T15:02:51Z",
+  "latestLessonDate": "2026-09-08",
   "days": [
+    {
+      "lessonDate": "2026-09-08",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-08.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Brave News Presenter",
+          "durationSeconds": 34,
+          "summaryJa": "BBCのプレゼンター、マリアム・モシリさんが自身の血液がんを公表しました。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Raising Awareness Through Personal Story",
+          "durationSeconds": 56,
+          "summaryJa": "BBCのプレゼンターが、自身の病気の経験を共有することで、がんに対する意識を高めようとしています。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Impact of Public Health Transparency",
+          "durationSeconds": 70,
+          "summaryJa": "BBCのプレゼンター、マリアム・モシリ氏が自身の血液がんを公表したことで、健康への関心と早期発見の重要性が改めて注目されています。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-09-07",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-07.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-08-08",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-08.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Learning to Say No Politely",
-          "durationSeconds": 35,
-          "summaryJa": "相手を尊重しながら、自分の意思をはっきりと伝えるための丁寧な断り方について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Setting Boundaries",
-          "durationSeconds": 53,
-          "summaryJa": "人間関係を維持しながら、自分の限界を相手に伝えるためのコミュニケーション術について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Assertive Communication",
-          "durationSeconds": 60,
-          "summaryJa": "相手を尊重しながらも、自分の意思をはっきりと伝えるためのアサーティブな対話術を解説します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
