@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-08T15:01:40Z",
-  "latestLessonDate": "2026-09-09",
+  "generatedAtUtc": "2026-09-09T15:02:30Z",
+  "latestLessonDate": "2026-09-10",
   "days": [
+    {
+      "lessonDate": "2026-09-10",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-10.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Start a Meeting",
+          "durationSeconds": 34,
+          "summaryJa": "会議を円滑に開始するための挨拶や目的の伝え方を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 46,
+          "summaryJa": "会議を円滑に始めるための挨拶、目的の共有、議論の切り出し方について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 61,
+          "summaryJa": "会議をスムーズに開始するための挨拶、目的の共有、議論の切り出し方に関する実践的なトピックです。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-09-09",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-09.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-08-10",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-10.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Morning Right",
-          "durationSeconds": 28,
-          "summaryJa": "朝の時間を穏やかに過ごし、良い習慣を身につけるためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Creating a Productive Morning Routine",
-          "durationSeconds": 49,
-          "summaryJa": "生産性を高め、穏やかな気持ちで一日をスタートさせるための朝のルーティン作りについて。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Daily Morning Habits",
-          "durationSeconds": 60,
-          "summaryJa": "朝の習慣を最適化し、一日を通して持続的な集中力と幸福感を得るための戦略。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
