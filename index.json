@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-09T15:02:30Z",
-  "latestLessonDate": "2026-09-10",
+  "generatedAtUtc": "2026-09-10T15:01:59Z",
+  "latestLessonDate": "2026-09-11",
   "days": [
+    {
+      "lessonDate": "2026-09-11",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-11.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Learning Basic Local Customs",
+          "durationSeconds": 30,
+          "summaryJa": "旅行中に現地の挨拶や礼儀を学ぶことの重要性について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Understanding Local Etiquette",
+          "durationSeconds": 50,
+          "summaryJa": "旅行先でのマナーや礼儀を理解し、異文化を尊重する方法について。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Being a Respectful Traveler",
+          "durationSeconds": 63,
+          "summaryJa": "旅行先で尊重されるためのマナーや挨拶、文化理解について学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-09-10",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-10.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-08-11",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-11.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Taking Short Notes After a Call",
-          "durationSeconds": 29,
-          "summaryJa": "通話直後に決定事項や次のステップをメモする重要性と、その具体的な方法について解説します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Taking Short Notes After a Call",
-          "durationSeconds": 54,
-          "summaryJa": "通話の直後にメモを取る習慣が、いかに効率的な業務遂行とミスの防止に繋がるかを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Taking Short Notes After a Call",
-          "durationSeconds": 67,
-          "summaryJa": "業務効率を最大化するための通話後メモの重要性と、情報を構造化して記録する高度なテクニックについて。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
