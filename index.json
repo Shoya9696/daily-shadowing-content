@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-10T15:01:59Z",
-  "latestLessonDate": "2026-09-11",
+  "generatedAtUtc": "2026-09-11T15:01:36Z",
+  "latestLessonDate": "2026-09-12",
   "days": [
+    {
+      "lessonDate": "2026-09-12",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-12.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Getting Started with Smart Homes",
+          "durationSeconds": 32,
+          "summaryJa": "スマートホームの基本機能と、音声アシスタントを使った生活の始め方を紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Benefits of Home Automation",
+          "durationSeconds": 50,
+          "summaryJa": "スマートホーム技術がどのように私たちの生活を効率化し、快適にするかを解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Integrating Smart Technology into Daily Life",
+          "durationSeconds": 67,
+          "summaryJa": "スマートホーム技術の統合がもたらす生活の質の向上と、その利便性について詳しく考察します。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-09-11",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-11.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -782,32 +808,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-08-12",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-12.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Finding Your Way in a New City",
-          "durationSeconds": 24,
-          "summaryJa": "新しい街で道に迷ったとき、丁寧に道を聞くための基本的なフレーズを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Navigating Like a Local",
-          "durationSeconds": 44,
-          "summaryJa": "道を聞く際、ランドマークを活用してよりスムーズにコミュニケーションをとる方法を紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Navigating Urban Landscapes with Confidence",
-          "durationSeconds": 64,
-          "summaryJa": "新しい街で迷ったときに、礼儀正しく道を尋ね、目印を理解し、ルートを確認するための高度な会話スキルを学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
