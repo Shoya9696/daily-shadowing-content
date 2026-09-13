@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-11T15:01:36Z",
-  "latestLessonDate": "2026-09-12",
+  "generatedAtUtc": "2026-09-13T15:01:33Z",
+  "latestLessonDate": "2026-09-14",
   "days": [
+    {
+      "lessonDate": "2026-09-14",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-14.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Split the Bill Fairly",
+          "durationSeconds": 31,
+          "summaryJa": "友人との食事でスマートに割り勘をするための基本的な英会話フレーズ。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Managing Group Expenses Smoothly",
+          "durationSeconds": 46,
+          "summaryJa": "グループでの食事や旅行で、お金の精算をスムーズに行うためのヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Etiquette of Shared Financial Responsibility",
+          "durationSeconds": 60,
+          "summaryJa": "グループでの支払いを円滑かつ礼儀正しく行うための社会的なマナーと知恵。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-09-12",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-12.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,58 +782,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-08-14",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-14.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Building a Daily Walking Habit",
-          "durationSeconds": 29,
-          "summaryJa": "忙しい日々の中でも、快適な靴を選んで少しずつ歩く習慣を身につけるコツ。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building a Daily Walking Habit",
-          "durationSeconds": 48,
-          "summaryJa": "忙しい毎日の中で、ウォーキングを習慣化して健康を維持するための具体的なアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "Building a Daily Walking Habit",
-          "durationSeconds": 58,
-          "summaryJa": "ウォーキングを無理なく継続し、健康的なライフスタイルを維持するための賢い戦略。"
-        }
-      ],
-      "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-08-13",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-13.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Getting Started with Your New Device",
-          "durationSeconds": 37,
-          "summaryJa": "新しいデバイスを使い始めるための基本的なセットアップ手順とWi-Fi接続のコツについて。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Managing Your Digital Devices Effectively",
-          "durationSeconds": 61,
-          "summaryJa": "デジタルデバイスの管理方法、アプリの更新、および一般的なトラブルシューティングのヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Modern Technology at Home",
-          "durationSeconds": 70,
-          "summaryJa": "家庭でのテクノロジー活用術。効率的なセットアップ、メンテナンスの重要性、およびトラブル解決の戦略。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
