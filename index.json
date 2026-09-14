@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-13T15:01:33Z",
-  "latestLessonDate": "2026-09-14",
+  "generatedAtUtc": "2026-09-14T15:01:25Z",
+  "latestLessonDate": "2026-09-15",
   "days": [
+    {
+      "lessonDate": "2026-09-15",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-15.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Sorting Your Daily Waste",
+          "durationSeconds": 30,
+          "summaryJa": "ゴミの分別方法と、リサイクルを身近にするための簡単なステップについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Simple Steps Toward Better Recycling",
+          "durationSeconds": 50,
+          "summaryJa": "家庭でリサイクルを効率的に行うための具体的な手順と、ゴミを減らすための工夫について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Local Recycling Habits",
+          "durationSeconds": 62,
+          "summaryJa": "ゴミの分別方法やラベルの読み方、無駄なゴミを減らすための実践的なヒントについて学びます。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-09-14",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-14.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-08-15",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-15.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Creating Your First Budget",
-          "durationSeconds": 30,
-          "summaryJa": "月々の予算を立てて、お金を賢く管理する方法について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building Better Spending Habits",
-          "durationSeconds": 53,
-          "summaryJa": "支出を把握し、賢い経済的な選択をするためのステップを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Your Financial Future",
-          "durationSeconds": 69,
-          "summaryJa": "持続可能な貯蓄と賢い予算管理の戦略を習得します。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
