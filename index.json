@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-14T15:01:25Z",
-  "latestLessonDate": "2026-09-15",
+  "generatedAtUtc": "2026-09-15T16:10:05Z",
+  "latestLessonDate": "2026-09-16",
   "days": [
+    {
+      "lessonDate": "2026-09-16",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-16.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Say No Kindly",
+          "durationSeconds": 34,
+          "summaryJa": "断ることは難しいですが、丁寧な表現を使えば相手を傷つけずに自分の意思を伝えることができます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Art of Declining Requests",
+          "durationSeconds": 54,
+          "summaryJa": "相手の気持ちを尊重しつつ、自分の境界線を守るための上手な断り方について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Communicating Boundaries Effectively",
+          "durationSeconds": 72,
+          "summaryJa": "自分の価値観を損なうことなく、相手との関係性を維持しながら断るための高度なコミュニケーション術。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-09-15",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-15.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-08-16",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-16.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Easy Ways to Save Electricity",
-          "durationSeconds": 32,
-          "summaryJa": "家庭で簡単にできる節電の方法について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Sustainable Habits for Your Home",
-          "durationSeconds": 47,
-          "summaryJa": "日常生活で持続可能なエネルギーの使い方を実践する方法。"
-        },
-        {
-          "level": "advanced",
-          "title": "Smart Strategies for Reducing Household Energy Consumption",
-          "durationSeconds": 65,
-          "summaryJa": "家庭での電力消費を抑えるための、賢い節約術と習慣についての解説。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }
