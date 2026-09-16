@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-15T16:10:05Z",
-  "latestLessonDate": "2026-09-16",
+  "generatedAtUtc": "2026-09-16T15:01:43Z",
+  "latestLessonDate": "2026-09-17",
   "days": [
+    {
+      "lessonDate": "2026-09-17",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-17.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Message of Gratitude",
+          "durationSeconds": 33,
+          "summaryJa": "アンディ・バーナム氏が、父親の訃報に際して寄せられた温かいメッセージに感謝の意を表しました。"
+        },
+        {
+          "level": "intermediate",
+          "title": "A Message of Gratitude from Burnham",
+          "durationSeconds": 51,
+          "summaryJa": "バーナム氏が父親の訃報に際し、寄せられた多くの弔意に対して感謝の意を表しました。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mayor Burnham Expresses Gratitude for Public Support",
+          "durationSeconds": 66,
+          "summaryJa": "アンディ・バーナム氏が、父親の死に際して政治指導者や市民から寄せられた哀悼のメッセージに対し、公に感謝の意を表明しました。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-09-16",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-16.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-08-17",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-17.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Give Friendly Feedback",
-          "durationSeconds": 32,
-          "summaryJa": "相手を傷つけずに優しくアドバイスをするための基本的な方法を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Giving Helpful Feedback",
-          "durationSeconds": 50,
-          "summaryJa": "相手の気持ちを尊重しながら、建設的なアドバイスを伝えるためのコツを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Constructive Communication",
-          "durationSeconds": 59,
-          "summaryJa": "対人関係を円滑にするための、建設的でプロフェッショナルなフィードバックの技術を学びます。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
