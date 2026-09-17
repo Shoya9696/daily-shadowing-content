@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-16T15:01:43Z",
-  "latestLessonDate": "2026-09-17",
+  "generatedAtUtc": "2026-09-17T15:01:43Z",
+  "latestLessonDate": "2026-09-18",
   "days": [
+    {
+      "lessonDate": "2026-09-18",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-18.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Calm Morning Start",
+          "durationSeconds": 30,
+          "summaryJa": "朝の時間を穏やかに過ごし、良い習慣を身につけるためのヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Better Morning",
+          "durationSeconds": 50,
+          "summaryJa": "効率的で穏やかな朝のルーチンを作るためのステップ。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of a Productive Morning Routine",
+          "durationSeconds": 61,
+          "summaryJa": "穏やかな朝の迎え方と、生産性を高めるための習慣作りについて解説します。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-09-17",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-17.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-08-18",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-18.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Important News About Fertility Clinics",
-          "durationSeconds": 36,
-          "summaryJa": "北キプロスの不妊治療クリニックで、精子や卵子の提供者に関する不適切な管理の疑いが報じられています。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Transparency Concerns in Fertility Treatment",
-          "durationSeconds": 55,
-          "summaryJa": "不妊治療におけるドナー情報の不一致に関する懸念と、医療機関の透明性の重要性について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Addressing Ethical Breaches in Reproductive Healthcare",
-          "durationSeconds": 67,
-          "summaryJa": "生殖医療における倫理的違反の可能性と、患者の権利を守るための透明性と規制の必要性について論じます。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
