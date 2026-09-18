@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-17T15:01:43Z",
-  "latestLessonDate": "2026-09-18",
+  "generatedAtUtc": "2026-09-18T15:01:19Z",
+  "latestLessonDate": "2026-09-19",
   "days": [
+    {
+      "lessonDate": "2026-09-19",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-19.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Making Better Meeting Notes",
+          "durationSeconds": 29,
+          "summaryJa": "会議の直後に短いメモを取ることで、次の行動を明確にするコツを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Art of Post-Call Documentation",
+          "durationSeconds": 56,
+          "summaryJa": "通話後のドキュメント化が、チームの生産性にどのように貢献するかを解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Workflow Through Post-Call Summaries",
+          "durationSeconds": 69,
+          "summaryJa": "通話後の要約作成をルーチン化し、チームの意思決定と生産性を最大化する方法を探ります。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-09-18",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-18.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-08-19",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-19.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Easy Meal Planning for Everyone",
-          "durationSeconds": 33,
-          "summaryJa": "忙しい週のために食事を計画し、買い物リストを作るためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Weekly Meal Prep",
-          "durationSeconds": 53,
-          "summaryJa": "効率的に食事を準備し、平日の夜を楽にするための実用的なアプローチ。"
-        },
-        {
-          "level": "advanced",
-          "title": "Efficient Strategies for Weekly Meal Planning",
-          "durationSeconds": 60,
-          "summaryJa": "忙しい平日のために、食事の計画を立て、買い物を効率化し、時間を節約するための実用的なアドバイス。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
