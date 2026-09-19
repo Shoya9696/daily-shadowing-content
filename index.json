@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-18T15:01:19Z",
-  "latestLessonDate": "2026-09-19",
+  "generatedAtUtc": "2026-09-19T15:15:41Z",
+  "latestLessonDate": "2026-09-20",
   "days": [
+    {
+      "lessonDate": "2026-09-20",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-20.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Finding Your Way in a New City",
+          "durationSeconds": 27,
+          "summaryJa": "新しい街で道に迷ったとき、どのように道を尋ねるかという基本的なフレーズを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Navigating Like a Local",
+          "durationSeconds": 44,
+          "summaryJa": "目的地にたどり着くために、目印を確認したり、ルートを明確にするための表現を学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Urban Navigation",
+          "durationSeconds": 54,
+          "summaryJa": "都市部で複雑な経路を尋ね、聞き取り、相手と情報を共有するための高度なコミュニケーション術。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-09-19",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-19.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-08-20",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-20.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Work Day Right",
-          "durationSeconds": 31,
-          "summaryJa": "一日の始まりに重要なタスクを優先し、集中して仕事を進めるためのシンプルな方法について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Daily Workflow",
-          "durationSeconds": 56,
-          "summaryJa": "生産性を高めるためのタスクの優先順位付けと、時間管理のテクニックについて解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Focus and Task Management",
-          "durationSeconds": 72,
-          "summaryJa": "高度な時間管理術と、深い集中力を維持するための戦略的なアプローチについて学びます。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
