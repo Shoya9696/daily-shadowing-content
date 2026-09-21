@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T01:04:17Z",
-  "latestLessonDate": "2026-09-21",
+  "generatedAtUtc": "2026-09-21T15:01:42Z",
+  "latestLessonDate": "2026-09-22",
   "days": [
+    {
+      "lessonDate": "2026-09-22",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-22.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Daily Walking Habit",
+          "durationSeconds": 28,
+          "summaryJa": "忙しい日々の中でも、短時間のウォーキングを習慣にするための簡単なコツを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Making Walking a Part of Your Routine",
+          "durationSeconds": 49,
+          "summaryJa": "忙しいスケジュールの中に、無理なくウォーキングを取り入れるための具体的なアドバイスです。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Science and Strategy of Daily Walking",
+          "durationSeconds": 59,
+          "summaryJa": "ウォーキングが心身に与える効果と、それを生活習慣として定着させるための戦略的アプローチ。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-09-21",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-21.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-08-22",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-22.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Organizing Your Digital Study Space",
-          "durationSeconds": 30,
-          "summaryJa": "デジタル学習ツールを整理して効率的に勉強する方法について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Maximizing Productivity with Digital Study Tools",
-          "durationSeconds": 55,
-          "summaryJa": "デジタル学習ツールを最大限に活用して、効率的に学習する方法について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Personal Digital Learning Ecosystem",
-          "durationSeconds": 62,
-          "summaryJa": "個人のデジタル学習環境を最適化し、生産性を高めるための戦略を解説します。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
