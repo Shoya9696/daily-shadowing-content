@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-19T15:15:41Z",
-  "latestLessonDate": "2026-09-20",
+  "generatedAtUtc": "2026-09-21T01:04:17Z",
+  "latestLessonDate": "2026-09-21",
   "days": [
+    {
+      "lessonDate": "2026-09-21",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-21.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Setting Up Your New Gadgets",
+          "durationSeconds": 34,
+          "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新する基本的な手順について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Home Technology",
+          "durationSeconds": 54,
+          "summaryJa": "家庭内のデバイス設定を最適化し、一般的な技術トラブルを解決するためのヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Digital Device Environments",
+          "durationSeconds": 71,
+          "summaryJa": "デジタル環境を最適化し、技術的な障害を効率的にトラブルシューティングする高度な習慣。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-09-20",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-20.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-08-21",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-21.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Exploring a Local Food Market",
-          "durationSeconds": 33,
-          "summaryJa": "地元の市場で食べ物を探したり、価格を尋ねたりする際の会話の練習。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Joy of Shopping at Local Markets",
-          "durationSeconds": 51,
-          "summaryJa": "地元の市場で買い物をする際の楽しみ方や、売り手とのコミュニケーション方法。"
-        },
-        {
-          "level": "advanced",
-          "title": "Cultural Immersion Through Market Visits",
-          "durationSeconds": 62,
-          "summaryJa": "市場訪問を通じた文化的な交流の深め方と、現地の生活を理解するためのコツ。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
