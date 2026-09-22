@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T15:01:42Z",
-  "latestLessonDate": "2026-09-22",
+  "generatedAtUtc": "2026-09-22T16:11:02Z",
+  "latestLessonDate": "2026-09-23",
   "days": [
+    {
+      "lessonDate": "2026-09-23",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-23.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Planning a Simple Monthly Budget",
+          "durationSeconds": 35,
+          "summaryJa": "毎月の支出を記録し、予算を設定して少しずつ貯金をするための実用的な方法について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Sustainable Monthly Budget",
+          "durationSeconds": 53,
+          "summaryJa": "持続可能な月間予算の立て方と、賢い支出管理のコツについて学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Personal Financial Management",
+          "durationSeconds": 67,
+          "summaryJa": "個人の財務管理をマスターし、効果的な予算編成で将来の安定を築く方法を解説します。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-09-22",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-22.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-08-23",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-23.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Simple Ways to Stay Hydrated",
-          "durationSeconds": 30,
-          "summaryJa": "仕事中に水分を摂取し、疲れを防ぐための簡単なヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Maintaining Hydration for Productivity",
-          "durationSeconds": 45,
-          "summaryJa": "生産性を維持するために、仕事中に水分補給を習慣化する方法。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Performance Through Hydration",
-          "durationSeconds": 62,
-          "summaryJa": "水分補給が仕事のパフォーマンスと認知機能に与える影響についての解説。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
