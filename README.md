@@ -14,17 +14,6 @@ Do not add generation scripts or prompts here. Use the generator workflow to upd
 
 Post-deploy public URL checks run in this Public repo via `.github/workflows/validate_pages_deployment.yml` after a successful `github-pages` deployment (`deployment_status`). That workflow is read-only HTTP validation and does not write content.
 
-## Current content (Step 9-F2)
-
-| Item | Status |
-|---|---|
-| Publish path | Generator workflow → `CONTENT_REPO_PUSH_TOKEN` → this repo |
-| Latest publish | `57ef57b` — `lessonDate=2026-06-23` (sample mode) |
-| Production AI | **Not enabled** (`use_sample=false` / Gemini not configured) |
-| External cron | **Not enabled** |
-
-Topics in the current sample set are general everyday themes (not live news). Production daily news generation is a future step.
-
 ## Public URLs
 
 | Resource | URL |
