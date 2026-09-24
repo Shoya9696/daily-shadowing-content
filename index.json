@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-22T16:11:02Z",
-  "latestLessonDate": "2026-09-23",
+  "generatedAtUtc": "2026-09-24T16:24:48Z",
+  "latestLessonDate": "2026-09-25",
   "days": [
+    {
+      "lessonDate": "2026-09-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-25.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Give Kind Feedback",
+          "durationSeconds": 34,
+          "summaryJa": "相手を傷つけずに優しくアドバイスを伝えるための基本的なコツを紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Tips for Providing Gentle Suggestions",
+          "durationSeconds": 55,
+          "summaryJa": "相手との関係を良好に保ちながら、建設的なアドバイスを送るための実践的なヒントを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Constructive Feedback",
+          "durationSeconds": 66,
+          "summaryJa": "プロフェッショナルな環境で信頼関係を築きつつ、相手の成長を促す洗練されたフィードバック手法を解説します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-09-23",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-23.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,58 +756,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-08-25",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-25.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Helping Out in Our Neighborhood",
-          "durationSeconds": 31,
-          "summaryJa": "地域の清掃活動に参加する楽しさと、協力して環境を良くすることの大切さを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Value of Local Volunteer Work",
-          "durationSeconds": 48,
-          "summaryJa": "地域社会でのボランティア活動を通じて、協力することの意義と環境保護の重要性を考えます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Cultivating Community Through Environmental Stewardship",
-          "durationSeconds": 62,
-          "summaryJa": "環境保護活動を通じてコミュニティの絆を深め、持続可能な生活のあり方について探求します。"
-        }
-      ],
-      "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-08-24",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-24.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Smart Shopping Habits",
-          "durationSeconds": 33,
-          "summaryJa": "賢い買い物の習慣について学びましょう。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Making Better Purchasing Decisions",
-          "durationSeconds": 54,
-          "summaryJa": "賢い消費判断を下すためのステップについて学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Value Comparison",
-          "durationSeconds": 62,
-          "summaryJa": "価格と価値を見極めるための高度なアプローチを解説します。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
