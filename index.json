@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-24T16:24:48Z",
-  "latestLessonDate": "2026-09-25",
+  "generatedAtUtc": "2026-09-25T15:02:20Z",
+  "latestLessonDate": "2026-09-26",
   "days": [
+    {
+      "lessonDate": "2026-09-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Protecting Patient Privacy",
+          "durationSeconds": 37,
+          "summaryJa": "NHSは患者の記録を不適切に閲覧した疑いのあるスタッフを停職処分にすると発表しました。"
+        },
+        {
+          "level": "intermediate",
+          "title": "New Rules for Patient Data Security",
+          "durationSeconds": 59,
+          "summaryJa": "NHSは患者のプライバシーを守るため、記録を不正に閲覧した疑いがある職員に対して厳格な対応を開始します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Upholding Patient Data Privacy",
+          "durationSeconds": 67,
+          "summaryJa": "NHSは患者の信頼を損なう不正なデータアクセスに対し、停職処分を含む厳格な措置を導入します。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-09-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-08-26",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-26.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Checking on a Friend",
-          "durationSeconds": 31,
-          "summaryJa": "友人への思いやりある声のかけ方と、相手の話に耳を傾けることの大切さについてのレッスンです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Checking on a Friend",
-          "durationSeconds": 51,
-          "summaryJa": "友人との関係を良好に保つための思いやりのあるコミュニケーション術。"
-        },
-        {
-          "level": "advanced",
-          "title": "Checking on a Friend",
-          "durationSeconds": 59,
-          "summaryJa": "友人関係における適切な距離感と、共感的なコミュニケーションの重要性。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
