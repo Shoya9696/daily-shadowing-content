@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-25T15:02:20Z",
-  "latestLessonDate": "2026-09-26",
+  "generatedAtUtc": "2026-09-26T15:01:26Z",
+  "latestLessonDate": "2026-09-27",
   "days": [
+    {
+      "lessonDate": "2026-09-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Planning Meals for a Busy Week",
+          "durationSeconds": 33,
+          "summaryJa": "忙しい週のための食事計画と買い物のコツについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Planning Meals for a Busy Week",
+          "durationSeconds": 52,
+          "summaryJa": "忙しい日常の中で時間を有効活用するための、効率的な食事管理術を紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Planning Meals for a Busy Week",
+          "durationSeconds": 61,
+          "summaryJa": "効率的な食事計画と準備を通じて、忙しい日々を豊かにするライフハック。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-09-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-08-27",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-27.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Improving Support for Abuse Survivors",
-          "durationSeconds": 33,
-          "summaryJa": "専門家がNHS（英国民保健サービス）の対応について改善を求めているニュースです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Addressing Care for Abuse Survivors",
-          "durationSeconds": 57,
-          "summaryJa": "NHSの対応に対する専門家の指摘と、改善に向けた取り組みについて。"
-        },
-        {
-          "level": "advanced",
-          "title": "Systemic Failures in Supporting Abuse Survivors",
-          "durationSeconds": 69,
-          "summaryJa": "NHSにおける虐待被害者への対応の現状と、専門家による改革への提言。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
