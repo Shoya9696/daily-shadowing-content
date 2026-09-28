@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-27T15:01:30Z",
-  "latestLessonDate": "2026-09-28",
+  "generatedAtUtc": "2026-09-28T15:02:13Z",
+  "latestLessonDate": "2026-09-29",
   "days": [
+    {
+      "lessonDate": "2026-09-29",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-29.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Exploring a Local Market",
+          "durationSeconds": 32,
+          "summaryJa": "地元の市場を訪れて、食べ物を探したり店員と会話したりする際の基本的な表現を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Enjoying the Atmosphere of a Local Market",
+          "durationSeconds": 49,
+          "summaryJa": "地元の市場の活気ある雰囲気の中での買い物や、店員とのやり取りについての表現を学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Navigating Local Markets",
+          "durationSeconds": 59,
+          "summaryJa": "旅行先で地元の市場をより深く楽しみ、地元の人々との交流を深めるための洗練された表現を学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-09-28",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-28.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-08-29",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-29.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Asking for Feedback on a Draft",
-          "durationSeconds": 32,
-          "summaryJa": "ドラフトへのフィードバックを求める際の、明確なコメントの依頼方法や文脈の説明について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Asking for Feedback on a Draft",
-          "durationSeconds": 47,
-          "summaryJa": "ドラフトへのフィードバックを求める際の、明確なコメントの依頼方法や文脈の説明について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Requesting Professional Feedback",
-          "durationSeconds": 65,
-          "summaryJa": "効果的なフィードバックを求めるための具体的なステップと、文書を改善するためのコミュニケーション術。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
