@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-28T15:02:13Z",
-  "latestLessonDate": "2026-09-29",
+  "generatedAtUtc": "2026-09-29T15:01:22Z",
+  "latestLessonDate": "2026-09-30",
   "days": [
+    {
+      "lessonDate": "2026-09-30",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-30.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Organizing Your Digital Study Space",
+          "durationSeconds": 36,
+          "summaryJa": "デジタル学習ツールを活用して、毎日の勉強を効率的に整理する方法を紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Digital Study Habits",
+          "durationSeconds": 56,
+          "summaryJa": "デジタルツールを使って学習の効率を高め、整理された環境を作るためのヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Learning Workflow",
+          "durationSeconds": 70,
+          "summaryJa": "デジタルツールを戦略的に活用して、学習ワークフローを最適化する方法について。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-09-29",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-29.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-08-30",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-30.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Navigating Public Transit",
-          "durationSeconds": 40,
-          "summaryJa": "新しい場所で公共交通機関を上手に利用するための基本的なコツを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Local Transit Systems",
-          "durationSeconds": 58,
-          "summaryJa": "公共交通機関を効率的に活用し、旅をスムーズにするためのアドバイスを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Transit Experience",
-          "durationSeconds": 60,
-          "summaryJa": "公共交通機関を高度に活用して、効率的かつ充実した旅行を実現するための戦略的アプローチ。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
