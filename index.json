@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-29T15:01:22Z",
-  "latestLessonDate": "2026-09-30",
+  "generatedAtUtc": "2026-09-30T15:01:22Z",
+  "latestLessonDate": "2026-10-01",
   "days": [
+    {
+      "lessonDate": "2026-10-01",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-01.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Navigating Public Transit",
+          "durationSeconds": 32,
+          "summaryJa": "新しい場所で公共交通機関を使いこなすための基本的なステップを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Local Transportation",
+          "durationSeconds": 53,
+          "summaryJa": "新しい街で効率的に公共交通機関を利用し、スムーズに目的地へ向かうコツを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Navigating Global Transit Systems",
+          "durationSeconds": 69,
+          "summaryJa": "公共交通機関を使いこなし、異国の地でストレスなく移動するための洗練されたアプローチを学びます。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-09-30",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-30.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-08-31",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-08-31.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Managing Battery Life and Backups",
-          "durationSeconds": 36,
-          "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータをバックアップするコツについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Optimizing Your Digital Devices",
-          "durationSeconds": 51,
-          "summaryJa": "デジタルデバイスのバッテリー寿命を延ばす方法と、効率的なデータ管理術について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Digital Maintenance for Daily Devices",
-          "durationSeconds": 71,
-          "summaryJa": "デバイスのバッテリー管理とデータバックアップを最適化するための実用的なアドバイス。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
