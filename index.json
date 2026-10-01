@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-30T15:01:22Z",
-  "latestLessonDate": "2026-10-01",
+  "generatedAtUtc": "2026-10-01T15:01:25Z",
+  "latestLessonDate": "2026-10-02",
   "days": [
+    {
+      "lessonDate": "2026-10-02",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-02.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Keeping Your Phone Battery Healthy",
+          "durationSeconds": 34,
+          "summaryJa": "スマートフォンのバッテリーを長持ちさせるための日常的なヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Smart Battery Care and Data Safety",
+          "durationSeconds": 54,
+          "summaryJa": "バッテリーの寿命を延ばす方法と、デジタルデータのバックアップの重要性について。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Device Longevity and Data Integrity",
+          "durationSeconds": 67,
+          "summaryJa": "デバイスの長寿命化とデータ整合性を保つための高度な管理手法。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-10-01",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-01.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-09-01",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-01.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Handing Off Work to a Teammate",
-          "durationSeconds": 30,
-          "summaryJa": "仕事を同僚に引き継ぐ際の、ステータスのまとめ方やファイルの共有方法についてのレッスンです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Handing Off Work to a Teammate",
-          "durationSeconds": 55,
-          "summaryJa": "業務の引継ぎを円滑に行うための、情報共有と責任範囲の明確化に関する練習です。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Delegating Tasks",
-          "durationSeconds": 67,
-          "summaryJa": "同僚に仕事を依頼する際、進捗状況の共有や明確な責任分担を円滑に行うためのヒント。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
