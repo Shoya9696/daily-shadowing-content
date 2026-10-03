@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-01T15:01:25Z",
-  "latestLessonDate": "2026-10-02",
+  "generatedAtUtc": "2026-10-03T15:01:19Z",
+  "latestLessonDate": "2026-10-04",
   "days": [
+    {
+      "lessonDate": "2026-10-04",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-04.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Smart Shopping Habits",
+          "durationSeconds": 41,
+          "summaryJa": "賢い買い物のために、価格を比較して衝動買いを防ぐ方法を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Art of Smart Spending",
+          "durationSeconds": 47,
+          "summaryJa": "衝動買いを避け、価値ある買い物を判断するための実践的なヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Value Assessment",
+          "durationSeconds": 65,
+          "summaryJa": "価格比較を超えた、真の価値を見極めるための戦略的な購買思考。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-10-02",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-02.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,58 +730,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-09-03",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-03.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Staying Safe Online",
-          "durationSeconds": 35,
-          "summaryJa": "デジタル生活の安全を守るための基本的なヒントを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Smart Habits for Digital Privacy",
-          "durationSeconds": 58,
-          "summaryJa": "デジタルプライバシーを維持するための賢い習慣について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Your Personal Data Security",
-          "durationSeconds": 73,
-          "summaryJa": "個人のデータセキュリティを強化するための高度な手法と習慣を学びます。"
-        }
-      ],
-      "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-09-02",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-02.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A Day at the Local Museum",
-          "durationSeconds": 32,
-          "summaryJa": "美術館を初めて訪れる際のチケット購入や館内での基本的なマナーについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Navigating a Large Art Museum",
-          "durationSeconds": 52,
-          "summaryJa": "美術館でスムーズに見学を楽しむためのチケット購入や館内でのコミュニケーション方法を紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Museum Experience",
-          "durationSeconds": 67,
-          "summaryJa": "美術館での深い鑑賞体験を得るための準備や、館内のマナー、効率的な回り方を学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
