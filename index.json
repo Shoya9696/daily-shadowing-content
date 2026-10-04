@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-03T15:01:19Z",
-  "latestLessonDate": "2026-10-04",
+  "generatedAtUtc": "2026-10-04T15:01:15Z",
+  "latestLessonDate": "2026-10-05",
   "days": [
+    {
+      "lessonDate": "2026-10-05",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-05.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Easy Ways to Save Energy",
+          "durationSeconds": 31,
+          "summaryJa": "家庭で簡単にできる節電の習慣について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Practical Tips for Household Energy Efficiency",
+          "durationSeconds": 59,
+          "summaryJa": "家庭のエネルギー効率を高めるための実践的なヒントについて。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Home Energy Use for a Sustainable Future",
+          "durationSeconds": 73,
+          "summaryJa": "持続可能な未来のために、家庭のエネルギー利用を最適化する方法。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-10-04",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-04.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-09-04",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-04.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Easy Stretches for Your Desk",
-          "durationSeconds": 29,
-          "summaryJa": "デスクワーク中に簡単にできるストレッチと姿勢の改善方法について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Maintaining Good Posture While Working",
-          "durationSeconds": 47,
-          "summaryJa": "デスクワーク中の正しい姿勢と、定期的なストレッチの重要性について。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Workspace for Wellness",
-          "durationSeconds": 58,
-          "summaryJa": "デスク環境の最適化と、健康的な働き方を維持するための戦略について。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
