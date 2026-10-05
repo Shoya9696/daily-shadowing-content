@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-04T15:01:15Z",
-  "latestLessonDate": "2026-10-05",
+  "generatedAtUtc": "2026-10-05T15:01:28Z",
+  "latestLessonDate": "2026-10-06",
   "days": [
+    {
+      "lessonDate": "2026-10-06",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-06.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Checking on a Friend",
+          "durationSeconds": 32,
+          "summaryJa": "友人への思いやりある声のかけ方と、相手の話を聞くことの大切さについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Checking on a Friend",
+          "durationSeconds": 53,
+          "summaryJa": "友人との良好な関係を保つための連絡の取り方と、共感的な聞き方について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Checking on a Friend",
+          "durationSeconds": 66,
+          "summaryJa": "友人関係を深めるための能動的な気遣いと、質の高いコミュニケーションの重要性について考察します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-10-05",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-05.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-09-05",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-05.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Savings Journey",
-          "durationSeconds": 32,
-          "summaryJa": "貯金を始めるための基本的なステップと、小さな目標設定の重要性について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building a Solid Financial Foundation",
-          "durationSeconds": 53,
-          "summaryJa": "貯金を習慣化し、無理のない範囲で目標を達成するための戦略を解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Systematic Savings",
-          "durationSeconds": 70,
-          "summaryJa": "体系的な貯蓄戦略と、長期的な資産管理のためのマインドセットを深掘りします。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
