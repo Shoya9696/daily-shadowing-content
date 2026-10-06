@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-05T15:01:28Z",
-  "latestLessonDate": "2026-10-06",
+  "generatedAtUtc": "2026-10-06T15:01:32Z",
+  "latestLessonDate": "2026-10-07",
   "days": [
+    {
+      "lessonDate": "2026-10-07",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-07.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "The Rise of Vaping in the UK",
+          "durationSeconds": 38,
+          "summaryJa": "イギリスで喫煙経験のない人が電子タバコを利用するケースが増加しているニュース。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Changing Habits in Modern Britain",
+          "durationSeconds": 59,
+          "summaryJa": "イギリスにおける電子タバコの利用状況と、喫煙者数との比較に関するニュース。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Evolving Landscape of Nicotine Consumption",
+          "durationSeconds": 66,
+          "summaryJa": "イギリスにおける非喫煙者の電子タバコ利用増加と、それに対する公衆衛生上の懸念。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-10-06",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-06.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-09-06",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-06.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Enjoying Public Parks Responsibly",
-          "durationSeconds": 35,
-          "summaryJa": "公共の公園を快適に利用するためのマナーやルールについてのガイドです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Enjoying Public Parks Responsibly",
-          "durationSeconds": 57,
-          "summaryJa": "公共の公園を快適に利用するためのマナーやルールについてのガイドです。"
-        },
-        {
-          "level": "advanced",
-          "title": "Enjoying Public Parks Responsibly",
-          "durationSeconds": 65,
-          "summaryJa": "公共の公園を快適に利用するためのマナーやルールについてのガイドです。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }
