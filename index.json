@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-06T15:01:32Z",
-  "latestLessonDate": "2026-10-07",
+  "generatedAtUtc": "2026-10-07T15:02:08Z",
+  "latestLessonDate": "2026-10-08",
   "days": [
+    {
+      "lessonDate": "2026-10-08",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-08.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Keeping Your Home Tidy",
+          "durationSeconds": 31,
+          "summaryJa": "小さな部屋を整理整頓し、快適な空間を保つためのヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating a Comfortable Living Space",
+          "durationSeconds": 50,
+          "summaryJa": "限られたスペースを有効活用し、心地よい住環境を作るための工夫。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Minimalist Living",
+          "durationSeconds": 58,
+          "summaryJa": "ミニマリズムの考え方を取り入れ、住空間を最適化する高度なテクニック。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-10-07",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-07.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-09-07",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-07.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Start a Friendly Conversation",
-          "durationSeconds": 34,
-          "summaryJa": "会話を始めるためのシンプルでフレンドリーな方法を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Keeping Conversation Flowing",
-          "durationSeconds": 50,
-          "summaryJa": "会話をスムーズに続け、相手とより良い関係を築くためのテクニックを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Nuances of Social Interaction",
-          "durationSeconds": 59,
-          "summaryJa": "社交的な場でのやり取りを洗練させ、自然で心地よい会話を維持するための高度なヒント。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
