@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-08T18:21:26Z",
-  "latestLessonDate": "2026-10-09",
+  "generatedAtUtc": "2026-10-09T15:01:20Z",
+  "latestLessonDate": "2026-10-10",
   "days": [
+    {
+      "lessonDate": "2026-10-10",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-10.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Visiting a Museum for the First Time",
+          "durationSeconds": 31,
+          "summaryJa": "美術館を初めて訪れる際のチケット購入や展示の見方、基本的な質問の仕方について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "A Guide to Enjoying Art Museums",
+          "durationSeconds": 50,
+          "summaryJa": "美術館をより楽しむためのチケットの買い方や館内でのマナー、展示品の鑑賞方法について。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Museum Exploration",
+          "durationSeconds": 62,
+          "summaryJa": "美術館での深い鑑賞体験、館内のマナー、そして文化的な学びを最大化するためのヒント。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-10-09",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-09.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-09-09",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-09.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Making Weekend Errands Easier",
-          "durationSeconds": 29,
-          "summaryJa": "週末の用事を効率よくこなすためのヒントを紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Weekend Workflow",
-          "durationSeconds": 53,
-          "summaryJa": "週末の用事を効率的に管理し、自由時間を増やすための実践的な方法です。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Weekend Routine",
-          "durationSeconds": 66,
-          "summaryJa": "週末の用事を戦略的に管理し、生産性を高めながらリラックスする時間を最大化する手法です。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
