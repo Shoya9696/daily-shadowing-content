@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-09T15:01:20Z",
-  "latestLessonDate": "2026-10-10",
+  "generatedAtUtc": "2026-10-10T15:01:19Z",
+  "latestLessonDate": "2026-10-11",
   "days": [
+    {
+      "lessonDate": "2026-10-11",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-11.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Protecting Your Digital Privacy",
+          "durationSeconds": 38,
+          "summaryJa": "デジタルプライバシーを守るための基本的な習慣について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Smart Habits for Online Safety",
+          "durationSeconds": 58,
+          "summaryJa": "日常的にオンラインの安全性を高めるための具体的な方法を紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Digital Privacy",
+          "durationSeconds": 78,
+          "summaryJa": "高度なプライバシー保護技術とオンラインセキュリティのベストプラクティスについて解説します。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-10-10",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-10.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-09-10",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-10.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Start a Meeting",
-          "durationSeconds": 34,
-          "summaryJa": "会議を円滑に開始するための挨拶や目的の伝え方を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 46,
-          "summaryJa": "会議を円滑に始めるための挨拶、目的の共有、議論の切り出し方について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 61,
-          "summaryJa": "会議をスムーズに開始するための挨拶、目的の共有、議論の切り出し方に関する実践的なトピックです。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }
