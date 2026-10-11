@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-11T15:01:15Z",
+  "lessonDate": "2026-10-12",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Building a Daily Walking Habit",
+      "cefrLevel": "A2",
+      "summaryJa": "忙しい日々の中でも、快適な靴を選んで短時間のウォーキングを習慣にする方法について。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Walking is a simple way to improve your overall physical health today.",
+          "translationJa": "ウォーキングは、今日の全体的な身体の健康を改善するためのシンプルな方法です。",
+          "id": "beginner-2026-10-12-s01",
+          "startMs": 0,
+          "endMs": 3729,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You do not need to walk for a very long time every day.",
+          "translationJa": "毎日とても長い時間歩く必要はありません。",
+          "id": "beginner-2026-10-12-s02",
+          "startMs": 4129,
+          "endMs": 7024,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Just start with a short walk of about ten minutes after your lunch.",
+          "translationJa": "昼食後の約10分間の短い散歩から始めてみましょう。",
+          "id": "beginner-2026-10-12-s03",
+          "startMs": 7424,
+          "endMs": 10866,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is important to wear comfortable shoes that support your feet very well.",
+          "translationJa": "足をしっかりサポートする快適な靴を履くことが大切です。",
+          "id": "beginner-2026-10-12-s04",
+          "startMs": 11266,
+          "endMs": 14955,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Good shoes will help you avoid pain during your daily walking routine now.",
+          "translationJa": "良い靴は、日々のウォーキングの習慣の間に痛みを避けるのに役立ちます。",
+          "id": "beginner-2026-10-12-s05",
+          "startMs": 15355,
+          "endMs": 19016,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Try to find a quiet park or a path near your home today.",
+          "translationJa": "今日、家の近くの静かな公園や道を見つけてみてください。",
+          "id": "beginner-2026-10-12-s06",
+          "startMs": 19416,
+          "endMs": 22621,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Moving your body will make you feel much better and more energetic too.",
+          "translationJa": "体を動かすと、気分がずっと良くなり、よりエネルギッシュになれます。",
+          "id": "beginner-2026-10-12-s07",
+          "startMs": 23021,
+          "endMs": 26473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You can listen to music or a podcast while you are walking outside.",
+          "translationJa": "外を歩いている間、音楽やポッドキャストを聴くことができます。",
+          "id": "beginner-2026-10-12-s08",
+          "startMs": 26873,
+          "endMs": 30499,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Consistency is the real secret to staying healthy throughout your busy life forever.",
+          "translationJa": "継続することは、忙しい生活の中で健康を維持するための本当の秘訣です。",
+          "id": "beginner-2026-10-12-s09",
+          "startMs": 30899,
+          "endMs": 35322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Physical",
+          "meaningJa": "身体の",
+          "exampleEn": "Physical health is important.",
+          "exampleJa": "身体の健康は大切です。"
+        },
+        {
+          "word": "Comfortable",
+          "meaningJa": "快適な",
+          "exampleEn": "I need comfortable shoes.",
+          "exampleJa": "快適な靴が必要です。"
+        },
+        {
+          "word": "Routine",
+          "meaningJa": "習慣",
+          "exampleEn": "Walking is my daily routine.",
+          "exampleJa": "ウォーキングは私の日課です。"
+        },
+        {
+          "index": 3,
+          "word": "Support",
+          "meaningJa": "支える",
+          "exampleEn": "These shoes support my feet.",
+          "exampleJa": "この靴は私の足を支えてくれます。"
+        },
+        {
+          "word": "Consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is the key.",
+          "exampleJa": "継続することが鍵です。"
+        }
+      ],
+      "id": "beginner-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner.m4a",
+      "durationSeconds": 34
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Building a Daily Walking Habit",
+      "cefrLevel": "B1",
+      "summaryJa": "忙しいスケジュールの中で、どのようにウォーキングを取り入れ、健康を維持するかについてのガイド。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people struggle to find time for exercise in their very busy daily lives.",
+          "translationJa": "多くの人が、忙しい日常生活の中で運動する時間を見つけるのに苦労しています。",
+          "id": "intermediate-2026-10-12-s01",
+          "startMs": 0,
+          "endMs": 4381,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, walking is an accessible activity that fits easily into almost any regular schedule.",
+          "translationJa": "しかし、ウォーキングはほとんどの人の日課に簡単に組み込める、取り入れやすい活動です。",
+          "id": "intermediate-2026-10-12-s02",
+          "startMs": 4781,
+          "endMs": 10281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You do not need special equipment to begin this healthy habit starting from today.",
+          "translationJa": "今日からこの健康的な習慣を始めるのに、特別な道具は何も必要ありません。",
+          "id": "intermediate-2026-10-12-s03",
+          "startMs": 10681,
+          "endMs": 14969,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The most important investment you can make is a pair of high quality walking shoes.",
+          "translationJa": "あなたができる最も重要な投資は、質の高いウォーキングシューズを一足買うことです。",
+          "id": "intermediate-2026-10-12-s04",
+          "startMs": 15369,
+          "endMs": 19700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Proper footwear protects your joints and prevents unnecessary pain while you are moving around outside.",
+          "translationJa": "適切な靴は関節を保護し、外で歩いている間の不要な痛みを防いでくれます。",
+          "id": "intermediate-2026-10-12-s05",
+          "startMs": 20100,
+          "endMs": 25555,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Try to incorporate short walks into your routine by walking to the nearest station.",
+          "translationJa": "最寄りの駅まで歩くことで、短いウォーキングを日課に組み込んでみてください。",
+          "id": "intermediate-2026-10-12-s06",
+          "startMs": 25955,
+          "endMs": 30274,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking the stairs instead of the elevator is another great way to burn more calories.",
+          "translationJa": "エレベーターの代わりに階段を使うことも、より多くのカロリーを消費する素晴らしい方法です。",
+          "id": "intermediate-2026-10-12-s07",
+          "startMs": 30674,
+          "endMs": 35051,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If you feel tired, even a short five minute walk can improve your mental mood.",
+          "translationJa": "もし疲れていると感じても、たった5分の短い散歩が心の気分を改善してくれます。",
+          "id": "intermediate-2026-10-12-s08",
+          "startMs": 35451,
+          "endMs": 39860,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Listening to your favorite music can make the experience much more enjoyable and very relaxing.",
+          "translationJa": "好きな音楽を聴くことで、その体験はより楽しく、とてもリラックスできるものになります。",
+          "id": "intermediate-2026-10-12-s09",
+          "startMs": 40260,
+          "endMs": 45338,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Remember that small daily steps will eventually lead to significant improvements in your overall fitness.",
+          "translationJa": "毎日の小さな一歩が、最終的には全体的な体力の大きな向上につながることを覚えておいてください。",
+          "id": "intermediate-2026-10-12-s10",
+          "startMs": 45738,
+          "endMs": 51202,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Stay consistent with your walking plan and you will surely see the positive results soon.",
+          "translationJa": "ウォーキング計画を継続すれば、きっとすぐにポジティブな結果が見えてくるはずです。",
+          "id": "intermediate-2026-10-12-s11",
+          "startMs": 51602,
+          "endMs": 56062,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Accessible",
+          "meaningJa": "利用しやすい",
+          "exampleEn": "Walking is accessible for everyone.",
+          "exampleJa": "ウォーキングは誰にとっても利用しやすいです。"
+        },
+        {
+          "word": "Investment",
+          "meaningJa": "投資",
+          "exampleEn": "Good shoes are a great investment.",
+          "exampleJa": "良い靴は素晴らしい投資です。"
+        },
+        {
+          "word": "Footwear",
+          "meaningJa": "履物",
+          "exampleEn": "Choose proper footwear.",
+          "exampleJa": "適切な履物を選んでください。"
+        },
+        {
+          "word": "Incorporate",
+          "meaningJa": "組み込む",
+          "exampleEn": "I incorporate exercise into my day.",
+          "exampleJa": "私は運動を1日の中に組み込んでいます。"
+        },
+        {
+          "word": "Significant",
+          "meaningJa": "重要な、かなりの",
+          "exampleEn": "There was a significant change.",
+          "exampleJa": "かなりの変化がありました。"
+        }
+      ],
+      "id": "intermediate-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Building a Daily Walking Habit",
+      "cefrLevel": "B2",
+      "summaryJa": "ウォーキングをライフスタイルに統合し、身体的および精神的な健康を最適化するための戦略。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining a consistent walking habit is one of the most effective ways to boost health.",
+          "translationJa": "一貫したウォーキングの習慣を維持することは、健康を増進する最も効果的な方法の一つです。",
+          "id": "advanced-2026-10-12-s01",
+          "startMs": 0,
+          "endMs": 4521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Modern life often restricts our natural movement, making intentional physical activity essential for our well-being.",
+          "translationJa": "現代生活はしばしば自然な動きを制限するため、意図的な身体活動が私たちの幸福にとって不可欠です。",
+          "id": "advanced-2026-10-12-s02",
+          "startMs": 4921,
+          "endMs": 11287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "To succeed, you should select supportive footwear that provides adequate cushioning for your specific foot type.",
+          "translationJa": "成功するためには、自分の足のタイプに適したクッション性のあるサポート力のある履物を選ぶべきです。",
+          "id": "advanced-2026-10-12-s03",
+          "startMs": 11687,
+          "endMs": 17445,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "High quality shoes significantly reduce the risk of injury and ensure long-term comfort during daily walks.",
+          "translationJa": "高品質な靴は怪我のリスクを大幅に減らし、毎日のウォーキング中の長期的な快適さを保証します。",
+          "id": "advanced-2026-10-12-s04",
+          "startMs": 17845,
+          "endMs": 23635,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Rather than aiming for long sessions, focus on integrating short bursts of movement into your day.",
+          "translationJa": "長い時間を目標にするのではなく、1日の中に短い動きを取り入れることに集中してください。",
+          "id": "advanced-2026-10-12-s05",
+          "startMs": 24035,
+          "endMs": 29348,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "For instance, walking during your lunch break can refresh your mind and increase your afternoon productivity.",
+          "translationJa": "例えば、昼休みに歩くことは、頭をリフレッシュさせ、午後の生産性を高めることができます。",
+          "id": "advanced-2026-10-12-s06",
+          "startMs": 29748,
+          "endMs": 35415,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Choosing a scenic route or a park can further enhance your mental clarity and emotional state.",
+          "translationJa": "景色の良いルートや公園を選ぶことは、精神的な明晰さと感情の状態をさらに高めることができます。",
+          "id": "advanced-2026-10-12-s07",
+          "startMs": 35815,
+          "endMs": 40666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You might also consider walking with a colleague or friend to maintain your personal motivation levels.",
+          "translationJa": "モチベーションを維持するために、同僚や友人と一緒に歩くことも検討してみてください。",
+          "id": "advanced-2026-10-12-s08",
+          "startMs": 41066,
+          "endMs": 46283,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Do not let poor weather or a busy schedule disrupt your commitment to this healthy routine.",
+          "translationJa": "悪天候や忙しいスケジュールが、この健康的な習慣への取り組みを妨げないようにしてください。",
+          "id": "advanced-2026-10-12-s09",
+          "startMs": 46683,
+          "endMs": 51319,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Even a brief walk around the block is better than skipping your physical exercise entirely today.",
+          "translationJa": "近所を少し歩くだけでも、今日まったく運動をしないよりはずっと良いことです。",
+          "id": "advanced-2026-10-12-s10",
+          "startMs": 51719,
+          "endMs": 56836,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Over time, these simple daily actions will foster a healthier and more balanced lifestyle for you.",
+          "translationJa": "時間が経つにつれて、これらのシンプルな毎日の行動が、あなたにとってより健康的でバランスの取れたライフスタイルを育みます。",
+          "id": "advanced-2026-10-12-s11",
+          "startMs": 57236,
+          "endMs": 62674,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Prioritize your movement and enjoy the lasting benefits that come with this simple daily habit.",
+          "translationJa": "運動を優先し、このシンプルな毎日の習慣に伴う持続的な利点を享受してください。",
+          "id": "advanced-2026-10-12-s12",
+          "startMs": 63074,
+          "endMs": 67983,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Restrict",
+          "meaningJa": "制限する",
+          "exampleEn": "The rules restrict our movement.",
+          "exampleJa": "そのルールは私たちの動きを制限します。"
+        },
+        {
+          "word": "Essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "Cushioning",
+          "meaningJa": "クッション性",
+          "exampleEn": "These shoes have great cushioning.",
+          "exampleJa": "この靴は素晴らしいクッション性があります。"
+        },
+        {
+          "word": "Productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Focus on your daily productivity.",
+          "exampleJa": "日々の生産性に集中しましょう。"
+        },
+        {
+          "word": "Foster",
+          "meaningJa": "育む、促進する",
+          "exampleEn": "We foster a healthy environment.",
+          "exampleJa": "私たちは健康的な環境を育んでいます。"
+        }
+      ],
+      "id": "advanced-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced.m4a",
+      "durationSeconds": 66
+    }
+  ],
+  "topicCategory": "health_wellness"
+}

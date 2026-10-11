@@ -1,434 +1,435 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-10T15:01:19Z",
-  "lessonDate": "2026-10-11",
+  "generatedAtUtc": "2026-10-11T15:01:15Z",
+  "lessonDate": "2026-10-12",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Protecting Your Digital Privacy",
+      "title": "Building a Daily Walking Habit",
       "cefrLevel": "A2",
-      "summaryJa": "デジタルプライバシーを守るための基本的な習慣について学びます。",
+      "summaryJa": "忙しい日々の中でも、快適な靴を選んで短時間のウォーキングを習慣にする方法について。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-data-privacy"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Keeping your online data safe is very important in our modern world today.",
-          "translationJa": "現代において、オンラインデータを安全に保つことは非常に重要です。",
-          "id": "beginner-2026-10-11-s01",
+          "text": "Walking is a simple way to improve your overall physical health today.",
+          "translationJa": "ウォーキングは、今日の全体的な身体の健康を改善するためのシンプルな方法です。",
+          "id": "beginner-2026-10-12-s01",
           "startMs": 0,
-          "endMs": 4050,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s01.m4a"
+          "endMs": 3729,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You should always create strong passwords for all of your personal online accounts.",
-          "translationJa": "すべての個人用オンラインアカウントに対して、常に強力なパスワードを作成すべきです。",
-          "id": "beginner-2026-10-11-s02",
-          "startMs": 4450,
-          "endMs": 8773,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s02.m4a"
+          "text": "You do not need to walk for a very long time every day.",
+          "translationJa": "毎日とても長い時間歩く必要はありません。",
+          "id": "beginner-2026-10-12-s02",
+          "startMs": 4129,
+          "endMs": 7024,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Never use the same password for your email and your social media profiles.",
-          "translationJa": "メールアドレスやソーシャルメディアのプロフィールに同じパスワードを使わないでください。",
-          "id": "beginner-2026-10-11-s03",
-          "startMs": 9173,
-          "endMs": 13452,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s03.m4a"
+          "text": "Just start with a short walk of about ten minutes after your lunch.",
+          "translationJa": "昼食後の約10分間の短い散歩から始めてみましょう。",
+          "id": "beginner-2026-10-12-s03",
+          "startMs": 7424,
+          "endMs": 10866,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is also a good idea to change your passwords every few months regularly.",
-          "translationJa": "数ヶ月ごとにパスワードを定期的に変更するのも良い考えです。",
-          "id": "beginner-2026-10-11-s04",
-          "startMs": 13852,
-          "endMs": 17878,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s04.m4a"
+          "text": "It is important to wear comfortable shoes that support your feet very well.",
+          "translationJa": "足をしっかりサポートする快適な靴を履くことが大切です。",
+          "id": "beginner-2026-10-12-s04",
+          "startMs": 11266,
+          "endMs": 14955,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Please check the permissions for every app you download on your mobile phone.",
-          "translationJa": "携帯電話にダウンロードするすべてのアプリの権限を確認してください。",
-          "id": "beginner-2026-10-11-s05",
-          "startMs": 18278,
-          "endMs": 21817,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s05.m4a"
+          "text": "Good shoes will help you avoid pain during your daily walking routine now.",
+          "translationJa": "良い靴は、日々のウォーキングの習慣の間に痛みを避けるのに役立ちます。",
+          "id": "beginner-2026-10-12-s05",
+          "startMs": 15355,
+          "endMs": 19016,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Some apps ask for location access even when you do not need it now.",
-          "translationJa": "一部のアプリは、今必要ないときでも位置情報へのアクセスを求めてきます。",
-          "id": "beginner-2026-10-11-s06",
-          "startMs": 22217,
-          "endMs": 26005,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s06.m4a"
+          "text": "Try to find a quiet park or a path near your home today.",
+          "translationJa": "今日、家の近くの静かな公園や道を見つけてみてください。",
+          "id": "beginner-2026-10-12-s06",
+          "startMs": 19416,
+          "endMs": 22621,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You can easily turn off these permissions in your phone settings menu anytime today.",
-          "translationJa": "携帯電話の設定メニューから、いつでも簡単にこれらの権限をオフにできます。",
-          "id": "beginner-2026-10-11-s07",
-          "startMs": 26405,
-          "endMs": 30856,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s07.m4a"
+          "text": "Moving your body will make you feel much better and more energetic too.",
+          "translationJa": "体を動かすと、気分がずっと良くなり、よりエネルギッシュになれます。",
+          "id": "beginner-2026-10-12-s07",
+          "startMs": 23021,
+          "endMs": 26473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Be careful when you click on strange links sent from people you don't know.",
-          "translationJa": "知らない人から送られてきた不審なリンクをクリックするときは注意してください。",
-          "id": "beginner-2026-10-11-s08",
-          "startMs": 31256,
-          "endMs": 35057,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s08.m4a"
+          "text": "You can listen to music or a podcast while you are walking outside.",
+          "translationJa": "外を歩いている間、音楽やポッドキャストを聴くことができます。",
+          "id": "beginner-2026-10-12-s08",
+          "startMs": 26873,
+          "endMs": 30499,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small habits like these will help you stay safe while using the internet daily.",
-          "translationJa": "このような小さな習慣が、毎日インターネットを使う間、あなたを安全に守ってくれます。",
-          "id": "beginner-2026-10-11-s09",
-          "startMs": 35457,
-          "endMs": 39441,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner-s09.m4a"
+          "text": "Consistency is the real secret to staying healthy throughout your busy life forever.",
+          "translationJa": "継続することは、忙しい生活の中で健康を維持するための本当の秘訣です。",
+          "id": "beginner-2026-10-12-s09",
+          "startMs": 30899,
+          "endMs": 35322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "password",
-          "meaningJa": "パスワード",
-          "exampleEn": "Make sure your password is hard to guess.",
-          "exampleJa": "パスワードは推測されにくいものにしてください。"
+          "word": "Physical",
+          "meaningJa": "身体の",
+          "exampleEn": "Physical health is important.",
+          "exampleJa": "身体の健康は大切です。"
         },
         {
-          "word": "permission",
-          "meaningJa": "許可、権限",
-          "exampleEn": "The app needs permission to access photos.",
-          "exampleJa": "そのアプリは写真にアクセスするための許可が必要です。"
+          "word": "Comfortable",
+          "meaningJa": "快適な",
+          "exampleEn": "I need comfortable shoes.",
+          "exampleJa": "快適な靴が必要です。"
         },
         {
-          "word": "account",
-          "meaningJa": "アカウント",
-          "exampleEn": "I forgot the password for my email account.",
-          "exampleJa": "メールアカウントのパスワードを忘れてしまいました。"
-        },
-        {
-          "word": "location",
-          "meaningJa": "位置情報、場所",
-          "exampleEn": "Turn off location services to save battery.",
-          "exampleJa": "バッテリーを節約するために位置情報サービスをオフにしましょう。"
-        },
-        {
-          "word": "habit",
+          "word": "Routine",
           "meaningJa": "習慣",
-          "exampleEn": "It is a good habit to lock your screen.",
-          "exampleJa": "画面をロックするのは良い習慣です。"
+          "exampleEn": "Walking is my daily routine.",
+          "exampleJa": "ウォーキングは私の日課です。"
+        },
+        {
+          "index": 3,
+          "word": "Support",
+          "meaningJa": "支える",
+          "exampleEn": "These shoes support my feet.",
+          "exampleJa": "この靴は私の足を支えてくれます。"
+        },
+        {
+          "word": "Consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is the key.",
+          "exampleJa": "継続することが鍵です。"
         }
       ],
-      "id": "beginner-2026-10-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/beginner.m4a",
-      "durationSeconds": 38
+      "id": "beginner-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/beginner.m4a",
+      "durationSeconds": 34
     },
     {
       "levelGroup": "intermediate",
-      "title": "Smart Habits for Online Safety",
+      "title": "Building a Daily Walking Habit",
       "cefrLevel": "B1",
-      "summaryJa": "日常的にオンラインの安全性を高めるための具体的な方法を紹介します。",
+      "summaryJa": "忙しいスケジュールの中で、どのようにウォーキングを取り入れ、健康を維持するかについてのガイド。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-data-privacy"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Protecting your personal information online has become an essential part of our daily digital lives.",
-          "translationJa": "オンラインで個人情報を守ることは、私たちのデジタルな日常生活において不可欠な要素となりました。",
-          "id": "intermediate-2026-10-11-s01",
+          "text": "Many people struggle to find time for exercise in their very busy daily lives.",
+          "translationJa": "多くの人が、忙しい日常生活の中で運動する時間を見つけるのに苦労しています。",
+          "id": "intermediate-2026-10-12-s01",
           "startMs": 0,
-          "endMs": 5281,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s01.m4a"
+          "endMs": 4381,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people use simple passwords, but these are very easy for hackers to guess quickly.",
-          "translationJa": "多くの人が単純なパスワードを使っていますが、これらはハッカーがすぐに推測するのに非常に簡単です。",
-          "id": "intermediate-2026-10-11-s02",
-          "startMs": 5681,
-          "endMs": 10561,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s02.m4a"
+          "text": "However, walking is an accessible activity that fits easily into almost any regular schedule.",
+          "translationJa": "しかし、ウォーキングはほとんどの人の日課に簡単に組み込める、取り入れやすい活動です。",
+          "id": "intermediate-2026-10-12-s02",
+          "startMs": 4781,
+          "endMs": 10281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "You should use a unique password for every single account that you manage online today.",
-          "translationJa": "今日オンラインで管理しているすべてのアカウントに対して、ユニークなパスワードを使うべきです。",
-          "id": "intermediate-2026-10-11-s03",
-          "startMs": 10961,
-          "endMs": 15493,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s03.m4a"
+          "text": "You do not need special equipment to begin this healthy habit starting from today.",
+          "translationJa": "今日からこの健康的な習慣を始めるのに、特別な道具は何も必要ありません。",
+          "id": "intermediate-2026-10-12-s03",
+          "startMs": 10681,
+          "endMs": 14969,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Using a password manager is a great way to keep track of all your credentials.",
-          "translationJa": "パスワードマネージャーを使うことは、すべてのログイン情報を把握しておくための素晴らしい方法です。",
-          "id": "intermediate-2026-10-11-s04",
-          "startMs": 15893,
-          "endMs": 20111,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s04.m4a"
+          "text": "The most important investment you can make is a pair of high quality walking shoes.",
+          "translationJa": "あなたができる最も重要な投資は、質の高いウォーキングシューズを一足買うことです。",
+          "id": "intermediate-2026-10-12-s04",
+          "startMs": 15369,
+          "endMs": 19700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Beyond passwords, you must be very careful about the permissions you grant to mobile apps.",
-          "translationJa": "パスワードに加えて、モバイルアプリに与える許可については非常に慎重になる必要があります。",
-          "id": "intermediate-2026-10-11-s05",
-          "startMs": 20511,
-          "endMs": 25612,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s05.m4a"
+          "text": "Proper footwear protects your joints and prevents unnecessary pain while you are moving around outside.",
+          "translationJa": "適切な靴は関節を保護し、外で歩いている間の不要な痛みを防いでくれます。",
+          "id": "intermediate-2026-10-12-s05",
+          "startMs": 20100,
+          "endMs": 25555,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Some applications request access to your contacts, camera, or location without a clear reason why.",
-          "translationJa": "一部のアプリケーションは、明確な理由なしに連絡先、カメラ、または位置情報へのアクセスを要求します。",
-          "id": "intermediate-2026-10-11-s06",
-          "startMs": 26012,
-          "endMs": 32157,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s06.m4a"
+          "text": "Try to incorporate short walks into your routine by walking to the nearest station.",
+          "translationJa": "最寄りの駅まで歩くことで、短いウォーキングを日課に組み込んでみてください。",
+          "id": "intermediate-2026-10-12-s06",
+          "startMs": 25955,
+          "endMs": 30274,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Always review your privacy settings whenever you install a new application on your primary device.",
-          "translationJa": "メインのデバイスに新しいアプリケーションをインストールする際は、常にプライバシー設定を見直してください。",
-          "id": "intermediate-2026-10-11-s07",
-          "startMs": 32557,
-          "endMs": 37947,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s07.m4a"
+          "text": "Taking the stairs instead of the elevator is another great way to burn more calories.",
+          "translationJa": "エレベーターの代わりに階段を使うことも、より多くのカロリーを消費する素晴らしい方法です。",
+          "id": "intermediate-2026-10-12-s07",
+          "startMs": 30674,
+          "endMs": 35051,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Avoid using public Wi-Fi networks for tasks that involve your bank or private login details.",
-          "translationJa": "銀行や個人のログイン情報に関わる作業には、公共のWi-Fiネットワークを使わないようにしましょう。",
-          "id": "intermediate-2026-10-11-s08",
-          "startMs": 38347,
-          "endMs": 43766,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s08.m4a"
+          "text": "If you feel tired, even a short five minute walk can improve your mental mood.",
+          "translationJa": "もし疲れていると感じても、たった5分の短い散歩が心の気分を改善してくれます。",
+          "id": "intermediate-2026-10-12-s08",
+          "startMs": 35451,
+          "endMs": 39860,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "These networks are often insecure and could allow others to see your private data easily.",
-          "translationJa": "これらのネットワークは安全でないことが多く、他人があなたの個人データを簡単に盗み見ることにつながります。",
-          "id": "intermediate-2026-10-11-s09",
-          "startMs": 44166,
-          "endMs": 48541,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s09.m4a"
+          "text": "Listening to your favorite music can make the experience much more enjoyable and very relaxing.",
+          "translationJa": "好きな音楽を聴くことで、その体験はより楽しく、とてもリラックスできるものになります。",
+          "id": "intermediate-2026-10-12-s09",
+          "startMs": 40260,
+          "endMs": 45338,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Taking a few extra moments to secure your digital footprint makes a very big difference.",
-          "translationJa": "デジタル上の足跡を守るために少し時間をかけることは、非常に大きな違いを生みます。",
-          "id": "intermediate-2026-10-11-s10",
-          "startMs": 48941,
-          "endMs": 53724,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s10.m4a"
+          "text": "Remember that small daily steps will eventually lead to significant improvements in your overall fitness.",
+          "translationJa": "毎日の小さな一歩が、最終的には全体的な体力の大きな向上につながることを覚えておいてください。",
+          "id": "intermediate-2026-10-12-s10",
+          "startMs": 45738,
+          "endMs": 51202,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Stay alert and maintain these simple security practices to enjoy the internet with total confidence.",
-          "translationJa": "常に警戒し、これらの単純なセキュリティ習慣を維持して、完全に自信を持ってインターネットを楽しみましょう。",
-          "id": "intermediate-2026-10-11-s11",
-          "startMs": 54124,
-          "endMs": 59711,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate-s11.m4a"
+          "text": "Stay consistent with your walking plan and you will surely see the positive results soon.",
+          "translationJa": "ウォーキング計画を継続すれば、きっとすぐにポジティブな結果が見えてくるはずです。",
+          "id": "intermediate-2026-10-12-s11",
+          "startMs": 51602,
+          "endMs": 56062,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命にとって不可欠です。"
+          "word": "Accessible",
+          "meaningJa": "利用しやすい",
+          "exampleEn": "Walking is accessible for everyone.",
+          "exampleJa": "ウォーキングは誰にとっても利用しやすいです。"
         },
         {
-          "word": "unique",
-          "meaningJa": "独自の、ユニークな",
-          "exampleEn": "Each user has a unique ID number.",
-          "exampleJa": "各ユーザーは独自のID番号を持っています。"
+          "word": "Investment",
+          "meaningJa": "投資",
+          "exampleEn": "Good shoes are a great investment.",
+          "exampleJa": "良い靴は素晴らしい投資です。"
         },
         {
-          "word": "credentials",
-          "meaningJa": "ログイン情報、資格情報",
-          "exampleEn": "Keep your login credentials in a safe place.",
-          "exampleJa": "ログイン情報を安全な場所に保管してください。"
+          "word": "Footwear",
+          "meaningJa": "履物",
+          "exampleEn": "Choose proper footwear.",
+          "exampleJa": "適切な履物を選んでください。"
         },
         {
-          "word": "grant",
-          "meaningJa": "与える、許可する",
-          "exampleEn": "The system granted him access to the file.",
-          "exampleJa": "システムは彼にファイルへのアクセス権を与えました。"
+          "word": "Incorporate",
+          "meaningJa": "組み込む",
+          "exampleEn": "I incorporate exercise into my day.",
+          "exampleJa": "私は運動を1日の中に組み込んでいます。"
         },
         {
-          "word": "insecure",
-          "meaningJa": "安全でない、不安な",
-          "exampleEn": "Do not send money over an insecure connection.",
-          "exampleJa": "安全でない接続を通じてお金を送らないでください。"
+          "word": "Significant",
+          "meaningJa": "重要な、かなりの",
+          "exampleEn": "There was a significant change.",
+          "exampleJa": "かなりの変化がありました。"
         }
       ],
-      "id": "intermediate-2026-10-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/intermediate.m4a",
-      "durationSeconds": 58
+      "id": "intermediate-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Mastering Your Digital Privacy",
+      "title": "Building a Daily Walking Habit",
       "cefrLevel": "B2",
-      "summaryJa": "高度なプライバシー保護技術とオンラインセキュリティのベストプラクティスについて解説します。",
+      "summaryJa": "ウォーキングをライフスタイルに統合し、身体的および精神的な健康を最適化するための戦略。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-data-privacy"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "In an era of constant connectivity, maintaining robust digital privacy requires consistent and proactive habits.",
-          "translationJa": "常時接続の時代において、強固なデジタルプライバシーを維持するには、一貫した積極的な習慣が必要です。",
-          "id": "advanced-2026-10-11-s01",
+          "text": "Maintaining a consistent walking habit is one of the most effective ways to boost health.",
+          "translationJa": "一貫したウォーキングの習慣を維持することは、健康を増進する最も効果的な方法の一つです。",
+          "id": "advanced-2026-10-12-s01",
           "startMs": 0,
-          "endMs": 6708,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s01.m4a"
+          "endMs": 4521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "The foundation of online security starts with managing your authentication methods with extreme carefulness and precision.",
-          "translationJa": "オンラインセキュリティの基盤は、認証方法を極めて慎重かつ正確に管理することから始まります。",
-          "id": "advanced-2026-10-11-s02",
-          "startMs": 7108,
-          "endMs": 13703,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s02.m4a"
+          "text": "Modern life often restricts our natural movement, making intentional physical activity essential for our well-being.",
+          "translationJa": "現代生活はしばしば自然な動きを制限するため、意図的な身体活動が私たちの幸福にとって不可欠です。",
+          "id": "advanced-2026-10-12-s02",
+          "startMs": 4921,
+          "endMs": 11287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Multi-factor authentication is now considered a standard requirement for protecting sensitive personal information from potential threats.",
-          "translationJa": "多要素認証は現在、機密性の高い個人情報を潜在的な脅威から守るための標準的な要件と見なされています。",
-          "id": "advanced-2026-10-11-s03",
-          "startMs": 14103,
-          "endMs": 21851,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s03.m4a"
+          "text": "To succeed, you should select supportive footwear that provides adequate cushioning for your specific foot type.",
+          "translationJa": "成功するためには、自分の足のタイプに適したクッション性のあるサポート力のある履物を選ぶべきです。",
+          "id": "advanced-2026-10-12-s03",
+          "startMs": 11687,
+          "endMs": 17445,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Many users underestimate the amount of data that mobile applications collect during normal daily usage patterns.",
-          "translationJa": "多くのユーザーは、モバイルアプリが日常的な使用パターンの中でどれだけのデータを収集しているかを過小評価しています。",
-          "id": "advanced-2026-10-11-s04",
-          "startMs": 22251,
-          "endMs": 28397,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s04.m4a"
+          "text": "High quality shoes significantly reduce the risk of injury and ensure long-term comfort during daily walks.",
+          "translationJa": "高品質な靴は怪我のリスクを大幅に減らし、毎日のウォーキング中の長期的な快適さを保証します。",
+          "id": "advanced-2026-10-12-s04",
+          "startMs": 17845,
+          "endMs": 23635,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You should audit your device settings regularly to restrict unnecessary data access by third-party software programs.",
-          "translationJa": "サードパーティ製ソフトウェアによる不必要なデータアクセスを制限するため、デバイスの設定を定期的に監査すべきです。",
-          "id": "advanced-2026-10-11-s05",
-          "startMs": 28797,
-          "endMs": 35442,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s05.m4a"
+          "text": "Rather than aiming for long sessions, focus on integrating short bursts of movement into your day.",
+          "translationJa": "長い時間を目標にするのではなく、1日の中に短い動きを取り入れることに集中してください。",
+          "id": "advanced-2026-10-12-s05",
+          "startMs": 24035,
+          "endMs": 29348,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It is also wise to understand how your browsing activity is tracked across different websites online.",
-          "translationJa": "オンライン上の様々なウェブサイトで、自分の閲覧履歴がどのように追跡されているかを理解することも賢明です。",
-          "id": "advanced-2026-10-11-s06",
-          "startMs": 35842,
-          "endMs": 41516,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s06.m4a"
+          "text": "For instance, walking during your lunch break can refresh your mind and increase your afternoon productivity.",
+          "translationJa": "例えば、昼休みに歩くことは、頭をリフレッシュさせ、午後の生産性を高めることができます。",
+          "id": "advanced-2026-10-12-s06",
+          "startMs": 29748,
+          "endMs": 35415,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Using privacy-focused browsers or extensions can help reduce the footprint you leave while browsing the web.",
-          "translationJa": "プライバシー重視のブラウザや拡張機能を使うことで、ウェブ閲覧時に残す足跡を減らすことができます。",
-          "id": "advanced-2026-10-11-s07",
-          "startMs": 41916,
-          "endMs": 47632,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s07.m4a"
+          "text": "Choosing a scenic route or a park can further enhance your mental clarity and emotional state.",
+          "translationJa": "景色の良いルートや公園を選ぶことは、精神的な明晰さと感情の状態をさらに高めることができます。",
+          "id": "advanced-2026-10-12-s07",
+          "startMs": 35815,
+          "endMs": 40666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Always verify the legitimacy of websites before you enter any credit card or personal identification information.",
-          "translationJa": "クレジットカードや個人識別情報を入力する前に、ウェブサイトの正当性を常に確認してください。",
-          "id": "advanced-2026-10-11-s08",
-          "startMs": 48032,
-          "endMs": 54733,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s08.m4a"
+          "text": "You might also consider walking with a colleague or friend to maintain your personal motivation levels.",
+          "translationJa": "モチベーションを維持するために、同僚や友人と一緒に歩くことも検討してみてください。",
+          "id": "advanced-2026-10-12-s08",
+          "startMs": 41066,
+          "endMs": 46283,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Phishing attempts remain a common tactic, so remain skeptical of unsolicited emails requesting urgent account actions.",
-          "translationJa": "フィッシング詐欺は依然として一般的な手法であるため、緊急のアカウント操作を求める未承諾メールには懐疑的でいてください。",
-          "id": "advanced-2026-10-11-s09",
-          "startMs": 55133,
-          "endMs": 62089,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s09.m4a"
+          "text": "Do not let poor weather or a busy schedule disrupt your commitment to this healthy routine.",
+          "translationJa": "悪天候や忙しいスケジュールが、この健康的な習慣への取り組みを妨げないようにしてください。",
+          "id": "advanced-2026-10-12-s09",
+          "startMs": 46683,
+          "endMs": 51319,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Security is not a one-time setup but a continuous process of staying informed about potential risks.",
-          "translationJa": "セキュリティは一度きりの設定ではなく、潜在的なリスクについて常に情報を得るという継続的なプロセスです。",
-          "id": "advanced-2026-10-11-s10",
-          "startMs": 62489,
-          "endMs": 68378,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s10.m4a"
+          "text": "Even a brief walk around the block is better than skipping your physical exercise entirely today.",
+          "translationJa": "近所を少し歩くだけでも、今日まったく運動をしないよりはずっと良いことです。",
+          "id": "advanced-2026-10-12-s10",
+          "startMs": 51719,
+          "endMs": 56836,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "By adopting these advanced practices, you gain better control over your personal digital presence every day.",
-          "translationJa": "これらの高度な習慣を取り入れることで、毎日、自身のデジタルプレゼンスをより適切に制御できるようになります。",
-          "id": "advanced-2026-10-11-s11",
-          "startMs": 68778,
-          "endMs": 74889,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s11.m4a"
+          "text": "Over time, these simple daily actions will foster a healthier and more balanced lifestyle for you.",
+          "translationJa": "時間が経つにつれて、これらのシンプルな毎日の行動が、あなたにとってより健康的でバランスの取れたライフスタイルを育みます。",
+          "id": "advanced-2026-10-12-s11",
+          "startMs": 57236,
+          "endMs": 62674,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Take charge of your security today to build a safer and more private online experience overall.",
-          "translationJa": "より安全でプライベートなオンライン体験を築くために、今日から自身のセキュリティを管理しましょう。",
-          "id": "advanced-2026-10-11-s12",
-          "startMs": 75289,
-          "endMs": 80479,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced-s12.m4a"
+          "text": "Prioritize your movement and enjoy the lasting benefits that come with this simple daily habit.",
+          "translationJa": "運動を優先し、このシンプルな毎日の習慣に伴う持続的な利点を享受してください。",
+          "id": "advanced-2026-10-12-s12",
+          "startMs": 63074,
+          "endMs": 67983,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "robust",
-          "meaningJa": "強固な、頑健な",
-          "exampleEn": "We need a robust security system.",
-          "exampleJa": "私たちは強固なセキュリティシステムを必要としています。"
+          "word": "Restrict",
+          "meaningJa": "制限する",
+          "exampleEn": "The rules restrict our movement.",
+          "exampleJa": "そのルールは私たちの動きを制限します。"
         },
         {
-          "word": "authentication",
-          "meaningJa": "認証",
-          "exampleEn": "Two-factor authentication adds extra security.",
-          "exampleJa": "二要素認証はセキュリティをさらに高めます。"
+          "word": "Essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
         },
         {
-          "word": "audit",
-          "meaningJa": "監査する、調査する",
-          "exampleEn": "Audit your accounts for any suspicious activity.",
-          "exampleJa": "疑わしい活動がないかアカウントを監査してください。"
+          "word": "Cushioning",
+          "meaningJa": "クッション性",
+          "exampleEn": "These shoes have great cushioning.",
+          "exampleJa": "この靴は素晴らしいクッション性があります。"
         },
         {
-          "word": "legitimacy",
-          "meaningJa": "正当性、合法性",
-          "exampleEn": "The police questioned the legitimacy of the document.",
-          "exampleJa": "警察はその書類の正当性を疑問視しました。"
+          "word": "Productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Focus on your daily productivity.",
+          "exampleJa": "日々の生産性に集中しましょう。"
         },
         {
-          "word": "unsolicited",
-          "meaningJa": "未承諾の、頼んでいない",
-          "exampleEn": "Delete unsolicited emails immediately.",
-          "exampleJa": "頼んでいないメールはすぐに削除してください。"
+          "word": "Foster",
+          "meaningJa": "育む、促進する",
+          "exampleEn": "We foster a healthy environment.",
+          "exampleJa": "私たちは健康的な環境を育んでいます。"
         }
       ],
-      "id": "advanced-2026-10-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-11/advanced.m4a",
-      "durationSeconds": 78
+      "id": "advanced-2026-10-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-12/advanced.m4a",
+      "durationSeconds": 66
     }
   ],
-  "topicCategory": "science_technology"
+  "topicCategory": "health_wellness"
 }

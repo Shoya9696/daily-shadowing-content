@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-10T15:01:19Z",
-  "latestLessonDate": "2026-10-11",
+  "generatedAtUtc": "2026-10-11T15:01:15Z",
+  "latestLessonDate": "2026-10-12",
   "days": [
+    {
+      "lessonDate": "2026-10-12",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-12.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 34,
+          "summaryJa": "忙しい日々の中でも、快適な靴を選んで短時間のウォーキングを習慣にする方法について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 54,
+          "summaryJa": "忙しいスケジュールの中で、どのようにウォーキングを取り入れ、健康を維持するかについてのガイド。"
+        },
+        {
+          "level": "advanced",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 66,
+          "summaryJa": "ウォーキングをライフスタイルに統合し、身体的および精神的な健康を最適化するための戦略。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-10-11",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-11.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-09-11",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-11.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Learning Basic Local Customs",
-          "durationSeconds": 30,
-          "summaryJa": "旅行中に現地の挨拶や礼儀を学ぶことの重要性について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Understanding Local Etiquette",
-          "durationSeconds": 50,
-          "summaryJa": "旅行先でのマナーや礼儀を理解し、異文化を尊重する方法について。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Being a Respectful Traveler",
-          "durationSeconds": 63,
-          "summaryJa": "旅行先で尊重されるためのマナーや挨拶、文化理解について学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
