@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-12T15:01:29Z",
+  "lessonDate": "2026-10-13",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "How to Start Saving Money",
+      "cefrLevel": "A2",
+      "summaryJa": "貯金を始めるための基本的なステップと、小さな目標から始めることの重要性について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Saving money is a great way to feel more secure every day.",
+          "translationJa": "貯金は毎日をもっと安心感のあるものにするための素晴らしい方法です。",
+          "id": "beginner-2026-10-13-s01",
+          "startMs": 0,
+          "endMs": 3114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should think about your main goal for the future.",
+          "translationJa": "まず、将来の主な目標について考えてみるべきです。",
+          "id": "beginner-2026-10-13-s02",
+          "startMs": 3514,
+          "endMs": 6639,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is helpful to start with a very small and simple amount.",
+          "translationJa": "とても小さくてシンプルな金額から始めるのが役に立ちます。",
+          "id": "beginner-2026-10-13-s03",
+          "startMs": 7039,
+          "endMs": 10159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You do not need to save a lot of money right now.",
+          "translationJa": "今すぐたくさんのお金を貯める必要はありません。",
+          "id": "beginner-2026-10-13-s04",
+          "startMs": 10559,
+          "endMs": 13082,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to put away a little bit of cash each week consistently.",
+          "translationJa": "毎週少しずつ着実にお金を貯めてみてください。",
+          "id": "beginner-2026-10-13-s05",
+          "startMs": 13482,
+          "endMs": 16617,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Checking your progress will help you stay very motivated for longer.",
+          "translationJa": "進捗を確認することは、より長くモチベーションを維持する助けになります。",
+          "id": "beginner-2026-10-13-s06",
+          "startMs": 17017,
+          "endMs": 20475,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "You can use a simple notebook to track your spending habits daily.",
+          "translationJa": "毎日の支出習慣を記録するためにシンプルなノートを使うことができます。",
+          "id": "beginner-2026-10-13-s07",
+          "startMs": 20875,
+          "endMs": 24258,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Small steps will eventually lead to reaching your big financial dreams soon.",
+          "translationJa": "小さな一歩が、やがて大きな金銭的な夢の実現につながります。",
+          "id": "beginner-2026-10-13-s08",
+          "startMs": 24658,
+          "endMs": 28619,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Be patient with yourself as you build this new positive habit today.",
+          "translationJa": "今日この新しいポジティブな習慣を作る間、自分自身に忍耐強くありましょう。",
+          "id": "beginner-2026-10-13-s09",
+          "startMs": 29019,
+          "endMs": 32449,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "secure",
+          "meaningJa": "安心な",
+          "exampleEn": "It is important to feel secure.",
+          "exampleJa": "安心感を持つことは大切です。"
+        },
+        {
+          "word": "consistently",
+          "meaningJa": "一貫して、絶えず",
+          "exampleEn": "He works consistently.",
+          "exampleJa": "彼は一貫して働いています。"
+        },
+        {
+          "word": "motivated",
+          "meaningJa": "やる気のある",
+          "exampleEn": "I feel very motivated.",
+          "exampleJa": "とてもやる気を感じます。"
+        },
+        {
+          "word": "track",
+          "meaningJa": "追跡する、記録する",
+          "exampleEn": "I track my expenses.",
+          "exampleJa": "私は支出を記録しています。"
+        },
+        {
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
+        }
+      ],
+      "id": "beginner-2026-10-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner.m4a",
+      "durationSeconds": 31
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Creating Your Personal Savings Plan",
+      "cefrLevel": "B1",
+      "summaryJa": "個人の貯金計画を立てるための実践的なアドバイスと、継続のためのヒントを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Setting a clear savings goal is the best way to manage your personal finances effectively.",
+          "translationJa": "明確な貯金目標を設定することは、個人の財務を効果的に管理するための最善の方法です。",
+          "id": "intermediate-2026-10-13-s01",
+          "startMs": 0,
+          "endMs": 4809,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You should begin by looking at your monthly income and your regular daily expenses carefully.",
+          "translationJa": "まずは自分の月収と日々の定期的な支出を注意深く確認することから始めましょう。",
+          "id": "intermediate-2026-10-13-s02",
+          "startMs": 5209,
+          "endMs": 9880,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is often better to aim for a small target that you can easily achieve.",
+          "translationJa": "簡単に達成できる小さな目標を目指す方が、多くの場合うまくいきます。",
+          "id": "intermediate-2026-10-13-s03",
+          "startMs": 10280,
+          "endMs": 14015,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Once you reach your first goal, you will feel much more confident about your future.",
+          "translationJa": "最初の目標を達成すれば、自分の将来に対してより自信が持てるようになるでしょう。",
+          "id": "intermediate-2026-10-13-s04",
+          "startMs": 14415,
+          "endMs": 18840,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to separate your savings from your everyday spending money in a different bank account.",
+          "translationJa": "貯金は日々の生活費とは分けて、別の銀行口座に入れておくようにしましょう。",
+          "id": "intermediate-2026-10-13-s05",
+          "startMs": 19240,
+          "endMs": 23582,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Automating your transfers can prevent you from spending money that you intended to save today.",
+          "translationJa": "自動送金を設定すれば、今日貯金するつもりだったお金を使ってしまうのを防げます。",
+          "id": "intermediate-2026-10-13-s06",
+          "startMs": 23982,
+          "endMs": 28745,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Review your budget every month to see if you can adjust your spending habits slightly.",
+          "translationJa": "毎月予算を見直して、支出習慣を少し調整できるかどうか確認してください。",
+          "id": "intermediate-2026-10-13-s07",
+          "startMs": 29145,
+          "endMs": 33285,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Even cutting back on minor expenses can make a large difference over a long period.",
+          "translationJa": "小さな支出を減らすだけでも、長い目で見れば大きな違いが生まれます。",
+          "id": "intermediate-2026-10-13-s08",
+          "startMs": 33685,
+          "endMs": 38175,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that saving is not about deprivation but about preparing for your future life goals.",
+          "translationJa": "貯金とは我慢することではなく、将来の人生の目標のために準備することだと覚えておいてください。",
+          "id": "intermediate-2026-10-13-s09",
+          "startMs": 38575,
+          "endMs": 43540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Stay focused on your primary objective and celebrate each small success along your personal journey.",
+          "translationJa": "主要な目的に集中し、自分自身の道のりの中で小さな成功を一つずつ祝いましょう。",
+          "id": "intermediate-2026-10-13-s10",
+          "startMs": 43940,
+          "endMs": 49190,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Consistent effort is the key to building wealth and achieving lasting financial stability for yourself.",
+          "translationJa": "一貫した努力こそが、富を築き、持続可能な経済的安定を手に入れるための鍵となります。",
+          "id": "intermediate-2026-10-13-s11",
+          "startMs": 49590,
+          "endMs": 54779,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "manage",
+          "meaningJa": "管理する",
+          "exampleEn": "I manage my time well.",
+          "exampleJa": "私は時間をうまく管理しています。"
+        },
+        {
+          "word": "achieve",
+          "meaningJa": "達成する",
+          "exampleEn": "You can achieve your goals.",
+          "exampleJa": "目標を達成できます。"
+        },
+        {
+          "word": "automate",
+          "meaningJa": "自動化する",
+          "exampleEn": "I automate my payments.",
+          "exampleJa": "支払いを自動化しています。"
+        },
+        {
+          "word": "deprivation",
+          "meaningJa": "欠乏、奪うこと",
+          "exampleEn": "It is not about deprivation.",
+          "exampleJa": "それは我慢（欠乏）とは違います。"
+        },
+        {
+          "word": "objective",
+          "meaningJa": "目標、目的",
+          "exampleEn": "What is your main objective?",
+          "exampleJa": "主な目的は何ですか？"
+        }
+      ],
+      "id": "intermediate-2026-10-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate.m4a",
+      "durationSeconds": 53
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Strategies for Building Your First Savings Fund",
+      "cefrLevel": "B2",
+      "summaryJa": "貯金目標の立て方や、小さな一歩から始める重要性、進捗確認のコツについて解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Establishing a solid savings habit begins with defining a clear and realistic financial target.",
+          "translationJa": "強固な貯蓄習慣を築くことは、明確で現実的な財務目標を定めることから始まります。",
+          "id": "advanced-2026-10-13-s01",
+          "startMs": 0,
+          "endMs": 5349,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people fail because they set goals that are far too ambitious for their income.",
+          "translationJa": "多くの人が失敗するのは、収入に対して野心的な目標を立てすぎてしまうからです。",
+          "id": "advanced-2026-10-13-s02",
+          "startMs": 5749,
+          "endMs": 10049,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Instead of aiming for a massive total, start by setting aside a small monthly amount.",
+          "translationJa": "莫大な合計金額を目指すのではなく、まずは毎月少額を積み立てることから始めましょう。",
+          "id": "advanced-2026-10-13-s03",
+          "startMs": 10449,
+          "endMs": 15264,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Consistency is far more important than the specific amount you manage to save each month.",
+          "translationJa": "毎月貯金できる金額よりも、継続することの方がはるかに重要です。",
+          "id": "advanced-2026-10-13-s04",
+          "startMs": 15664,
+          "endMs": 20470,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Automating your savings transfers ensures that you prioritize your future self before spending your paycheck.",
+          "translationJa": "貯蓄の振込を自動化することで、給料を使う前に将来の自分を優先できるようになります。",
+          "id": "advanced-2026-10-13-s05",
+          "startMs": 20870,
+          "endMs": 26759,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You should also create a separate bank account to keep these funds away from daily.",
+          "translationJa": "また、これらの資金を日常の支出から遠ざけるために、別の銀行口座を作るべきです。",
+          "id": "advanced-2026-10-13-s06",
+          "startMs": 27159,
+          "endMs": 31285,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Review your progress every quarter to see if your financial situation allows for any adjustments.",
+          "translationJa": "四半期ごとに進捗を見直し、経済状況に応じて調整が可能かどうかを確認しましょう。",
+          "id": "advanced-2026-10-13-s07",
+          "startMs": 31685,
+          "endMs": 36789,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "It is perfectly acceptable to increase your contributions as your salary grows over the years.",
+          "translationJa": "年月の経過とともに給与が増えるにつれて、拠出額を増やすことは全く問題ありません。",
+          "id": "advanced-2026-10-13-s08",
+          "startMs": 37189,
+          "endMs": 42260,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Small, incremental changes often lead to significant long-term growth in your personal wealth account.",
+          "translationJa": "小さな段階的な変化が、多くの場合、個人の資産口座における長期的な大きな成長につながります。",
+          "id": "advanced-2026-10-13-s09",
+          "startMs": 42660,
+          "endMs": 48281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Focusing on the process rather than the destination helps maintain your motivation over the long.",
+          "translationJa": "目的地ではなくプロセスに集中することは、長期間にわたってモチベーションを維持する助けになります。",
+          "id": "advanced-2026-10-13-s10",
+          "startMs": 48681,
+          "endMs": 53768,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Remember that every dollar you save today serves as a foundation for your future security.",
+          "translationJa": "今日貯蓄するすべてのドルが、将来の安心のための基盤となることを忘れないでください。",
+          "id": "advanced-2026-10-13-s11",
+          "startMs": 54168,
+          "endMs": 58912,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Start your journey today and watch how your disciplined approach transforms your financial life entirely.",
+          "translationJa": "今日から旅を始め、規律あるアプローチがどのようにあなたの経済生活を完全に変えるかを見届けましょう。",
+          "id": "advanced-2026-10-13-s12",
+          "startMs": 59312,
+          "endMs": 64748,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Establishing",
+          "meaningJa": "確立すること",
+          "exampleEn": "Establishing a routine is key to success.",
+          "exampleJa": "習慣を確立することが成功の鍵です。"
+        },
+        {
+          "word": "Incremental",
+          "meaningJa": "増加の、少しずつの",
+          "exampleEn": "We made incremental improvements to the system.",
+          "exampleJa": "システムに少しずつ改良を加えました。"
+        },
+        {
+          "word": "Consistency",
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is the secret to learning a language.",
+          "exampleJa": "継続こそが言語習得の秘訣です。"
+        },
+        {
+          "word": "Automating",
+          "meaningJa": "自動化すること",
+          "exampleEn": "Automating your bills saves a lot of time.",
+          "exampleJa": "支払いを自動化すると多くの時間を節約できます。"
+        },
+        {
+          "word": "Contribution",
+          "meaningJa": "拠出、貢献",
+          "exampleEn": "He makes a monthly contribution to his savings.",
+          "exampleJa": "彼は毎月貯蓄にいくらか拠出しています。"
+        }
+      ],
+      "id": "advanced-2026-10-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced.m4a",
+      "durationSeconds": 63
+    }
+  ],
+  "topicCategory": "business_money"
+}

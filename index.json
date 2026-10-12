@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-11T15:01:15Z",
-  "latestLessonDate": "2026-10-12",
+  "generatedAtUtc": "2026-10-12T15:01:29Z",
+  "latestLessonDate": "2026-10-13",
   "days": [
+    {
+      "lessonDate": "2026-10-13",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-13.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Start Saving Money",
+          "durationSeconds": 31,
+          "summaryJa": "貯金を始めるための基本的なステップと、小さな目標から始めることの重要性について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating Your Personal Savings Plan",
+          "durationSeconds": 53,
+          "summaryJa": "個人の貯金計画を立てるための実践的なアドバイスと、継続のためのヒントを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategies for Building Your First Savings Fund",
+          "durationSeconds": 63,
+          "summaryJa": "貯金目標の立て方や、小さな一歩から始める重要性、進捗確認のコツについて解説します。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-10-12",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-12.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-09-12",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-12.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Getting Started with Smart Homes",
-          "durationSeconds": 32,
-          "summaryJa": "スマートホームの基本機能と、音声アシスタントを使った生活の始め方を紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Benefits of Home Automation",
-          "durationSeconds": 50,
-          "summaryJa": "スマートホーム技術がどのように私たちの生活を効率化し、快適にするかを解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Integrating Smart Technology into Daily Life",
-          "durationSeconds": 67,
-          "summaryJa": "スマートホーム技術の統合がもたらす生活の質の向上と、その利便性について詳しく考察します。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
