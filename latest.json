@@ -1,434 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-12T15:01:29Z",
-  "lessonDate": "2026-10-13",
+  "generatedAtUtc": "2026-10-13T15:01:34Z",
+  "lessonDate": "2026-10-14",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "How to Start Saving Money",
+      "title": "Helping Our Local Park",
       "cefrLevel": "A2",
-      "summaryJa": "貯金を始めるための基本的なステップと、小さな目標から始めることの重要性について学びます。",
+      "summaryJa": "地域の公園をきれいにするボランティア活動への参加について学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Saving money is a great way to feel more secure every day.",
-          "translationJa": "貯金は毎日をもっと安心感のあるものにするための素晴らしい方法です。",
-          "id": "beginner-2026-10-13-s01",
+          "text": "I joined a community cleanup event in my local neighborhood last Saturday morning.",
+          "translationJa": "先週の土曜日の朝、地元の地域の清掃イベントに参加しました。",
+          "id": "beginner-2026-10-14-s01",
           "startMs": 0,
-          "endMs": 3114,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s01.m4a"
+          "endMs": 4303,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "First, you should think about your main goal for the future.",
-          "translationJa": "まず、将来の主な目標について考えてみるべきです。",
-          "id": "beginner-2026-10-13-s02",
-          "startMs": 3514,
-          "endMs": 6639,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s02.m4a"
+          "text": "Many neighbors gathered at the park to pick up trash and pull weeds.",
+          "translationJa": "多くの近所の人々が公園に集まり、ゴミを拾ったり雑草を抜いたりしました。",
+          "id": "beginner-2026-10-14-s02",
+          "startMs": 4703,
+          "endMs": 8039,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is helpful to start with a very small and simple amount.",
-          "translationJa": "とても小さくてシンプルな金額から始めるのが役に立ちます。",
-          "id": "beginner-2026-10-13-s03",
-          "startMs": 7039,
-          "endMs": 10159,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s03.m4a"
+          "text": "We brought our own gloves and bags to help keep our area clean.",
+          "translationJa": "私たちは自分の手袋と袋を持参して、地域をきれいにする手伝いをしました。",
+          "id": "beginner-2026-10-14-s03",
+          "startMs": 8439,
+          "endMs": 11622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You do not need to save a lot of money right now.",
-          "translationJa": "今すぐたくさんのお金を貯める必要はありません。",
-          "id": "beginner-2026-10-13-s04",
-          "startMs": 10559,
-          "endMs": 13082,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s04.m4a"
+          "text": "It feels very good to work together with people who live nearby us.",
+          "translationJa": "近くに住む人々と一緒に働くのはとても気持ちが良いものです。",
+          "id": "beginner-2026-10-14-s04",
+          "startMs": 12022,
+          "endMs": 15548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to put away a little bit of cash each week consistently.",
-          "translationJa": "毎週少しずつ着実にお金を貯めてみてください。",
-          "id": "beginner-2026-10-13-s05",
-          "startMs": 13482,
-          "endMs": 16617,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s05.m4a"
+          "text": "We spent two hours working hard under the warm and bright morning sun.",
+          "translationJa": "私たちは暖かく明るい朝の日差しの下で、2時間一生懸命働きました。",
+          "id": "beginner-2026-10-14-s05",
+          "startMs": 15948,
+          "endMs": 19526,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Checking your progress will help you stay very motivated for longer.",
-          "translationJa": "進捗を確認することは、より長くモチベーションを維持する助けになります。",
-          "id": "beginner-2026-10-13-s06",
-          "startMs": 17017,
-          "endMs": 20475,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s06.m4a"
+          "text": "After the cleanup, we all enjoyed some cold drinks and talked together happily.",
+          "translationJa": "掃除のあと、私たちは皆で冷たい飲み物を楽しみ、楽しく話をしました。",
+          "id": "beginner-2026-10-14-s06",
+          "startMs": 19926,
+          "endMs": 24265,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You can use a simple notebook to track your spending habits daily.",
-          "translationJa": "毎日の支出習慣を記録するためにシンプルなノートを使うことができます。",
-          "id": "beginner-2026-10-13-s07",
-          "startMs": 20875,
-          "endMs": 24258,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s07.m4a"
+          "text": "Keeping our public spaces beautiful is important for everyone in the whole city.",
+          "translationJa": "公共の場所を美しく保つことは、街の全員にとって大切なことです。",
+          "id": "beginner-2026-10-14-s07",
+          "startMs": 24665,
+          "endMs": 28738,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Small steps will eventually lead to reaching your big financial dreams soon.",
-          "translationJa": "小さな一歩が、やがて大きな金銭的な夢の実現につながります。",
-          "id": "beginner-2026-10-13-s08",
-          "startMs": 24658,
-          "endMs": 28619,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s08.m4a"
+          "text": "I want to participate in this volunteer activity again early next month too.",
+          "translationJa": "来月初めにも、またこのボランティア活動に参加したいと思っています。",
+          "id": "beginner-2026-10-14-s08",
+          "startMs": 29138,
+          "endMs": 33441,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Be patient with yourself as you build this new positive habit today.",
-          "translationJa": "今日この新しいポジティブな習慣を作る間、自分自身に忍耐強くありましょう。",
-          "id": "beginner-2026-10-13-s09",
-          "startMs": 29019,
-          "endMs": 32449,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner-s09.m4a"
+          "text": "Helping the environment is a simple way to make our community much better.",
+          "translationJa": "環境を助けることは、地域社会をより良くするためのシンプルな方法です。",
+          "id": "beginner-2026-10-14-s09",
+          "startMs": 33841,
+          "endMs": 37715,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "secure",
-          "meaningJa": "安心な",
-          "exampleEn": "It is important to feel secure.",
-          "exampleJa": "安心感を持つことは大切です。"
+          "word": "neighborhood",
+          "meaningJa": "近所、地域",
+          "exampleEn": "I love my neighborhood.",
+          "exampleJa": "私は自分の近所が大好きです。"
         },
         {
-          "word": "consistently",
-          "meaningJa": "一貫して、絶えず",
-          "exampleEn": "He works consistently.",
-          "exampleJa": "彼は一貫して働いています。"
+          "word": "volunteer",
+          "meaningJa": "ボランティア",
+          "exampleEn": "She is a volunteer.",
+          "exampleJa": "彼女はボランティアです。"
         },
         {
-          "word": "motivated",
-          "meaningJa": "やる気のある",
-          "exampleEn": "I feel very motivated.",
-          "exampleJa": "とてもやる気を感じます。"
+          "word": "gather",
+          "meaningJa": "集まる",
+          "exampleEn": "Let's gather here.",
+          "exampleJa": "ここに集まりましょう。"
         },
         {
-          "word": "track",
-          "meaningJa": "追跡する、記録する",
-          "exampleEn": "I track my expenses.",
-          "exampleJa": "私は支出を記録しています。"
+          "word": "public",
+          "meaningJa": "公共の",
+          "exampleEn": "It is a public park.",
+          "exampleJa": "それは公共の公園です。"
         },
         {
-          "word": "habit",
-          "meaningJa": "習慣",
-          "exampleEn": "It is a good habit.",
-          "exampleJa": "それは良い習慣です。"
+          "word": "participate",
+          "meaningJa": "参加する",
+          "exampleEn": "I will participate today.",
+          "exampleJa": "今日参加します。"
         }
       ],
-      "id": "beginner-2026-10-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/beginner.m4a",
-      "durationSeconds": 31
+      "id": "beginner-2026-10-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/beginner.m4a",
+      "durationSeconds": 36
     },
     {
       "levelGroup": "intermediate",
-      "title": "Creating Your Personal Savings Plan",
+      "title": "Taking Care of Our Shared Spaces",
       "cefrLevel": "B1",
-      "summaryJa": "個人の貯金計画を立てるための実践的なアドバイスと、継続のためのヒントを紹介します。",
+      "summaryJa": "地域の清掃活動を通じて、共有スペースを維持することの意義について考えます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Setting a clear savings goal is the best way to manage your personal finances effectively.",
-          "translationJa": "明確な貯金目標を設定することは、個人の財務を効果的に管理するための最善の方法です。",
-          "id": "intermediate-2026-10-13-s01",
+          "text": "Volunteering for a community cleanup is a rewarding way to improve our local environment.",
+          "translationJa": "地域の清掃活動にボランティアとして参加することは、地元の環境を改善するやりがいのある方法です。",
+          "id": "intermediate-2026-10-14-s01",
           "startMs": 0,
-          "endMs": 4809,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s01.m4a"
+          "endMs": 4764,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You should begin by looking at your monthly income and your regular daily expenses carefully.",
-          "translationJa": "まずは自分の月収と日々の定期的な支出を注意深く確認することから始めましょう。",
-          "id": "intermediate-2026-10-13-s02",
-          "startMs": 5209,
-          "endMs": 9880,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s02.m4a"
+          "text": "Many people choose to spend their weekend mornings removing litter from parks and streets.",
+          "translationJa": "多くの人が週末の朝を使って、公園や通りからゴミを取り除くことを選んでいます。",
+          "id": "intermediate-2026-10-14-s02",
+          "startMs": 5164,
+          "endMs": 9743,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is often better to aim for a small target that you can easily achieve.",
-          "translationJa": "簡単に達成できる小さな目標を目指す方が、多くの場合うまくいきます。",
-          "id": "intermediate-2026-10-13-s03",
-          "startMs": 10280,
-          "endMs": 14015,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s03.m4a"
+          "text": "When we work together, we can clean large areas much faster than working alone.",
+          "translationJa": "みんなで協力すれば、一人で作業するよりもずっと早く広い範囲をきれいにできます。",
+          "id": "intermediate-2026-10-14-s03",
+          "startMs": 10143,
+          "endMs": 14545,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Once you reach your first goal, you will feel much more confident about your future.",
-          "translationJa": "最初の目標を達成すれば、自分の将来に対してより自信が持てるようになるでしょう。",
-          "id": "intermediate-2026-10-13-s04",
-          "startMs": 14415,
-          "endMs": 18840,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s04.m4a"
+          "text": "These events also provide a great opportunity to meet people living in the area.",
+          "translationJa": "こうしたイベントは、同じ地域に住む人々と出会う素晴らしい機会にもなります。",
+          "id": "intermediate-2026-10-14-s04",
+          "startMs": 14945,
+          "endMs": 19216,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to separate your savings from your everyday spending money in a different bank account.",
-          "translationJa": "貯金は日々の生活費とは分けて、別の銀行口座に入れておくようにしましょう。",
-          "id": "intermediate-2026-10-13-s05",
-          "startMs": 19240,
-          "endMs": 23582,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s05.m4a"
+          "text": "It is inspiring to see neighbors of all ages working toward a common goal.",
+          "translationJa": "あらゆる年齢の隣人たちが共通の目標に向かって働いている姿を見るのは刺激的です。",
+          "id": "intermediate-2026-10-14-s05",
+          "startMs": 19616,
+          "endMs": 23398,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Automating your transfers can prevent you from spending money that you intended to save today.",
-          "translationJa": "自動送金を設定すれば、今日貯金するつもりだったお金を使ってしまうのを防げます。",
-          "id": "intermediate-2026-10-13-s06",
-          "startMs": 23982,
-          "endMs": 28745,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s06.m4a"
+          "text": "Properly disposing of waste helps protect local wildlife and keeps our neighborhood looking beautiful.",
+          "translationJa": "ゴミを適切に処理することは、地元の野生生物を守り、近所を美しく保つことにつながります。",
+          "id": "intermediate-2026-10-14-s06",
+          "startMs": 23798,
+          "endMs": 29102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Review your budget every month to see if you can adjust your spending habits slightly.",
-          "translationJa": "毎月予算を見直して、支出習慣を少し調整できるかどうか確認してください。",
-          "id": "intermediate-2026-10-13-s07",
-          "startMs": 29145,
-          "endMs": 33285,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s07.m4a"
+          "text": "Simple actions like picking up trash can make a significant difference for our planet.",
+          "translationJa": "ゴミを拾うような単純な行動でも、地球にとっては大きな違いを生むことがあります。",
+          "id": "intermediate-2026-10-14-s07",
+          "startMs": 29502,
+          "endMs": 33917,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Even cutting back on minor expenses can make a large difference over a long period.",
-          "translationJa": "小さな支出を減らすだけでも、長い目で見れば大きな違いが生まれます。",
-          "id": "intermediate-2026-10-13-s08",
-          "startMs": 33685,
-          "endMs": 38175,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s08.m4a"
+          "text": "After the work is finished, there is always a sense of pride and accomplishment.",
+          "translationJa": "作業が終わった後には、いつも誇らしさと達成感を感じることができます。",
+          "id": "intermediate-2026-10-14-s08",
+          "startMs": 34317,
+          "endMs": 38389,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Remember that saving is not about deprivation but about preparing for your future life goals.",
-          "translationJa": "貯金とは我慢することではなく、将来の人生の目標のために準備することだと覚えておいてください。",
-          "id": "intermediate-2026-10-13-s09",
-          "startMs": 38575,
-          "endMs": 43540,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s09.m4a"
+          "text": "I encourage everyone to join a local group and help maintain our shared spaces.",
+          "translationJa": "皆さんも地元のグループに参加して、私たちの共有スペースを維持する手助けをすることをお勧めします。",
+          "id": "intermediate-2026-10-14-s09",
+          "startMs": 38789,
+          "endMs": 43139,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Stay focused on your primary objective and celebrate each small success along your personal journey.",
-          "translationJa": "主要な目的に集中し、自分自身の道のりの中で小さな成功を一つずつ祝いましょう。",
-          "id": "intermediate-2026-10-13-s10",
-          "startMs": 43940,
-          "endMs": 49190,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s10.m4a"
+          "text": "It is a small commitment that brings us closer together as a strong community.",
+          "translationJa": "それは、私たちを強固なコミュニティとしてより親密にしてくれる、小さな取り組みなのです。",
+          "id": "intermediate-2026-10-14-s10",
+          "startMs": 43539,
+          "endMs": 47565,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Consistent effort is the key to building wealth and achieving lasting financial stability for yourself.",
-          "translationJa": "一貫した努力こそが、富を築き、持続可能な経済的安定を手に入れるための鍵となります。",
-          "id": "intermediate-2026-10-13-s11",
-          "startMs": 49590,
-          "endMs": 54779,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate-s11.m4a"
+          "text": "Let us continue to care for our environment through these meaningful and regular activities.",
+          "translationJa": "こうした有意義で定期的な活動を通じて、これからも環境を守っていきましょう。",
+          "id": "intermediate-2026-10-14-s11",
+          "startMs": 47965,
+          "endMs": 52695,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "manage",
-          "meaningJa": "管理する",
-          "exampleEn": "I manage my time well.",
-          "exampleJa": "私は時間をうまく管理しています。"
+          "word": "rewarding",
+          "meaningJa": "やりがいのある",
+          "exampleEn": "Teaching is rewarding work.",
+          "exampleJa": "教えることはやりがいのある仕事です。"
         },
         {
-          "word": "achieve",
-          "meaningJa": "達成する",
-          "exampleEn": "You can achieve your goals.",
-          "exampleJa": "目標を達成できます。"
+          "word": "litter",
+          "meaningJa": "ゴミ",
+          "exampleEn": "Please don't drop litter.",
+          "exampleJa": "ゴミを捨てないでください。"
         },
         {
-          "word": "automate",
-          "meaningJa": "自動化する",
-          "exampleEn": "I automate my payments.",
-          "exampleJa": "支払いを自動化しています。"
+          "word": "inspiring",
+          "meaningJa": "刺激を与える",
+          "exampleEn": "That is an inspiring story.",
+          "exampleJa": "それは刺激的な話です。"
         },
         {
-          "word": "deprivation",
-          "meaningJa": "欠乏、奪うこと",
-          "exampleEn": "It is not about deprivation.",
-          "exampleJa": "それは我慢（欠乏）とは違います。"
+          "word": "significant",
+          "meaningJa": "重要な、かなりの",
+          "exampleEn": "It made a significant change.",
+          "exampleJa": "それはかなりの変化をもたらしました。"
         },
         {
-          "word": "objective",
-          "meaningJa": "目標、目的",
-          "exampleEn": "What is your main objective?",
-          "exampleJa": "主な目的は何ですか？"
+          "word": "accomplishment",
+          "meaningJa": "達成感",
+          "exampleEn": "I feel a sense of accomplishment.",
+          "exampleJa": "達成感を感じます。"
         }
       ],
-      "id": "intermediate-2026-10-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/intermediate.m4a",
-      "durationSeconds": 53
+      "id": "intermediate-2026-10-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/intermediate.m4a",
+      "durationSeconds": 51
     },
     {
       "levelGroup": "advanced",
-      "title": "Strategies for Building Your First Savings Fund",
+      "title": "The Benefits of Community Engagement",
       "cefrLevel": "B2",
-      "summaryJa": "貯金目標の立て方や、小さな一歩から始める重要性、進捗確認のコツについて解説します。",
+      "summaryJa": "環境保全とコミュニティ形成という二つの側面から、地域活動の重要性を考察します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Establishing a solid savings habit begins with defining a clear and realistic financial target.",
-          "translationJa": "強固な貯蓄習慣を築くことは、明確で現実的な財務目標を定めることから始まります。",
-          "id": "advanced-2026-10-13-s01",
+          "text": "Community cleanup initiatives serve as a vital foundation for environmental stewardship and neighborhood unity.",
+          "translationJa": "地域の清掃活動は、環境管理と近隣の団結のための不可欠な基盤として機能しています。",
+          "id": "advanced-2026-10-14-s01",
           "startMs": 0,
-          "endMs": 5349,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s01.m4a"
+          "endMs": 5781,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people fail because they set goals that are far too ambitious for their income.",
-          "translationJa": "多くの人が失敗するのは、収入に対して野心的な目標を立てすぎてしまうからです。",
-          "id": "advanced-2026-10-13-s02",
-          "startMs": 5749,
-          "endMs": 10049,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s02.m4a"
+          "text": "By dedicating time to restore public spaces, residents take active ownership of their local surroundings.",
+          "translationJa": "公共の場所を修復するために時間を捧げることで、住民は自分たちの周辺環境に対して積極的な当事者意識を持ちます。",
+          "id": "advanced-2026-10-14-s02",
+          "startMs": 6181,
+          "endMs": 12188,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Instead of aiming for a massive total, start by setting aside a small monthly amount.",
-          "translationJa": "莫大な合計金額を目指すのではなく、まずは毎月少額を積み立てることから始めましょう。",
-          "id": "advanced-2026-10-13-s03",
-          "startMs": 10449,
-          "endMs": 15264,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s03.m4a"
+          "text": "These activities go beyond simple waste collection as they foster meaningful social connections between neighbors.",
+          "translationJa": "これらの活動は、近隣住民間の有意義な社会関係を育むため、単なるゴミ収集を超えた価値があります。",
+          "id": "advanced-2026-10-14-s03",
+          "startMs": 12588,
+          "endMs": 18623,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Consistency is far more important than the specific amount you manage to save each month.",
-          "translationJa": "毎月貯金できる金額よりも、継続することの方がはるかに重要です。",
-          "id": "advanced-2026-10-13-s04",
-          "startMs": 15664,
-          "endMs": 20470,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s04.m4a"
+          "text": "Participating in such events encourages individuals to feel more responsible for the shared environment.",
+          "translationJa": "こうしたイベントへの参加は、個々人が共有環境に対してより責任を感じるよう促すものです。",
+          "id": "advanced-2026-10-14-s04",
+          "startMs": 19023,
+          "endMs": 24851,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Automating your savings transfers ensures that you prioritize your future self before spending your paycheck.",
-          "translationJa": "貯蓄の振込を自動化することで、給料を使う前に将来の自分を優先できるようになります。",
-          "id": "advanced-2026-10-13-s05",
-          "startMs": 20870,
-          "endMs": 26759,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s05.m4a"
+          "text": "Regular maintenance of parks and streets prevents long-term degradation of urban and natural landscapes.",
+          "translationJa": "公園や通りを定期的に整備することは、都市や自然の景観が長期的に荒廃するのを防ぎます。",
+          "id": "advanced-2026-10-14-s05",
+          "startMs": 25251,
+          "endMs": 31028,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You should also create a separate bank account to keep these funds away from daily.",
-          "translationJa": "また、これらの資金を日常の支出から遠ざけるために、別の銀行口座を作るべきです。",
-          "id": "advanced-2026-10-13-s06",
-          "startMs": 27159,
-          "endMs": 31285,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s06.m4a"
+          "text": "Collaborative effort makes the task less demanding and transforms it into a social occasion.",
+          "translationJa": "共同作業を行うことで、作業の負担は軽減され、それは社交的な機会へと変わります。",
+          "id": "advanced-2026-10-14-s06",
+          "startMs": 31428,
+          "endMs": 36339,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Review your progress every quarter to see if your financial situation allows for any adjustments.",
-          "translationJa": "四半期ごとに進捗を見直し、経済状況に応じて調整が可能かどうかを確認しましょう。",
-          "id": "advanced-2026-10-13-s07",
-          "startMs": 31685,
-          "endMs": 36789,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s07.m4a"
+          "text": "Children often learn the importance of sustainability by observing their parents during these group projects.",
+          "translationJa": "子供たちは、こうしたグループプロジェクトで親の姿を見ることで、持続可能性の重要性を学びます。",
+          "id": "advanced-2026-10-14-s07",
+          "startMs": 36739,
+          "endMs": 42287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is perfectly acceptable to increase your contributions as your salary grows over the years.",
-          "translationJa": "年月の経過とともに給与が増えるにつれて、拠出額を増やすことは全く問題ありません。",
-          "id": "advanced-2026-10-13-s08",
-          "startMs": 37189,
-          "endMs": 42260,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s08.m4a"
+          "text": "A cleaner neighborhood often leads to increased pride and improved mental well-being for all residents.",
+          "translationJa": "よりきれいな近所は、多くの場合、住民全員の誇りを高め、精神的な健康を改善することにつながります。",
+          "id": "advanced-2026-10-14-s08",
+          "startMs": 42687,
+          "endMs": 47653,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small, incremental changes often lead to significant long-term growth in your personal wealth account.",
-          "translationJa": "小さな段階的な変化が、多くの場合、個人の資産口座における長期的な大きな成長につながります。",
-          "id": "advanced-2026-10-13-s09",
-          "startMs": 42660,
-          "endMs": 48281,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s09.m4a"
+          "text": "Volunteering offers a practical way to address local issues without waiting for external government intervention.",
+          "translationJa": "ボランティアは、外部の政府の介入を待たずに、地域の問題に対処するための実践的な方法を提供します。",
+          "id": "advanced-2026-10-14-s09",
+          "startMs": 48053,
+          "endMs": 54071,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Focusing on the process rather than the destination helps maintain your motivation over the long.",
-          "translationJa": "目的地ではなくプロセスに集中することは、長期間にわたってモチベーションを維持する助けになります。",
-          "id": "advanced-2026-10-13-s10",
-          "startMs": 48681,
-          "endMs": 53768,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s10.m4a"
+          "text": "Ultimately, these collective actions build a resilient community that is ready to face future challenges.",
+          "translationJa": "最終的に、こうした集団行動は、将来の課題に直面する準備ができた回復力のあるコミュニティを築きます。",
+          "id": "advanced-2026-10-14-s10",
+          "startMs": 54471,
+          "endMs": 60259,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Remember that every dollar you save today serves as a foundation for your future security.",
-          "translationJa": "今日貯蓄するすべてのドルが、将来の安心のための基盤となることを忘れないでください。",
-          "id": "advanced-2026-10-13-s11",
-          "startMs": 54168,
-          "endMs": 58912,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s11.m4a"
+          "text": "We should all consider contributing a few hours a month to support our local environment.",
+          "translationJa": "私たちは皆、地元の環境を支えるために月に数時間を捧げることを検討すべきです。",
+          "id": "advanced-2026-10-14-s11",
+          "startMs": 60659,
+          "endMs": 65212,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Start your journey today and watch how your disciplined approach transforms your financial life entirely.",
-          "translationJa": "今日から旅を始め、規律あるアプローチがどのようにあなたの経済生活を完全に変えるかを見届けましょう。",
-          "id": "advanced-2026-10-13-s12",
-          "startMs": 59312,
-          "endMs": 64748,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced-s12.m4a"
+          "text": "Small, consistent actions are the key to maintaining a vibrant and healthy place to live.",
+          "translationJa": "小さく一貫した行動こそが、活気に満ちた健康的な居住地を維持するための鍵なのです。",
+          "id": "advanced-2026-10-14-s12",
+          "startMs": 65612,
+          "endMs": 70409,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "Establishing",
-          "meaningJa": "確立すること",
-          "exampleEn": "Establishing a routine is key to success.",
-          "exampleJa": "習慣を確立することが成功の鍵です。"
+          "word": "initiative",
+          "meaningJa": "主導権、取り組み",
+          "exampleEn": "This is a new initiative.",
+          "exampleJa": "これは新しい取り組みです。"
         },
         {
-          "word": "Incremental",
-          "meaningJa": "増加の、少しずつの",
-          "exampleEn": "We made incremental improvements to the system.",
-          "exampleJa": "システムに少しずつ改良を加えました。"
+          "word": "stewardship",
+          "meaningJa": "管理、責任ある管理",
+          "exampleEn": "Environmental stewardship is vital.",
+          "exampleJa": "環境管理は不可欠です。"
         },
         {
-          "word": "Consistency",
-          "meaningJa": "一貫性、継続性",
-          "exampleEn": "Consistency is the secret to learning a language.",
-          "exampleJa": "継続こそが言語習得の秘訣です。"
+          "word": "degradation",
+          "meaningJa": "劣化、荒廃",
+          "exampleEn": "The degradation of the soil.",
+          "exampleJa": "土壌の劣化。"
         },
         {
-          "word": "Automating",
-          "meaningJa": "自動化すること",
-          "exampleEn": "Automating your bills saves a lot of time.",
-          "exampleJa": "支払いを自動化すると多くの時間を節約できます。"
+          "word": "sustainability",
+          "meaningJa": "持続可能性",
+          "exampleEn": "We focus on sustainability.",
+          "exampleJa": "私たちは持続可能性に重点を置いています。"
         },
         {
-          "word": "Contribution",
-          "meaningJa": "拠出、貢献",
-          "exampleEn": "He makes a monthly contribution to his savings.",
-          "exampleJa": "彼は毎月貯蓄にいくらか拠出しています。"
+          "word": "resilient",
+          "meaningJa": "回復力のある、強靭な",
+          "exampleEn": "They are a resilient team.",
+          "exampleJa": "彼らは回復力のあるチームです。"
         }
       ],
-      "id": "advanced-2026-10-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-13/advanced.m4a",
-      "durationSeconds": 63
+      "id": "advanced-2026-10-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-14/advanced.m4a",
+      "durationSeconds": 68
     }
   ],
-  "topicCategory": "business_money"
+  "topicCategory": "environment_society"
 }
