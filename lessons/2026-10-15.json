@@ -1,0 +1,442 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-14T15:10:37Z",
+  "lessonDate": "2026-10-15",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Starting a Friendly Conversation",
+      "cefrLevel": "A2",
+      "summaryJa": "自然なスモールトークの始め方と、会話を続けるための簡単なコツを学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/making-small-talk"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Small talk is a great way to meet new people at work.",
+          "translationJa": "スモールトークは職場で新しい人に出会うための素晴らしい方法です。",
+          "id": "beginner-2026-10-15-s01",
+          "startMs": 0,
+          "endMs": 2870,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can start by saying hello and smiling at your colleague.",
+          "translationJa": "挨拶をして同僚に微笑みかけることから始めてみましょう。",
+          "id": "beginner-2026-10-15-s02",
+          "startMs": 3270,
+          "endMs": 6328,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Ask them about their weekend plans or their favorite local lunch spot.",
+          "translationJa": "週末の予定や、お気に入りの地元のランチスポットについて聞いてみてください。",
+          "id": "beginner-2026-10-15-s03",
+          "startMs": 6728,
+          "endMs": 10393,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Listen carefully to their answer so you can ask a follow-up question.",
+          "translationJa": "相手の答えを注意深く聞いて、追加の質問ができるようにしましょう。",
+          "id": "beginner-2026-10-15-s04",
+          "startMs": 10793,
+          "endMs": 14571,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "If they mention a hobby, show interest by asking them more details.",
+          "translationJa": "もし趣味の話が出たら、詳細を聞いて興味を示してください。",
+          "id": "beginner-2026-10-15-s05",
+          "startMs": 14971,
+          "endMs": 18788,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Keep your topics light and positive to make the other person comfortable.",
+          "translationJa": "相手を心地よくさせるために、話題は明るく前向きなものにしましょう。",
+          "id": "beginner-2026-10-15-s06",
+          "startMs": 19188,
+          "endMs": 22843,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Do not worry if there is a short silence during the chat.",
+          "translationJa": "会話の途中で少し沈黙があっても心配しないでください。",
+          "id": "beginner-2026-10-15-s07",
+          "startMs": 23243,
+          "endMs": 26114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Practice these simple steps every day to build your own confidence.",
+          "translationJa": "自信をつけるために、これらの簡単なステップを毎日練習しましょう。",
+          "id": "beginner-2026-10-15-s08",
+          "startMs": 26514,
+          "endMs": 30053,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "You will soon find that talking to others becomes much easier now.",
+          "translationJa": "すぐに他人と話すことがずっと簡単になったと感じるはずです。",
+          "id": "beginner-2026-10-15-s09",
+          "startMs": 30453,
+          "endMs": 34033,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "colleague",
+          "meaningJa": "同僚",
+          "exampleEn": "I have lunch with my colleague every day.",
+          "exampleJa": "毎日同僚とランチを食べています。"
+        },
+        {
+          "word": "follow-up",
+          "meaningJa": "追跡の、追加の",
+          "exampleEn": "Do you have any follow-up questions?",
+          "exampleJa": "何か追加の質問はありますか？"
+        },
+        {
+          "word": "hobby",
+          "meaningJa": "趣味",
+          "exampleEn": "What is your favorite hobby?",
+          "exampleJa": "あなたの趣味は何ですか？"
+        },
+        {
+          "word": "comfortable",
+          "meaningJa": "快適な、心地よい",
+          "exampleEn": "Make yourself comfortable.",
+          "exampleJa": "楽にしてください。"
+        },
+        {
+          "word": "confidence",
+          "meaningJa": "自信",
+          "exampleEn": "She has confidence in her work.",
+          "exampleJa": "彼女は自分の仕事に自信を持っています。"
+        }
+      ],
+      "id": "beginner-2026-10-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Keeping the Conversation Flowing",
+      "cefrLevel": "B1",
+      "summaryJa": "会話をスムーズに続け、相手との距離を縮めるためのテクニックを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/making-small-talk"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Starting a conversation is often the hardest part of meeting someone for the first time.",
+          "translationJa": "会話を始めることは、初めて誰かに会う際に最も難しい部分であることがよくあります。",
+          "id": "intermediate-2026-10-15-s01",
+          "startMs": 0,
+          "endMs": 4553,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, you can make it easier by focusing on shared experiences like the weather today.",
+          "translationJa": "しかし、今日の天気のような共通の経験に焦点を当てることで、それを簡単にできます。",
+          "id": "intermediate-2026-10-15-s02",
+          "startMs": 4953,
+          "endMs": 10105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Once you break the ice, try to ask open-ended questions instead of simple yes-no questions.",
+          "translationJa": "一度打ち解けたら、単純なイエスかノーで答える質問ではなく、開かれた質問をしてみましょう。",
+          "id": "intermediate-2026-10-15-s03",
+          "startMs": 10505,
+          "endMs": 16010,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "This encourages the other person to share more information about their thoughts and personal life.",
+          "translationJa": "これにより、相手は自分の考えや私生活についてより多くの情報を共有してくれるようになります。",
+          "id": "intermediate-2026-10-15-s04",
+          "startMs": 16410,
+          "endMs": 21192,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Active listening is another essential skill for maintaining a good flow in any casual dialogue.",
+          "translationJa": "積極的な傾聴は、カジュアルな会話の流れを維持するためのもう一つの不可欠なスキルです。",
+          "id": "intermediate-2026-10-15-s05",
+          "startMs": 21592,
+          "endMs": 26360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Nod your head and maintain friendly eye contact to show that you are paying attention.",
+          "translationJa": "うなずいたり、友好的なアイコンタクトを保ったりして、注意を払っていることを示しましょう。",
+          "id": "intermediate-2026-10-15-s06",
+          "startMs": 26760,
+          "endMs": 31027,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If the conversation slows down, you can gracefully change the topic to something quite different.",
+          "translationJa": "会話が停滞してきたら、上品に話題を全く別のことに変えることができます。",
+          "id": "intermediate-2026-10-15-s07",
+          "startMs": 31427,
+          "endMs": 36730,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Sharing a brief personal story can also help the other person feel more relaxed and connected.",
+          "translationJa": "短い個人的なエピソードを共有することも、相手がよりリラックスして親近感を覚える助けになります。",
+          "id": "intermediate-2026-10-15-s08",
+          "startMs": 37130,
+          "endMs": 42237,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that small talk is just a bridge to building a stronger professional or personal relationship.",
+          "translationJa": "スモールトークは、より強い職業的または個人的な関係を築くための架け橋に過ぎないことを覚えておいてください。",
+          "id": "intermediate-2026-10-15-s09",
+          "startMs": 42637,
+          "endMs": 47938,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "With a little practice, you will become much more natural at connecting with people around you.",
+          "translationJa": "少しの練習で、周囲の人々とつながるのがずっと自然になるはずです。",
+          "id": "intermediate-2026-10-15-s10",
+          "startMs": 48338,
+          "endMs": 53240,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Always aim for balance by sharing the time to speak equally between you and them.",
+          "translationJa": "自分と相手の間で話す時間を平等に分け合い、バランスを取ることを常に目指しましょう。",
+          "id": "intermediate-2026-10-15-s11",
+          "startMs": 53640,
+          "endMs": 57845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "break the ice",
+          "meaningJa": "緊張をほぐす",
+          "exampleEn": "He told a joke to break the ice.",
+          "exampleJa": "彼は緊張をほぐすためにジョークを言った。"
+        },
+        {
+          "index": 1,
+          "word": "open-ended",
+          "meaningJa": "自由回答形式の",
+          "exampleEn": "Use open-ended questions to get more details.",
+          "exampleJa": "詳細を得るために自由回答形式の質問を使いなさい。"
+        },
+        {
+          "index": 2,
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Patience is essential for this job.",
+          "exampleJa": "この仕事には忍耐が不可欠です。"
+        },
+        {
+          "index": 3,
+          "word": "gracefully",
+          "meaningJa": "優雅に、上品に",
+          "exampleEn": "She handled the situation gracefully.",
+          "exampleJa": "彼女はその状況を上品に処理した。"
+        },
+        {
+          "index": 4,
+          "word": "dialogue",
+          "meaningJa": "対話",
+          "exampleEn": "We had a productive dialogue today.",
+          "exampleJa": "今日私たちは生産的な対話ができた。"
+        }
+      ],
+      "id": "intermediate-2026-10-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/intermediate.m4a",
+      "durationSeconds": 56
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering the Art of Small Talk",
+      "cefrLevel": "B2",
+      "summaryJa": "高度な対人スキルとして、場の空気を読み、相手との関係を深化させるスモールトークの極意を解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/making-small-talk"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Developing the ability to engage in effortless small talk is a highly valuable social asset.",
+          "translationJa": "努力を要しないスモールトークを行う能力を養うことは、非常に価値のある社会的資産です。",
+          "id": "advanced-2026-10-15-s01",
+          "startMs": 0,
+          "endMs": 5079,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "It serves as the foundation for building rapport in both corporate environments and casual social settings.",
+          "translationJa": "それは企業環境とカジュアルな社交の場の両方において、信頼関係を築くための基盤として機能します。",
+          "id": "advanced-2026-10-15-s02",
+          "startMs": 5479,
+          "endMs": 11037,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The key is to observe the environment and identify common ground to initiate a meaningful exchange.",
+          "translationJa": "重要なのは、環境を観察し、意味のあるやり取りを開始するための共通点を見つけることです。",
+          "id": "advanced-2026-10-15-s03",
+          "startMs": 11437,
+          "endMs": 16894,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Avoid controversial subjects and instead focus on neutral topics that everyone can comfortably contribute to.",
+          "translationJa": "論争を招く話題を避け、代わりに誰もが快適に参加できる中立的なトピックに集中しましょう。",
+          "id": "advanced-2026-10-15-s04",
+          "startMs": 17294,
+          "endMs": 23432,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Empathy plays a crucial role, allowing you to gauge the other person's comfort level and interest.",
+          "translationJa": "共感は重要な役割を果たし、相手の快適さのレベルや興味を測ることを可能にします。",
+          "id": "advanced-2026-10-15-s05",
+          "startMs": 23832,
+          "endMs": 29030,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you notice their attention drifting, pivot the conversation toward a more engaging or relevant subject.",
+          "translationJa": "相手の注意が逸れていることに気づいたら、より魅力的または関連性の高い話題へ会話を転換してください。",
+          "id": "advanced-2026-10-15-s06",
+          "startMs": 29430,
+          "endMs": 35162,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Strategic questioning helps steer the dialogue without making the other person feel interrogated or pressured.",
+          "translationJa": "戦略的な質問は、相手に尋問されている、あるいはプレッシャーを感じさせることなく会話を導く助けとなります。",
+          "id": "advanced-2026-10-15-s07",
+          "startMs": 35562,
+          "endMs": 41358,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Authentic curiosity about another person's perspective often leads to deeper and more memorable connections over time.",
+          "translationJa": "他人の視点に対する本物の好奇心は、多くの場合、時間をかけてより深く記憶に残るつながりをもたらします。",
+          "id": "advanced-2026-10-15-s08",
+          "startMs": 41758,
+          "endMs": 48043,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that the goal of small talk is not merely to fill silence but to build bridges.",
+          "translationJa": "スモールトークの目的は単に沈黙を埋めることではなく、架け橋を築くことであることを忘れないでください。",
+          "id": "advanced-2026-10-15-s09",
+          "startMs": 48443,
+          "endMs": 53025,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By mastering these nuances, you can navigate complex social landscapes with greater confidence and ease.",
+          "translationJa": "これらの機微を習得することで、より大きな自信と余裕を持って複雑な社会情勢を乗り切ることができます。",
+          "id": "advanced-2026-10-15-s10",
+          "startMs": 53425,
+          "endMs": 59466,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, being an excellent conversationalist is about making others feel heard, respected, and genuinely valued.",
+          "translationJa": "結局のところ、優れた会話術とは、相手に聞いてもらっている、尊重されている、そして真に評価されていると感じさせることです。",
+          "id": "advanced-2026-10-15-s11",
+          "startMs": 59866,
+          "endMs": 66919,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Practice consistently, and you will find that your social interactions become significantly more rewarding and productive.",
+          "translationJa": "継続的に練習すれば、社会的交流がよりやりがいのある生産的なものになることに気づくでしょう。",
+          "id": "advanced-2026-10-15-s12",
+          "startMs": 67319,
+          "endMs": 73853,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "rapport",
+          "meaningJa": "信頼関係",
+          "exampleEn": "She quickly built a rapport with the team.",
+          "exampleJa": "彼女はすぐにチームと信頼関係を築いた。"
+        },
+        {
+          "index": 1,
+          "word": "controversial",
+          "meaningJa": "議論を呼ぶ",
+          "exampleEn": "Avoid controversial topics in meetings.",
+          "exampleJa": "会議では議論を呼ぶ話題を避けなさい。"
+        },
+        {
+          "index": 2,
+          "word": "pivot",
+          "meaningJa": "方向転換する",
+          "exampleEn": "We need to pivot our strategy.",
+          "exampleJa": "私たちは戦略を方向転換する必要がある。"
+        },
+        {
+          "index": 3,
+          "word": "interrogated",
+          "meaningJa": "尋問された",
+          "exampleEn": "I felt interrogated by his questions.",
+          "exampleJa": "彼の質問によって尋問されているように感じた。"
+        },
+        {
+          "index": 4,
+          "word": "nuance",
+          "meaningJa": "機微、微妙な違い",
+          "exampleEn": "She understands the nuance of the language.",
+          "exampleJa": "彼女はその言語の機微を理解している。"
+        }
+      ],
+      "id": "advanced-2026-10-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-15/advanced.m4a",
+      "durationSeconds": 72
+    }
+  ],
+  "topicCategory": "communication_relationships"
+}

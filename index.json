@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-13T15:01:34Z",
-  "latestLessonDate": "2026-10-14",
+  "generatedAtUtc": "2026-10-14T15:10:37Z",
+  "latestLessonDate": "2026-10-15",
   "days": [
+    {
+      "lessonDate": "2026-10-15",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-15.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting a Friendly Conversation",
+          "durationSeconds": 32,
+          "summaryJa": "自然なスモールトークの始め方と、会話を続けるための簡単なコツを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Keeping the Conversation Flowing",
+          "durationSeconds": 56,
+          "summaryJa": "会話をスムーズに続け、相手との距離を縮めるためのテクニックを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Small Talk",
+          "durationSeconds": 72,
+          "summaryJa": "高度な対人スキルとして、場の空気を読み、相手との関係を深化させるスモールトークの極意を解説します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-10-14",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-14.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-09-14",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-14.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Split the Bill Fairly",
-          "durationSeconds": 31,
-          "summaryJa": "友人との食事でスマートに割り勘をするための基本的な英会話フレーズ。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Managing Group Expenses Smoothly",
-          "durationSeconds": 46,
-          "summaryJa": "グループでの食事や旅行で、お金の精算をスムーズに行うためのヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Etiquette of Shared Financial Responsibility",
-          "durationSeconds": 60,
-          "summaryJa": "グループでの支払いを円滑かつ礼儀正しく行うための社会的なマナーと知恵。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
