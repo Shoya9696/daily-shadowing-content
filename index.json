@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-14T15:10:37Z",
-  "latestLessonDate": "2026-10-15",
+  "generatedAtUtc": "2026-10-15T15:01:29Z",
+  "latestLessonDate": "2026-10-16",
   "days": [
+    {
+      "lessonDate": "2026-10-16",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-16.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "New Hospital Ward Guidelines",
+          "durationSeconds": 34,
+          "summaryJa": "NHSイングランドが発表した、病院の病棟利用に関する新しいガイドラインについての説明。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Changes to NHS Hospital Ward Policies",
+          "durationSeconds": 53,
+          "summaryJa": "NHSイングランドによる、生物学的な性に基づく病棟利用の新しいガイドラインについて。"
+        },
+        {
+          "level": "advanced",
+          "title": "NHS England Updates Ward Admission Protocols",
+          "durationSeconds": 66,
+          "summaryJa": "NHSイングランドによる、生物学的な性に基づく病室割り当てに関する新しいガイダンスの要点。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-10-15",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-15.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-09-15",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-15.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Sorting Your Daily Waste",
-          "durationSeconds": 30,
-          "summaryJa": "ゴミの分別方法と、リサイクルを身近にするための簡単なステップについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Simple Steps Toward Better Recycling",
-          "durationSeconds": 50,
-          "summaryJa": "家庭でリサイクルを効率的に行うための具体的な手順と、ゴミを減らすための工夫について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Your Local Recycling Habits",
-          "durationSeconds": 62,
-          "summaryJa": "ゴミの分別方法やラベルの読み方、無駄なゴミを減らすための実践的なヒントについて学びます。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }

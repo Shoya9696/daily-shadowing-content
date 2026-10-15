@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-15T15:01:29Z",
+  "lessonDate": "2026-10-16",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "New Hospital Ward Guidelines",
+      "cefrLevel": "A2",
+      "summaryJa": "NHSイングランドが発表した、病院の病棟利用に関する新しいガイドラインについての説明。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "NHS England has released new rules for hospital wards today.",
+          "translationJa": "NHSイングランドは本日、病院の病棟に関する新しい規則を発表しました。",
+          "id": "beginner-2026-10-16-s01",
+          "startMs": 0,
+          "endMs": 3526,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "These rules focus on how patients stay in hospital rooms.",
+          "translationJa": "これらの規則は、患者がどのように病室に滞在するかに焦点を当てています。",
+          "id": "beginner-2026-10-16-s02",
+          "startMs": 3926,
+          "endMs": 7163,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The guidance says rooms should align with a person's biological sex.",
+          "translationJa": "このガイダンスでは、部屋は個人の生物学的な性に合わせるべきだと述べています。",
+          "id": "beginner-2026-10-16-s03",
+          "startMs": 7563,
+          "endMs": 11279,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "This applies to single-sex wards and also shared hospital bays.",
+          "translationJa": "これは男女別の病棟や、共有の病室にも適用されます。",
+          "id": "beginner-2026-10-16-s04",
+          "startMs": 11679,
+          "endMs": 15311,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "The goal is to provide clear standards for all medical staff.",
+          "translationJa": "その目的は、すべての医療スタッフに明確な基準を提供することです。",
+          "id": "beginner-2026-10-16-s05",
+          "startMs": 15711,
+          "endMs": 18927,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Patients will now be placed in specific areas based on sex.",
+          "translationJa": "今後、患者は性別に基づいて特定のエリアに配置されることになります。",
+          "id": "beginner-2026-10-16-s06",
+          "startMs": 19327,
+          "endMs": 22935,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Many hospitals will update their current policies very soon.",
+          "translationJa": "多くの病院が現在のポリシーをすぐに更新する予定です。",
+          "id": "beginner-2026-10-16-s07",
+          "startMs": 23335,
+          "endMs": 26718,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Staff training will help everyone understand these important new changes.",
+          "translationJa": "スタッフの研修が、全員がこれらの重要な変更を理解する助けとなります。",
+          "id": "beginner-2026-10-16-s08",
+          "startMs": 27118,
+          "endMs": 30963,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Clear communication is very important for all patients and doctors.",
+          "translationJa": "明確なコミュニケーションは、すべての患者と医師にとって非常に重要です。",
+          "id": "beginner-2026-10-16-s09",
+          "startMs": 31363,
+          "endMs": 35134,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Guidance",
+          "meaningJa": "指導、ガイダンス",
+          "exampleEn": "The school provided guidance to students.",
+          "exampleJa": "学校は学生にガイダンスを提供した。"
+        },
+        {
+          "word": "Biological",
+          "meaningJa": "生物学的な",
+          "exampleEn": "Biological sex is determined by genetics.",
+          "exampleJa": "生物学的な性は遺伝子によって決まる。"
+        },
+        {
+          "word": "Standard",
+          "meaningJa": "基準",
+          "exampleEn": "We must maintain a high standard.",
+          "exampleJa": "私たちは高い基準を維持しなければならない。"
+        },
+        {
+          "word": "Policy",
+          "meaningJa": "方針、政策",
+          "exampleEn": "The company changed its travel policy.",
+          "exampleJa": "会社は出張規定を変更した。"
+        },
+        {
+          "word": "Patient",
+          "meaningJa": "患者",
+          "exampleEn": "The doctor listened to the patient.",
+          "exampleJa": "医師は患者の話を聞いた。"
+        }
+      ],
+      "id": "beginner-2026-10-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/beginner.m4a",
+      "durationSeconds": 34
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Changes to NHS Hospital Ward Policies",
+      "cefrLevel": "B1",
+      "summaryJa": "NHSイングランドによる、生物学的な性に基づく病棟利用の新しいガイドラインについて。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "NHS England has recently introduced updated guidance regarding hospital ward arrangements for patients.",
+          "translationJa": "NHSイングランドは最近、患者の病棟の配置に関する最新のガイダンスを導入しました。",
+          "id": "intermediate-2026-10-16-s01",
+          "startMs": 0,
+          "endMs": 5929,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The new policy suggests that hospital care should align with a patient's biological sex.",
+          "translationJa": "新しい方針では、病院でのケアは患者の生物学的な性に合わせるべきだと提案しています。",
+          "id": "intermediate-2026-10-16-s02",
+          "startMs": 6329,
+          "endMs": 11322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "This rule specifically applies to all single-sex wards and shared hospital bay areas.",
+          "translationJa": "この規則は、すべての男女別病棟および共有の病室エリアに具体的に適用されます。",
+          "id": "intermediate-2026-10-16-s03",
+          "startMs": 11722,
+          "endMs": 16469,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The organization aims to ensure that patient privacy and dignity are consistently maintained throughout.",
+          "translationJa": "同組織は、患者のプライバシーと尊厳が終始一貫して維持されることを確実にすることを目指しています。",
+          "id": "intermediate-2026-10-16-s04",
+          "startMs": 16869,
+          "endMs": 22266,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Medical staff will follow these new standards when assigning beds to incoming hospital patients.",
+          "translationJa": "医療スタッフは、入院患者にベッドを割り当てる際、これらの新しい基準に従うことになります。",
+          "id": "intermediate-2026-10-16-s05",
+          "startMs": 22666,
+          "endMs": 27825,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Officials believe that this approach will provide greater clarity for both staff and patients.",
+          "translationJa": "当局は、このアプローチがスタッフと患者の双方にとってより明確になると考えています。",
+          "id": "intermediate-2026-10-16-s06",
+          "startMs": 28225,
+          "endMs": 32970,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Hospitals are expected to review their current practices to comply with this updated framework.",
+          "translationJa": "病院は、この更新された枠組みを遵守するために現在の慣行を見直すことが求められています。",
+          "id": "intermediate-2026-10-16-s07",
+          "startMs": 33370,
+          "endMs": 38463,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Training sessions will be provided to help staff implement these changes across the country.",
+          "translationJa": "全国でこれらの変更を実施するのを助けるため、スタッフへの研修セッションが提供されます。",
+          "id": "intermediate-2026-10-16-s08",
+          "startMs": 38863,
+          "endMs": 43588,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "The health service is working to balance clinical needs with individual patient preferences carefully.",
+          "translationJa": "保健サービスは、臨床上の必要性と個々の患者の希望のバランスを慎重に取るよう努めています。",
+          "id": "intermediate-2026-10-16-s09",
+          "startMs": 43988,
+          "endMs": 49236,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "These updates mark a significant shift in how hospital accommodation is managed across England.",
+          "translationJa": "これらの更新は、イングランド全土での病院の収容管理方法における重要な転換点となります。",
+          "id": "intermediate-2026-10-16-s10",
+          "startMs": 49636,
+          "endMs": 54824,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate-s10.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Arrangement",
+          "meaningJa": "配置、取り決め",
+          "exampleEn": "The seating arrangement was changed.",
+          "exampleJa": "座席の配置が変更された。"
+        },
+        {
+          "word": "Dignity",
+          "meaningJa": "尊厳",
+          "exampleEn": "The elderly deserve to be treated with dignity.",
+          "exampleJa": "高齢者は尊厳を持って扱われるべきだ。"
+        },
+        {
+          "word": "Comply",
+          "meaningJa": "遵守する、従う",
+          "exampleEn": "All staff must comply with the rules.",
+          "exampleJa": "全スタッフは規則を遵守しなければならない。"
+        },
+        {
+          "word": "Framework",
+          "meaningJa": "枠組み",
+          "exampleEn": "We need a new framework for the project.",
+          "exampleJa": "プロジェクトのための新しい枠組みが必要だ。"
+        },
+        {
+          "word": "Clinical",
+          "meaningJa": "臨床の、医学的な",
+          "exampleEn": "The team conducted a clinical trial.",
+          "exampleJa": "チームは臨床試験を行った。"
+        }
+      ],
+      "id": "intermediate-2026-10-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/intermediate.m4a",
+      "durationSeconds": 53
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "NHS England Updates Ward Admission Protocols",
+      "cefrLevel": "B2",
+      "summaryJa": "NHSイングランドによる、生物学的な性に基づく病室割り当てに関する新しいガイダンスの要点。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "NHS England has published revised guidance concerning the allocation of hospital ward accommodation for patients.",
+          "translationJa": "NHSイングランドは、患者の病棟の割り当てに関する改訂されたガイダンスを発表しました。",
+          "id": "advanced-2026-10-16-s01",
+          "startMs": 0,
+          "endMs": 6382,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The new directive specifies that hospital care should correspond with an individual’s biological sex.",
+          "translationJa": "新しい指令では、病院でのケアは個人の生物学的な性に一致させるべきだと明記されています。",
+          "id": "advanced-2026-10-16-s02",
+          "startMs": 6782,
+          "endMs": 12437,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "This policy encompasses both single-sex wards and shared bays within various medical facilities nationwide.",
+          "translationJa": "この方針は、全国の様々な医療施設内の男女別病棟と共有病室の両方を網羅しています。",
+          "id": "advanced-2026-10-16-s03",
+          "startMs": 12837,
+          "endMs": 18989,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The primary objective is to uphold patient privacy while maintaining operational consistency across the system.",
+          "translationJa": "主な目的は、システム全体で運用の一貫性を維持しながら、患者のプライバシーを守ることです。",
+          "id": "advanced-2026-10-16-s04",
+          "startMs": 19389,
+          "endMs": 25694,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Healthcare professionals are now required to adhere to these standards when managing patient admissions.",
+          "translationJa": "医療専門家は現在、患者の受け入れを管理する際にこれらの基準を遵守することが求められています。",
+          "id": "advanced-2026-10-16-s05",
+          "startMs": 26094,
+          "endMs": 31408,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "The guidance acknowledges the complexity of balancing diverse needs within a modern clinical environment.",
+          "translationJa": "このガイダンスは、現代の臨床環境において多様なニーズのバランスを取ることの複雑さを認めています。",
+          "id": "advanced-2026-10-16-s06",
+          "startMs": 31808,
+          "endMs": 37265,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Hospitals must now evaluate their existing protocols to ensure full alignment with the new framework.",
+          "translationJa": "病院は現在、新しい枠組みとの完全な整合性を確保するために、既存のプロトコルを評価しなければなりません。",
+          "id": "advanced-2026-10-16-s07",
+          "startMs": 37665,
+          "endMs": 43188,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Comprehensive training programs will be implemented to support staff throughout this transition period.",
+          "translationJa": "この移行期間中、スタッフをサポートするために包括的な研修プログラムが実施されます。",
+          "id": "advanced-2026-10-16-s08",
+          "startMs": 43588,
+          "endMs": 48940,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Clear communication remains essential as hospitals transition to these updated operational requirements today.",
+          "translationJa": "病院が今日、これらの更新された運用要件に移行するにあたり、明確なコミュニケーションが不可欠です。",
+          "id": "advanced-2026-10-16-s09",
+          "startMs": 49340,
+          "endMs": 55596,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "The health service emphasizes that patient safety and comfort remain the highest priorities moving forward.",
+          "translationJa": "保健サービスは、今後も患者の安全と快適さが最優先事項であることを強調しています。",
+          "id": "advanced-2026-10-16-s10",
+          "startMs": 55996,
+          "endMs": 61732,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "These changes reflect ongoing efforts to standardize procedures and improve overall care quality nationwide.",
+          "translationJa": "これらの変更は、手順を標準化し、全国の全体的なケアの質を向上させるための継続的な努力を反映しています。",
+          "id": "advanced-2026-10-16-s11",
+          "startMs": 62132,
+          "endMs": 68191,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Directive",
+          "meaningJa": "指令、指示",
+          "exampleEn": "The manager issued a new directive.",
+          "exampleJa": "マネージャーは新しい指令を出した。"
+        },
+        {
+          "word": "Encompass",
+          "meaningJa": "含む、網羅する",
+          "exampleEn": "The study encompasses many different subjects.",
+          "exampleJa": "その研究は多くの異なる主題を網羅している。"
+        },
+        {
+          "word": "Objective",
+          "meaningJa": "目的、目標",
+          "exampleEn": "Our objective is to increase sales.",
+          "exampleJa": "私たちの目的は売上を伸ばすことだ。"
+        },
+        {
+          "word": "Adhere",
+          "meaningJa": "固守する、従う",
+          "exampleEn": "Members must adhere to the code of conduct.",
+          "exampleJa": "メンバーは行動規範に従わなければならない。"
+        },
+        {
+          "word": "Transition",
+          "meaningJa": "移行、変化",
+          "exampleEn": "The country is in a period of transition.",
+          "exampleJa": "国は移行期にある。"
+        }
+      ],
+      "id": "advanced-2026-10-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-16/advanced.m4a",
+      "durationSeconds": 66
+    }
+  ],
+  "topicCategory": "news"
+}
