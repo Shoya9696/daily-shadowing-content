@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-16T15:02:14Z",
+  "lessonDate": "2026-10-17",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Tips for Better Weekend Errands",
+      "cefrLevel": "A2",
+      "summaryJa": "週末の用事を効率よく済ませるためのヒントと計画の立て方。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/weekend-errands"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people feel tired after finishing their weekend errands.",
+          "translationJa": "週末の用事を終えた後、多くの人は疲れを感じます。",
+          "id": "beginner-2026-10-17-s01",
+          "startMs": 0,
+          "endMs": 3325,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can save your time by planning everything in advance.",
+          "translationJa": "前もってすべてを計画することで時間を節約できます。",
+          "id": "beginner-2026-10-17-s02",
+          "startMs": 3725,
+          "endMs": 6713,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, you should make a list of all your tasks.",
+          "translationJa": "まず、すべての用事のリストを作るべきです。",
+          "id": "beginner-2026-10-17-s03",
+          "startMs": 7113,
+          "endMs": 9936,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Write down everything you need to do on Saturday morning.",
+          "translationJa": "土曜日の朝にしなければならないことをすべて書き出しましょう。",
+          "id": "beginner-2026-10-17-s04",
+          "startMs": 10336,
+          "endMs": 13176,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Group your errands by the location to save travel time.",
+          "translationJa": "移動時間を節約するために、場所ごとに用事をまとめましょう。",
+          "id": "beginner-2026-10-17-s05",
+          "startMs": 13576,
+          "endMs": 16598,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Go to the grocery store that is near your home.",
+          "translationJa": "家の近くにある食料品店に行きましょう。",
+          "id": "beginner-2026-10-17-s06",
+          "startMs": 16998,
+          "endMs": 19336,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Try to finish your hardest tasks early in the day.",
+          "translationJa": "一番大変な用事は一日の早い時間に終わらせるようにしましょう。",
+          "id": "beginner-2026-10-17-s07",
+          "startMs": 19736,
+          "endMs": 22372,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This helps you feel relaxed during the rest of the day.",
+          "translationJa": "そうすれば一日の残りの時間をリラックスして過ごせます。",
+          "id": "beginner-2026-10-17-s08",
+          "startMs": 22772,
+          "endMs": 25499,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Planning your weekend well makes your life much more comfortable.",
+          "translationJa": "週末をうまく計画すると、生活がずっと快適になります。",
+          "id": "beginner-2026-10-17-s09",
+          "startMs": 25899,
+          "endMs": 28962,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "errands",
+          "meaningJa": "使い走り、用事",
+          "exampleEn": "I have to run some errands today.",
+          "exampleJa": "今日はいくつか用事を済ませないといけません。"
+        },
+        {
+          "word": "in advance",
+          "meaningJa": "前もって",
+          "exampleEn": "Please let me know in advance.",
+          "exampleJa": "前もって知らせてください。"
+        },
+        {
+          "word": "location",
+          "meaningJa": "場所",
+          "exampleEn": "Choose a good location for the meeting.",
+          "exampleJa": "会議の良い場所を選んでください。"
+        },
+        {
+          "word": "grocery store",
+          "meaningJa": "食料品店",
+          "exampleEn": "I am going to the grocery store.",
+          "exampleJa": "食料品店に行ってきます。"
+        },
+        {
+          "word": "comfortable",
+          "meaningJa": "快適な",
+          "exampleEn": "This chair is very comfortable.",
+          "exampleJa": "この椅子はとても快適です。"
+        }
+      ],
+      "id": "beginner-2026-10-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/beginner.m4a",
+      "durationSeconds": 27
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Your Weekend Workflow",
+      "cefrLevel": "B1",
+      "summaryJa": "週末の用事をスムーズにこなすための効率的なワークフローと計画術。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/weekend-errands"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing your weekend errands effectively is a great way to reduce daily stress.",
+          "translationJa": "週末の用事を効果的に管理することは、日々のストレスを減らす素晴らしい方法です。",
+          "id": "intermediate-2026-10-17-s01",
+          "startMs": 0,
+          "endMs": 4207,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Start by listing every task you need to complete before the new week begins.",
+          "translationJa": "新しい週が始まる前に完了させる必要があるすべてのタスクをリストアップすることから始めましょう。",
+          "id": "intermediate-2026-10-17-s02",
+          "startMs": 4607,
+          "endMs": 8615,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Categorize these tasks based on the neighborhood or the specific area of town.",
+          "translationJa": "これらのタスクを、近所や特定の町の一角に基づいて分類してください。",
+          "id": "intermediate-2026-10-17-s03",
+          "startMs": 9015,
+          "endMs": 13218,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "This strategy prevents you from driving back and forth between the same locations.",
+          "translationJa": "この戦略をとれば、同じ場所の間を行ったり来たりするのを防げます。",
+          "id": "intermediate-2026-10-17-s04",
+          "startMs": 13618,
+          "endMs": 17993,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Check the opening hours of stores to avoid wasting time on your trip.",
+          "translationJa": "買い出しで時間を無駄にしないよう、店舗の営業時間を事前に確認しておきましょう。",
+          "id": "intermediate-2026-10-17-s05",
+          "startMs": 18393,
+          "endMs": 21944,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "It is also helpful to combine errands with your regular weekly exercise routine.",
+          "translationJa": "用事をいつもの週の運動習慣と組み合わせるのも役立ちます。",
+          "id": "intermediate-2026-10-17-s06",
+          "startMs": 22344,
+          "endMs": 26915,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "For example, you could walk to the post office instead of driving there.",
+          "translationJa": "例えば、車で行く代わりに郵便局まで歩いて行くこともできます。",
+          "id": "intermediate-2026-10-17-s07",
+          "startMs": 27315,
+          "endMs": 31171,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Always keep a backup plan in case the traffic is heavier than expected.",
+          "translationJa": "交通状況が予想以上に混雑した場合に備えて、常に代替案を持っておきましょう。",
+          "id": "intermediate-2026-10-17-s08",
+          "startMs": 31571,
+          "endMs": 35567,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "If you finish everything early, you will have more time for your hobbies.",
+          "translationJa": "もしすべてを早く終えられれば、趣味のための時間をより多く持てます。",
+          "id": "intermediate-2026-10-17-s09",
+          "startMs": 35967,
+          "endMs": 39610,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "A well-organized weekend leads to a much more productive and peaceful work week.",
+          "translationJa": "よく整理された週末は、より生産的で穏やかな仕事の週につながります。",
+          "id": "intermediate-2026-10-17-s10",
+          "startMs": 40010,
+          "endMs": 44221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start small by organizing your Saturday schedule and see how much time you save.",
+          "translationJa": "土曜日のスケジュールを整理することから小さく始めて、どれだけ時間を節約できるか試してみましょう。",
+          "id": "intermediate-2026-10-17-s11",
+          "startMs": 44621,
+          "endMs": 49105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "effectively",
+          "meaningJa": "効果的に",
+          "exampleEn": "We must use our resources effectively.",
+          "exampleJa": "資源を効果的に使わなければなりません。"
+        },
+        {
+          "word": "categorize",
+          "meaningJa": "分類する",
+          "exampleEn": "Categorize your files by date.",
+          "exampleJa": "ファイルを日付ごとに分類してください。"
+        },
+        {
+          "word": "strategy",
+          "meaningJa": "戦略",
+          "exampleEn": "We need a better strategy for success.",
+          "exampleJa": "成功のためにはより良い戦略が必要です。"
+        },
+        {
+          "word": "combine",
+          "meaningJa": "組み合わせる",
+          "exampleEn": "Combine these ingredients together.",
+          "exampleJa": "これらの材料を組み合わせてください。"
+        },
+        {
+          "word": "productive",
+          "meaningJa": "生産的な",
+          "exampleEn": "It was a very productive meeting.",
+          "exampleJa": "とても生産的な会議でした。"
+        }
+      ],
+      "id": "intermediate-2026-10-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/intermediate.m4a",
+      "durationSeconds": 47
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Your Weekend Routine",
+      "cefrLevel": "B2",
+      "summaryJa": "週末のルーチンを最適化し、時間を有効活用するための高度な計画メソッド。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/weekend-errands"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Achieving a balanced weekend requires careful planning and efficient execution of your personal errands.",
+          "translationJa": "バランスの取れた週末を過ごすには、入念な計画と個人的な用事の効率的な実行が必要です。",
+          "id": "advanced-2026-10-17-s01",
+          "startMs": 0,
+          "endMs": 5546,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Begin by analyzing your typical chores to identify which ones can be batched together.",
+          "translationJa": "まずは日頃の雑事を分析し、どれをまとめて処理できるか特定することから始めましょう。",
+          "id": "advanced-2026-10-17-s02",
+          "startMs": 5946,
+          "endMs": 10757,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Batch processing tasks minimizes context switching and keeps your mental energy focused and steady.",
+          "translationJa": "タスクを一括処理することで文脈の切り替えを最小限に抑え、精神的エネルギーを安定させます。",
+          "id": "advanced-2026-10-17-s03",
+          "startMs": 11157,
+          "endMs": 16653,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Map out your route to ensure that you move through your errands in a circle.",
+          "translationJa": "円を描くように移動できるよう、用事のルートをあらかじめ地図上に描いておきましょう。",
+          "id": "advanced-2026-10-17-s04",
+          "startMs": 17053,
+          "endMs": 20424,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "This logical flow saves significant fuel and reduces the frustration of navigating busy traffic.",
+          "translationJa": "この論理的な流れは燃料を大幅に節約し、交通渋滞のストレスを軽減します。",
+          "id": "advanced-2026-10-17-s05",
+          "startMs": 20824,
+          "endMs": 26291,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Utilize digital tools to manage your lists and set reminders for important deadlines.",
+          "translationJa": "デジタルツールを活用してリストを管理し、重要な期限に対するリマインダーを設定しましょう。",
+          "id": "advanced-2026-10-17-s06",
+          "startMs": 26691,
+          "endMs": 31409,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Prioritize your tasks based on urgency so that you tackle the critical items first.",
+          "translationJa": "緊急度に基づいてタスクに優先順位をつけ、重要な項目から先に取り掛かりましょう。",
+          "id": "advanced-2026-10-17-s07",
+          "startMs": 31809,
+          "endMs": 36672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If a task is too time-consuming, consider if it can be delegated or automated.",
+          "translationJa": "もしタスクに時間がかかりすぎる場合は、誰かに任せたり自動化したりできないか検討してください。",
+          "id": "advanced-2026-10-17-s08",
+          "startMs": 37072,
+          "endMs": 41713,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Avoid the common trap of overcommitting yourself on a busy Saturday morning.",
+          "translationJa": "忙しい土曜の朝に予定を詰め込みすぎるという、よくある罠を避けましょう。",
+          "id": "advanced-2026-10-17-s09",
+          "startMs": 42113,
+          "endMs": 46092,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Leave some buffer time in your schedule to handle unexpected problems that might arise.",
+          "translationJa": "予期せぬ問題が発生した場合に対処できるよう、スケジュールに余裕を持たせておきましょう。",
+          "id": "advanced-2026-10-17-s10",
+          "startMs": 46492,
+          "endMs": 50862,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By mastering these habits, you will gain more freedom to enjoy your private time.",
+          "translationJa": "これらの習慣を習得することで、プライベートな時間を楽しむ自由がより多く得られます。",
+          "id": "advanced-2026-10-17-s11",
+          "startMs": 51262,
+          "endMs": 55748,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Efficiency is ultimately about creating more space for what truly matters in your life.",
+          "translationJa": "効率化とは結局のところ、人生で本当に大切なことのためにスペースを作ることなのです。",
+          "id": "advanced-2026-10-17-s12",
+          "startMs": 56148,
+          "endMs": 60695,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "execution",
+          "meaningJa": "実行",
+          "exampleEn": "The plan requires perfect execution.",
+          "exampleJa": "その計画には完璧な実行が必要です。"
+        },
+        {
+          "word": "batched",
+          "meaningJa": "一括処理された",
+          "exampleEn": "I batched all my emails together.",
+          "exampleJa": "メールをすべて一括処理しました。"
+        },
+        {
+          "word": "prioritize",
+          "meaningJa": "優先順位をつける",
+          "exampleEn": "You need to prioritize your health.",
+          "exampleJa": "健康に優先順位をつけるべきです。"
+        },
+        {
+          "word": "delegated",
+          "meaningJa": "委任された",
+          "exampleEn": "She delegated the task to her assistant.",
+          "exampleJa": "彼女はアシスタントにその仕事を任せました。"
+        },
+        {
+          "word": "buffer",
+          "meaningJa": "緩衝材、余裕",
+          "exampleEn": "Add a buffer to your timeline.",
+          "exampleJa": "スケジュールに余裕を持たせてください。"
+        }
+      ],
+      "id": "advanced-2026-10-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-17/advanced.m4a",
+      "durationSeconds": 58
+    }
+  ],
+  "topicCategory": "everyday_life"
+}

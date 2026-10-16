@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-15T15:01:29Z",
-  "latestLessonDate": "2026-10-16",
+  "generatedAtUtc": "2026-10-16T15:02:14Z",
+  "latestLessonDate": "2026-10-17",
   "days": [
+    {
+      "lessonDate": "2026-10-17",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-17.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Tips for Better Weekend Errands",
+          "durationSeconds": 27,
+          "summaryJa": "週末の用事を効率よく済ませるためのヒントと計画の立て方。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Weekend Workflow",
+          "durationSeconds": 47,
+          "summaryJa": "週末の用事をスムーズにこなすための効率的なワークフローと計画術。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Weekend Routine",
+          "durationSeconds": 58,
+          "summaryJa": "週末のルーチンを最適化し、時間を有効活用するための高度な計画メソッド。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-10-16",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-16.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-09-16",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-16.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Say No Kindly",
-          "durationSeconds": 34,
-          "summaryJa": "断ることは難しいですが、丁寧な表現を使えば相手を傷つけずに自分の意思を伝えることができます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Declining Requests",
-          "durationSeconds": 54,
-          "summaryJa": "相手の気持ちを尊重しつつ、自分の境界線を守るための上手な断り方について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Communicating Boundaries Effectively",
-          "durationSeconds": 72,
-          "summaryJa": "自分の価値観を損なうことなく、相手との関係性を維持しながら断るための高度なコミュニケーション術。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
