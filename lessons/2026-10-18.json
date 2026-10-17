@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-17T15:01:16Z",
+  "lessonDate": "2026-10-18",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Starting a Meeting Clearly",
+      "cefrLevel": "A2",
+      "summaryJa": "会議を円滑に始めるための挨拶や目的の伝え方を学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Hello everyone and thank you for joining our meeting today.",
+          "translationJa": "皆さんこんにちは、本日の会議に参加してくれてありがとうございます。",
+          "id": "beginner-2026-10-18-s01",
+          "startMs": 0,
+          "endMs": 2853,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "I hope you are all having a very productive morning.",
+          "translationJa": "皆さんが生産的な朝を過ごしていることを願っています。",
+          "id": "beginner-2026-10-18-s02",
+          "startMs": 3253,
+          "endMs": 5896,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Let us start by looking at our main goal today.",
+          "translationJa": "今日の主な目標を確認することから始めましょう。",
+          "id": "beginner-2026-10-18-s03",
+          "startMs": 6296,
+          "endMs": 8704,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "We need to finish our project plan by this Friday.",
+          "translationJa": "今週の金曜日までにプロジェクト計画を終わらせる必要があります。",
+          "id": "beginner-2026-10-18-s04",
+          "startMs": 9104,
+          "endMs": 11823,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "I want to hear your ideas about the new schedule.",
+          "translationJa": "新しいスケジュールについての皆さんの意見を聞きたいです。",
+          "id": "beginner-2026-10-18-s05",
+          "startMs": 12223,
+          "endMs": 14692,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Please feel free to share any thoughts you might have.",
+          "translationJa": "何か考えがあれば遠慮なく共有してください。",
+          "id": "beginner-2026-10-18-s06",
+          "startMs": 15092,
+          "endMs": 17551,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "We will try to make this session short and useful.",
+          "translationJa": "このセッションを短く有意義なものにしましょう。",
+          "id": "beginner-2026-10-18-s07",
+          "startMs": 17951,
+          "endMs": 20496,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Does anyone have a question before we begin our talk?",
+          "translationJa": "話し合いを始める前に質問はありますか？",
+          "id": "beginner-2026-10-18-s08",
+          "startMs": 20896,
+          "endMs": 23700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Let us move to the first point on our agenda.",
+          "translationJa": "議題の最初の点に移りましょう。",
+          "id": "beginner-2026-10-18-s09",
+          "startMs": 24100,
+          "endMs": 26415,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "productive",
+          "meaningJa": "生産的な",
+          "exampleEn": "It was a very productive meeting.",
+          "exampleJa": "とても生産的な会議でした。"
+        },
+        {
+          "word": "agenda",
+          "meaningJa": "議題",
+          "exampleEn": "What is the next item on the agenda?",
+          "exampleJa": "議題の次の項目は何ですか？"
+        },
+        {
+          "word": "join",
+          "meaningJa": "参加する",
+          "exampleEn": "Thank you for joining us.",
+          "exampleJa": "ご参加ありがとうございます。"
+        },
+        {
+          "word": "goal",
+          "meaningJa": "目標",
+          "exampleEn": "Our goal is to finish early.",
+          "exampleJa": "私たちの目標は早く終わらせることです。"
+        },
+        {
+          "word": "share",
+          "meaningJa": "共有する",
+          "exampleEn": "Please share your ideas.",
+          "exampleJa": "あなたのアイデアを共有してください。"
+        }
+      ],
+      "id": "beginner-2026-10-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/beginner.m4a",
+      "durationSeconds": 25
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Starting a Meeting Clearly",
+      "cefrLevel": "B1",
+      "summaryJa": "会議を円滑に始め、参加者の集中力を高めるためのフレーズを学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Good morning everyone and thank you for taking the time to attend this meeting.",
+          "translationJa": "皆さんおはようございます。本日の会議に出席していただきありがとうございます。",
+          "id": "intermediate-2026-10-18-s01",
+          "startMs": 0,
+          "endMs": 3649,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "I would like to start by briefly explaining the main purpose of our gathering today.",
+          "translationJa": "本日の集まりの主な目的を簡単に説明することから始めたいと思います。",
+          "id": "intermediate-2026-10-18-s02",
+          "startMs": 4049,
+          "endMs": 8236,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "We are here to discuss the upcoming changes to our internal communication software system.",
+          "translationJa": "私たちは社内コミュニケーションソフトウェアシステムの今後の変更について議論するために集まりました。",
+          "id": "intermediate-2026-10-18-s03",
+          "startMs": 8636,
+          "endMs": 13596,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is important that we reach a consensus on the new workflow by midday.",
+          "translationJa": "正午までに新しいワークフローについて合意に達することが重要です。",
+          "id": "intermediate-2026-10-18-s04",
+          "startMs": 13996,
+          "endMs": 17778,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Your feedback is very valuable for making sure the transition goes as smoothly as possible.",
+          "translationJa": "移行を可能な限りスムーズに進めるために、皆さんのフィードバックは非常に貴重です。",
+          "id": "intermediate-2026-10-18-s05",
+          "startMs": 18178,
+          "endMs": 23047,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "I have prepared a brief presentation to outline the key points we need to cover.",
+          "translationJa": "カバーすべき重要なポイントを概説するために、短いプレゼンテーションを用意しました。",
+          "id": "intermediate-2026-10-18-s06",
+          "startMs": 23447,
+          "endMs": 27646,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Please feel free to interrupt if you have any questions during my quick presentation.",
+          "translationJa": "プレゼンテーション中に質問があれば遠慮なく遮ってください。",
+          "id": "intermediate-2026-10-18-s07",
+          "startMs": 28046,
+          "endMs": 32491,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "After the presentation we will open the floor for an open discussion among everyone.",
+          "translationJa": "プレゼンテーションの後は、全員で自由に議論する時間を設けます。",
+          "id": "intermediate-2026-10-18-s08",
+          "startMs": 32891,
+          "endMs": 37276,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "I am looking forward to hearing all of your constructive thoughts on this matter.",
+          "translationJa": "この件に関する皆さんの建設的な意見を聞くのを楽しみにしています。",
+          "id": "intermediate-2026-10-18-s09",
+          "startMs": 37676,
+          "endMs": 41445,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Let us keep our comments focused so we can respect everyone's busy schedule today.",
+          "translationJa": "今日の皆さんの忙しいスケジュールを尊重するために、発言は簡潔にまとめましょう。",
+          "id": "intermediate-2026-10-18-s10",
+          "startMs": 41845,
+          "endMs": 46366,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Shall we get started with the first slide of the report right now?",
+          "translationJa": "それでは、レポートの最初のスライドから始めましょうか？",
+          "id": "intermediate-2026-10-18-s11",
+          "startMs": 46766,
+          "endMs": 50073,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "consensus",
+          "meaningJa": "合意",
+          "exampleEn": "We need to reach a consensus.",
+          "exampleJa": "合意に達する必要があります。"
+        },
+        {
+          "word": "transition",
+          "meaningJa": "移行",
+          "exampleEn": "The transition will take a week.",
+          "exampleJa": "移行には1週間かかります。"
+        },
+        {
+          "word": "outline",
+          "meaningJa": "概説する",
+          "exampleEn": "He outlined the new plan.",
+          "exampleJa": "彼は新しい計画の概要を説明しました。"
+        },
+        {
+          "word": "constructive",
+          "meaningJa": "建設的な",
+          "exampleEn": "Thank you for your constructive feedback.",
+          "exampleJa": "建設的なフィードバックをありがとうございます。"
+        },
+        {
+          "word": "interrupt",
+          "meaningJa": "遮る",
+          "exampleEn": "Sorry to interrupt you.",
+          "exampleJa": "お話し中すみません。"
+        }
+      ],
+      "id": "intermediate-2026-10-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/intermediate.m4a",
+      "durationSeconds": 48
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Starting a Meeting Clearly",
+      "cefrLevel": "B2",
+      "summaryJa": "会議の冒頭で目的を明確にし、効率的な議論を導くための高度な表現を学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Thank you all for being here on time to discuss our current project status.",
+          "translationJa": "現在のプロジェクトの状況を議論するために時間通りにお集まりいただきありがとうございます。",
+          "id": "advanced-2026-10-18-s01",
+          "startMs": 0,
+          "endMs": 3984,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The primary objective of this meeting is to finalize our strategic plan for next quarter.",
+          "translationJa": "本日の会議の主な目的は、来四半期の戦略計画を最終決定することです。",
+          "id": "advanced-2026-10-18-s02",
+          "startMs": 4384,
+          "endMs": 9145,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "We have a tight schedule, so I aim to keep our discussion focused and efficient.",
+          "translationJa": "スケジュールがタイトですので、議論を集中させ効率的に進めたいと考えています。",
+          "id": "advanced-2026-10-18-s03",
+          "startMs": 9545,
+          "endMs": 13913,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "I will start by providing a quick overview of the progress we made last week.",
+          "translationJa": "まず、先週達成した進捗状況の簡単な概要を説明します。",
+          "id": "advanced-2026-10-18-s04",
+          "startMs": 14313,
+          "endMs": 18396,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Following that, we will address the potential bottlenecks that might hinder our final output.",
+          "translationJa": "その後、最終的な成果を妨げる可能性のあるボトルネックに対処します。",
+          "id": "advanced-2026-10-18-s05",
+          "startMs": 18796,
+          "endMs": 23732,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "I encourage everyone to provide candid feedback so we can identify the best possible solutions.",
+          "translationJa": "最善の解決策を見つけるために、全員が率直な意見を述べることを推奨します。",
+          "id": "advanced-2026-10-18-s06",
+          "startMs": 24132,
+          "endMs": 29596,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Please try to keep your contributions concise to ensure we cover all agenda items today.",
+          "translationJa": "今日の議題をすべて網羅できるよう、発言は簡潔にまとめるようにしてください。",
+          "id": "advanced-2026-10-18-s07",
+          "startMs": 29996,
+          "endMs": 35056,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If we encounter complex issues, we might need to schedule a separate follow-up session.",
+          "translationJa": "複雑な問題に直面した場合は、別途フォローアップセッションを設ける必要があるかもしれません。",
+          "id": "advanced-2026-10-18-s08",
+          "startMs": 35456,
+          "endMs": 40364,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Your expertise is crucial for us to make informed decisions moving forward this month.",
+          "translationJa": "今月以降、十分な情報に基づいた意思決定を行うには、皆さんの専門知識が不可欠です。",
+          "id": "advanced-2026-10-18-s09",
+          "startMs": 40764,
+          "endMs": 45540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Let us move forward with the first item on the agenda without further delay.",
+          "translationJa": "これ以上遅れることなく、議題の最初の項目に進みましょう。",
+          "id": "advanced-2026-10-18-s10",
+          "startMs": 45940,
+          "endMs": 49857,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Does anyone have any initial concerns before we jump into the main topic?",
+          "translationJa": "本題に入る前に、何か懸念点はありますか？",
+          "id": "advanced-2026-10-18-s11",
+          "startMs": 50257,
+          "endMs": 54141,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Thank you for your cooperation in making this a highly productive meeting for everyone.",
+          "translationJa": "全員にとって実りある会議にするためのご協力に感謝します。",
+          "id": "advanced-2026-10-18-s12",
+          "startMs": 54541,
+          "endMs": 58954,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "objective",
+          "meaningJa": "目標",
+          "exampleEn": "What is the main objective?",
+          "exampleJa": "主な目標は何ですか？"
+        },
+        {
+          "word": "bottleneck",
+          "meaningJa": "ボトルネック（障害）",
+          "exampleEn": "We found a bottleneck in production.",
+          "exampleJa": "生産工程にボトルネックを見つけました。"
+        },
+        {
+          "word": "candid",
+          "meaningJa": "率直な",
+          "exampleEn": "I appreciate your candid opinion.",
+          "exampleJa": "率直な意見をありがとうございます。"
+        },
+        {
+          "word": "concise",
+          "meaningJa": "簡潔な",
+          "exampleEn": "Please keep your report concise.",
+          "exampleJa": "レポートを簡潔にまとめてください。"
+        },
+        {
+          "word": "expertise",
+          "meaningJa": "専門知識",
+          "exampleEn": "We need your expertise here.",
+          "exampleJa": "ここにあなたの専門知識が必要です。"
+        }
+      ],
+      "id": "advanced-2026-10-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-18/advanced.m4a",
+      "durationSeconds": 57
+    }
+  ],
+  "topicCategory": "work_productivity"
+}

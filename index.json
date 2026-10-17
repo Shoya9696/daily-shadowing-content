@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-16T15:02:14Z",
-  "latestLessonDate": "2026-10-17",
+  "generatedAtUtc": "2026-10-17T15:01:16Z",
+  "latestLessonDate": "2026-10-18",
   "days": [
+    {
+      "lessonDate": "2026-10-18",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-18.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 25,
+          "summaryJa": "会議を円滑に始めるための挨拶や目的の伝え方を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 48,
+          "summaryJa": "会議を円滑に始め、参加者の集中力を高めるためのフレーズを学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Starting a Meeting Clearly",
+          "durationSeconds": 57,
+          "summaryJa": "会議の冒頭で目的を明確にし、効率的な議論を導くための高度な表現を学びます。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-10-17",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-17.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-09-17",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-17.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A Message of Gratitude",
-          "durationSeconds": 33,
-          "summaryJa": "アンディ・バーナム氏が、父親の訃報に際して寄せられた温かいメッセージに感謝の意を表しました。"
-        },
-        {
-          "level": "intermediate",
-          "title": "A Message of Gratitude from Burnham",
-          "durationSeconds": 51,
-          "summaryJa": "バーナム氏が父親の訃報に際し、寄せられた多くの弔意に対して感謝の意を表しました。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mayor Burnham Expresses Gratitude for Public Support",
-          "durationSeconds": 66,
-          "summaryJa": "アンディ・バーナム氏が、父親の死に際して政治指導者や市民から寄せられた哀悼のメッセージに対し、公に感謝の意を表明しました。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
