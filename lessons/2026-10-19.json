@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-18T15:01:18Z",
+  "lessonDate": "2026-10-19",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Respectful Travel Habits",
+      "cefrLevel": "A2",
+      "summaryJa": "旅行中に役立つ基本的な挨拶やマナーについての学習。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "It is always good to learn local greetings before you travel abroad.",
+          "translationJa": "海外旅行の前に現地の挨拶を学ぶことは常に良いことです。",
+          "id": "beginner-2026-10-19-s01",
+          "startMs": 0,
+          "endMs": 3526,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Start by saying hello and thank you in the local language today.",
+          "translationJa": "まずは現地の言葉で挨拶と感謝の言葉を言うことから始めましょう。",
+          "id": "beginner-2026-10-19-s02",
+          "startMs": 3926,
+          "endMs": 7283,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "People will appreciate your effort to communicate in their own native tongue.",
+          "translationJa": "人々はあなたが現地の言葉で話そうとする努力を評価してくれるでしょう。",
+          "id": "beginner-2026-10-19-s03",
+          "startMs": 7683,
+          "endMs": 11454,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Remember to smile when you are meeting new people in a store.",
+          "translationJa": "お店で新しい人に出会うときは笑顔を忘れないようにしてください。",
+          "id": "beginner-2026-10-19-s04",
+          "startMs": 11854,
+          "endMs": 14868,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Some cultures prefer a gentle bow rather than a firm hand shake.",
+          "translationJa": "文化によっては力強い握手よりも穏やかなお辞儀を好むところもあります。",
+          "id": "beginner-2026-10-19-s05",
+          "startMs": 15268,
+          "endMs": 18719,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You should also watch how locals behave in busy public train stations.",
+          "translationJa": "また、混雑した公共の駅で地元の人々がどう振る舞っているかも観察しましょう。",
+          "id": "beginner-2026-10-19-s06",
+          "startMs": 19119,
+          "endMs": 23071,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Always keep your voice low when you are talking on the phone.",
+          "translationJa": "電話で話すときは常に声を低く保つようにしてください。",
+          "id": "beginner-2026-10-19-s07",
+          "startMs": 23471,
+          "endMs": 26376,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Showing respect for local customs makes your trip much more enjoyable now.",
+          "translationJa": "現地の習慣に敬意を払うことで、旅行は今よりもずっと楽しくなります。",
+          "id": "beginner-2026-10-19-s08",
+          "startMs": 26776,
+          "endMs": 30872,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Have a wonderful time exploring new places and meeting many kind people.",
+          "translationJa": "新しい場所を探索し、多くの親切な人々と出会う素敵な時間を過ごしてください。",
+          "id": "beginner-2026-10-19-s09",
+          "startMs": 31272,
+          "endMs": 35169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "abroad",
+          "meaningJa": "海外へ",
+          "exampleEn": "I want to travel abroad.",
+          "exampleJa": "海外へ旅行したいです。"
+        },
+        {
+          "word": "native",
+          "meaningJa": "母国の",
+          "exampleEn": "It is his native language.",
+          "exampleJa": "それは彼の母国語です。"
+        },
+        {
+          "word": "effort",
+          "meaningJa": "努力",
+          "exampleEn": "He made a great effort.",
+          "exampleJa": "彼は大きな努力をしました。"
+        },
+        {
+          "word": "customs",
+          "meaningJa": "習慣",
+          "exampleEn": "Learn local customs.",
+          "exampleJa": "地元の習慣を学びましょう。"
+        },
+        {
+          "word": "respect",
+          "meaningJa": "敬意",
+          "exampleEn": "Show respect to others.",
+          "exampleJa": "他人に敬意を払いましょう。"
+        }
+      ],
+      "id": "beginner-2026-10-19",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner.m4a",
+      "durationSeconds": 34
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Cultural Awareness for Travelers",
+      "cefrLevel": "B1",
+      "summaryJa": "旅行先で文化の違いを理解し、尊重するための実践的なアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Traveling to a new country offers a wonderful chance to learn about different traditions.",
+          "translationJa": "新しい国への旅行は、異なる伝統について学ぶ素晴らしい機会を提供してくれます。",
+          "id": "intermediate-2026-10-19-s01",
+          "startMs": 0,
+          "endMs": 4435,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Before you arrive at your destination, it is helpful to research basic social etiquette.",
+          "translationJa": "目的地に到着する前に、基本的な社会マナーを調べておくことは非常に役立ちます。",
+          "id": "intermediate-2026-10-19-s02",
+          "startMs": 4835,
+          "endMs": 9715,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Small gestures like removing your shoes can show deep respect for a host family.",
+          "translationJa": "靴を脱ぐといった小さな仕草は、ホストファミリーへの深い敬意を示すことができます。",
+          "id": "intermediate-2026-10-19-s03",
+          "startMs": 10115,
+          "endMs": 14622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You might also find that dining customs vary greatly from one region to another.",
+          "translationJa": "また、食事の習慣は地域によって大きく異なることに気づくかもしれません。",
+          "id": "intermediate-2026-10-19-s04",
+          "startMs": 15022,
+          "endMs": 19275,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Pay close attention to how locals handle money when they pay for their meals.",
+          "translationJa": "地元の人々が食事の代金を支払う際に、どのようにお金を扱うかよく観察してください。",
+          "id": "intermediate-2026-10-19-s05",
+          "startMs": 19675,
+          "endMs": 23527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Using both hands to offer an item is considered polite in many Asian countries.",
+          "translationJa": "多くのアジアの国々では、両手で物を受け渡すことが丁寧だと考えられています。",
+          "id": "intermediate-2026-10-19-s06",
+          "startMs": 23927,
+          "endMs": 28238,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Being observant allows you to avoid awkward situations while you are exploring the city.",
+          "translationJa": "周囲を観察することで、街を散策している間の気まずい状況を避けることができます。",
+          "id": "intermediate-2026-10-19-s07",
+          "startMs": 28638,
+          "endMs": 33113,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "It is not necessary to be perfect, but showing genuine interest is always appreciated.",
+          "translationJa": "完璧である必要はありませんが、心からの関心を示すことは常に感謝されます。",
+          "id": "intermediate-2026-10-19-s08",
+          "startMs": 33513,
+          "endMs": 38514,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Most people are very forgiving if you make a small mistake out of kindness.",
+          "translationJa": "親切心から小さな間違いをしてしまった場合、ほとんどの人は寛大に受け入れてくれます。",
+          "id": "intermediate-2026-10-19-s09",
+          "startMs": 38914,
+          "endMs": 42912,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Open your mind to new experiences and enjoy the beauty of cultural diversity today.",
+          "translationJa": "新しい経験に心を開き、今日という日に文化の多様性の美しさを楽しんでください。",
+          "id": "intermediate-2026-10-19-s10",
+          "startMs": 43312,
+          "endMs": 47984,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Your journey will be much richer when you embrace these simple local cultural rules.",
+          "translationJa": "これらのシンプルな現地の文化ルールを受け入れると、あなたの旅はより豊かなものになります。",
+          "id": "intermediate-2026-10-19-s11",
+          "startMs": 48384,
+          "endMs": 52544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "etiquette",
+          "meaningJa": "エチケット",
+          "exampleEn": "Follow the social etiquette.",
+          "exampleJa": "社会的なエチケットに従いましょう。"
+        },
+        {
+          "word": "gesture",
+          "meaningJa": "仕草",
+          "exampleEn": "That was a kind gesture.",
+          "exampleJa": "それは親切な仕草でした。"
+        },
+        {
+          "word": "vary",
+          "meaningJa": "異なる",
+          "exampleEn": "Prices vary by store.",
+          "exampleJa": "価格は店によって異なります。"
+        },
+        {
+          "word": "observant",
+          "meaningJa": "観察力の鋭い",
+          "exampleEn": "She is very observant.",
+          "exampleJa": "彼女はとても観察力が鋭いです。"
+        },
+        {
+          "word": "diversity",
+          "meaningJa": "多様性",
+          "exampleEn": "Celebrate cultural diversity.",
+          "exampleJa": "文化の多様性を祝福しましょう。"
+        }
+      ],
+      "id": "intermediate-2026-10-19",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate.m4a",
+      "durationSeconds": 51
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Navigating Cultural Nuances",
+      "cefrLevel": "B2",
+      "summaryJa": "異文化の中で円滑に交流し、敬意を持って振る舞うための洗練されたアプローチ。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Successful international travel often depends on your ability to adapt to local cultural norms.",
+          "translationJa": "海外旅行を成功させる鍵は、現地の文化規範に適応する能力にかかっています。",
+          "id": "advanced-2026-10-19-s01",
+          "startMs": 0,
+          "endMs": 5529,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "While language skills are important, understanding non-verbal communication is equally vital for every traveler.",
+          "translationJa": "言語能力も重要ですが、非言語コミュニケーションの理解はすべての旅行者にとって同様に不可欠です。",
+          "id": "advanced-2026-10-19-s02",
+          "startMs": 5929,
+          "endMs": 12096,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Maintaining a modest demeanor in public spaces demonstrates a high level of social awareness.",
+          "translationJa": "公共の場で控えめな態度を保つことは、高いレベルの社会的意識を示します。",
+          "id": "advanced-2026-10-19-s03",
+          "startMs": 12496,
+          "endMs": 17632,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Observe how residents interact with one another to gain insight into their daily customs.",
+          "translationJa": "住民同士がどのように接しているかを観察し、彼らの日常的な習慣への洞察を得ましょう。",
+          "id": "advanced-2026-10-19-s04",
+          "startMs": 18032,
+          "endMs": 22615,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Avoid making assumptions about local behavior based solely on your own cultural background experiences.",
+          "translationJa": "自分の文化的背景のみに基づいて、現地の行動について決めつけることは避けてください。",
+          "id": "advanced-2026-10-19-s05",
+          "startMs": 23015,
+          "endMs": 29014,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you are unsure about a specific tradition, ask a local person with genuine curiosity.",
+          "translationJa": "特定の伝統について確信が持てない場合は、純粋な好奇心を持って地元の人に尋ねてみてください。",
+          "id": "advanced-2026-10-19-s06",
+          "startMs": 29414,
+          "endMs": 34682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Most individuals are delighted when visitors show a sincere desire to learn about them.",
+          "translationJa": "訪問者が自分たちについて知ろうとする誠実な意欲を見せると、多くの人は喜びを感じます。",
+          "id": "advanced-2026-10-19-s07",
+          "startMs": 35082,
+          "endMs": 39719,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Respectful behavior minimizes potential friction and fosters positive connections between people from different cultures.",
+          "translationJa": "敬意ある態度は摩擦を最小限に抑え、異なる文化を持つ人々の間に前向きな絆を育みます。",
+          "id": "advanced-2026-10-19-s08",
+          "startMs": 40119,
+          "endMs": 46779,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that social rules can be quite subtle and might require patience to fully understand.",
+          "translationJa": "社会的なルールは非常に繊細な場合があり、完全に理解するには忍耐が必要かもしれません。",
+          "id": "advanced-2026-10-19-s09",
+          "startMs": 47179,
+          "endMs": 52144,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Embracing these differences will undoubtedly transform your perspective on the world around you today.",
+          "translationJa": "これらの違いを受け入れることは、間違いなくあなたの世界観を今日変えてくれるはずです。",
+          "id": "advanced-2026-10-19-s10",
+          "startMs": 52544,
+          "endMs": 57707,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Approaching every new situation with humility ensures that you remain a welcome guest everywhere.",
+          "translationJa": "あらゆる新しい状況に謙虚さを持って接することで、どこに行っても歓迎されるゲストでいられます。",
+          "id": "advanced-2026-10-19-s11",
+          "startMs": 58107,
+          "endMs": 63154,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "adapt",
+          "meaningJa": "適応する",
+          "exampleEn": "You must adapt to change.",
+          "exampleJa": "変化に適応しなければなりません。"
+        },
+        {
+          "word": "vital",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Trust is vital for us.",
+          "exampleJa": "信頼は私たちにとって不可欠です。"
+        },
+        {
+          "word": "demeanor",
+          "meaningJa": "態度",
+          "exampleEn": "He has a calm demeanor.",
+          "exampleJa": "彼は穏やかな態度をしています。"
+        },
+        {
+          "word": "friction",
+          "meaningJa": "摩擦",
+          "exampleEn": "Avoid unnecessary friction.",
+          "exampleJa": "不必要な摩擦を避けてください。"
+        },
+        {
+          "word": "humility",
+          "meaningJa": "謙虚さ",
+          "exampleEn": "Humility is a great virtue.",
+          "exampleJa": "謙虚さは素晴らしい美徳です。"
+        }
+      ],
+      "id": "advanced-2026-10-19",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced.m4a",
+      "durationSeconds": 61
+    }
+  ],
+  "topicCategory": "travel_culture"
+}

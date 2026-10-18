@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-17T15:01:16Z",
-  "latestLessonDate": "2026-10-18",
+  "generatedAtUtc": "2026-10-18T15:01:18Z",
+  "latestLessonDate": "2026-10-19",
   "days": [
+    {
+      "lessonDate": "2026-10-19",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-19.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Respectful Travel Habits",
+          "durationSeconds": 34,
+          "summaryJa": "旅行中に役立つ基本的な挨拶やマナーについての学習。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Cultural Awareness for Travelers",
+          "durationSeconds": 51,
+          "summaryJa": "旅行先で文化の違いを理解し、尊重するための実践的なアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Navigating Cultural Nuances",
+          "durationSeconds": 61,
+          "summaryJa": "異文化の中で円滑に交流し、敬意を持って振る舞うための洗練されたアプローチ。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-10-18",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-18.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-09-18",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-18.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "A Calm Morning Start",
-          "durationSeconds": 30,
-          "summaryJa": "朝の時間を穏やかに過ごし、良い習慣を身につけるためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building a Better Morning",
-          "durationSeconds": 50,
-          "summaryJa": "効率的で穏やかな朝のルーチンを作るためのステップ。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of a Productive Morning Routine",
-          "durationSeconds": 61,
-          "summaryJa": "穏やかな朝の迎え方と、生産性を高めるための習慣作りについて解説します。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
