@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-18T15:01:18Z",
-  "latestLessonDate": "2026-10-19",
+  "generatedAtUtc": "2026-10-19T18:16:20Z",
+  "latestLessonDate": "2026-10-20",
   "days": [
+    {
+      "lessonDate": "2026-10-20",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-20.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Smart Home Journey",
+          "durationSeconds": 31,
+          "summaryJa": "スマートホームの基本である音声アシスタントやタイマー設定について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Making Life Easier with Smart Home Tools",
+          "durationSeconds": 50,
+          "summaryJa": "音声アシスタントを活用して、毎日の家事を効率化する方法について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Evolution of Modern Smart Home Living",
+          "durationSeconds": 62,
+          "summaryJa": "スマートホーム技術の進化と、それが生活の質をどのように向上させるかを探ります。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-10-19",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-19.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-09-19",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-19.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Making Better Meeting Notes",
-          "durationSeconds": 29,
-          "summaryJa": "会議の直後に短いメモを取ることで、次の行動を明確にするコツを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Post-Call Documentation",
-          "durationSeconds": 56,
-          "summaryJa": "通話後のドキュメント化が、チームの生産性にどのように貢献するかを解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Workflow Through Post-Call Summaries",
-          "durationSeconds": 69,
-          "summaryJa": "通話後の要約作成をルーチン化し、チームの意思決定と生産性を最大化する方法を探ります。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }

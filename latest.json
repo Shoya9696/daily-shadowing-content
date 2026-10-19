@@ -1,425 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-18T15:01:18Z",
-  "lessonDate": "2026-10-19",
+  "generatedAtUtc": "2026-10-19T18:16:20Z",
+  "lessonDate": "2026-10-20",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Respectful Travel Habits",
+      "title": "Starting Your Smart Home Journey",
       "cefrLevel": "A2",
-      "summaryJa": "旅行中に役立つ基本的な挨拶やマナーについての学習。",
+      "summaryJa": "スマートホームの基本である音声アシスタントやタイマー設定について学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "It is always good to learn local greetings before you travel abroad.",
-          "translationJa": "海外旅行の前に現地の挨拶を学ぶことは常に良いことです。",
-          "id": "beginner-2026-10-19-s01",
+          "text": "I recently decided to try using a smart speaker at my home.",
+          "translationJa": "最近、自宅でスマートスピーカーを使ってみることにしました。",
+          "id": "beginner-2026-10-20-s01",
           "startMs": 0,
-          "endMs": 3526,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s01.m4a"
+          "endMs": 3560,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Start by saying hello and thank you in the local language today.",
-          "translationJa": "まずは現地の言葉で挨拶と感謝の言葉を言うことから始めましょう。",
-          "id": "beginner-2026-10-19-s02",
-          "startMs": 3926,
-          "endMs": 7283,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s02.m4a"
+          "text": "It is a small device that listens to my voice every day.",
+          "translationJa": "それは毎日私の声を聞いてくれる小さなデバイスです。",
+          "id": "beginner-2026-10-20-s02",
+          "startMs": 3960,
+          "endMs": 7034,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "People will appreciate your effort to communicate in their own native tongue.",
-          "translationJa": "人々はあなたが現地の言葉で話そうとする努力を評価してくれるでしょう。",
-          "id": "beginner-2026-10-19-s03",
-          "startMs": 7683,
-          "endMs": 11454,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s03.m4a"
+          "text": "I can ask the device to play my favorite music very easily.",
+          "translationJa": "デバイスに頼んで、お気に入りの音楽をとても簡単に再生できます。",
+          "id": "beginner-2026-10-20-s03",
+          "startMs": 7434,
+          "endMs": 10902,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Remember to smile when you are meeting new people in a store.",
-          "translationJa": "お店で新しい人に出会うときは笑顔を忘れないようにしてください。",
-          "id": "beginner-2026-10-19-s04",
-          "startMs": 11854,
-          "endMs": 14868,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s04.m4a"
+          "text": "It also helps me set a kitchen timer when I am cooking.",
+          "translationJa": "料理をしているときにキッチンタイマーをセットするのにも役立ちます。",
+          "id": "beginner-2026-10-20-s04",
+          "startMs": 11302,
+          "endMs": 14376,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Some cultures prefer a gentle bow rather than a firm hand shake.",
-          "translationJa": "文化によっては力強い握手よりも穏やかなお辞儀を好むところもあります。",
-          "id": "beginner-2026-10-19-s05",
-          "startMs": 15268,
-          "endMs": 18719,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s05.m4a"
+          "text": "I do not need to touch any buttons with my wet hands.",
+          "translationJa": "濡れた手でボタンに触れる必要はありません。",
+          "id": "beginner-2026-10-20-s05",
+          "startMs": 14776,
+          "endMs": 17698,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You should also watch how locals behave in busy public train stations.",
-          "translationJa": "また、混雑した公共の駅で地元の人々がどう振る舞っているかも観察しましょう。",
-          "id": "beginner-2026-10-19-s06",
-          "startMs": 19119,
-          "endMs": 23071,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s06.m4a"
+          "text": "Sometimes I ask the device about the weather before I go out.",
+          "translationJa": "外出する前に天気についてデバイスに尋ねることもあります。",
+          "id": "beginner-2026-10-20-s06",
+          "startMs": 18098,
+          "endMs": 21561,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Always keep your voice low when you are talking on the phone.",
-          "translationJa": "電話で話すときは常に声を低く保つようにしてください。",
-          "id": "beginner-2026-10-19-s07",
-          "startMs": 23471,
-          "endMs": 26376,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s07.m4a"
+          "text": "It gives me the information in just a few short seconds now.",
+          "translationJa": "今ではほんの数秒で情報を教えてくれます。",
+          "id": "beginner-2026-10-20-s07",
+          "startMs": 21961,
+          "endMs": 25209,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Showing respect for local customs makes your trip much more enjoyable now.",
-          "translationJa": "現地の習慣に敬意を払うことで、旅行は今よりもずっと楽しくなります。",
-          "id": "beginner-2026-10-19-s08",
-          "startMs": 26776,
-          "endMs": 30872,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s08.m4a"
+          "text": "Setting up the system was much easier than I first thought today.",
+          "translationJa": "システムのセットアップは、今日最初に考えていたよりもずっと簡単でした。",
+          "id": "beginner-2026-10-20-s08",
+          "startMs": 25609,
+          "endMs": 29014,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Have a wonderful time exploring new places and meeting many kind people.",
-          "translationJa": "新しい場所を探索し、多くの親切な人々と出会う素敵な時間を過ごしてください。",
-          "id": "beginner-2026-10-19-s09",
-          "startMs": 31272,
-          "endMs": 35169,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner-s09.m4a"
+          "text": "I am happy that I started using this new technology at home.",
+          "translationJa": "自宅でこの新しい技術を使い始めて嬉しく思っています。",
+          "id": "beginner-2026-10-20-s09",
+          "startMs": 29414,
+          "endMs": 32800,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "abroad",
-          "meaningJa": "海外へ",
-          "exampleEn": "I want to travel abroad.",
-          "exampleJa": "海外へ旅行したいです。"
+          "word": "device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is very useful.",
+          "exampleJa": "この機器はとても便利です。"
         },
         {
-          "word": "native",
-          "meaningJa": "母国の",
-          "exampleEn": "It is his native language.",
-          "exampleJa": "それは彼の母国語です。"
+          "word": "smart speaker",
+          "meaningJa": "スマートスピーカー",
+          "exampleEn": "I bought a new smart speaker.",
+          "exampleJa": "新しいスマートスピーカーを買いました。"
         },
         {
-          "word": "effort",
-          "meaningJa": "努力",
-          "exampleEn": "He made a great effort.",
-          "exampleJa": "彼は大きな努力をしました。"
+          "word": "set",
+          "meaningJa": "設定する",
+          "exampleEn": "Please set the timer to ten minutes.",
+          "exampleJa": "タイマーを10分に設定してください。"
         },
         {
-          "word": "customs",
-          "meaningJa": "習慣",
-          "exampleEn": "Learn local customs.",
-          "exampleJa": "地元の習慣を学びましょう。"
+          "word": "technology",
+          "meaningJa": "技術",
+          "exampleEn": "Modern technology is amazing.",
+          "exampleJa": "現代の技術は素晴らしいです。"
         },
         {
-          "word": "respect",
-          "meaningJa": "敬意",
-          "exampleEn": "Show respect to others.",
-          "exampleJa": "他人に敬意を払いましょう。"
+          "word": "favorite",
+          "meaningJa": "お気に入りの",
+          "exampleEn": "This is my favorite song.",
+          "exampleJa": "これは私のお気に入りの曲です。"
         }
       ],
-      "id": "beginner-2026-10-19",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/beginner.m4a",
-      "durationSeconds": 34
+      "id": "beginner-2026-10-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/beginner.m4a",
+      "durationSeconds": 31
     },
     {
       "levelGroup": "intermediate",
-      "title": "Cultural Awareness for Travelers",
+      "title": "Making Life Easier with Smart Home Tools",
       "cefrLevel": "B1",
-      "summaryJa": "旅行先で文化の違いを理解し、尊重するための実践的なアドバイス。",
+      "summaryJa": "音声アシスタントを活用して、毎日の家事を効率化する方法について解説します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Traveling to a new country offers a wonderful chance to learn about different traditions.",
-          "translationJa": "新しい国への旅行は、異なる伝統について学ぶ素晴らしい機会を提供してくれます。",
-          "id": "intermediate-2026-10-19-s01",
+          "text": "Many people are now using voice assistants to manage their busy daily lives at home.",
+          "translationJa": "多くの人が今、自宅での忙しい日常生活を管理するために音声アシスタントを使っています。",
+          "id": "intermediate-2026-10-20-s01",
           "startMs": 0,
-          "endMs": 4435,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s01.m4a"
+          "endMs": 4416,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Before you arrive at your destination, it is helpful to research basic social etiquette.",
-          "translationJa": "目的地に到着する前に、基本的な社会マナーを調べておくことは非常に役立ちます。",
-          "id": "intermediate-2026-10-19-s02",
-          "startMs": 4835,
-          "endMs": 9715,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s02.m4a"
+          "text": "These helpful devices can control lights and appliances through simple voice commands in your house.",
+          "translationJa": "これらの便利なデバイスは、家の中で簡単な音声コマンドを通じて照明や家電を操作できます。",
+          "id": "intermediate-2026-10-20-s02",
+          "startMs": 4816,
+          "endMs": 9969,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Small gestures like removing your shoes can show deep respect for a host family.",
-          "translationJa": "靴を脱ぐといった小さな仕草は、ホストファミリーへの深い敬意を示すことができます。",
-          "id": "intermediate-2026-10-19-s03",
-          "startMs": 10115,
-          "endMs": 14622,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s03.m4a"
+          "text": "I started by using a smart plug to turn off the coffee machine from bed.",
+          "translationJa": "私はスマートプラグを使って、ベッドからコーヒーメーカーの電源を切ることから始めました。",
+          "id": "intermediate-2026-10-20-s03",
+          "startMs": 10369,
+          "endMs": 14196,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You might also find that dining customs vary greatly from one region to another.",
-          "translationJa": "また、食事の習慣は地域によって大きく異なることに気づくかもしれません。",
-          "id": "intermediate-2026-10-19-s04",
-          "startMs": 15022,
-          "endMs": 19275,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s04.m4a"
+          "text": "It is wonderful to wake up and start your morning without rushing around the kitchen.",
+          "translationJa": "朝起きて、キッチンを走り回らずに一日を始められるのは素晴らしいことです。",
+          "id": "intermediate-2026-10-20-s04",
+          "startMs": 14596,
+          "endMs": 18610,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Pay close attention to how locals handle money when they pay for their meals.",
-          "translationJa": "地元の人々が食事の代金を支払う際に、どのようにお金を扱うかよく観察してください。",
-          "id": "intermediate-2026-10-19-s05",
-          "startMs": 19675,
-          "endMs": 23527,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s05.m4a"
+          "text": "You can also create routines to turn off all the lights when you leave home.",
+          "translationJa": "家を出るときにすべての照明を消すルーチンを作成することもできます。",
+          "id": "intermediate-2026-10-20-s05",
+          "startMs": 19010,
+          "endMs": 22834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Using both hands to offer an item is considered polite in many Asian countries.",
-          "translationJa": "多くのアジアの国々では、両手で物を受け渡すことが丁寧だと考えられています。",
-          "id": "intermediate-2026-10-19-s06",
-          "startMs": 23927,
-          "endMs": 28238,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s06.m4a"
+          "text": "This simple automation saves a lot of time and energy throughout your very busy week.",
+          "translationJa": "この単純な自動化は、とても忙しい一週間を通して多くの時間とエネルギーを節約します。",
+          "id": "intermediate-2026-10-20-s06",
+          "startMs": 23234,
+          "endMs": 27540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Being observant allows you to avoid awkward situations while you are exploring the city.",
-          "translationJa": "周囲を観察することで、街を散策している間の気まずい状況を避けることができます。",
-          "id": "intermediate-2026-10-19-s07",
-          "startMs": 28638,
-          "endMs": 33113,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s07.m4a"
+          "text": "Connecting your devices to the internet makes your home feel much more modern and comfortable.",
+          "translationJa": "デバイスをインターネットに接続すると、家がより現代的で快適に感じられます。",
+          "id": "intermediate-2026-10-20-s07",
+          "startMs": 27940,
+          "endMs": 32514,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is not necessary to be perfect, but showing genuine interest is always appreciated.",
-          "translationJa": "完璧である必要はありませんが、心からの関心を示すことは常に感謝されます。",
-          "id": "intermediate-2026-10-19-s08",
-          "startMs": 33513,
-          "endMs": 38514,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s08.m4a"
+          "text": "Although some people worry about privacy, the benefits of smart homes are truly quite significant.",
+          "translationJa": "プライバシーを心配する人もいますが、スマートホームの利点は本当にかなり大きなものです。",
+          "id": "intermediate-2026-10-20-s08",
+          "startMs": 32914,
+          "endMs": 38397,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Most people are very forgiving if you make a small mistake out of kindness.",
-          "translationJa": "親切心から小さな間違いをしてしまった場合、ほとんどの人は寛大に受け入れてくれます。",
-          "id": "intermediate-2026-10-19-s09",
-          "startMs": 38914,
-          "endMs": 42912,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s09.m4a"
+          "text": "I suggest starting with one small device to see how it fits your daily routine.",
+          "translationJa": "まずは小さなデバイスを1つ使ってみて、自分の日課にどう合うか確認することをお勧めします。",
+          "id": "intermediate-2026-10-20-s09",
+          "startMs": 38797,
+          "endMs": 43193,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Open your mind to new experiences and enjoy the beauty of cultural diversity today.",
-          "translationJa": "新しい経験に心を開き、今日という日に文化の多様性の美しさを楽しんでください。",
-          "id": "intermediate-2026-10-19-s10",
-          "startMs": 43312,
-          "endMs": 47984,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s10.m4a"
+          "text": "Technology is meant to support us and make our lives feel a little bit easier.",
+          "translationJa": "技術は私たちをサポートし、生活を少し楽にするためにあるものです。",
+          "id": "intermediate-2026-10-20-s10",
+          "startMs": 43593,
+          "endMs": 47622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Your journey will be much richer when you embrace these simple local cultural rules.",
-          "translationJa": "これらのシンプルな現地の文化ルールを受け入れると、あなたの旅はより豊かなものになります。",
-          "id": "intermediate-2026-10-19-s11",
-          "startMs": 48384,
-          "endMs": 52544,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate-s11.m4a"
+          "text": "Learning to use these tools is a great way to improve your home life today.",
+          "translationJa": "これらのツールを使うことを学ぶのは、今日の家庭生活を向上させる素晴らしい方法です。",
+          "id": "intermediate-2026-10-20-s11",
+          "startMs": 48022,
+          "endMs": 51753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "etiquette",
-          "meaningJa": "エチケット",
-          "exampleEn": "Follow the social etiquette.",
-          "exampleJa": "社会的なエチケットに従いましょう。"
+          "word": "appliance",
+          "meaningJa": "家電製品",
+          "exampleEn": "Kitchen appliances are very helpful.",
+          "exampleJa": "キッチン家電はとても役に立ちます。"
         },
         {
-          "word": "gesture",
-          "meaningJa": "仕草",
-          "exampleEn": "That was a kind gesture.",
-          "exampleJa": "それは親切な仕草でした。"
+          "word": "command",
+          "meaningJa": "命令、指令",
+          "exampleEn": "Give a voice command to the device.",
+          "exampleJa": "デバイスに音声で指令を出してください。"
         },
         {
-          "word": "vary",
-          "meaningJa": "異なる",
-          "exampleEn": "Prices vary by store.",
-          "exampleJa": "価格は店によって異なります。"
+          "word": "automation",
+          "meaningJa": "自動化",
+          "exampleEn": "Home automation is growing popular.",
+          "exampleJa": "ホームオートメーションが人気を集めています。"
         },
         {
-          "word": "observant",
-          "meaningJa": "観察力の鋭い",
-          "exampleEn": "She is very observant.",
-          "exampleJa": "彼女はとても観察力が鋭いです。"
+          "word": "routine",
+          "meaningJa": "日課、ルーチン",
+          "exampleEn": "I have a morning routine.",
+          "exampleJa": "私には朝のルーチンがあります。"
         },
         {
-          "word": "diversity",
-          "meaningJa": "多様性",
-          "exampleEn": "Celebrate cultural diversity.",
-          "exampleJa": "文化の多様性を祝福しましょう。"
+          "word": "significant",
+          "meaningJa": "かなりの、重要な",
+          "exampleEn": "There was a significant change.",
+          "exampleJa": "かなりの変化がありました。"
         }
       ],
-      "id": "intermediate-2026-10-19",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/intermediate.m4a",
-      "durationSeconds": 51
+      "id": "intermediate-2026-10-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/intermediate.m4a",
+      "durationSeconds": 50
     },
     {
       "levelGroup": "advanced",
-      "title": "Navigating Cultural Nuances",
+      "title": "The Evolution of Modern Smart Home Living",
       "cefrLevel": "B2",
-      "summaryJa": "異文化の中で円滑に交流し、敬意を持って振る舞うための洗練されたアプローチ。",
+      "summaryJa": "スマートホーム技術の進化と、それが生活の質をどのように向上させるかを探ります。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/local-customs"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Successful international travel often depends on your ability to adapt to local cultural norms.",
-          "translationJa": "海外旅行を成功させる鍵は、現地の文化規範に適応する能力にかかっています。",
-          "id": "advanced-2026-10-19-s01",
+          "text": "The integration of smart technology into our homes has fundamentally changed how we live daily.",
+          "translationJa": "家庭へのスマート技術の統合は、私たちの日常生活のあり方を根本的に変えました。",
+          "id": "advanced-2026-10-20-s01",
           "startMs": 0,
-          "endMs": 5529,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s01.m4a"
+          "endMs": 5026,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "While language skills are important, understanding non-verbal communication is equally vital for every traveler.",
-          "translationJa": "言語能力も重要ですが、非言語コミュニケーションの理解はすべての旅行者にとって同様に不可欠です。",
-          "id": "advanced-2026-10-19-s02",
-          "startMs": 5929,
-          "endMs": 12096,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s02.m4a"
+          "text": "Voice assistants now serve as central hubs for managing various connected devices across our rooms.",
+          "translationJa": "音声アシスタントは現在、部屋中の様々な接続デバイスを管理するための中心的なハブとして機能しています。",
+          "id": "advanced-2026-10-20-s02",
+          "startMs": 5426,
+          "endMs": 10899,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Maintaining a modest demeanor in public spaces demonstrates a high level of social awareness.",
-          "translationJa": "公共の場で控えめな態度を保つことは、高いレベルの社会的意識を示します。",
-          "id": "advanced-2026-10-19-s03",
-          "startMs": 12496,
-          "endMs": 17632,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s03.m4a"
+          "text": "Users can effortlessly automate lighting, climate control, and security systems with just a simple phrase.",
+          "translationJa": "ユーザーは簡単なフレーズだけで、照明、空調、セキュリティシステムを楽に自動化できます。",
+          "id": "advanced-2026-10-20-s03",
+          "startMs": 11299,
+          "endMs": 17619,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Observe how residents interact with one another to gain insight into their daily customs.",
-          "translationJa": "住民同士がどのように接しているかを観察し、彼らの日常的な習慣への洞察を得ましょう。",
-          "id": "advanced-2026-10-19-s04",
-          "startMs": 18032,
-          "endMs": 22615,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s04.m4a"
+          "text": "One major advantage is the ability to monitor energy usage in real time quite easily.",
+          "translationJa": "大きな利点の一つは、エネルギー使用量をリアルタイムで非常に簡単に監視できることです。",
+          "id": "advanced-2026-10-20-s04",
+          "startMs": 18019,
+          "endMs": 22909,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Avoid making assumptions about local behavior based solely on your own cultural background experiences.",
-          "translationJa": "自分の文化的背景のみに基づいて、現地の行動について決めつけることは避けてください。",
-          "id": "advanced-2026-10-19-s05",
-          "startMs": 23015,
-          "endMs": 29014,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s05.m4a"
+          "text": "Optimizing your power consumption helps lower monthly utility bills while being kind to the environment.",
+          "translationJa": "電力消費を最適化することは、環境に配慮しつつ月々の光熱費を下げるのに役立ちます。",
+          "id": "advanced-2026-10-20-s05",
+          "startMs": 23309,
+          "endMs": 28992,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "If you are unsure about a specific tradition, ask a local person with genuine curiosity.",
-          "translationJa": "特定の伝統について確信が持てない場合は、純粋な好奇心を持って地元の人に尋ねてみてください。",
-          "id": "advanced-2026-10-19-s06",
-          "startMs": 29414,
-          "endMs": 34682,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s06.m4a"
+          "text": "Many people find that these tools provide more convenience during their hectic working schedules today.",
+          "translationJa": "多くの人は、これらのツールが今日の忙しい仕事のスケジュールにおいてより多くの利便性を提供することに気づいています。",
+          "id": "advanced-2026-10-20-s06",
+          "startMs": 29392,
+          "endMs": 34748,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Most individuals are delighted when visitors show a sincere desire to learn about them.",
-          "translationJa": "訪問者が自分たちについて知ろうとする誠実な意欲を見せると、多くの人は喜びを感じます。",
-          "id": "advanced-2026-10-19-s07",
-          "startMs": 35082,
-          "endMs": 39719,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s07.m4a"
+          "text": "Setting up a smart home does not require advanced technical skills or specialized professional knowledge now.",
+          "translationJa": "スマートホームの構築には、今や高度な技術スキルや専門知識は必要ありません。",
+          "id": "advanced-2026-10-20-s07",
+          "startMs": 35148,
+          "endMs": 41037,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Respectful behavior minimizes potential friction and fosters positive connections between people from different cultures.",
-          "translationJa": "敬意ある態度は摩擦を最小限に抑え、異なる文化を持つ人々の間に前向きな絆を育みます。",
-          "id": "advanced-2026-10-19-s08",
-          "startMs": 40119,
-          "endMs": 46779,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s08.m4a"
+          "text": "Most modern devices offer intuitive interfaces that guide you through every step of the setup.",
+          "translationJa": "ほとんどの現代のデバイスは、セットアップのあらゆる手順を案内してくれる直感的なインターフェースを提供しています。",
+          "id": "advanced-2026-10-20-s08",
+          "startMs": 41437,
+          "endMs": 46375,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Remember that social rules can be quite subtle and might require patience to fully understand.",
-          "translationJa": "社会的なルールは非常に繊細な場合があり、完全に理解するには忍耐が必要かもしれません。",
-          "id": "advanced-2026-10-19-s09",
-          "startMs": 47179,
-          "endMs": 52144,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s09.m4a"
+          "text": "Security updates are also provided regularly to ensure that your private data remains safe always.",
+          "translationJa": "セキュリティ更新も定期的に提供され、個人データが常に安全であることを保証します。",
+          "id": "advanced-2026-10-20-s09",
+          "startMs": 46775,
+          "endMs": 52385,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Embracing these differences will undoubtedly transform your perspective on the world around you today.",
-          "translationJa": "これらの違いを受け入れることは、間違いなくあなたの世界観を今日変えてくれるはずです。",
-          "id": "advanced-2026-10-19-s10",
-          "startMs": 52544,
-          "endMs": 57707,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s10.m4a"
+          "text": "As these systems continue to evolve, they will offer even more personalized solutions for everyone.",
+          "translationJa": "これらのシステムが進化し続けるにつれて、誰にとってもさらにパーソナライズされた解決策が提供されるでしょう。",
+          "id": "advanced-2026-10-20-s10",
+          "startMs": 52785,
+          "endMs": 58248,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Approaching every new situation with humility ensures that you remain a welcome guest everywhere.",
-          "translationJa": "あらゆる新しい状況に謙虚さを持って接することで、どこに行っても歓迎されるゲストでいられます。",
-          "id": "advanced-2026-10-19-s11",
-          "startMs": 58107,
-          "endMs": 63154,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced-s11.m4a"
+          "text": "Embracing this technology allows you to create a more efficient and comfortable living space today.",
+          "translationJa": "この技術を取り入れることで、今日、より効率的で快適な居住空間を作ることができます。",
+          "id": "advanced-2026-10-20-s11",
+          "startMs": 58648,
+          "endMs": 63892,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "adapt",
-          "meaningJa": "適応する",
-          "exampleEn": "You must adapt to change.",
-          "exampleJa": "変化に適応しなければなりません。"
+          "word": "integration",
+          "meaningJa": "統合",
+          "exampleEn": "The integration of systems is successful.",
+          "exampleJa": "システムの統合は成功しました。"
         },
         {
-          "word": "vital",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Trust is vital for us.",
-          "exampleJa": "信頼は私たちにとって不可欠です。"
+          "word": "effortlessly",
+          "meaningJa": "楽々と、簡単に",
+          "exampleEn": "She finished the work effortlessly.",
+          "exampleJa": "彼女は楽々と仕事を終えました。"
         },
         {
-          "word": "demeanor",
-          "meaningJa": "態度",
-          "exampleEn": "He has a calm demeanor.",
-          "exampleJa": "彼は穏やかな態度をしています。"
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "We need to optimize the process.",
+          "exampleJa": "プロセスを最適化する必要があります。"
         },
         {
-          "word": "friction",
-          "meaningJa": "摩擦",
-          "exampleEn": "Avoid unnecessary friction.",
-          "exampleJa": "不必要な摩擦を避けてください。"
+          "word": "hectic",
+          "meaningJa": "非常に忙しい",
+          "exampleEn": "I had a hectic day at work.",
+          "exampleJa": "仕事で非常に忙しい一日でした。"
         },
         {
-          "word": "humility",
-          "meaningJa": "謙虚さ",
-          "exampleEn": "Humility is a great virtue.",
-          "exampleJa": "謙虚さは素晴らしい美徳です。"
+          "word": "intuitive",
+          "meaningJa": "直感的な",
+          "exampleEn": "The design is very intuitive.",
+          "exampleJa": "そのデザインはとても直感的です。"
         }
       ],
-      "id": "advanced-2026-10-19",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-19/advanced.m4a",
-      "durationSeconds": 61
+      "id": "advanced-2026-10-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-20/advanced.m4a",
+      "durationSeconds": 62
     }
   ],
-  "topicCategory": "travel_culture"
+  "topicCategory": "science_technology"
 }
