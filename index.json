@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-19T18:16:20Z",
-  "latestLessonDate": "2026-10-20",
+  "generatedAtUtc": "2026-10-20T16:17:30Z",
+  "latestLessonDate": "2026-10-21",
   "days": [
+    {
+      "lessonDate": "2026-10-21",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-21.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Staying Hydrated at Your Desk",
+          "durationSeconds": 33,
+          "summaryJa": "仕事中に水分補給を忘れないための簡単な習慣と、疲れを感じる前の対策について解説します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Effective Hydration Strategies for Professionals",
+          "durationSeconds": 57,
+          "summaryJa": "忙しい職場環境で効率的に水分補給を行い、生産性を維持するための具体的な戦略を学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Wellness Through Mindful Hydration",
+          "durationSeconds": 64,
+          "summaryJa": "マインドフルな水分補給を通じて、職場でのパフォーマンスを最適化し、健康を維持するための高度なアプローチを解説します。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-10-20",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-20.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-09-20",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-20.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Finding Your Way in a New City",
-          "durationSeconds": 27,
-          "summaryJa": "新しい街で道に迷ったとき、どのように道を尋ねるかという基本的なフレーズを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Navigating Like a Local",
-          "durationSeconds": 44,
-          "summaryJa": "目的地にたどり着くために、目印を確認したり、ルートを明確にするための表現を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Urban Navigation",
-          "durationSeconds": 54,
-          "summaryJa": "都市部で複雑な経路を尋ね、聞き取り、相手と情報を共有するための高度なコミュニケーション術。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }

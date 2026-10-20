@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-20T16:17:30Z",
+  "lessonDate": "2026-10-21",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Staying Hydrated at Your Desk",
+      "cefrLevel": "A2",
+      "summaryJa": "仕事中に水分補給を忘れないための簡単な習慣と、疲れを感じる前の対策について解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Drinking enough water is very important for your health during the workday.",
+          "translationJa": "仕事中に十分な水を飲むことは、健康のためにとても大切です。",
+          "id": "beginner-2026-10-21-s01",
+          "startMs": 0,
+          "endMs": 3626,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people forget to drink water when they are busy with tasks.",
+          "translationJa": "多くの人は仕事が忙しくなると、水を飲むことを忘れてしまいます。",
+          "id": "beginner-2026-10-21-s02",
+          "startMs": 4026,
+          "endMs": 7339,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You should keep a large bottle of water on your office desk.",
+          "translationJa": "オフィスの机の上に大きな水のボトルを置いておくと良いでしょう。",
+          "id": "beginner-2026-10-21-s03",
+          "startMs": 7739,
+          "endMs": 10727,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "This simple trick helps you remember to drink throughout the entire day.",
+          "translationJa": "この簡単な工夫は、一日を通して水を飲むことを思い出す助けになります。",
+          "id": "beginner-2026-10-21-s04",
+          "startMs": 11127,
+          "endMs": 14620,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to take small sips of water every thirty minutes or so.",
+          "translationJa": "30分おきくらいに少しずつ水を飲むように心がけましょう。",
+          "id": "beginner-2026-10-21-s05",
+          "startMs": 15020,
+          "endMs": 18306,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you feel tired or sleepy, you might need more fresh water.",
+          "translationJa": "もし疲れや眠気を感じたら、新鮮な水がもっと必要かもしれません。",
+          "id": "beginner-2026-10-21-s06",
+          "startMs": 18706,
+          "endMs": 22116,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking short breaks from your computer screen will also help you relax.",
+          "translationJa": "コンピューターの画面から離れて短い休憩をとることもリラックスに役立ちます。",
+          "id": "beginner-2026-10-21-s07",
+          "startMs": 22516,
+          "endMs": 26347,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Good hydration improves your mood and helps you focus on your work.",
+          "translationJa": "十分な水分補給は気分を良くし、仕事に集中する助けになります。",
+          "id": "beginner-2026-10-21-s08",
+          "startMs": 26747,
+          "endMs": 29990,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Please start this healthy habit at your office starting from tomorrow morning.",
+          "translationJa": "明日からオフィスでこの健康的な習慣をぜひ始めてみてください。",
+          "id": "beginner-2026-10-21-s09",
+          "startMs": 30390,
+          "endMs": 34126,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Hydration",
+          "meaningJa": "水分補給",
+          "exampleEn": "Proper hydration is key to feeling energetic.",
+          "exampleJa": "適切な水分補給は、元気に過ごすための鍵です。"
+        },
+        {
+          "index": 1,
+          "word": "Task",
+          "meaningJa": "作業、仕事",
+          "exampleEn": "I have many tasks to finish today.",
+          "exampleJa": "今日は終わらせるべき仕事がたくさんあります。"
+        },
+        {
+          "index": 2,
+          "word": "Trick",
+          "meaningJa": "コツ、工夫",
+          "exampleEn": "This is a useful trick for better focus.",
+          "exampleJa": "これは集中力を高めるための便利なコツです。"
+        },
+        {
+          "index": 3,
+          "word": "Sip",
+          "meaningJa": "ちびちび飲む",
+          "exampleEn": "She took a small sip of hot tea.",
+          "exampleJa": "彼女は熱いお茶を少しだけ飲みました。"
+        },
+        {
+          "index": 4,
+          "word": "Focus",
+          "meaningJa": "集中する",
+          "exampleEn": "It is hard to focus in a noisy room.",
+          "exampleJa": "うるさい部屋では集中するのが難しいです。"
+        }
+      ],
+      "id": "beginner-2026-10-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/beginner.m4a",
+      "durationSeconds": 33
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Effective Hydration Strategies for Professionals",
+      "cefrLevel": "B1",
+      "summaryJa": "忙しい職場環境で効率的に水分補給を行い、生産性を維持するための具体的な戦略を学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining proper hydration levels is essential for staying productive throughout your busy workday.",
+          "translationJa": "忙しい一日を通して生産性を維持するためには、適切な水分補給レベルを保つことが不可欠です。",
+          "id": "intermediate-2026-10-21-s01",
+          "startMs": 0,
+          "endMs": 5182,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "When you focus deeply on your projects, it is easy to neglect your body's needs.",
+          "translationJa": "プロジェクトに深く集中していると、体の要求を無視してしまいがちになります。",
+          "id": "intermediate-2026-10-21-s02",
+          "startMs": 5582,
+          "endMs": 10228,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many professionals experience afternoon fatigue simply because they have not consumed enough clean water.",
+          "translationJa": "多くの専門職の人は、単に十分な水を飲んでいないために午後の疲れを感じています。",
+          "id": "intermediate-2026-10-21-s03",
+          "startMs": 10628,
+          "endMs": 16240,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "I recommend keeping a reusable water bottle within arm's reach at your workspace daily.",
+          "translationJa": "毎日、手が届く範囲に再利用可能なウォーターボトルを置いておくことをお勧めします。",
+          "id": "intermediate-2026-10-21-s04",
+          "startMs": 16640,
+          "endMs": 21083,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Visual cues, like a full bottle, will serve as a constant reminder to drink.",
+          "translationJa": "満タンのボトルのような視覚的な手がかりは、飲むことを思い出させる絶え間ない合図になります。",
+          "id": "intermediate-2026-10-21-s05",
+          "startMs": 21483,
+          "endMs": 26108,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you find plain water boring, consider adding a slice of lemon or cucumber.",
+          "translationJa": "もし普通の水が退屈だと感じるなら、レモンやキュウリのスライスを加えることを考えてみてください。",
+          "id": "intermediate-2026-10-21-s06",
+          "startMs": 26508,
+          "endMs": 30940,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking short, frequent breaks is another effective way to refresh your mind and body.",
+          "translationJa": "短く頻繁な休憩をとることも、心身をリフレッシュするもう一つの効果的な方法です。",
+          "id": "intermediate-2026-10-21-s07",
+          "startMs": 31340,
+          "endMs": 35996,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "During these short pauses, stand up, stretch your muscles, and enjoy a glass of water.",
+          "translationJa": "こうした短い休憩の間に立ち上がり、筋肉を伸ばして、コップ一杯の水を楽しみましょう。",
+          "id": "intermediate-2026-10-21-s08",
+          "startMs": 36396,
+          "endMs": 41535,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Listen to your body carefully before you start feeling the symptoms of dehydration appearing.",
+          "translationJa": "脱水症状が現れ始める前に、自分の体に注意深く耳を傾けてください。",
+          "id": "intermediate-2026-10-21-s09",
+          "startMs": 41935,
+          "endMs": 46839,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By prioritizing small habits, you can significantly improve your daily performance and overall wellness.",
+          "translationJa": "小さな習慣を優先することで、毎日のパフォーマンスと全体的な健康を大幅に改善できます。",
+          "id": "intermediate-2026-10-21-s10",
+          "startMs": 47239,
+          "endMs": 53431,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start implementing these simple changes today to feel more energized during your working hours.",
+          "translationJa": "勤務時間中によりエネルギッシュに過ごせるよう、今日からこうした簡単な変化を取り入れましょう。",
+          "id": "intermediate-2026-10-21-s11",
+          "startMs": 53831,
+          "endMs": 58733,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Productive",
+          "meaningJa": "生産的な",
+          "exampleEn": "I had a very productive meeting this morning.",
+          "exampleJa": "今朝はとても生産的な会議ができました。"
+        },
+        {
+          "word": "Neglect",
+          "meaningJa": "軽視する、怠る",
+          "exampleEn": "Do not neglect your health for your career.",
+          "exampleJa": "キャリアのために健康を軽視してはいけません。"
+        },
+        {
+          "word": "Reusable",
+          "meaningJa": "再利用可能な",
+          "exampleEn": "We should use reusable bags at the store.",
+          "exampleJa": "店では再利用可能なバッグを使うべきです。"
+        },
+        {
+          "word": "Visual cue",
+          "meaningJa": "視覚的な手がかり",
+          "exampleEn": "These icons act as visual cues for users.",
+          "exampleJa": "これらのアイコンはユーザーにとって視覚的な手がかりとして機能します。"
+        },
+        {
+          "word": "Symptom",
+          "meaningJa": "症状",
+          "exampleEn": "The main symptom of this cold is a cough.",
+          "exampleJa": "この風邪の主な症状は咳です。"
+        }
+      ],
+      "id": "intermediate-2026-10-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/intermediate.m4a",
+      "durationSeconds": 57
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Wellness Through Mindful Hydration",
+      "cefrLevel": "B2",
+      "summaryJa": "マインドフルな水分補給を通じて、職場でのパフォーマンスを最適化し、健康を維持するための高度なアプローチを解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Optimal hydration is a fundamental pillar of maintaining peak performance in a professional setting.",
+          "translationJa": "最適な水分補給は、職場での最高のパフォーマンスを維持するための基本的な柱です。",
+          "id": "advanced-2026-10-21-s01",
+          "startMs": 0,
+          "endMs": 5219,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many employees mistakenly believe that drinking coffee is an adequate substitute for plain water.",
+          "translationJa": "多くの従業員は、コーヒーを飲むことが水の代わりとして十分であると誤解しています。",
+          "id": "advanced-2026-10-21-s02",
+          "startMs": 5619,
+          "endMs": 10848,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "While caffeine provides a temporary boost, it does not hydrate your cells effectively long-term.",
+          "translationJa": "カフェインは一時的な活力を与えますが、長期的に細胞を効果的に潤すことはできません。",
+          "id": "advanced-2026-10-21-s03",
+          "startMs": 11248,
+          "endMs": 16765,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Developing a conscious habit of drinking water ensures your brain functions at its best.",
+          "translationJa": "水を飲む意識的な習慣を身につけることで、脳が最高の状態で機能することを保証します。",
+          "id": "advanced-2026-10-21-s04",
+          "startMs": 17165,
+          "endMs": 21792,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Even mild dehydration often leads to reduced concentration and increased feelings of mental fatigue.",
+          "translationJa": "わずかな脱水症状でさえ、集中力の低下や精神的な疲労感の増大を招くことがよくあります。",
+          "id": "advanced-2026-10-21-s05",
+          "startMs": 22192,
+          "endMs": 27785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You should aim to hydrate steadily throughout the day rather than drinking large amounts occasionally.",
+          "translationJa": "たまに大量に飲むのではなく、一日を通して安定して水分を補給することを目指すべきです。",
+          "id": "advanced-2026-10-21-s06",
+          "startMs": 28185,
+          "endMs": 33019,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Integrating these small actions into your workflow creates a sustainable rhythm for your health.",
+          "translationJa": "これらの小さな行動をワークフローに統合することは、健康のための持続可能なリズムを生み出します。",
+          "id": "advanced-2026-10-21-s07",
+          "startMs": 33419,
+          "endMs": 38188,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Take regular breaks to reset your posture and replenish your body with necessary fluids.",
+          "translationJa": "定期的に休憩をとり、姿勢をリセットし、体に必要な水分を補給してください。",
+          "id": "advanced-2026-10-21-s08",
+          "startMs": 38588,
+          "endMs": 43464,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Pay close attention to early warning signs like dry lips or slight headaches during work.",
+          "translationJa": "仕事中の唇の乾燥や軽い頭痛といった初期の警告サインには細心の注意を払ってください。",
+          "id": "advanced-2026-10-21-s09",
+          "startMs": 43864,
+          "endMs": 48552,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Prioritizing your physiological needs allows you to handle complex tasks with much greater clarity.",
+          "translationJa": "生理的なニーズを優先することで、より高い明晰さを持って複雑なタスクに取り組むことができます。",
+          "id": "advanced-2026-10-21-s10",
+          "startMs": 48952,
+          "endMs": 54558,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Small, consistent efforts in wellness will yield significant benefits for your overall career trajectory.",
+          "translationJa": "健康面での小さく一貫した努力は、あなたのキャリア全体に大きな利益をもたらすでしょう。",
+          "id": "advanced-2026-10-21-s11",
+          "startMs": 54958,
+          "endMs": 60916,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Make hydration a non-negotiable part of your daily professional routine starting from this morning.",
+          "translationJa": "今朝から、水分補給を毎日の仕事のルーチンに欠かせないものとして組み込みましょう。",
+          "id": "advanced-2026-10-21-s12",
+          "startMs": 61316,
+          "endMs": 66359,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Optimal",
+          "meaningJa": "最適な",
+          "exampleEn": "The optimal temperature for growth is twenty degrees.",
+          "exampleJa": "成長に最適な温度は20度です。"
+        },
+        {
+          "word": "Substitute",
+          "meaningJa": "代用品",
+          "exampleEn": "There is no substitute for hard work.",
+          "exampleJa": "勤勉に代わるものはありません。"
+        },
+        {
+          "word": "Conscious",
+          "meaningJa": "意識的な",
+          "exampleEn": "He made a conscious effort to be polite.",
+          "exampleJa": "彼は丁寧であろうと意識的に努力しました。"
+        },
+        {
+          "word": "Replenish",
+          "meaningJa": "補給する",
+          "exampleEn": "We need to replenish our supplies.",
+          "exampleJa": "私たちは供給品を補給する必要があります。"
+        },
+        {
+          "word": "Trajectory",
+          "meaningJa": "軌道、進路",
+          "exampleEn": "The company is on a successful trajectory.",
+          "exampleJa": "その会社は成功の軌道に乗っています。"
+        }
+      ],
+      "id": "advanced-2026-10-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-21/advanced.m4a",
+      "durationSeconds": 64
+    }
+  ],
+  "topicCategory": "health_wellness"
+}
