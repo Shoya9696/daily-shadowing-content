@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-20T16:17:30Z",
-  "latestLessonDate": "2026-10-21",
+  "generatedAtUtc": "2026-10-21T16:33:55Z",
+  "latestLessonDate": "2026-10-22",
   "days": [
+    {
+      "lessonDate": "2026-10-22",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-22.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Split a Restaurant Bill",
+          "durationSeconds": 33,
+          "summaryJa": "レストランでの会計を友達と公平に分けるための基本的な英語表現。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Managing Group Expenses Fairly",
+          "durationSeconds": 53,
+          "summaryJa": "グループでの食事や旅行の際に、トラブルなく公平に費用を分担するためのアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Equitable Bill Splitting",
+          "durationSeconds": 68,
+          "summaryJa": "グループの会食における公平な会計処理と、人間関係を良好に保つためのマナー。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-10-21",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-21.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-09-21",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-21.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Setting Up Your New Gadgets",
-          "durationSeconds": 34,
-          "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新する基本的な手順について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Home Technology",
-          "durationSeconds": 54,
-          "summaryJa": "家庭内のデバイス設定を最適化し、一般的な技術トラブルを解決するためのヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Digital Device Environments",
-          "durationSeconds": 71,
-          "summaryJa": "デジタル環境を最適化し、技術的な障害を効率的にトラブルシューティングする高度な習慣。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }

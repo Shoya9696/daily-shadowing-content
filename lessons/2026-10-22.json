@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-21T16:33:55Z",
+  "lessonDate": "2026-10-22",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "How to Split a Restaurant Bill",
+      "cefrLevel": "A2",
+      "summaryJa": "レストランでの会計を友達と公平に分けるための基本的な英語表現。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Eating out with friends is a very fun way to spend time.",
+          "translationJa": "友達と外食するのは楽しい時間を過ごすためのとても良い方法です。",
+          "id": "beginner-2026-10-22-s01",
+          "startMs": 0,
+          "endMs": 2957,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, paying the bill at the end can be a little difficult.",
+          "translationJa": "しかし、最後に会計をするのは少し難しいことがあります。",
+          "id": "beginner-2026-10-22-s02",
+          "startMs": 3357,
+          "endMs": 6605,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is best to decide how to pay before you start eating.",
+          "translationJa": "食事を始める前に、どのように支払うかを決めておくのが一番です。",
+          "id": "beginner-2026-10-22-s03",
+          "startMs": 7005,
+          "endMs": 9997,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You can ask the waiter to give everyone a separate check today.",
+          "translationJa": "今日はお店の人に、それぞれ別々の伝票をもらえるか頼むことができます。",
+          "id": "beginner-2026-10-22-s04",
+          "startMs": 10397,
+          "endMs": 13536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Sometimes it is easier to just split the total bill equally instead.",
+          "translationJa": "時には、合計金額を均等に分ける方が簡単な場合もあります。",
+          "id": "beginner-2026-10-22-s05",
+          "startMs": 13936,
+          "endMs": 17700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You can use a simple phone app to calculate the exact amount now.",
+          "translationJa": "今はスマホのアプリを使って、正確な金額を簡単に計算できます。",
+          "id": "beginner-2026-10-22-s06",
+          "startMs": 18100,
+          "endMs": 21784,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Make sure to include a small tip if you are in some countries.",
+          "translationJa": "いくつかの国では、少しのチップを含めることを忘れないでください。",
+          "id": "beginner-2026-10-22-s07",
+          "startMs": 22184,
+          "endMs": 25381,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Clear communication helps everyone feel happy with the final payment result today.",
+          "translationJa": "明確なコミュニケーションは、みんなが最終的な支払いに満足する助けになります。",
+          "id": "beginner-2026-10-22-s08",
+          "startMs": 25781,
+          "endMs": 30307,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Enjoy your delicious meals and good conversations with all your close friends.",
+          "translationJa": "友達との美味しい食事と楽しい会話を存分に楽しんでください。",
+          "id": "beginner-2026-10-22-s09",
+          "startMs": 30707,
+          "endMs": 34744,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "split",
+          "meaningJa": "分ける",
+          "exampleEn": "Let's split the cost.",
+          "exampleJa": "費用を割り勘にしましょう。"
+        },
+        {
+          "index": 1,
+          "word": "bill",
+          "meaningJa": "請求書、勘定",
+          "exampleEn": "Could we have the bill, please?",
+          "exampleJa": "お会計をお願いできますか？"
+        },
+        {
+          "index": 2,
+          "word": "equally",
+          "meaningJa": "平等に、均等に",
+          "exampleEn": "Divide the cake equally.",
+          "exampleJa": "ケーキを均等に分けてください。"
+        },
+        {
+          "index": 3,
+          "word": "calculate",
+          "meaningJa": "計算する",
+          "exampleEn": "I need to calculate the total.",
+          "exampleJa": "合計を計算する必要があります。"
+        },
+        {
+          "index": 4,
+          "word": "communication",
+          "meaningJa": "伝達、意思疎通",
+          "exampleEn": "Good communication is vital.",
+          "exampleJa": "良いコミュニケーションは不可欠です。"
+        }
+      ],
+      "id": "beginner-2026-10-22",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner.m4a",
+      "durationSeconds": 33
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Managing Group Expenses Fairly",
+      "cefrLevel": "B1",
+      "summaryJa": "グループでの食事や旅行の際に、トラブルなく公平に費用を分担するためのアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing expenses within a group of friends requires a bit of thoughtful planning beforehand.",
+          "translationJa": "友人グループ内の経費を管理するには、事前の少しの慎重な計画が必要です。",
+          "id": "intermediate-2026-10-22-s01",
+          "startMs": 0,
+          "endMs": 4846,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "When you dine at a restaurant, deciding on the payment method saves much time.",
+          "translationJa": "レストランで食事をするとき、支払い方法を決めておくことは多くの時間を節約します。",
+          "id": "intermediate-2026-10-22-s02",
+          "startMs": 5246,
+          "endMs": 9613,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Some people prefer to pay for exactly what they ordered during the entire evening.",
+          "translationJa": "一晩を通して、自分が注文した分だけを正確に支払いたいと考える人もいます。",
+          "id": "intermediate-2026-10-22-s03",
+          "startMs": 10013,
+          "endMs": 14184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Others find it much simpler to divide the total cost by the number of people.",
+          "translationJa": "一方で、合計金額を人数で割る方がはるかに簡単だと感じる人もいます。",
+          "id": "intermediate-2026-10-22-s04",
+          "startMs": 14584,
+          "endMs": 18630,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Using digital payment apps has become a very popular way to handle these small transactions.",
+          "translationJa": "デジタル決済アプリを使うことは、こうした少額の取引を処理する非常に人気のある方法です。",
+          "id": "intermediate-2026-10-22-s05",
+          "startMs": 19030,
+          "endMs": 24235,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "These tools allow you to request money from friends without feeling any social awkwardness.",
+          "translationJa": "これらのツールを使えば、社交上の気まずさを感じることなく友人にお金を請求できます。",
+          "id": "intermediate-2026-10-22-s06",
+          "startMs": 24635,
+          "endMs": 29300,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Always communicate your expectations clearly before the check arrives at your table tonight.",
+          "translationJa": "今夜、テーブルに伝票が来る前に、常に自分の希望を明確に伝えておきましょう。",
+          "id": "intermediate-2026-10-22-s07",
+          "startMs": 29700,
+          "endMs": 34637,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If someone had an expensive drink, they might offer to pay a little bit extra.",
+          "translationJa": "もし誰かが高い飲み物を飲んだなら、その人は少し多めに払うと申し出るかもしれません。",
+          "id": "intermediate-2026-10-22-s08",
+          "startMs": 35037,
+          "endMs": 39283,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Fairness is the most important factor to ensure everyone enjoys the shared social experience.",
+          "translationJa": "公平さは、誰もが共有する社交体験を楽しむための最も重要な要素です。",
+          "id": "intermediate-2026-10-22-s09",
+          "startMs": 39683,
+          "endMs": 44909,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By keeping things transparent, you can avoid any unnecessary tension among your close friends.",
+          "translationJa": "物事を透明にしておくことで、親しい友人間の不必要な緊張を避けることができます。",
+          "id": "intermediate-2026-10-22-s10",
+          "startMs": 45309,
+          "endMs": 50596,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Good financial habits lead to long and healthy relationships with the people you value.",
+          "translationJa": "良い金銭習慣は、あなたが大切に思う人々との長くて健全な関係につながります。",
+          "id": "intermediate-2026-10-22-s11",
+          "startMs": 50996,
+          "endMs": 55354,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "expense",
+          "meaningJa": "経費、出費",
+          "exampleEn": "We share the travel expenses.",
+          "exampleJa": "私たちは旅費を分担します。"
+        },
+        {
+          "word": "transaction",
+          "meaningJa": "取引",
+          "exampleEn": "The transaction was completed.",
+          "exampleJa": "取引が完了しました。"
+        },
+        {
+          "word": "transparent",
+          "meaningJa": "透明な、明朗な",
+          "exampleEn": "Keep the process transparent.",
+          "exampleJa": "プロセスを透明に保ってください。"
+        },
+        {
+          "word": "awkwardness",
+          "meaningJa": "気まずさ",
+          "exampleEn": "There was some awkwardness.",
+          "exampleJa": "少し気まずさがありました。"
+        },
+        {
+          "word": "factor",
+          "meaningJa": "要因",
+          "exampleEn": "That is a key factor.",
+          "exampleJa": "それが重要な要因です。"
+        }
+      ],
+      "id": "intermediate-2026-10-22",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate.m4a",
+      "durationSeconds": 53
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Art of Equitable Bill Splitting",
+      "cefrLevel": "B2",
+      "summaryJa": "グループの会食における公平な会計処理と、人間関係を良好に保つためのマナー。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Navigating the complexities of group payments requires both tact and a clear financial strategy.",
+          "translationJa": "グループでの支払いの複雑さを乗り切るには、機転と明確な金銭戦略の両方が必要です。",
+          "id": "advanced-2026-10-22-s01",
+          "startMs": 0,
+          "endMs": 5370,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "While splitting a bill evenly is convenient, it can sometimes lead to hidden personal frustration.",
+          "translationJa": "勘定を均等に分けるのは便利ですが、時には隠れた個人的な不満につながることもあります。",
+          "id": "advanced-2026-10-22-s02",
+          "startMs": 5770,
+          "endMs": 10997,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Open dialogue regarding individual budgets prevents misunderstandings before the final check is presented.",
+          "translationJa": "個人の予算に関するオープンな対話は、最終的な請求書が出される前の誤解を防ぎます。",
+          "id": "advanced-2026-10-22-s03",
+          "startMs": 11397,
+          "endMs": 17335,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Modern mobile applications provide seamless ways to track shared costs during group social outings.",
+          "translationJa": "現代のモバイルアプリは、グループの外出中に共有コストを追跡するシームレスな方法を提供します。",
+          "id": "advanced-2026-10-22-s04",
+          "startMs": 17735,
+          "endMs": 23277,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "These platforms enable users to settle debts instantly, removing the burden of manual calculations.",
+          "translationJa": "これらのプラットフォームにより、ユーザーは即座に負債を精算でき、手計算の負担がなくなります。",
+          "id": "advanced-2026-10-22-s05",
+          "startMs": 23677,
+          "endMs": 29527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If one participant consumes significantly more, they should naturally offer to cover the difference.",
+          "translationJa": "もし参加者の一人が著しく多く消費したなら、その人は当然差額を払うと申し出るべきです。",
+          "id": "advanced-2026-10-22-s06",
+          "startMs": 29927,
+          "endMs": 35497,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Maintaining a spirit of generosity often fosters stronger social bonds among your circle of friends.",
+          "translationJa": "寛大な精神を維持することは、友人グループの絆をより強くすることにつながります。",
+          "id": "advanced-2026-10-22-s07",
+          "startMs": 35897,
+          "endMs": 41416,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Avoid letting small financial discrepancies cloud the enjoyment of your shared evening together today.",
+          "translationJa": "些細な金銭的相違が、今日一緒に過ごす夜の楽しみを曇らせないようにしましょう。",
+          "id": "advanced-2026-10-22-s08",
+          "startMs": 41816,
+          "endMs": 47304,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Clarity is the best tool for ensuring that social gatherings remain positive for everyone involved.",
+          "translationJa": "明快さは、社交の場が関係者全員にとって前向きなままであることを保証する最良のツールです。",
+          "id": "advanced-2026-10-22-s09",
+          "startMs": 47704,
+          "endMs": 52845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Proactive communication is essential for maintaining harmony when money matters arise within a group.",
+          "translationJa": "グループ内でお金の問題が発生した際、調和を保つためには事前のコミュニケーションが不可欠です。",
+          "id": "advanced-2026-10-22-s10",
+          "startMs": 53245,
+          "endMs": 58444,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By prioritizing fairness and transparency, you demonstrate respect for your peers and their time.",
+          "translationJa": "公平さと透明性を優先することで、あなたは仲間とその時間に対する敬意を示すことになります。",
+          "id": "advanced-2026-10-22-s11",
+          "startMs": 58844,
+          "endMs": 64444,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Ultimately, a stress-free payment experience allows you to focus purely on meaningful human connection.",
+          "translationJa": "結局のところ、ストレスのない支払い体験は、有意義な人間関係に純粋に集中することを可能にします。",
+          "id": "advanced-2026-10-22-s12",
+          "startMs": 64844,
+          "endMs": 70562,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "equitable",
+          "meaningJa": "公平な",
+          "exampleEn": "We need an equitable solution.",
+          "exampleJa": "公平な解決策が必要です。"
+        },
+        {
+          "word": "tact",
+          "meaningJa": "機転、配慮",
+          "exampleEn": "She handled it with tact.",
+          "exampleJa": "彼女は配慮を持って対応しました。"
+        },
+        {
+          "word": "discrepancy",
+          "meaningJa": "相違、不一致",
+          "exampleEn": "There is a discrepancy here.",
+          "exampleJa": "ここに相違があります。"
+        },
+        {
+          "word": "proactive",
+          "meaningJa": "前向きな、先を見越した",
+          "exampleEn": "Be proactive in your approach.",
+          "exampleJa": "アプローチにおいて前向きになりなさい。"
+        },
+        {
+          "word": "harmony",
+          "meaningJa": "調和",
+          "exampleEn": "They live in perfect harmony.",
+          "exampleJa": "彼らは完璧な調和の中で暮らしています。"
+        }
+      ],
+      "id": "advanced-2026-10-22",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced.m4a",
+      "durationSeconds": 68
+    }
+  ],
+  "topicCategory": "business_money"
+}
