@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-22T15:04:18Z",
+  "lessonDate": "2026-10-23",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Understanding How to Recycle at Home",
+      "cefrLevel": "A2",
+      "summaryJa": "家庭でのゴミの分別方法とリサイクルについて学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Sorting waste correctly is a very good habit for our environment today.",
+          "translationJa": "ゴミを正しく分別することは、今日の私たちの環境にとって非常に良い習慣です。",
+          "id": "beginner-2026-10-23-s01",
+          "startMs": 0,
+          "endMs": 3857,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should check the label on every plastic container you use.",
+          "translationJa": "まず、使用するすべてのプラスチック容器のラベルを確認する必要があります。",
+          "id": "beginner-2026-10-23-s02",
+          "startMs": 4257,
+          "endMs": 8206,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Some items are made of paper, and others are made of thin plastic.",
+          "translationJa": "紙でできているものもあれば、薄いプラスチックでできているものもあります。",
+          "id": "beginner-2026-10-23-s03",
+          "startMs": 8606,
+          "endMs": 12127,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Always rinse your bottles before putting them into the special recycling bin.",
+          "translationJa": "ボトルを特別なリサイクルゴミ箱に入れる前に、必ずすすいでください。",
+          "id": "beginner-2026-10-23-s04",
+          "startMs": 12527,
+          "endMs": 16419,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "It is also helpful to flatten cardboard boxes to save much more space.",
+          "translationJa": "段ボール箱を平らにして、より多くのスペースを節約するのも役立ちます。",
+          "id": "beginner-2026-10-23-s05",
+          "startMs": 16819,
+          "endMs": 20949,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You can find clear instructions on your local city office website every day.",
+          "translationJa": "地元の市役所のウェブサイトで、毎日明確な指示を見つけることができます。",
+          "id": "beginner-2026-10-23-s06",
+          "startMs": 21349,
+          "endMs": 25451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Try to buy products that have less packaging to make your life easier.",
+          "translationJa": "生活を楽にするために、包装が少ない製品を買うように心がけてください。",
+          "id": "beginner-2026-10-23-s07",
+          "startMs": 25851,
+          "endMs": 29474,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Small changes in our daily routine will make a big difference for nature.",
+          "translationJa": "日々のルーチンの小さな変化が、自然にとって大きな違いを生むでしょう。",
+          "id": "beginner-2026-10-23-s08",
+          "startMs": 29874,
+          "endMs": 33580,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Let us work together to keep our neighborhood clean and very green now.",
+          "translationJa": "私たちの近所を清潔で緑豊かに保つために、一緒に協力しましょう。",
+          "id": "beginner-2026-10-23-s09",
+          "startMs": 33980,
+          "endMs": 37491,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sort",
+          "meaningJa": "分類する",
+          "exampleEn": "Please sort your trash.",
+          "exampleJa": "ゴミを分類してください。"
+        },
+        {
+          "word": "label",
+          "meaningJa": "ラベル",
+          "exampleEn": "Read the label carefully.",
+          "exampleJa": "ラベルを注意深く読んでください。"
+        },
+        {
+          "word": "rinse",
+          "meaningJa": "すすぐ",
+          "exampleEn": "Rinse the bottle before recycling.",
+          "exampleJa": "リサイクルする前にボトルをすすいでください。"
+        },
+        {
+          "word": "flatten",
+          "meaningJa": "平らにする",
+          "exampleEn": "Flatten the box to save space.",
+          "exampleJa": "スペースを節約するために箱を平らにしてください。"
+        },
+        {
+          "word": "packaging",
+          "meaningJa": "包装",
+          "exampleEn": "Avoid products with excessive packaging.",
+          "exampleJa": "過剰包装の製品は避けましょう。"
+        }
+      ],
+      "id": "beginner-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner.m4a",
+      "durationSeconds": 36
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Practical Tips for Better Household Recycling",
+      "cefrLevel": "B1",
+      "summaryJa": "家庭でのリサイクル効率を高めるための実践的なヒント。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing household waste properly is an essential part of maintaining a sustainable modern lifestyle.",
+          "translationJa": "家庭ゴミを適切に管理することは、持続可能な現代のライフスタイルを維持するために不可欠です。",
+          "id": "intermediate-2026-10-23-s01",
+          "startMs": 0,
+          "endMs": 5705,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Most people find that sorting items becomes much easier if they have separate bins.",
+          "translationJa": "ゴミを分別する際、別々のゴミ箱があれば作業がはるかに簡単になると多くの人が感じています。",
+          "id": "intermediate-2026-10-23-s02",
+          "startMs": 6105,
+          "endMs": 10521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Before you discard any plastic bottles, make sure to remove the cap and the label.",
+          "translationJa": "ペットボトルを捨てる前に、必ずキャップとラベルを取り外すようにしてください。",
+          "id": "intermediate-2026-10-23-s03",
+          "startMs": 10921,
+          "endMs": 15395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Many cities have specific rules about when and where you can leave your recycling bags.",
+          "translationJa": "多くの都市には、リサイクル袋をいつどこに出せるかについての特定のルールがあります。",
+          "id": "intermediate-2026-10-23-s04",
+          "startMs": 15795,
+          "endMs": 20327,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "If you are unsure about an item, check the symbols printed on the product packaging.",
+          "translationJa": "もしゴミの分別に迷ったら、製品のパッケージに印刷されているマークを確認してください。",
+          "id": "intermediate-2026-10-23-s05",
+          "startMs": 20727,
+          "endMs": 25171,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Food residue inside containers can often contaminate other materials, making them difficult to recycle effectively.",
+          "translationJa": "容器の中に残った食品汚れは、他の素材を汚染し、効果的なリサイクルを困難にすることがあります。",
+          "id": "intermediate-2026-10-23-s06",
+          "startMs": 25571,
+          "endMs": 32306,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking a few seconds to clean your containers helps the entire recycling process run smoothly.",
+          "translationJa": "容器を洗うのに数秒かけるだけで、リサイクル工程全体がスムーズに進むようになります。",
+          "id": "intermediate-2026-10-23-s07",
+          "startMs": 32706,
+          "endMs": 37988,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Reducing the amount of trash you generate is even better than trying to recycle everything.",
+          "translationJa": "ゴミをすべてリサイクルしようと努力するよりも、そもそも発生するゴミの量を減らす方がさらに良いことです。",
+          "id": "intermediate-2026-10-23-s08",
+          "startMs": 38388,
+          "endMs": 43086,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Consider buying items in bulk to reduce the total amount of plastic packaging you handle.",
+          "translationJa": "取り扱うプラスチック包装の総量を減らすために、まとめ買いを検討してみてください。",
+          "id": "intermediate-2026-10-23-s09",
+          "startMs": 43486,
+          "endMs": 48257,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By following these simple steps, you contribute to a cleaner environment for the whole community.",
+          "translationJa": "これらの簡単な手順に従うことで、地域社会全体のより清潔な環境に貢献できます。",
+          "id": "intermediate-2026-10-23-s10",
+          "startMs": 48657,
+          "endMs": 53944,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Consistency is key when developing good habits that benefit both your home and our planet.",
+          "translationJa": "家庭と地球の両方に利益をもたらす良い習慣を身につけるには、継続することが鍵となります。",
+          "id": "intermediate-2026-10-23-s11",
+          "startMs": 54344,
+          "endMs": 58964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "We need sustainable energy sources.",
+          "exampleJa": "持続可能なエネルギー源が必要です。"
+        },
+        {
+          "word": "discard",
+          "meaningJa": "捨てる",
+          "exampleEn": "Discard the paper properly.",
+          "exampleJa": "紙を適切に捨ててください。"
+        },
+        {
+          "word": "contaminate",
+          "meaningJa": "汚染する",
+          "exampleEn": "Oil can contaminate the water.",
+          "exampleJa": "油は水を汚染する可能性があります。"
+        },
+        {
+          "word": "residue",
+          "meaningJa": "残りかす",
+          "exampleEn": "Clean off any food residue.",
+          "exampleJa": "食べ残しをきれいに取り除いてください。"
+        },
+        {
+          "word": "bulk",
+          "meaningJa": "まとめ買い",
+          "exampleEn": "Buying in bulk saves money.",
+          "exampleJa": "まとめ買いは節約になります。"
+        }
+      ],
+      "id": "intermediate-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate.m4a",
+      "durationSeconds": 57
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Adopting an Eco-Friendly Mindset",
+      "cefrLevel": "B2",
+      "summaryJa": "環境に配慮した考え方を持ち、ゴミを減らす工夫について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Effective waste management requires more than just following basic rules about sorting your daily trash.",
+          "translationJa": "効果的なゴミ管理には、日々のゴミの分別に関する基本的なルールに従う以上のことが求められます。",
+          "id": "advanced-2026-10-23-s01",
+          "startMs": 0,
+          "endMs": 5569,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "It involves adopting a proactive mindset focused on minimizing consumption and maximizing the use of resources.",
+          "translationJa": "それには、消費を最小限に抑え、資源の利用を最大化することに重点を置いた前向きな考え方が必要です。",
+          "id": "advanced-2026-10-23-s02",
+          "startMs": 5969,
+          "endMs": 12293,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many people mistakenly believe that recycling is the ultimate solution to our global environmental challenges.",
+          "translationJa": "多くの人は、リサイクルこそが世界的な環境課題に対する究極の解決策であると誤解しています。",
+          "id": "advanced-2026-10-23-s03",
+          "startMs": 12693,
+          "endMs": 18932,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "In reality, reducing waste at the source is far more impactful than relying on downstream processing.",
+          "translationJa": "実際には、リサイクル処理に頼るよりも、発生源でゴミを減らすことの方がはるかに大きな影響を与えます。",
+          "id": "advanced-2026-10-23-s04",
+          "startMs": 19332,
+          "endMs": 24983,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can start by evaluating your shopping habits and choosing products with minimal or biodegradable packaging.",
+          "translationJa": "まずは買い物習慣を見直し、最小限の包装や生分解性の包装が施された製品を選ぶことから始めましょう。",
+          "id": "advanced-2026-10-23-s05",
+          "startMs": 25383,
+          "endMs": 31297,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "When you do purchase items, make sure to handle them according to your local municipal guidelines.",
+          "translationJa": "商品を購入した際は、地域の自治体のガイドラインに従って適切に処理することを忘れないでください。",
+          "id": "advanced-2026-10-23-s06",
+          "startMs": 31697,
+          "endMs": 37190,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Properly cleaning containers prevents contamination and ensures that materials can be transformed into new products.",
+          "translationJa": "容器を適切に洗浄することで汚染を防ぎ、素材が新しい製品へと確実に生まれ変わるようにします。",
+          "id": "advanced-2026-10-23-s07",
+          "startMs": 37590,
+          "endMs": 44055,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Education plays a critical role in helping communities understand the importance of precise waste separation techniques.",
+          "translationJa": "正確なゴミ分別の重要性を地域社会が理解するためには、教育が決定的な役割を果たします。",
+          "id": "advanced-2026-10-23-s08",
+          "startMs": 44455,
+          "endMs": 51197,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Small individual actions, when multiplied across a population, create significant positive changes for our ecosystem.",
+          "translationJa": "個人の小さな行動も、多くの人々に広まれば、私たちの生態系にとって大きなプラスの変化を生み出します。",
+          "id": "advanced-2026-10-23-s09",
+          "startMs": 51597,
+          "endMs": 59169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Let us challenge ourselves to produce less waste and lead by example in our own homes.",
+          "translationJa": "自分たちの家で手本を示すことで、より少ないゴミで生活することに挑戦してみましょう。",
+          "id": "advanced-2026-10-23-s10",
+          "startMs": 59569,
+          "endMs": 64124,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Building these sustainable habits today will ensure a healthier and cleaner environment for future generations.",
+          "translationJa": "今日こうした持続可能な習慣を築くことが、次世代のためにより健康的で清潔な環境を確保することにつながります。",
+          "id": "advanced-2026-10-23-s11",
+          "startMs": 64524,
+          "endMs": 70252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "proactive",
+          "meaningJa": "前向きな、先を見越した",
+          "exampleEn": "We need a proactive approach.",
+          "exampleJa": "前向きなアプローチが必要です。"
+        },
+        {
+          "word": "consumption",
+          "meaningJa": "消費",
+          "exampleEn": "Reduce your energy consumption.",
+          "exampleJa": "エネルギー消費を減らしてください。"
+        },
+        {
+          "word": "downstream",
+          "meaningJa": "下流の、後の工程の",
+          "exampleEn": "Downstream processing is costly.",
+          "exampleJa": "後の処理工程はコストがかかります。"
+        },
+        {
+          "word": "biodegradable",
+          "meaningJa": "生分解性の",
+          "exampleEn": "Use biodegradable bags.",
+          "exampleJa": "生分解性の袋を使ってください。"
+        },
+        {
+          "word": "municipal",
+          "meaningJa": "自治体の、市町村の",
+          "exampleEn": "Follow municipal guidelines.",
+          "exampleJa": "自治体のガイドラインに従ってください。"
+        }
+      ],
+      "id": "advanced-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced.m4a",
+      "durationSeconds": 68
+    }
+  ],
+  "topicCategory": "environment_society"
+}

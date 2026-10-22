@@ -1,438 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-21T16:33:55Z",
-  "lessonDate": "2026-10-22",
+  "generatedAtUtc": "2026-10-22T15:04:18Z",
+  "lessonDate": "2026-10-23",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "How to Split a Restaurant Bill",
+      "title": "Understanding How to Recycle at Home",
       "cefrLevel": "A2",
-      "summaryJa": "レストランでの会計を友達と公平に分けるための基本的な英語表現。",
+      "summaryJa": "家庭でのゴミの分別方法とリサイクルについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Eating out with friends is a very fun way to spend time.",
-          "translationJa": "友達と外食するのは楽しい時間を過ごすためのとても良い方法です。",
-          "id": "beginner-2026-10-22-s01",
+          "text": "Sorting waste correctly is a very good habit for our environment today.",
+          "translationJa": "ゴミを正しく分別することは、今日の私たちの環境にとって非常に良い習慣です。",
+          "id": "beginner-2026-10-23-s01",
           "startMs": 0,
-          "endMs": 2957,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s01.m4a"
+          "endMs": 3857,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "However, paying the bill at the end can be a little difficult.",
-          "translationJa": "しかし、最後に会計をするのは少し難しいことがあります。",
-          "id": "beginner-2026-10-22-s02",
-          "startMs": 3357,
-          "endMs": 6605,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s02.m4a"
+          "text": "First, you should check the label on every plastic container you use.",
+          "translationJa": "まず、使用するすべてのプラスチック容器のラベルを確認する必要があります。",
+          "id": "beginner-2026-10-23-s02",
+          "startMs": 4257,
+          "endMs": 8206,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is best to decide how to pay before you start eating.",
-          "translationJa": "食事を始める前に、どのように支払うかを決めておくのが一番です。",
-          "id": "beginner-2026-10-22-s03",
-          "startMs": 7005,
-          "endMs": 9997,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s03.m4a"
+          "text": "Some items are made of paper, and others are made of thin plastic.",
+          "translationJa": "紙でできているものもあれば、薄いプラスチックでできているものもあります。",
+          "id": "beginner-2026-10-23-s03",
+          "startMs": 8606,
+          "endMs": 12127,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You can ask the waiter to give everyone a separate check today.",
-          "translationJa": "今日はお店の人に、それぞれ別々の伝票をもらえるか頼むことができます。",
-          "id": "beginner-2026-10-22-s04",
-          "startMs": 10397,
-          "endMs": 13536,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s04.m4a"
+          "text": "Always rinse your bottles before putting them into the special recycling bin.",
+          "translationJa": "ボトルを特別なリサイクルゴミ箱に入れる前に、必ずすすいでください。",
+          "id": "beginner-2026-10-23-s04",
+          "startMs": 12527,
+          "endMs": 16419,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Sometimes it is easier to just split the total bill equally instead.",
-          "translationJa": "時には、合計金額を均等に分ける方が簡単な場合もあります。",
-          "id": "beginner-2026-10-22-s05",
-          "startMs": 13936,
-          "endMs": 17700,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s05.m4a"
+          "text": "It is also helpful to flatten cardboard boxes to save much more space.",
+          "translationJa": "段ボール箱を平らにして、より多くのスペースを節約するのも役立ちます。",
+          "id": "beginner-2026-10-23-s05",
+          "startMs": 16819,
+          "endMs": 20949,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You can use a simple phone app to calculate the exact amount now.",
-          "translationJa": "今はスマホのアプリを使って、正確な金額を簡単に計算できます。",
-          "id": "beginner-2026-10-22-s06",
-          "startMs": 18100,
-          "endMs": 21784,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s06.m4a"
+          "text": "You can find clear instructions on your local city office website every day.",
+          "translationJa": "地元の市役所のウェブサイトで、毎日明確な指示を見つけることができます。",
+          "id": "beginner-2026-10-23-s06",
+          "startMs": 21349,
+          "endMs": 25451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Make sure to include a small tip if you are in some countries.",
-          "translationJa": "いくつかの国では、少しのチップを含めることを忘れないでください。",
-          "id": "beginner-2026-10-22-s07",
-          "startMs": 22184,
-          "endMs": 25381,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s07.m4a"
+          "text": "Try to buy products that have less packaging to make your life easier.",
+          "translationJa": "生活を楽にするために、包装が少ない製品を買うように心がけてください。",
+          "id": "beginner-2026-10-23-s07",
+          "startMs": 25851,
+          "endMs": 29474,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Clear communication helps everyone feel happy with the final payment result today.",
-          "translationJa": "明確なコミュニケーションは、みんなが最終的な支払いに満足する助けになります。",
-          "id": "beginner-2026-10-22-s08",
-          "startMs": 25781,
-          "endMs": 30307,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s08.m4a"
+          "text": "Small changes in our daily routine will make a big difference for nature.",
+          "translationJa": "日々のルーチンの小さな変化が、自然にとって大きな違いを生むでしょう。",
+          "id": "beginner-2026-10-23-s08",
+          "startMs": 29874,
+          "endMs": 33580,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Enjoy your delicious meals and good conversations with all your close friends.",
-          "translationJa": "友達との美味しい食事と楽しい会話を存分に楽しんでください。",
-          "id": "beginner-2026-10-22-s09",
-          "startMs": 30707,
-          "endMs": 34744,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner-s09.m4a"
+          "text": "Let us work together to keep our neighborhood clean and very green now.",
+          "translationJa": "私たちの近所を清潔で緑豊かに保つために、一緒に協力しましょう。",
+          "id": "beginner-2026-10-23-s09",
+          "startMs": 33980,
+          "endMs": 37491,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "split",
-          "meaningJa": "分ける",
-          "exampleEn": "Let's split the cost.",
-          "exampleJa": "費用を割り勘にしましょう。"
+          "word": "sort",
+          "meaningJa": "分類する",
+          "exampleEn": "Please sort your trash.",
+          "exampleJa": "ゴミを分類してください。"
         },
         {
-          "index": 1,
-          "word": "bill",
-          "meaningJa": "請求書、勘定",
-          "exampleEn": "Could we have the bill, please?",
-          "exampleJa": "お会計をお願いできますか？"
+          "word": "label",
+          "meaningJa": "ラベル",
+          "exampleEn": "Read the label carefully.",
+          "exampleJa": "ラベルを注意深く読んでください。"
         },
         {
-          "index": 2,
-          "word": "equally",
-          "meaningJa": "平等に、均等に",
-          "exampleEn": "Divide the cake equally.",
-          "exampleJa": "ケーキを均等に分けてください。"
+          "word": "rinse",
+          "meaningJa": "すすぐ",
+          "exampleEn": "Rinse the bottle before recycling.",
+          "exampleJa": "リサイクルする前にボトルをすすいでください。"
         },
         {
-          "index": 3,
-          "word": "calculate",
-          "meaningJa": "計算する",
-          "exampleEn": "I need to calculate the total.",
-          "exampleJa": "合計を計算する必要があります。"
+          "word": "flatten",
+          "meaningJa": "平らにする",
+          "exampleEn": "Flatten the box to save space.",
+          "exampleJa": "スペースを節約するために箱を平らにしてください。"
         },
         {
-          "index": 4,
-          "word": "communication",
-          "meaningJa": "伝達、意思疎通",
-          "exampleEn": "Good communication is vital.",
-          "exampleJa": "良いコミュニケーションは不可欠です。"
+          "word": "packaging",
+          "meaningJa": "包装",
+          "exampleEn": "Avoid products with excessive packaging.",
+          "exampleJa": "過剰包装の製品は避けましょう。"
         }
       ],
-      "id": "beginner-2026-10-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/beginner.m4a",
-      "durationSeconds": 33
+      "id": "beginner-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/beginner.m4a",
+      "durationSeconds": 36
     },
     {
       "levelGroup": "intermediate",
-      "title": "Managing Group Expenses Fairly",
+      "title": "Practical Tips for Better Household Recycling",
       "cefrLevel": "B1",
-      "summaryJa": "グループでの食事や旅行の際に、トラブルなく公平に費用を分担するためのアドバイス。",
+      "summaryJa": "家庭でのリサイクル効率を高めるための実践的なヒント。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Managing expenses within a group of friends requires a bit of thoughtful planning beforehand.",
-          "translationJa": "友人グループ内の経費を管理するには、事前の少しの慎重な計画が必要です。",
-          "id": "intermediate-2026-10-22-s01",
+          "text": "Managing household waste properly is an essential part of maintaining a sustainable modern lifestyle.",
+          "translationJa": "家庭ゴミを適切に管理することは、持続可能な現代のライフスタイルを維持するために不可欠です。",
+          "id": "intermediate-2026-10-23-s01",
           "startMs": 0,
-          "endMs": 4846,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s01.m4a"
+          "endMs": 5705,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "When you dine at a restaurant, deciding on the payment method saves much time.",
-          "translationJa": "レストランで食事をするとき、支払い方法を決めておくことは多くの時間を節約します。",
-          "id": "intermediate-2026-10-22-s02",
-          "startMs": 5246,
-          "endMs": 9613,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s02.m4a"
+          "text": "Most people find that sorting items becomes much easier if they have separate bins.",
+          "translationJa": "ゴミを分別する際、別々のゴミ箱があれば作業がはるかに簡単になると多くの人が感じています。",
+          "id": "intermediate-2026-10-23-s02",
+          "startMs": 6105,
+          "endMs": 10521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Some people prefer to pay for exactly what they ordered during the entire evening.",
-          "translationJa": "一晩を通して、自分が注文した分だけを正確に支払いたいと考える人もいます。",
-          "id": "intermediate-2026-10-22-s03",
-          "startMs": 10013,
-          "endMs": 14184,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s03.m4a"
+          "text": "Before you discard any plastic bottles, make sure to remove the cap and the label.",
+          "translationJa": "ペットボトルを捨てる前に、必ずキャップとラベルを取り外すようにしてください。",
+          "id": "intermediate-2026-10-23-s03",
+          "startMs": 10921,
+          "endMs": 15395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Others find it much simpler to divide the total cost by the number of people.",
-          "translationJa": "一方で、合計金額を人数で割る方がはるかに簡単だと感じる人もいます。",
-          "id": "intermediate-2026-10-22-s04",
-          "startMs": 14584,
-          "endMs": 18630,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s04.m4a"
+          "text": "Many cities have specific rules about when and where you can leave your recycling bags.",
+          "translationJa": "多くの都市には、リサイクル袋をいつどこに出せるかについての特定のルールがあります。",
+          "id": "intermediate-2026-10-23-s04",
+          "startMs": 15795,
+          "endMs": 20327,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Using digital payment apps has become a very popular way to handle these small transactions.",
-          "translationJa": "デジタル決済アプリを使うことは、こうした少額の取引を処理する非常に人気のある方法です。",
-          "id": "intermediate-2026-10-22-s05",
-          "startMs": 19030,
-          "endMs": 24235,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s05.m4a"
+          "text": "If you are unsure about an item, check the symbols printed on the product packaging.",
+          "translationJa": "もしゴミの分別に迷ったら、製品のパッケージに印刷されているマークを確認してください。",
+          "id": "intermediate-2026-10-23-s05",
+          "startMs": 20727,
+          "endMs": 25171,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "These tools allow you to request money from friends without feeling any social awkwardness.",
-          "translationJa": "これらのツールを使えば、社交上の気まずさを感じることなく友人にお金を請求できます。",
-          "id": "intermediate-2026-10-22-s06",
-          "startMs": 24635,
-          "endMs": 29300,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s06.m4a"
+          "text": "Food residue inside containers can often contaminate other materials, making them difficult to recycle effectively.",
+          "translationJa": "容器の中に残った食品汚れは、他の素材を汚染し、効果的なリサイクルを困難にすることがあります。",
+          "id": "intermediate-2026-10-23-s06",
+          "startMs": 25571,
+          "endMs": 32306,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Always communicate your expectations clearly before the check arrives at your table tonight.",
-          "translationJa": "今夜、テーブルに伝票が来る前に、常に自分の希望を明確に伝えておきましょう。",
-          "id": "intermediate-2026-10-22-s07",
-          "startMs": 29700,
-          "endMs": 34637,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s07.m4a"
+          "text": "Taking a few seconds to clean your containers helps the entire recycling process run smoothly.",
+          "translationJa": "容器を洗うのに数秒かけるだけで、リサイクル工程全体がスムーズに進むようになります。",
+          "id": "intermediate-2026-10-23-s07",
+          "startMs": 32706,
+          "endMs": 37988,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "If someone had an expensive drink, they might offer to pay a little bit extra.",
-          "translationJa": "もし誰かが高い飲み物を飲んだなら、その人は少し多めに払うと申し出るかもしれません。",
-          "id": "intermediate-2026-10-22-s08",
-          "startMs": 35037,
-          "endMs": 39283,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s08.m4a"
+          "text": "Reducing the amount of trash you generate is even better than trying to recycle everything.",
+          "translationJa": "ゴミをすべてリサイクルしようと努力するよりも、そもそも発生するゴミの量を減らす方がさらに良いことです。",
+          "id": "intermediate-2026-10-23-s08",
+          "startMs": 38388,
+          "endMs": 43086,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Fairness is the most important factor to ensure everyone enjoys the shared social experience.",
-          "translationJa": "公平さは、誰もが共有する社交体験を楽しむための最も重要な要素です。",
-          "id": "intermediate-2026-10-22-s09",
-          "startMs": 39683,
-          "endMs": 44909,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s09.m4a"
+          "text": "Consider buying items in bulk to reduce the total amount of plastic packaging you handle.",
+          "translationJa": "取り扱うプラスチック包装の総量を減らすために、まとめ買いを検討してみてください。",
+          "id": "intermediate-2026-10-23-s09",
+          "startMs": 43486,
+          "endMs": 48257,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "By keeping things transparent, you can avoid any unnecessary tension among your close friends.",
-          "translationJa": "物事を透明にしておくことで、親しい友人間の不必要な緊張を避けることができます。",
-          "id": "intermediate-2026-10-22-s10",
-          "startMs": 45309,
-          "endMs": 50596,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s10.m4a"
+          "text": "By following these simple steps, you contribute to a cleaner environment for the whole community.",
+          "translationJa": "これらの簡単な手順に従うことで、地域社会全体のより清潔な環境に貢献できます。",
+          "id": "intermediate-2026-10-23-s10",
+          "startMs": 48657,
+          "endMs": 53944,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Good financial habits lead to long and healthy relationships with the people you value.",
-          "translationJa": "良い金銭習慣は、あなたが大切に思う人々との長くて健全な関係につながります。",
-          "id": "intermediate-2026-10-22-s11",
-          "startMs": 50996,
-          "endMs": 55354,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate-s11.m4a"
+          "text": "Consistency is key when developing good habits that benefit both your home and our planet.",
+          "translationJa": "家庭と地球の両方に利益をもたらす良い習慣を身につけるには、継続することが鍵となります。",
+          "id": "intermediate-2026-10-23-s11",
+          "startMs": 54344,
+          "endMs": 58964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "expense",
-          "meaningJa": "経費、出費",
-          "exampleEn": "We share the travel expenses.",
-          "exampleJa": "私たちは旅費を分担します。"
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "We need sustainable energy sources.",
+          "exampleJa": "持続可能なエネルギー源が必要です。"
         },
         {
-          "word": "transaction",
-          "meaningJa": "取引",
-          "exampleEn": "The transaction was completed.",
-          "exampleJa": "取引が完了しました。"
+          "word": "discard",
+          "meaningJa": "捨てる",
+          "exampleEn": "Discard the paper properly.",
+          "exampleJa": "紙を適切に捨ててください。"
         },
         {
-          "word": "transparent",
-          "meaningJa": "透明な、明朗な",
-          "exampleEn": "Keep the process transparent.",
-          "exampleJa": "プロセスを透明に保ってください。"
+          "word": "contaminate",
+          "meaningJa": "汚染する",
+          "exampleEn": "Oil can contaminate the water.",
+          "exampleJa": "油は水を汚染する可能性があります。"
         },
         {
-          "word": "awkwardness",
-          "meaningJa": "気まずさ",
-          "exampleEn": "There was some awkwardness.",
-          "exampleJa": "少し気まずさがありました。"
+          "word": "residue",
+          "meaningJa": "残りかす",
+          "exampleEn": "Clean off any food residue.",
+          "exampleJa": "食べ残しをきれいに取り除いてください。"
         },
         {
-          "word": "factor",
-          "meaningJa": "要因",
-          "exampleEn": "That is a key factor.",
-          "exampleJa": "それが重要な要因です。"
+          "word": "bulk",
+          "meaningJa": "まとめ買い",
+          "exampleEn": "Buying in bulk saves money.",
+          "exampleJa": "まとめ買いは節約になります。"
         }
       ],
-      "id": "intermediate-2026-10-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/intermediate.m4a",
-      "durationSeconds": 53
+      "id": "intermediate-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/intermediate.m4a",
+      "durationSeconds": 57
     },
     {
       "levelGroup": "advanced",
-      "title": "The Art of Equitable Bill Splitting",
+      "title": "Adopting an Eco-Friendly Mindset",
       "cefrLevel": "B2",
-      "summaryJa": "グループの会食における公平な会計処理と、人間関係を良好に保つためのマナー。",
+      "summaryJa": "環境に配慮した考え方を持ち、ゴミを減らす工夫について学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/splitting-a-bill"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/recycling-basics"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Navigating the complexities of group payments requires both tact and a clear financial strategy.",
-          "translationJa": "グループでの支払いの複雑さを乗り切るには、機転と明確な金銭戦略の両方が必要です。",
-          "id": "advanced-2026-10-22-s01",
+          "text": "Effective waste management requires more than just following basic rules about sorting your daily trash.",
+          "translationJa": "効果的なゴミ管理には、日々のゴミの分別に関する基本的なルールに従う以上のことが求められます。",
+          "id": "advanced-2026-10-23-s01",
           "startMs": 0,
-          "endMs": 5370,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s01.m4a"
+          "endMs": 5569,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "While splitting a bill evenly is convenient, it can sometimes lead to hidden personal frustration.",
-          "translationJa": "勘定を均等に分けるのは便利ですが、時には隠れた個人的な不満につながることもあります。",
-          "id": "advanced-2026-10-22-s02",
-          "startMs": 5770,
-          "endMs": 10997,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s02.m4a"
+          "text": "It involves adopting a proactive mindset focused on minimizing consumption and maximizing the use of resources.",
+          "translationJa": "それには、消費を最小限に抑え、資源の利用を最大化することに重点を置いた前向きな考え方が必要です。",
+          "id": "advanced-2026-10-23-s02",
+          "startMs": 5969,
+          "endMs": 12293,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Open dialogue regarding individual budgets prevents misunderstandings before the final check is presented.",
-          "translationJa": "個人の予算に関するオープンな対話は、最終的な請求書が出される前の誤解を防ぎます。",
-          "id": "advanced-2026-10-22-s03",
-          "startMs": 11397,
-          "endMs": 17335,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s03.m4a"
+          "text": "Many people mistakenly believe that recycling is the ultimate solution to our global environmental challenges.",
+          "translationJa": "多くの人は、リサイクルこそが世界的な環境課題に対する究極の解決策であると誤解しています。",
+          "id": "advanced-2026-10-23-s03",
+          "startMs": 12693,
+          "endMs": 18932,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Modern mobile applications provide seamless ways to track shared costs during group social outings.",
-          "translationJa": "現代のモバイルアプリは、グループの外出中に共有コストを追跡するシームレスな方法を提供します。",
-          "id": "advanced-2026-10-22-s04",
-          "startMs": 17735,
-          "endMs": 23277,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s04.m4a"
+          "text": "In reality, reducing waste at the source is far more impactful than relying on downstream processing.",
+          "translationJa": "実際には、リサイクル処理に頼るよりも、発生源でゴミを減らすことの方がはるかに大きな影響を与えます。",
+          "id": "advanced-2026-10-23-s04",
+          "startMs": 19332,
+          "endMs": 24983,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "These platforms enable users to settle debts instantly, removing the burden of manual calculations.",
-          "translationJa": "これらのプラットフォームにより、ユーザーは即座に負債を精算でき、手計算の負担がなくなります。",
-          "id": "advanced-2026-10-22-s05",
-          "startMs": 23677,
-          "endMs": 29527,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s05.m4a"
+          "text": "You can start by evaluating your shopping habits and choosing products with minimal or biodegradable packaging.",
+          "translationJa": "まずは買い物習慣を見直し、最小限の包装や生分解性の包装が施された製品を選ぶことから始めましょう。",
+          "id": "advanced-2026-10-23-s05",
+          "startMs": 25383,
+          "endMs": 31297,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "If one participant consumes significantly more, they should naturally offer to cover the difference.",
-          "translationJa": "もし参加者の一人が著しく多く消費したなら、その人は当然差額を払うと申し出るべきです。",
-          "id": "advanced-2026-10-22-s06",
-          "startMs": 29927,
-          "endMs": 35497,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s06.m4a"
+          "text": "When you do purchase items, make sure to handle them according to your local municipal guidelines.",
+          "translationJa": "商品を購入した際は、地域の自治体のガイドラインに従って適切に処理することを忘れないでください。",
+          "id": "advanced-2026-10-23-s06",
+          "startMs": 31697,
+          "endMs": 37190,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Maintaining a spirit of generosity often fosters stronger social bonds among your circle of friends.",
-          "translationJa": "寛大な精神を維持することは、友人グループの絆をより強くすることにつながります。",
-          "id": "advanced-2026-10-22-s07",
-          "startMs": 35897,
-          "endMs": 41416,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s07.m4a"
+          "text": "Properly cleaning containers prevents contamination and ensures that materials can be transformed into new products.",
+          "translationJa": "容器を適切に洗浄することで汚染を防ぎ、素材が新しい製品へと確実に生まれ変わるようにします。",
+          "id": "advanced-2026-10-23-s07",
+          "startMs": 37590,
+          "endMs": 44055,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Avoid letting small financial discrepancies cloud the enjoyment of your shared evening together today.",
-          "translationJa": "些細な金銭的相違が、今日一緒に過ごす夜の楽しみを曇らせないようにしましょう。",
-          "id": "advanced-2026-10-22-s08",
-          "startMs": 41816,
-          "endMs": 47304,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s08.m4a"
+          "text": "Education plays a critical role in helping communities understand the importance of precise waste separation techniques.",
+          "translationJa": "正確なゴミ分別の重要性を地域社会が理解するためには、教育が決定的な役割を果たします。",
+          "id": "advanced-2026-10-23-s08",
+          "startMs": 44455,
+          "endMs": 51197,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Clarity is the best tool for ensuring that social gatherings remain positive for everyone involved.",
-          "translationJa": "明快さは、社交の場が関係者全員にとって前向きなままであることを保証する最良のツールです。",
-          "id": "advanced-2026-10-22-s09",
-          "startMs": 47704,
-          "endMs": 52845,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s09.m4a"
+          "text": "Small individual actions, when multiplied across a population, create significant positive changes for our ecosystem.",
+          "translationJa": "個人の小さな行動も、多くの人々に広まれば、私たちの生態系にとって大きなプラスの変化を生み出します。",
+          "id": "advanced-2026-10-23-s09",
+          "startMs": 51597,
+          "endMs": 59169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Proactive communication is essential for maintaining harmony when money matters arise within a group.",
-          "translationJa": "グループ内でお金の問題が発生した際、調和を保つためには事前のコミュニケーションが不可欠です。",
-          "id": "advanced-2026-10-22-s10",
-          "startMs": 53245,
-          "endMs": 58444,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s10.m4a"
+          "text": "Let us challenge ourselves to produce less waste and lead by example in our own homes.",
+          "translationJa": "自分たちの家で手本を示すことで、より少ないゴミで生活することに挑戦してみましょう。",
+          "id": "advanced-2026-10-23-s10",
+          "startMs": 59569,
+          "endMs": 64124,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "By prioritizing fairness and transparency, you demonstrate respect for your peers and their time.",
-          "translationJa": "公平さと透明性を優先することで、あなたは仲間とその時間に対する敬意を示すことになります。",
-          "id": "advanced-2026-10-22-s11",
-          "startMs": 58844,
-          "endMs": 64444,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Ultimately, a stress-free payment experience allows you to focus purely on meaningful human connection.",
-          "translationJa": "結局のところ、ストレスのない支払い体験は、有意義な人間関係に純粋に集中することを可能にします。",
-          "id": "advanced-2026-10-22-s12",
-          "startMs": 64844,
-          "endMs": 70562,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced-s12.m4a"
+          "text": "Building these sustainable habits today will ensure a healthier and cleaner environment for future generations.",
+          "translationJa": "今日こうした持続可能な習慣を築くことが、次世代のためにより健康的で清潔な環境を確保することにつながります。",
+          "id": "advanced-2026-10-23-s11",
+          "startMs": 64524,
+          "endMs": 70252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "equitable",
-          "meaningJa": "公平な",
-          "exampleEn": "We need an equitable solution.",
-          "exampleJa": "公平な解決策が必要です。"
-        },
-        {
-          "word": "tact",
-          "meaningJa": "機転、配慮",
-          "exampleEn": "She handled it with tact.",
-          "exampleJa": "彼女は配慮を持って対応しました。"
-        },
-        {
-          "word": "discrepancy",
-          "meaningJa": "相違、不一致",
-          "exampleEn": "There is a discrepancy here.",
-          "exampleJa": "ここに相違があります。"
-        },
-        {
           "word": "proactive",
           "meaningJa": "前向きな、先を見越した",
-          "exampleEn": "Be proactive in your approach.",
-          "exampleJa": "アプローチにおいて前向きになりなさい。"
+          "exampleEn": "We need a proactive approach.",
+          "exampleJa": "前向きなアプローチが必要です。"
         },
         {
-          "word": "harmony",
-          "meaningJa": "調和",
-          "exampleEn": "They live in perfect harmony.",
-          "exampleJa": "彼らは完璧な調和の中で暮らしています。"
+          "word": "consumption",
+          "meaningJa": "消費",
+          "exampleEn": "Reduce your energy consumption.",
+          "exampleJa": "エネルギー消費を減らしてください。"
+        },
+        {
+          "word": "downstream",
+          "meaningJa": "下流の、後の工程の",
+          "exampleEn": "Downstream processing is costly.",
+          "exampleJa": "後の処理工程はコストがかかります。"
+        },
+        {
+          "word": "biodegradable",
+          "meaningJa": "生分解性の",
+          "exampleEn": "Use biodegradable bags.",
+          "exampleJa": "生分解性の袋を使ってください。"
+        },
+        {
+          "word": "municipal",
+          "meaningJa": "自治体の、市町村の",
+          "exampleEn": "Follow municipal guidelines.",
+          "exampleJa": "自治体のガイドラインに従ってください。"
         }
       ],
-      "id": "advanced-2026-10-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-22/advanced.m4a",
+      "id": "advanced-2026-10-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-23/advanced.m4a",
       "durationSeconds": 68
     }
   ],
-  "topicCategory": "business_money"
+  "topicCategory": "environment_society"
 }
