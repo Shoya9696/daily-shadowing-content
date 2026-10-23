@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-22T15:04:18Z",
-  "latestLessonDate": "2026-10-23",
+  "generatedAtUtc": "2026-10-23T15:01:27Z",
+  "latestLessonDate": "2026-10-24",
   "days": [
+    {
+      "lessonDate": "2026-10-24",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-24.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Say No Kindly",
+          "durationSeconds": 31,
+          "summaryJa": "断ることは難しいですが、丁寧な表現を使えば相手との関係を壊さずに自分の意志を伝えることができます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering the Art of Polite Refusal",
+          "durationSeconds": 52,
+          "summaryJa": "相手の気持ちを尊重しつつ、自分の都合も大切にするための丁寧な断り方について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Strategy of Assertive Communication",
+          "durationSeconds": 63,
+          "summaryJa": "相手との関係を維持しながら、毅然とした態度で自分の意思を伝えるための高度なコミュニケーション術を解説します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-10-23",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-23.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -730,32 +756,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-09-23",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-23.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Planning a Simple Monthly Budget",
-          "durationSeconds": 35,
-          "summaryJa": "毎月の支出を記録し、予算を設定して少しずつ貯金をするための実用的な方法について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Building a Sustainable Monthly Budget",
-          "durationSeconds": 53,
-          "summaryJa": "持続可能な月間予算の立て方と、賢い支出管理のコツについて学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Personal Financial Management",
-          "durationSeconds": 67,
-          "summaryJa": "個人の財務管理をマスターし、効果的な予算編成で将来の安定を築く方法を解説します。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }

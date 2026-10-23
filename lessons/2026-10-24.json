@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-23T15:01:27Z",
+  "lessonDate": "2026-10-24",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "How to Say No Kindly",
+      "cefrLevel": "A2",
+      "summaryJa": "断ることは難しいですが、丁寧な表現を使えば相手との関係を壊さずに自分の意志を伝えることができます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/saying-no-politely"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Sometimes it is hard to say no to people in our life.",
+          "translationJa": "人生の中で人に対してノーと言うのは難しいことがあります。",
+          "id": "beginner-2026-10-24-s01",
+          "startMs": 0,
+          "endMs": 2836,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You might worry about hurting someone else with your honest words today.",
+          "translationJa": "正直な言葉で誰かを傷つけてしまうのではないかと心配するかもしれません。",
+          "id": "beginner-2026-10-24-s02",
+          "startMs": 3236,
+          "endMs": 6816,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "However, you do not have to say yes to every single request.",
+          "translationJa": "しかし、すべての依頼に対してイエスと言う必要はありません。",
+          "id": "beginner-2026-10-24-s03",
+          "startMs": 7216,
+          "endMs": 10823,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is important to be clear so there is no confusion later.",
+          "translationJa": "後で混乱がないように、明確に伝えることが大切です。",
+          "id": "beginner-2026-10-24-s04",
+          "startMs": 11223,
+          "endMs": 14331,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can start your sentence by thanking the person for the offer.",
+          "translationJa": "誘ってくれたことに対して感謝の言葉から始めることができます。",
+          "id": "beginner-2026-10-24-s05",
+          "startMs": 14731,
+          "endMs": 18021,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Then you should explain that you are too busy right now.",
+          "translationJa": "その次に、今は忙しすぎるということを説明すべきです。",
+          "id": "beginner-2026-10-24-s06",
+          "startMs": 18421,
+          "endMs": 21171,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Keeping a kind tone will help you stay on good terms together.",
+          "translationJa": "優しい口調を保つことは、良い関係を維持するのに役立ちます。",
+          "id": "beginner-2026-10-24-s07",
+          "startMs": 21571,
+          "endMs": 24727,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Remember that your time is valuable just like everyone else's time is.",
+          "translationJa": "あなたの時間も他の人の時間と同じように価値があることを忘れないでください。",
+          "id": "beginner-2026-10-24-s08",
+          "startMs": 25127,
+          "endMs": 28954,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Setting healthy boundaries is a very good habit for your daily life.",
+          "translationJa": "健全な境界線を引くことは、日常生活にとってとても良い習慣です。",
+          "id": "beginner-2026-10-24-s09",
+          "startMs": 29354,
+          "endMs": 32863,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "request",
+          "meaningJa": "依頼",
+          "exampleEn": "He received a request for help.",
+          "exampleJa": "彼は助けの依頼を受けました。"
+        },
+        {
+          "word": "honest",
+          "meaningJa": "正直な",
+          "exampleEn": "She gave an honest answer.",
+          "exampleJa": "彼女は正直な答えをしました。"
+        },
+        {
+          "word": "confusion",
+          "meaningJa": "混乱",
+          "exampleEn": "There was some confusion about the time.",
+          "exampleJa": "時間について少し混乱がありました。"
+        },
+        {
+          "word": "valuable",
+          "meaningJa": "貴重な",
+          "exampleEn": "Your time is very valuable.",
+          "exampleJa": "あなたの時間はとても貴重です。"
+        },
+        {
+          "word": "boundaries",
+          "meaningJa": "境界線",
+          "exampleEn": "It is good to set clear boundaries.",
+          "exampleJa": "明確な境界線を引くことは良いことです。"
+        }
+      ],
+      "id": "beginner-2026-10-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/beginner.m4a",
+      "durationSeconds": 31
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering the Art of Polite Refusal",
+      "cefrLevel": "B1",
+      "summaryJa": "相手の気持ちを尊重しつつ、自分の都合も大切にするための丁寧な断り方について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/saying-no-politely"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people struggle to decline invitations because they fear appearing rude or unhelpful.",
+          "translationJa": "多くの人は、失礼に思われたり役に立たないと思われたりすることを恐れて、誘いを断るのに苦労します。",
+          "id": "intermediate-2026-10-24-s01",
+          "startMs": 0,
+          "endMs": 4753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, learning to say no is a vital skill for maintaining your personal well-being.",
+          "translationJa": "しかし、ノーと言うことを学ぶことは、個人の幸福を維持するための不可欠なスキルです。",
+          "id": "intermediate-2026-10-24-s02",
+          "startMs": 5153,
+          "endMs": 9550,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You do not need to provide a long excuse when you turn down a request.",
+          "translationJa": "依頼を断るときに、長い言い訳をする必要はありません。",
+          "id": "intermediate-2026-10-24-s03",
+          "startMs": 9950,
+          "endMs": 13681,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "A simple and direct explanation is usually much better than a complicated false story.",
+          "translationJa": "シンプルで直接的な説明は、通常、複雑な嘘の話よりもはるかに優れています。",
+          "id": "intermediate-2026-10-24-s04",
+          "startMs": 14081,
+          "endMs": 18722,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Start by expressing appreciation for the invitation to show you value the other person.",
+          "translationJa": "相手を大切に思っていることを示すために、まずは招待への感謝を伝えてから始めましょう。",
+          "id": "intermediate-2026-10-24-s05",
+          "startMs": 19122,
+          "endMs": 23919,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Follow this with a clear statement that you are unable to participate this time.",
+          "translationJa": "その後に、今回は参加できないという明確な意思表示を続けてください。",
+          "id": "intermediate-2026-10-24-s06",
+          "startMs": 24319,
+          "endMs": 28605,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If it feels appropriate, you might suggest an alternative time to meet in the future.",
+          "translationJa": "もし適切だと感じれば、将来会うための別の時間を提案しても良いでしょう。",
+          "id": "intermediate-2026-10-24-s07",
+          "startMs": 29005,
+          "endMs": 33600,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This shows that you still care about the relationship despite having to say no.",
+          "translationJa": "これは、断らなければならないにもかかわらず、関係を大切にしていることを示します。",
+          "id": "intermediate-2026-10-24-s08",
+          "startMs": 34000,
+          "endMs": 38050,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Being firm but kind prevents misunderstandings and helps you manage your schedule effectively.",
+          "translationJa": "毅然としつつも親切であることは、誤解を防ぎ、スケジュールを効果的に管理するのに役立ちます。",
+          "id": "intermediate-2026-10-24-s09",
+          "startMs": 38450,
+          "endMs": 43284,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Ultimately, people will respect you more when you are honest about your current limits.",
+          "translationJa": "最終的に、現在の限界について正直であるとき、人々はあなたをより尊敬するようになります。",
+          "id": "intermediate-2026-10-24-s10",
+          "startMs": 43684,
+          "endMs": 48206,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Practice these small steps to communicate your needs with confidence in your daily interactions.",
+          "translationJa": "日々の対話の中で、自信を持って自分のニーズを伝えるために、これらの小さなステップを練習してください。",
+          "id": "intermediate-2026-10-24-s11",
+          "startMs": 48606,
+          "endMs": 53643,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "decline",
+          "meaningJa": "断る",
+          "exampleEn": "I had to decline the offer.",
+          "exampleJa": "私はその申し出を断らなければなりませんでした。"
+        },
+        {
+          "word": "vital",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Good communication is vital.",
+          "exampleJa": "良いコミュニケーションは不可欠です。"
+        },
+        {
+          "word": "well-being",
+          "meaningJa": "幸福、健康",
+          "exampleEn": "Exercise is good for your well-being.",
+          "exampleJa": "運動は健康に良いです。"
+        },
+        {
+          "word": "appropriate",
+          "meaningJa": "適切な",
+          "exampleEn": "Is this dress appropriate for the party?",
+          "exampleJa": "このドレスはパーティーに適切ですか？"
+        },
+        {
+          "word": "misunderstanding",
+          "meaningJa": "誤解",
+          "exampleEn": "There was a slight misunderstanding.",
+          "exampleJa": "少し誤解がありました。"
+        }
+      ],
+      "id": "intermediate-2026-10-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/intermediate.m4a",
+      "durationSeconds": 52
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Strategy of Assertive Communication",
+      "cefrLevel": "B2",
+      "summaryJa": "相手との関係を維持しながら、毅然とした態度で自分の意思を伝えるための高度なコミュニケーション術を解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/saying-no-politely"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Effective communication often requires the ability to navigate difficult social situations with grace.",
+          "translationJa": "効果的なコミュニケーションには、困難な社会的状況を優雅に切り抜ける能力がしばしば必要です。",
+          "id": "advanced-2026-10-24-s01",
+          "startMs": 0,
+          "endMs": 5964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Saying no is not an act of rejection but a necessary tool for managing your priorities.",
+          "translationJa": "ノーと言うことは拒絶の行為ではなく、自分の優先順位を管理するために必要なツールです。",
+          "id": "advanced-2026-10-24-s02",
+          "startMs": 6364,
+          "endMs": 11173,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many people mistakenly believe that saying yes is the only way to be polite.",
+          "translationJa": "多くの人は、イエスと言うことが礼儀正しくあるための唯一の方法だと誤解しています。",
+          "id": "advanced-2026-10-24-s03",
+          "startMs": 11573,
+          "endMs": 15745,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "However, constant agreement can lead to burnout and resentment in your professional and personal life.",
+          "translationJa": "しかし、常に同意することは、仕事や私生活において燃え尽き症候群や憤りにつながる可能性があります。",
+          "id": "advanced-2026-10-24-s04",
+          "startMs": 16145,
+          "endMs": 21482,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "To decline gracefully, start by acknowledging the value of the request presented to you.",
+          "translationJa": "上品に断るには、提示された依頼の価値を認めることから始めてください。",
+          "id": "advanced-2026-10-24-s05",
+          "startMs": 21882,
+          "endMs": 26828,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "State your refusal clearly without over-explaining, as too many details can sound like excuses.",
+          "translationJa": "断る際は、詳しく説明しすぎないように明確に伝えましょう。詳細は言い訳のように聞こえるからです。",
+          "id": "advanced-2026-10-24-s06",
+          "startMs": 27228,
+          "endMs": 33058,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Maintain a neutral and calm tone to keep the conversation focused on solutions rather than conflict.",
+          "translationJa": "会話が対立ではなく解決策に集中するように、中立で落ち着いた口調を維持してください。",
+          "id": "advanced-2026-10-24-s07",
+          "startMs": 33458,
+          "endMs": 39023,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Offering a compromise or a future alternative can help soften the impact of your negative answer.",
+          "translationJa": "妥協案や将来の代替案を提示することは、否定的な答えの影響を和らげるのに役立ちます。",
+          "id": "advanced-2026-10-24-s08",
+          "startMs": 39423,
+          "endMs": 44545,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that you have the right to protect your time and your emotional energy daily.",
+          "translationJa": "毎日、自分の時間と感情的なエネルギーを守る権利があることを忘れないでください。",
+          "id": "advanced-2026-10-24-s09",
+          "startMs": 44945,
+          "endMs": 48993,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By setting clear boundaries, you foster respect and authenticity within all your personal relationships.",
+          "translationJa": "明確な境界線を引くことで、すべての人間関係において尊敬と誠実さを育むことができます。",
+          "id": "advanced-2026-10-24-s10",
+          "startMs": 49393,
+          "endMs": 55249,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Assertiveness is a skill that improves with consistent practice and awareness of your own needs.",
+          "translationJa": "自己主張は、一貫した練習と自分自身のニーズへの意識によって向上するスキルです。",
+          "id": "advanced-2026-10-24-s11",
+          "startMs": 55649,
+          "endMs": 60383,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Embrace the power of a polite no to create a more balanced and fulfilling life.",
+          "translationJa": "よりバランスの取れた充実した人生を築くために、丁寧なノーと言う力を受け入れましょう。",
+          "id": "advanced-2026-10-24-s12",
+          "startMs": 60783,
+          "endMs": 64971,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "navigate",
+          "meaningJa": "切り抜ける、操縦する",
+          "exampleEn": "She navigated the situation well.",
+          "exampleJa": "彼女はその状況をうまく切り抜けました。"
+        },
+        {
+          "word": "priorities",
+          "meaningJa": "優先順位",
+          "exampleEn": "You need to set your priorities.",
+          "exampleJa": "優先順位を設定する必要があります。"
+        },
+        {
+          "word": "resentment",
+          "meaningJa": "憤り",
+          "exampleEn": "He felt a lot of resentment.",
+          "exampleJa": "彼は強い憤りを感じました。"
+        },
+        {
+          "word": "compromise",
+          "meaningJa": "妥協",
+          "exampleEn": "They reached a fair compromise.",
+          "exampleJa": "彼らは公平な妥協点に達しました。"
+        },
+        {
+          "word": "authenticity",
+          "meaningJa": "誠実さ、本物であること",
+          "exampleEn": "She is known for her authenticity.",
+          "exampleJa": "彼女はその誠実さで知られています。"
+        }
+      ],
+      "id": "advanced-2026-10-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-24/advanced.m4a",
+      "durationSeconds": 63
+    }
+  ],
+  "topicCategory": "communication_relationships"
+}
