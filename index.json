@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-23T15:01:27Z",
-  "latestLessonDate": "2026-10-24",
+  "generatedAtUtc": "2026-10-24T15:01:21Z",
+  "latestLessonDate": "2026-10-25",
   "days": [
+    {
+      "lessonDate": "2026-10-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-25.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Speaking Up at Work",
+          "durationSeconds": 37,
+          "summaryJa": "医師が職場での懸念を表明した後に直面した困難な状況についてのニュース記事。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Challenge of Raising Concerns",
+          "durationSeconds": 59,
+          "summaryJa": "職場での懸念を報告した医師が直面した困難と、組織におけるコミュニケーションの重要性。"
+        },
+        {
+          "level": "advanced",
+          "title": "Whistleblowing and Professional Integrity",
+          "durationSeconds": 66,
+          "summaryJa": "医療現場において懸念を提起した医師が直面した報復措置と、組織文化のあり方についての考察。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-10-24",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-24.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
