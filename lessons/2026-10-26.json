@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-25T15:04:35Z",
+  "lessonDate": "2026-10-26",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Starting Your Morning Right",
+      "cefrLevel": "A2",
+      "summaryJa": "朝の時間を有効に使い、穏やかに一日をスタートさせるための習慣について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Do you often feel tired when you wake up in the morning?",
+          "translationJa": "朝起きたとき、よく疲れを感じますか？",
+          "id": "beginner-2026-10-26-s01",
+          "startMs": 0,
+          "endMs": 2836,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "A good morning routine can help you start your day with energy.",
+          "translationJa": "良い朝のルーティンは、あなたが活力を持って一日を始める助けになります。",
+          "id": "beginner-2026-10-26-s02",
+          "startMs": 3236,
+          "endMs": 6367,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, try to wake up at the same time every single day.",
+          "translationJa": "まず、毎日同じ時間に起きるようにしてみてください。",
+          "id": "beginner-2026-10-26-s03",
+          "startMs": 6767,
+          "endMs": 10205,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Drinking a glass of water is a very simple and healthy habit.",
+          "translationJa": "コップ一杯の水を飲むことは、とてもシンプルで健康的な習慣です。",
+          "id": "beginner-2026-10-26-s04",
+          "startMs": 10605,
+          "endMs": 13767,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You should also try to avoid looking at your phone right away.",
+          "translationJa": "すぐにスマートフォンを見ることも避けるべきです。",
+          "id": "beginner-2026-10-26-s05",
+          "startMs": 14167,
+          "endMs": 17352,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Maybe you can spend five minutes doing some light stretching or exercise.",
+          "translationJa": "5分間、軽いストレッチや運動をしてみるのも良いでしょう。",
+          "id": "beginner-2026-10-26-s06",
+          "startMs": 17752,
+          "endMs": 21785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Eating a healthy breakfast gives your body the fuel it really needs.",
+          "translationJa": "健康的な朝食をとることは、体に本当に必要な燃料を与えてくれます。",
+          "id": "beginner-2026-10-26-s07",
+          "startMs": 22185,
+          "endMs": 25502,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You will feel much more prepared for your busy work or school.",
+          "translationJa": "忙しい仕事や学校に向けて、ずっと準備ができたと感じるはずです。",
+          "id": "beginner-2026-10-26-s08",
+          "startMs": 25902,
+          "endMs": 28994,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Small changes to your morning can make a very big difference today.",
+          "translationJa": "朝の小さな変化が、今日という日に大きな違いを生むことができます。",
+          "id": "beginner-2026-10-26-s09",
+          "startMs": 29394,
+          "endMs": 32914,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "routine",
+          "meaningJa": "日課、ルーティン",
+          "exampleEn": "I have a morning routine.",
+          "exampleJa": "私には朝の日課があります。"
+        },
+        {
+          "word": "energy",
+          "meaningJa": "活力、エネルギー",
+          "exampleEn": "I need more energy.",
+          "exampleJa": "もっと活力が必要です。"
+        },
+        {
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
+        },
+        {
+          "word": "stretching",
+          "meaningJa": "ストレッチ",
+          "exampleEn": "Do some stretching.",
+          "exampleJa": "ストレッチをしましょう。"
+        },
+        {
+          "word": "fuel",
+          "meaningJa": "燃料、活力源",
+          "exampleEn": "Food is fuel.",
+          "exampleJa": "食べ物はエネルギー源です。"
+        }
+      ],
+      "id": "beginner-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner.m4a",
+      "durationSeconds": 31
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Creating a Calm Morning Routine",
+      "cefrLevel": "B1",
+      "summaryJa": "忙しい朝を穏やかに過ごし、生産性を高めるための具体的なステップを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people struggle to find enough time for themselves during their busy mornings.",
+          "translationJa": "多くの人は、忙しい朝の間に自分のための時間を確保するのに苦労しています。",
+          "id": "intermediate-2026-10-26-s01",
+          "startMs": 0,
+          "endMs": 4230,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, establishing a consistent morning routine can significantly improve your overall daily productivity levels.",
+          "translationJa": "しかし、一貫した朝のルーティンを確立することで、日々の生産性を大幅に向上させられます。",
+          "id": "intermediate-2026-10-26-s02",
+          "startMs": 4630,
+          "endMs": 11407,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The key is to prepare your essential items the night before to save time.",
+          "translationJa": "鍵となるのは、時間を節約するために前日の夜に重要な準備を済ませておくことです。",
+          "id": "intermediate-2026-10-26-s03",
+          "startMs": 11807,
+          "endMs": 15697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "When you wake up, avoid checking social media or emails on your mobile phone immediately.",
+          "translationJa": "起きたらすぐに携帯電話でソーシャルメディアやメールをチェックするのは避けましょう。",
+          "id": "intermediate-2026-10-26-s04",
+          "startMs": 16097,
+          "endMs": 21114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Instead, consider spending a few quiet moments focusing on your breathing or mental clarity.",
+          "translationJa": "その代わりに、呼吸や心の明晰さに集中する静かな時間を数分間過ごしてみてください。",
+          "id": "intermediate-2026-10-26-s05",
+          "startMs": 21514,
+          "endMs": 26782,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Preparing a nutritious breakfast helps your body recover from the long hours of sleep.",
+          "translationJa": "栄養のある朝食を準備することは、長時間眠った体から回復する助けになります。",
+          "id": "intermediate-2026-10-26-s06",
+          "startMs": 27182,
+          "endMs": 31662,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Try to incorporate some gentle physical activity to wake up your muscles and joints.",
+          "translationJa": "筋肉や関節を目覚めさせるために、軽い運動を取り入れるようにしてみてください。",
+          "id": "intermediate-2026-10-26-s07",
+          "startMs": 32062,
+          "endMs": 36613,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Setting a clear intention for the day can also help you stay focused and motivated.",
+          "translationJa": "その日の明確な目標を設定することで、集中力とやる気を維持する助けにもなります。",
+          "id": "intermediate-2026-10-26-s08",
+          "startMs": 37013,
+          "endMs": 41335,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "You do not need to wake up extremely early to make these changes work effectively.",
+          "translationJa": "これらの変化を効果的に機能させるために、極端に早く起きる必要はありません。",
+          "id": "intermediate-2026-10-26-s09",
+          "startMs": 41735,
+          "endMs": 46128,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consistency is far more important than the total duration of your morning preparation time.",
+          "translationJa": "一貫性は、朝の準備時間の合計よりもはるかに重要です。",
+          "id": "intermediate-2026-10-26-s10",
+          "startMs": 46528,
+          "endMs": 51474,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start with one or two small habits and build your perfect morning routine slowly.",
+          "translationJa": "1つか2つの小さな習慣から始めて、理想の朝のルーティンをゆっくりと築きましょう。",
+          "id": "intermediate-2026-10-26-s11",
+          "startMs": 51874,
+          "endMs": 56125,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "consistent",
+          "meaningJa": "一貫した",
+          "exampleEn": "Be consistent with your study.",
+          "exampleJa": "勉強に一貫性を持ちましょう。"
+        },
+        {
+          "word": "productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Focus on high productivity.",
+          "exampleJa": "高い生産性に集中しましょう。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な、必要な",
+          "exampleEn": "These are essential items.",
+          "exampleJa": "これらは不可欠なアイテムです。"
+        },
+        {
+          "word": "nutritious",
+          "meaningJa": "栄養のある",
+          "exampleEn": "Eat nutritious meals.",
+          "exampleJa": "栄養のある食事をしましょう。"
+        },
+        {
+          "word": "intention",
+          "meaningJa": "意図、目標",
+          "exampleEn": "Set a clear intention.",
+          "exampleJa": "明確な目標を立てましょう。"
+        }
+      ],
+      "id": "intermediate-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Your Daily Morning Habits",
+      "cefrLevel": "B2",
+      "summaryJa": "一日のパフォーマンスを最大化するために、朝の習慣を戦略的に構築する方法を探ります。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Mastering the first hour of your day is often the secret to lasting success.",
+          "translationJa": "一日の最初の1時間をマスターすることが、持続的な成功の秘訣であることがよくあります。",
+          "id": "advanced-2026-10-26-s01",
+          "startMs": 0,
+          "endMs": 3998,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Most successful individuals follow a structured morning routine to maintain their peak mental performance.",
+          "translationJa": "成功している多くの人々は、高い精神的パフォーマンスを維持するために体系的な朝のルーティンに従っています。",
+          "id": "advanced-2026-10-26-s02",
+          "startMs": 4398,
+          "endMs": 10045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You should aim to minimize decision fatigue by automating your basic morning choices beforehand.",
+          "translationJa": "基本的な朝の選択を事前に自動化することで、決断疲れを最小限に抑えるべきです。",
+          "id": "advanced-2026-10-26-s03",
+          "startMs": 10445,
+          "endMs": 15720,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Preparing your workspace or clothing the previous evening removes unnecessary friction from your schedule.",
+          "translationJa": "前日の夜に作業スペースや服を準備しておくことで、スケジュールから不必要な摩擦を取り除けます。",
+          "id": "advanced-2026-10-26-s04",
+          "startMs": 16120,
+          "endMs": 21540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Hydration is another critical factor that significantly influences your cognitive function throughout the morning.",
+          "translationJa": "水分補給は、午前中の認知機能に大きな影響を与える重要な要素です。",
+          "id": "advanced-2026-10-26-s05",
+          "startMs": 21940,
+          "endMs": 27753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Engaging in mindfulness exercises can help you manage stress before the workday begins.",
+          "translationJa": "マインドフルネスの練習に取り組むことは、仕事が始まる前にストレスを管理する助けとなります。",
+          "id": "advanced-2026-10-26-s06",
+          "startMs": 28153,
+          "endMs": 33165,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Exposure to natural sunlight helps regulate your internal body clock for better sleep quality.",
+          "translationJa": "自然光を浴びることは、より良い睡眠の質のために体内時計を整える助けになります。",
+          "id": "advanced-2026-10-26-s07",
+          "startMs": 33565,
+          "endMs": 38937,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Avoid digital distractions during these early hours to protect your focus and creative energy.",
+          "translationJa": "集中力と創造的なエネルギーを守るために、早い時間帯のデジタルな気晴らしを避けましょう。",
+          "id": "advanced-2026-10-26-s08",
+          "startMs": 39337,
+          "endMs": 44384,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Prioritize high-impact tasks while your mind is fresh and free from daily accumulated fatigue.",
+          "translationJa": "頭が冴えており、日々の蓄積された疲労から解放されている間に、影響力の高いタスクを優先しましょう。",
+          "id": "advanced-2026-10-26-s09",
+          "startMs": 44784,
+          "endMs": 49948,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Remember that your routine should remain flexible enough to adapt to unexpected life events.",
+          "translationJa": "ルーティンは、予期せぬ人生の出来事にも適応できる柔軟性を保つべきだということを忘れないでください。",
+          "id": "advanced-2026-10-26-s10",
+          "startMs": 50348,
+          "endMs": 55336,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Refining your habits over time will eventually transform your lifestyle and overall well-being permanently.",
+          "translationJa": "時間をかけて習慣を洗練させることで、最終的にはライフスタイルと全体的な幸福が永続的に変わります。",
+          "id": "advanced-2026-10-26-s11",
+          "startMs": 55736,
+          "endMs": 61421,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "Optimize your daily schedule.",
+          "exampleJa": "毎日のスケジュールを最適化しましょう。"
+        },
+        {
+          "word": "minimize",
+          "meaningJa": "最小限にする",
+          "exampleEn": "Minimize your mistakes.",
+          "exampleJa": "ミスを最小限にしましょう。"
+        },
+        {
+          "word": "friction",
+          "meaningJa": "摩擦、障害",
+          "exampleEn": "Reduce friction in life.",
+          "exampleJa": "生活の中の障害を減らしましょう。"
+        },
+        {
+          "word": "cognitive",
+          "meaningJa": "認知の",
+          "exampleEn": "Improve cognitive function.",
+          "exampleJa": "認知機能を向上させましょう。"
+        },
+        {
+          "word": "regulate",
+          "meaningJa": "調整する",
+          "exampleEn": "Regulate your body clock.",
+          "exampleJa": "体内時計を調整しましょう。"
+        }
+      ],
+      "id": "advanced-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced.m4a",
+      "durationSeconds": 59
+    }
+  ],
+  "topicCategory": "everyday_life"
+}

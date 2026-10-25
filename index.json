@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-24T15:01:21Z",
-  "latestLessonDate": "2026-10-25",
+  "generatedAtUtc": "2026-10-25T15:04:35Z",
+  "latestLessonDate": "2026-10-26",
   "days": [
+    {
+      "lessonDate": "2026-10-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Morning Right",
+          "durationSeconds": 31,
+          "summaryJa": "朝の時間を有効に使い、穏やかに一日をスタートさせるための習慣について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating a Calm Morning Routine",
+          "durationSeconds": 54,
+          "summaryJa": "忙しい朝を穏やかに過ごし、生産性を高めるための具体的なステップを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Daily Morning Habits",
+          "durationSeconds": 59,
+          "summaryJa": "一日のパフォーマンスを最大化するために、朝の習慣を戦略的に構築する方法を探ります。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-10-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-09-25",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-25.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Give Kind Feedback",
-          "durationSeconds": 34,
-          "summaryJa": "相手を傷つけずに優しくアドバイスを伝えるための基本的なコツを紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Tips for Providing Gentle Suggestions",
-          "durationSeconds": 55,
-          "summaryJa": "相手との関係を良好に保ちながら、建設的なアドバイスを送るための実践的なヒントを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Constructive Feedback",
-          "durationSeconds": 66,
-          "summaryJa": "プロフェッショナルな環境で信頼関係を築きつつ、相手の成長を促す洗練されたフィードバック手法を解説します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }

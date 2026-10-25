@@ -1,456 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-24T15:01:21Z",
-  "lessonDate": "2026-10-25",
+  "generatedAtUtc": "2026-10-25T15:04:35Z",
+  "lessonDate": "2026-10-26",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Speaking Up at Work",
+      "title": "Starting Your Morning Right",
       "cefrLevel": "A2",
-      "summaryJa": "医師が職場での懸念を表明した後に直面した困難な状況についてのニュース記事。",
+      "summaryJa": "朝の時間を有効に使い、穏やかに一日をスタートさせるための習慣について学びます。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A doctor recently shared her difficult experience at a medical clinic.",
-          "translationJa": "ある医師が最近、医療クリニックでの困難な経験を共有しました。",
-          "id": "beginner-2026-10-25-s01",
+          "text": "Do you often feel tired when you wake up in the morning?",
+          "translationJa": "朝起きたとき、よく疲れを感じますか？",
+          "id": "beginner-2026-10-26-s01",
           "startMs": 0,
-          "endMs": 3863,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s01.m4a"
+          "endMs": 2836,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "She heard many complaints from other doctors about their daily work.",
-          "translationJa": "彼女は他の医師たちから日々の仕事に関する多くの不満を聞きました。",
-          "id": "beginner-2026-10-25-s02",
-          "startMs": 4263,
-          "endMs": 7617,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s02.m4a"
+          "text": "A good morning routine can help you start your day with energy.",
+          "translationJa": "良い朝のルーティンは、あなたが活力を持って一日を始める助けになります。",
+          "id": "beginner-2026-10-26-s02",
+          "startMs": 3236,
+          "endMs": 6367,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "She decided to report these important concerns to her senior managers.",
-          "translationJa": "彼女はこれらの重要な懸念を上司に報告することに決めました。",
-          "id": "beginner-2026-10-25-s03",
-          "startMs": 8017,
-          "endMs": 12021,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s03.m4a"
+          "text": "First, try to wake up at the same time every single day.",
+          "translationJa": "まず、毎日同じ時間に起きるようにしてみてください。",
+          "id": "beginner-2026-10-26-s03",
+          "startMs": 6767,
+          "endMs": 10205,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "However, the management did not listen to her feedback very well.",
-          "translationJa": "しかし、経営陣は彼女の意見をあまりよく聞き入れませんでした。",
-          "id": "beginner-2026-10-25-s04",
-          "startMs": 12421,
-          "endMs": 16098,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s04.m4a"
+          "text": "Drinking a glass of water is a very simple and healthy habit.",
+          "translationJa": "コップ一杯の水を飲むことは、とてもシンプルで健康的な習慣です。",
+          "id": "beginner-2026-10-26-s04",
+          "startMs": 10605,
+          "endMs": 13767,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Instead, she felt that she was treated very unfairly by them.",
-          "translationJa": "それどころか、彼女は彼らから非常に不公平な扱いを受けたと感じました。",
-          "id": "beginner-2026-10-25-s05",
-          "startMs": 16498,
-          "endMs": 20164,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s05.m4a"
+          "text": "You should also try to avoid looking at your phone right away.",
+          "translationJa": "すぐにスマートフォンを見ることも避けるべきです。",
+          "id": "beginner-2026-10-26-s05",
+          "startMs": 14167,
+          "endMs": 17352,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "The clinic started a long investigation into her own professional work.",
-          "translationJa": "クリニックは彼女自身の仕事ぶりについて長期的な調査を開始しました。",
-          "id": "beginner-2026-10-25-s06",
-          "startMs": 20564,
-          "endMs": 24245,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s06.m4a"
+          "text": "Maybe you can spend five minutes doing some light stretching or exercise.",
+          "translationJa": "5分間、軽いストレッチや運動をしてみるのも良いでしょう。",
+          "id": "beginner-2026-10-26-s06",
+          "startMs": 17752,
+          "endMs": 21785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "She eventually felt forced to leave her job at the clinic.",
-          "translationJa": "彼女は最終的にクリニックの職を辞めることを余儀なくされました。",
-          "id": "beginner-2026-10-25-s07",
-          "startMs": 24645,
-          "endMs": 27685,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s07.m4a"
+          "text": "Eating a healthy breakfast gives your body the fuel it really needs.",
+          "translationJa": "健康的な朝食をとることは、体に本当に必要な燃料を与えてくれます。",
+          "id": "beginner-2026-10-26-s07",
+          "startMs": 22185,
+          "endMs": 25502,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Now she wants to tell people about the importance of safety.",
-          "translationJa": "今、彼女は人々に安全の重要性について伝えたいと考えています。",
-          "id": "beginner-2026-10-25-s08",
-          "startMs": 28085,
-          "endMs": 31377,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s08.m4a"
+          "text": "You will feel much more prepared for your busy work or school.",
+          "translationJa": "忙しい仕事や学校に向けて、ずっと準備ができたと感じるはずです。",
+          "id": "beginner-2026-10-26-s08",
+          "startMs": 25902,
+          "endMs": 28994,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "It is important for workplaces to listen to all their staff.",
-          "translationJa": "職場がすべてのスタッフの声に耳を傾けることは重要です。",
-          "id": "beginner-2026-10-25-s09",
-          "startMs": 31777,
-          "endMs": 34955,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Speaking up can be hard but it is sometimes very necessary.",
-          "translationJa": "意見を言うことは難しいですが、時には非常に必要です。",
-          "id": "beginner-2026-10-25-s10",
-          "startMs": 35355,
-          "endMs": 38550,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner-s10.m4a"
+          "text": "Small changes to your morning can make a very big difference today.",
+          "translationJa": "朝の小さな変化が、今日という日に大きな違いを生むことができます。",
+          "id": "beginner-2026-10-26-s09",
+          "startMs": 29394,
+          "endMs": 32914,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "complaint",
-          "meaningJa": "不満、苦情",
-          "exampleEn": "He made a formal complaint.",
-          "exampleJa": "彼は正式な苦情を申し立てた。"
+          "word": "routine",
+          "meaningJa": "日課、ルーティン",
+          "exampleEn": "I have a morning routine.",
+          "exampleJa": "私には朝の日課があります。"
         },
         {
-          "index": 1,
-          "word": "management",
-          "meaningJa": "経営陣、管理職",
-          "exampleEn": "The management team met today.",
-          "exampleJa": "経営陣が今日会議を行った。"
+          "word": "energy",
+          "meaningJa": "活力、エネルギー",
+          "exampleEn": "I need more energy.",
+          "exampleJa": "もっと活力が必要です。"
         },
         {
-          "index": 2,
-          "word": "investigation",
-          "meaningJa": "調査",
-          "exampleEn": "The investigation is ongoing.",
-          "exampleJa": "調査は進行中だ。"
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
         },
         {
-          "index": 3,
-          "word": "unfairly",
-          "meaningJa": "不公平に",
-          "exampleEn": "She was treated unfairly.",
-          "exampleJa": "彼女は不公平に扱われた。"
+          "word": "stretching",
+          "meaningJa": "ストレッチ",
+          "exampleEn": "Do some stretching.",
+          "exampleJa": "ストレッチをしましょう。"
         },
         {
-          "index": 4,
-          "word": "eventually",
-          "meaningJa": "最終的に",
-          "exampleEn": "He eventually found the key.",
-          "exampleJa": "彼は最終的に鍵を見つけた。"
+          "word": "fuel",
+          "meaningJa": "燃料、活力源",
+          "exampleEn": "Food is fuel.",
+          "exampleJa": "食べ物はエネルギー源です。"
         }
       ],
-      "id": "beginner-2026-10-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/beginner.m4a",
-      "durationSeconds": 37
+      "id": "beginner-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/beginner.m4a",
+      "durationSeconds": 31
     },
     {
       "levelGroup": "intermediate",
-      "title": "The Challenge of Raising Concerns",
+      "title": "Creating a Calm Morning Routine",
       "cefrLevel": "B1",
-      "summaryJa": "職場での懸念を報告した医師が直面した困難と、組織におけるコミュニケーションの重要性。",
+      "summaryJa": "忙しい朝を穏やかに過ごし、生産性を高めるための具体的なステップを紹介します。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A medical doctor recently shared her story about facing issues at her workplace.",
-          "translationJa": "ある医師が最近、職場で問題に直面した自身の経験について語りました。",
-          "id": "intermediate-2026-10-25-s01",
+          "text": "Many people struggle to find enough time for themselves during their busy mornings.",
+          "translationJa": "多くの人は、忙しい朝の間に自分のための時間を確保するのに苦労しています。",
+          "id": "intermediate-2026-10-26-s01",
           "startMs": 0,
-          "endMs": 4408,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s01.m4a"
+          "endMs": 4230,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "She had received several serious complaints from colleagues regarding the clinic's treatment practices.",
-          "translationJa": "彼女はクリニックの治療方針に関して、同僚からいくつかの深刻な不満を受けていました。",
-          "id": "intermediate-2026-10-25-s02",
-          "startMs": 4808,
-          "endMs": 10089,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s02.m4a"
+          "text": "However, establishing a consistent morning routine can significantly improve your overall daily productivity levels.",
+          "translationJa": "しかし、一貫した朝のルーティンを確立することで、日々の生産性を大幅に向上させられます。",
+          "id": "intermediate-2026-10-26-s02",
+          "startMs": 4630,
+          "endMs": 11407,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Believing it was her responsibility, she decided to report these issues to management.",
-          "translationJa": "それが自分の責任だと信じ、彼女はこれらの問題を経営陣に報告することに決めました。",
-          "id": "intermediate-2026-10-25-s03",
-          "startMs": 10489,
-          "endMs": 15311,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s03.m4a"
+          "text": "The key is to prepare your essential items the night before to save time.",
+          "translationJa": "鍵となるのは、時間を節約するために前日の夜に重要な準備を済ませておくことです。",
+          "id": "intermediate-2026-10-26-s03",
+          "startMs": 11807,
+          "endMs": 15697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Rather than addressing the concerns, the clinic launched a formal investigation into her conduct.",
-          "translationJa": "懸念に対処する代わりに、クリニックは彼女の行動に対する正式な調査を開始しました。",
-          "id": "intermediate-2026-10-25-s04",
-          "startMs": 15711,
-          "endMs": 20861,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s04.m4a"
+          "text": "When you wake up, avoid checking social media or emails on your mobile phone immediately.",
+          "translationJa": "起きたらすぐに携帯電話でソーシャルメディアやメールをチェックするのは避けましょう。",
+          "id": "intermediate-2026-10-26-s04",
+          "startMs": 16097,
+          "endMs": 21114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "She described the experience as a brutal process that damaged her professional career significantly.",
-          "translationJa": "彼女はその経験を、専門家としてのキャリアを大きく傷つける過酷なプロセスだったと表現しました。",
-          "id": "intermediate-2026-10-25-s05",
-          "startMs": 21261,
-          "endMs": 26646,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s05.m4a"
+          "text": "Instead, consider spending a few quiet moments focusing on your breathing or mental clarity.",
+          "translationJa": "その代わりに、呼吸や心の明晰さに集中する静かな時間を数分間過ごしてみてください。",
+          "id": "intermediate-2026-10-26-s05",
+          "startMs": 21514,
+          "endMs": 26782,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Many people believe that doctors must be able to raise concerns without any fear.",
-          "translationJa": "多くの人々は、医師が恐れることなく懸念を表明できなければならないと信じています。",
-          "id": "intermediate-2026-10-25-s06",
-          "startMs": 27046,
-          "endMs": 31276,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s06.m4a"
+          "text": "Preparing a nutritious breakfast helps your body recover from the long hours of sleep.",
+          "translationJa": "栄養のある朝食を準備することは、長時間眠った体から回復する助けになります。",
+          "id": "intermediate-2026-10-26-s06",
+          "startMs": 27182,
+          "endMs": 31662,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Patient safety should always be the top priority for any medical organization or clinic.",
-          "translationJa": "患者の安全は、いかなる医療機関にとっても常に最優先事項であるべきです。",
-          "id": "intermediate-2026-10-25-s07",
-          "startMs": 31676,
-          "endMs": 36468,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s07.m4a"
+          "text": "Try to incorporate some gentle physical activity to wake up your muscles and joints.",
+          "translationJa": "筋肉や関節を目覚めさせるために、軽い運動を取り入れるようにしてみてください。",
+          "id": "intermediate-2026-10-26-s07",
+          "startMs": 32062,
+          "endMs": 36613,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "The doctor eventually felt that she had no choice but to resign her position.",
-          "translationJa": "その医師は最終的に、辞職する以外に選択肢はないと感じました。",
-          "id": "intermediate-2026-10-25-s08",
-          "startMs": 36868,
-          "endMs": 40909,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s08.m4a"
+          "text": "Setting a clear intention for the day can also help you stay focused and motivated.",
+          "translationJa": "その日の明確な目標を設定することで、集中力とやる気を維持する助けにもなります。",
+          "id": "intermediate-2026-10-26-s08",
+          "startMs": 37013,
+          "endMs": 41335,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Her case highlights the importance of having strong whistleblowing policies in every workplace.",
-          "translationJa": "彼女の事例は、すべての職場において強力な内部告発ポリシーを持つことの重要性を強調しています。",
-          "id": "intermediate-2026-10-25-s09",
-          "startMs": 41309,
-          "endMs": 46390,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s09.m4a"
+          "text": "You do not need to wake up extremely early to make these changes work effectively.",
+          "translationJa": "これらの変化を効果的に機能させるために、極端に早く起きる必要はありません。",
+          "id": "intermediate-2026-10-26-s09",
+          "startMs": 41735,
+          "endMs": 46128,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Open communication is vital for maintaining high standards in the medical field today.",
-          "translationJa": "開かれたコミュニケーションは、今日の医療分野で高い基準を維持するために不可欠です。",
-          "id": "intermediate-2026-10-25-s10",
-          "startMs": 46790,
-          "endMs": 51450,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s10.m4a"
+          "text": "Consistency is far more important than the total duration of your morning preparation time.",
+          "translationJa": "一貫性は、朝の準備時間の合計よりもはるかに重要です。",
+          "id": "intermediate-2026-10-26-s10",
+          "startMs": 46528,
+          "endMs": 51474,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Hopefully, her story will encourage better support for staff who speak up honestly.",
-          "translationJa": "彼女の物語が、正直に意見を述べるスタッフへのより良い支援を促進することを願います。",
-          "id": "intermediate-2026-10-25-s11",
-          "startMs": 51850,
-          "endMs": 56421,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Creating a safe environment allows everyone to work effectively and protect the patients.",
-          "translationJa": "安全な環境を作ることで、誰もが効果的に働き、患者を守ることができるようになります。",
-          "id": "intermediate-2026-10-25-s12",
-          "startMs": 56821,
-          "endMs": 61614,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate-s12.m4a"
+          "text": "Start with one or two small habits and build your perfect morning routine slowly.",
+          "translationJa": "1つか2つの小さな習慣から始めて、理想の朝のルーティンをゆっくりと築きましょう。",
+          "id": "intermediate-2026-10-26-s11",
+          "startMs": 51874,
+          "endMs": 56125,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "colleague",
-          "meaningJa": "同僚",
-          "exampleEn": "She discussed it with a colleague.",
-          "exampleJa": "彼女は同僚とそれについて話し合った。"
+          "word": "consistent",
+          "meaningJa": "一貫した",
+          "exampleEn": "Be consistent with your study.",
+          "exampleJa": "勉強に一貫性を持ちましょう。"
         },
         {
-          "word": "responsibility",
-          "meaningJa": "責任",
-          "exampleEn": "It is my responsibility to help.",
-          "exampleJa": "助けるのは私の責任です。"
+          "word": "productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Focus on high productivity.",
+          "exampleJa": "高い生産性に集中しましょう。"
         },
         {
-          "word": "brutal",
-          "meaningJa": "過酷な、厳しい",
-          "exampleEn": "The conditions were quite brutal.",
-          "exampleJa": "状況はかなり過酷だった。"
+          "word": "essential",
+          "meaningJa": "不可欠な、必要な",
+          "exampleEn": "These are essential items.",
+          "exampleJa": "これらは不可欠なアイテムです。"
         },
         {
-          "word": "resign",
-          "meaningJa": "辞職する",
-          "exampleEn": "He decided to resign from his job.",
-          "exampleJa": "彼は仕事を辞めることに決めた。"
+          "word": "nutritious",
+          "meaningJa": "栄養のある",
+          "exampleEn": "Eat nutritious meals.",
+          "exampleJa": "栄養のある食事をしましょう。"
         },
         {
-          "word": "vital",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is vital for life.",
-          "exampleJa": "水は生命にとって不可欠だ。"
+          "word": "intention",
+          "meaningJa": "意図、目標",
+          "exampleEn": "Set a clear intention.",
+          "exampleJa": "明確な目標を立てましょう。"
         }
       ],
-      "id": "intermediate-2026-10-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/intermediate.m4a",
-      "durationSeconds": 59
+      "id": "intermediate-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Whistleblowing and Professional Integrity",
+      "title": "Optimizing Your Daily Morning Habits",
       "cefrLevel": "B2",
-      "summaryJa": "医療現場において懸念を提起した医師が直面した報復措置と、組織文化のあり方についての考察。",
+      "summaryJa": "一日のパフォーマンスを最大化するために、朝の習慣を戦略的に構築する方法を探ります。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/morning-routine"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A general practitioner has spoken out about being forced out of her medical role.",
-          "translationJa": "ある一般開業医が、医療職から追い出されたことについて公に語りました。",
-          "id": "advanced-2026-10-25-s01",
+          "text": "Mastering the first hour of your day is often the secret to lasting success.",
+          "translationJa": "一日の最初の1時間をマスターすることが、持続的な成功の秘訣であることがよくあります。",
+          "id": "advanced-2026-10-26-s01",
           "startMs": 0,
-          "endMs": 4234,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s01.m4a"
+          "endMs": 3998,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "She had raised significant concerns regarding gender treatment services at her local clinic.",
-          "translationJa": "彼女は地元のクリニックにおけるジェンダー治療サービスに関して重大な懸念を提起していました。",
-          "id": "advanced-2026-10-25-s02",
-          "startMs": 4634,
-          "endMs": 9590,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s02.m4a"
+          "text": "Most successful individuals follow a structured morning routine to maintain their peak mental performance.",
+          "translationJa": "成功している多くの人々は、高い精神的パフォーマンスを維持するために体系的な朝のルーティンに従っています。",
+          "id": "advanced-2026-10-26-s02",
+          "startMs": 4398,
+          "endMs": 10045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "After relaying complaints from other doctors, she found herself the subject of an investigation.",
-          "translationJa": "他の医師たちからの苦情を伝えた後、彼女自身が調査の対象となっていることに気づきました。",
-          "id": "advanced-2026-10-25-s03",
-          "startMs": 9990,
-          "endMs": 15443,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s03.m4a"
+          "text": "You should aim to minimize decision fatigue by automating your basic morning choices beforehand.",
+          "translationJa": "基本的な朝の選択を事前に自動化することで、決断疲れを最小限に抑えるべきです。",
+          "id": "advanced-2026-10-26-s03",
+          "startMs": 10445,
+          "endMs": 15720,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "The physician described the internal inquiry as a brutal and intimidating disciplinary process.",
-          "translationJa": "その医師は、内部調査を過酷で威圧的な懲戒プロセスだったと表現しました。",
-          "id": "advanced-2026-10-25-s04",
-          "startMs": 15843,
-          "endMs": 20905,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s04.m4a"
+          "text": "Preparing your workspace or clothing the previous evening removes unnecessary friction from your schedule.",
+          "translationJa": "前日の夜に作業スペースや服を準備しておくことで、スケジュールから不必要な摩擦を取り除けます。",
+          "id": "advanced-2026-10-26-s04",
+          "startMs": 16120,
+          "endMs": 21540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "She felt that the organization prioritized its reputation over addressing the clinical concerns raised.",
-          "translationJa": "彼女は、組織が提起された臨床上の懸念に対処することよりも評判を優先したと感じました。",
-          "id": "advanced-2026-10-25-s05",
-          "startMs": 21305,
-          "endMs": 27097,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s05.m4a"
+          "text": "Hydration is another critical factor that significantly influences your cognitive function throughout the morning.",
+          "translationJa": "水分補給は、午前中の認知機能に大きな影響を与える重要な要素です。",
+          "id": "advanced-2026-10-26-s05",
+          "startMs": 21940,
+          "endMs": 27753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "This situation ultimately led to her resignation, ending her tenure at the medical facility.",
-          "translationJa": "この状況は最終的に彼女の辞職につながり、その医療施設での在職期間を終えることになりました。",
-          "id": "advanced-2026-10-25-s06",
-          "startMs": 27497,
-          "endMs": 32638,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s06.m4a"
+          "text": "Engaging in mindfulness exercises can help you manage stress before the workday begins.",
+          "translationJa": "マインドフルネスの練習に取り組むことは、仕事が始まる前にストレスを管理する助けとなります。",
+          "id": "advanced-2026-10-26-s06",
+          "startMs": 28153,
+          "endMs": 33165,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Such cases illustrate the immense pressure faced by professionals attempting to ensure patient safety.",
-          "translationJa": "このような事例は、患者の安全を確保しようとする専門家が直面する計り知れない圧力を示しています。",
-          "id": "advanced-2026-10-25-s07",
-          "startMs": 33038,
-          "endMs": 38718,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s07.m4a"
+          "text": "Exposure to natural sunlight helps regulate your internal body clock for better sleep quality.",
+          "translationJa": "自然光を浴びることは、より良い睡眠の質のために体内時計を整える助けになります。",
+          "id": "advanced-2026-10-26-s07",
+          "startMs": 33565,
+          "endMs": 38937,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Transparency is essential for maintaining trust within any healthcare institution or specialized clinic.",
-          "translationJa": "透明性は、いかなる医療機関や専門クリニックにおいても信頼を維持するために不可欠です。",
-          "id": "advanced-2026-10-25-s08",
-          "startMs": 39118,
-          "endMs": 44888,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s08.m4a"
+          "text": "Avoid digital distractions during these early hours to protect your focus and creative energy.",
+          "translationJa": "集中力と創造的なエネルギーを守るために、早い時間帯のデジタルな気晴らしを避けましょう。",
+          "id": "advanced-2026-10-26-s08",
+          "startMs": 39337,
+          "endMs": 44384,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Staff must feel empowered to voice legitimate concerns without fearing any professional retaliation.",
-          "translationJa": "スタッフは、専門家としての報復を恐れることなく、正当な懸念を表明できると感じるべきです。",
-          "id": "advanced-2026-10-25-s09",
-          "startMs": 45288,
-          "endMs": 50782,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s09.m4a"
+          "text": "Prioritize high-impact tasks while your mind is fresh and free from daily accumulated fatigue.",
+          "translationJa": "頭が冴えており、日々の蓄積された疲労から解放されている間に、影響力の高いタスクを優先しましょう。",
+          "id": "advanced-2026-10-26-s09",
+          "startMs": 44784,
+          "endMs": 49948,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Effective governance requires listening to feedback to prevent systemic errors from occurring repeatedly.",
-          "translationJa": "効果的なガバナンスには、システム上の誤りが繰り返されるのを防ぐためのフィードバックの聴取が必要です。",
-          "id": "advanced-2026-10-25-s10",
-          "startMs": 51182,
-          "endMs": 56739,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s10.m4a"
+          "text": "Remember that your routine should remain flexible enough to adapt to unexpected life events.",
+          "translationJa": "ルーティンは、予期せぬ人生の出来事にも適応できる柔軟性を保つべきだということを忘れないでください。",
+          "id": "advanced-2026-10-26-s10",
+          "startMs": 50348,
+          "endMs": 55336,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "The medical community must foster cultures where honesty is valued above organizational convenience.",
-          "translationJa": "医療界は、組織の都合よりも誠実さが重んじられる文化を育まなければなりません。",
-          "id": "advanced-2026-10-25-s11",
-          "startMs": 57139,
-          "endMs": 62550,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Her experience serves as a reminder of why institutional accountability remains a critical issue.",
-          "translationJa": "彼女の経験は、なぜ組織の説明責任が重要な課題であり続けるのかを思い出させるものとなります。",
-          "id": "advanced-2026-10-25-s12",
-          "startMs": 62950,
-          "endMs": 68240,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced-s12.m4a"
+          "text": "Refining your habits over time will eventually transform your lifestyle and overall well-being permanently.",
+          "translationJa": "時間をかけて習慣を洗練させることで、最終的にはライフスタイルと全体的な幸福が永続的に変わります。",
+          "id": "advanced-2026-10-26-s11",
+          "startMs": 55736,
+          "endMs": 61421,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "practitioner",
-          "meaningJa": "開業医、実践者",
-          "exampleEn": "She is a skilled medical practitioner.",
-          "exampleJa": "彼女は熟練した医師です。"
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "Optimize your daily schedule.",
+          "exampleJa": "毎日のスケジュールを最適化しましょう。"
         },
         {
-          "word": "intimidating",
-          "meaningJa": "威圧的な",
-          "exampleEn": "The interview felt quite intimidating.",
-          "exampleJa": "面接はかなり威圧的に感じられた。"
+          "word": "minimize",
+          "meaningJa": "最小限にする",
+          "exampleEn": "Minimize your mistakes.",
+          "exampleJa": "ミスを最小限にしましょう。"
         },
         {
-          "word": "retaliation",
-          "meaningJa": "報復",
-          "exampleEn": "He feared retaliation for his actions.",
-          "exampleJa": "彼は行動に対する報復を恐れた。"
+          "word": "friction",
+          "meaningJa": "摩擦、障害",
+          "exampleEn": "Reduce friction in life.",
+          "exampleJa": "生活の中の障害を減らしましょう。"
         },
         {
-          "word": "governance",
-          "meaningJa": "統治、管理体制",
-          "exampleEn": "The company improved its governance.",
-          "exampleJa": "その会社は管理体制を改善した。"
+          "word": "cognitive",
+          "meaningJa": "認知の",
+          "exampleEn": "Improve cognitive function.",
+          "exampleJa": "認知機能を向上させましょう。"
         },
         {
-          "word": "accountability",
-          "meaningJa": "説明責任",
-          "exampleEn": "Public officials have accountability.",
-          "exampleJa": "公務員には説明責任がある。"
+          "word": "regulate",
+          "meaningJa": "調整する",
+          "exampleEn": "Regulate your body clock.",
+          "exampleJa": "体内時計を調整しましょう。"
         }
       ],
-      "id": "advanced-2026-10-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-25/advanced.m4a",
-      "durationSeconds": 66
+      "id": "advanced-2026-10-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-26/advanced.m4a",
+      "durationSeconds": 59
     }
   ],
-  "topicCategory": "news"
+  "topicCategory": "everyday_life"
 }
