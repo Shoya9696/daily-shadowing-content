@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-26T15:02:56Z",
+  "lessonDate": "2026-10-27",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Taking Short Notes After a Call",
+      "cefrLevel": "A2",
+      "summaryJa": "通話直後に決定事項や次のステップをメモする重要性と、その実践的な方法についてのレッスンです。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "It is important to take notes after every phone call.",
+          "translationJa": "すべての電話の後にメモを取ることは重要です。",
+          "id": "beginner-2026-10-27-s01",
+          "startMs": 0,
+          "endMs": 2865,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You should write down the main decisions you just made.",
+          "translationJa": "たった今決まった主な決定事項を書き留めるべきです。",
+          "id": "beginner-2026-10-27-s02",
+          "startMs": 3265,
+          "endMs": 5916,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Do not wait too long to start writing your notes.",
+          "translationJa": "メモを書き始めるまで長く待ちすぎてはいけません。",
+          "id": "beginner-2026-10-27-s03",
+          "startMs": 6316,
+          "endMs": 8839,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Memory fades quickly after you finish a long business conversation.",
+          "translationJa": "長いビジネス会話を終えると、記憶はすぐに薄れてしまいます。",
+          "id": "beginner-2026-10-27-s04",
+          "startMs": 9239,
+          "endMs": 12993,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to list the next steps for your project clearly.",
+          "translationJa": "プロジェクトの次のステップを明確にリストアップしましょう。",
+          "id": "beginner-2026-10-27-s05",
+          "startMs": 13393,
+          "endMs": 16238,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Set a deadline for each task you need to complete.",
+          "translationJa": "完了させる必要がある各タスクに期限を設定してください。",
+          "id": "beginner-2026-10-27-s06",
+          "startMs": 16638,
+          "endMs": 19288,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "You can use a simple notebook or a digital app.",
+          "translationJa": "シンプルなノートやデジタルアプリを使うことができます。",
+          "id": "beginner-2026-10-27-s07",
+          "startMs": 19688,
+          "endMs": 22223,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Sharing these notes with your team helps everyone stay updated.",
+          "translationJa": "チームとこれらのメモを共有すると、全員が最新状況を把握できます。",
+          "id": "beginner-2026-10-27-s08",
+          "startMs": 22623,
+          "endMs": 25860,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Good habits make your daily work much easier to manage.",
+          "translationJa": "良い習慣は毎日の仕事を管理しやすくしてくれます。",
+          "id": "beginner-2026-10-27-s09",
+          "startMs": 26260,
+          "endMs": 29236,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "decision",
+          "meaningJa": "決定、決断"
+        },
+        {
+          "word": "fade",
+          "meaningJa": "薄れる、消えていく"
+        },
+        {
+          "word": "deadline",
+          "meaningJa": "締め切り、期限"
+        },
+        {
+          "word": "update",
+          "meaningJa": "最新情報にする"
+        },
+        {
+          "word": "manage",
+          "meaningJa": "管理する、何とかやり遂げる"
+        }
+      ],
+      "id": "beginner-2026-10-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner.m4a",
+      "durationSeconds": 28
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Post-Call Documentation",
+      "cefrLevel": "B1",
+      "summaryJa": "通話後のメモ取りを習慣化し、仕事の効率とチームの連携を高めるための具体的なアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Taking brief notes immediately after a call is a key productivity habit.",
+          "translationJa": "通話直後に短いメモを取ることは、生産性を高める重要な習慣です。",
+          "id": "intermediate-2026-10-27-s01",
+          "startMs": 0,
+          "endMs": 4145,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people forget important details if they do not write them down fast.",
+          "translationJa": "多くの人は、素早く書き留めないと重要な詳細を忘れてしまいます。",
+          "id": "intermediate-2026-10-27-s02",
+          "startMs": 4545,
+          "endMs": 8566,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Start by summarizing the main decisions made during your short business discussion today.",
+          "translationJa": "今日の短いビジネス議論の間に決まった主な決定事項をまとめることから始めましょう。",
+          "id": "intermediate-2026-10-27-s03",
+          "startMs": 8966,
+          "endMs": 13693,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You should also list the specific action items for every person involved here.",
+          "translationJa": "また、ここに関わる全員の具体的なアクションアイテムもリストアップすべきです。",
+          "id": "intermediate-2026-10-27-s04",
+          "startMs": 14093,
+          "endMs": 18184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "If you have a clear deadline, make sure to highlight it in your notes.",
+          "translationJa": "もし明確な期限があるなら、メモの中でそれを強調するようにしてください。",
+          "id": "intermediate-2026-10-27-s05",
+          "startMs": 18584,
+          "endMs": 22261,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Reviewing these notes later prevents confusion and keeps your project moving forward smoothly.",
+          "translationJa": "後でこれらのメモを見直すことで、混乱を防ぎプロジェクトを円滑に進められます。",
+          "id": "intermediate-2026-10-27-s06",
+          "startMs": 22661,
+          "endMs": 27510,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Using a shared document allows your team to see the progress in real time.",
+          "translationJa": "共有ドキュメントを使えば、チームがリアルタイムで進捗を確認できます。",
+          "id": "intermediate-2026-10-27-s07",
+          "startMs": 27910,
+          "endMs": 31861,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Consistency is essential when you are trying to improve your daily professional workflow habits.",
+          "translationJa": "日々の専門的なワークフローの習慣を改善しようとする際、継続性は不可欠です。",
+          "id": "intermediate-2026-10-27-s08",
+          "startMs": 32261,
+          "endMs": 37358,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "You will find that your communication becomes much clearer with this simple daily practice.",
+          "translationJa": "このシンプルな毎日の習慣で、コミュニケーションがより明確になることに気づくでしょう。",
+          "id": "intermediate-2026-10-27-s09",
+          "startMs": 37758,
+          "endMs": 42336,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Take a few minutes today to organize your thoughts after your next phone meeting.",
+          "translationJa": "次の電話会議の後は、数分間を使って考えを整理してみましょう。",
+          "id": "intermediate-2026-10-27-s10",
+          "startMs": 42736,
+          "endMs": 46730,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Small efforts like this often lead to significant improvements in your overall work quality.",
+          "translationJa": "このような小さな努力が、多くの場合、仕事全体の質の大きな向上につながります。",
+          "id": "intermediate-2026-10-27-s11",
+          "startMs": 47130,
+          "endMs": 51950,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "productivity",
+          "meaningJa": "生産性"
+        },
+        {
+          "word": "summarize",
+          "meaningJa": "要約する"
+        },
+        {
+          "word": "action item",
+          "meaningJa": "実行項目"
+        },
+        {
+          "word": "consistency",
+          "meaningJa": "一貫性、継続性"
+        },
+        {
+          "word": "workflow",
+          "meaningJa": "作業の流れ、ワークフロー"
+        }
+      ],
+      "id": "intermediate-2026-10-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate.m4a",
+      "durationSeconds": 50
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Post-Call Documentation",
+      "cefrLevel": "B2",
+      "summaryJa": "通話直後に決定事項や次のステップ、期限をメモする習慣の重要性と具体的な方法についての解説。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Effective communication does not end when you hang up the phone after a long meeting.",
+          "translationJa": "長い会議の後の電話を切った瞬間に、効果的なコミュニケーションが終わるわけではありません。",
+          "id": "advanced-2026-10-27-s01",
+          "startMs": 0,
+          "endMs": 4222,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Taking brief notes immediately after a call is essential for maintaining your personal work productivity.",
+          "translationJa": "通話直後に簡単なメモを取ることは、個人の業務生産性を維持するために不可欠です。",
+          "id": "advanced-2026-10-27-s02",
+          "startMs": 4622,
+          "endMs": 10206,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You should capture all important decisions and specific action items before starting your next task.",
+          "translationJa": "次のタスクに取り掛かる前に、すべての重要な決定事項と具体的なアクションアイテムを記録すべきです。",
+          "id": "advanced-2026-10-27-s03",
+          "startMs": 10606,
+          "endMs": 16090,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "If you wait too long, your memory of the fine details will likely start to fade.",
+          "translationJa": "あまりに長く待ってしまうと、細かい詳細に関する記憶は徐々に薄れていく可能性が高いでしょう。",
+          "id": "advanced-2026-10-27-s04",
+          "startMs": 16490,
+          "endMs": 20829,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Write down clear deadlines for every responsibility assigned to you during that short video conversation.",
+          "translationJa": "その短いビデオ通話中にあなたに割り当てられたすべての責任について、明確な期限を書き留めてください。",
+          "id": "advanced-2026-10-27-s05",
+          "startMs": 21229,
+          "endMs": 26832,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Organize your notes into a simple format that you can review quickly during the morning.",
+          "translationJa": "朝の時間に素早く見直せるような、シンプルな形式にメモを整理しておきましょう。",
+          "id": "advanced-2026-10-27-s06",
+          "startMs": 27232,
+          "endMs": 31600,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Sharing these summary points with your team helps everyone stay aligned on the project goals.",
+          "translationJa": "これらの要点をチームと共有することで、全員がプロジェクトの目標に対して足並みを揃えられます。",
+          "id": "advanced-2026-10-27-s07",
+          "startMs": 32000,
+          "endMs": 36735,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This simple habit prevents misunderstandings and reduces the need for constant follow-up emails later on.",
+          "translationJa": "この単純な習慣が誤解を防ぎ、後から絶えずフォローアップメールを送る必要性を減らしてくれます。",
+          "id": "advanced-2026-10-27-s08",
+          "startMs": 37135,
+          "endMs": 42938,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "You will find that your professional reputation improves when you are known for being reliable.",
+          "translationJa": "信頼できる人物として知られるようになれば、プロとしての評判が高まることに気づくはずです。",
+          "id": "advanced-2026-10-27-s09",
+          "startMs": 43338,
+          "endMs": 47928,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consistent documentation allows you to focus your mental energy on complex problem solving rather than remembering.",
+          "translationJa": "一貫した記録を残すことで、記憶することではなく複雑な問題解決に精神的エネルギーを集中できます。",
+          "id": "advanced-2026-10-27-s10",
+          "startMs": 48328,
+          "endMs": 54713,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start implementing this strategy today to build a more efficient and stress-free work routine now.",
+          "translationJa": "より効率的でストレスのない仕事のルーチンを築くために、今日からこの戦略を実践してください。",
+          "id": "advanced-2026-10-27-s11",
+          "startMs": 55113,
+          "endMs": 60224,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Taking these proactive steps will ensure that you never miss an important detail at work.",
+          "translationJa": "こうした積極的なステップを踏むことで、仕事上の重要な詳細を見逃すことは決してなくなるでしょう。",
+          "id": "advanced-2026-10-27-s12",
+          "startMs": 60624,
+          "endMs": 65163,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "proactive",
+          "meaningJa": "先を見越した、積極的な",
+          "exampleEn": "He took a proactive approach to solving the problem.",
+          "exampleJa": "彼は問題解決に対して先を見越したアプローチをとった。"
+        },
+        {
+          "word": "aligned",
+          "meaningJa": "足並みが揃っている、一致している",
+          "exampleEn": "We need to ensure the team is aligned on the new strategy.",
+          "exampleJa": "新しい戦略についてチームの足並みが揃っていることを確認する必要がある。"
+        },
+        {
+          "word": "reliable",
+          "meaningJa": "信頼できる",
+          "exampleEn": "She is a very reliable colleague.",
+          "exampleJa": "彼女は非常に信頼できる同僚です。"
+        },
+        {
+          "word": "documentation",
+          "meaningJa": "記録、文書化",
+          "exampleEn": "Proper documentation is crucial for project success.",
+          "exampleJa": "プロジェクトの成功には適切な文書化が不可欠です。"
+        },
+        {
+          "word": "fade",
+          "meaningJa": "薄れる、消えていく",
+          "exampleEn": "The memories of that day began to fade.",
+          "exampleJa": "その日の記憶は徐々に薄れ始めた。"
+        }
+      ],
+      "id": "advanced-2026-10-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced.m4a",
+      "durationSeconds": 63
+    }
+  ],
+  "topicCategory": "work_productivity"
+}

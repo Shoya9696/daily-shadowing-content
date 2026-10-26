@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-25T15:04:35Z",
-  "latestLessonDate": "2026-10-26",
+  "generatedAtUtc": "2026-10-26T15:02:56Z",
+  "latestLessonDate": "2026-10-27",
   "days": [
+    {
+      "lessonDate": "2026-10-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Taking Short Notes After a Call",
+          "durationSeconds": 28,
+          "summaryJa": "通話直後に決定事項や次のステップをメモする重要性と、その実践的な方法についてのレッスンです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Post-Call Documentation",
+          "durationSeconds": 50,
+          "summaryJa": "通話後のメモ取りを習慣化し、仕事の効率とチームの連携を高めるための具体的なアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Post-Call Documentation",
+          "durationSeconds": 63,
+          "summaryJa": "通話直後に決定事項や次のステップ、期限をメモする習慣の重要性と具体的な方法についての解説。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-10-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-09-26",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-26.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Protecting Patient Privacy",
-          "durationSeconds": 37,
-          "summaryJa": "NHSは患者の記録を不適切に閲覧した疑いのあるスタッフを停職処分にすると発表しました。"
-        },
-        {
-          "level": "intermediate",
-          "title": "New Rules for Patient Data Security",
-          "durationSeconds": 59,
-          "summaryJa": "NHSは患者のプライバシーを守るため、記録を不正に閲覧した疑いがある職員に対して厳格な対応を開始します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Upholding Patient Data Privacy",
-          "durationSeconds": 67,
-          "summaryJa": "NHSは患者の信頼を損なう不正なデータアクセスに対し、停職処分を含む厳格な措置を導入します。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
