@@ -1,414 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-26T15:02:56Z",
-  "lessonDate": "2026-10-27",
+  "generatedAtUtc": "2026-10-27T15:02:23Z",
+  "lessonDate": "2026-10-28",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Taking Short Notes After a Call",
+      "title": "Finding Your Way Around",
       "cefrLevel": "A2",
-      "summaryJa": "通話直後に決定事項や次のステップをメモする重要性と、その実践的な方法についてのレッスンです。",
+      "summaryJa": "新しい街で道を聞く際の丁寧な表現と、ランドマークの確認方法を学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "It is important to take notes after every phone call.",
-          "translationJa": "すべての電話の後にメモを取ることは重要です。",
-          "id": "beginner-2026-10-27-s01",
+          "text": "Excuse me, I am looking for the main train station nearby.",
+          "translationJa": "すみません、近くの主要な駅を探しています。",
+          "id": "beginner-2026-10-28-s01",
           "startMs": 0,
-          "endMs": 2865,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s01.m4a"
+          "endMs": 3688,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You should write down the main decisions you just made.",
-          "translationJa": "たった今決まった主な決定事項を書き留めるべきです。",
-          "id": "beginner-2026-10-27-s02",
-          "startMs": 3265,
-          "endMs": 5916,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s02.m4a"
+          "text": "Could you please tell me how to get to the museum?",
+          "translationJa": "博物館への行き方を教えていただけますか？",
+          "id": "beginner-2026-10-28-s02",
+          "startMs": 4088,
+          "endMs": 6478,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Do not wait too long to start writing your notes.",
-          "translationJa": "メモを書き始めるまで長く待ちすぎてはいけません。",
-          "id": "beginner-2026-10-27-s03",
-          "startMs": 6316,
-          "endMs": 8839,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s03.m4a"
+          "text": "I think I am a little lost in this big city.",
+          "translationJa": "この大きな街で少し迷ってしまったようです。",
+          "id": "beginner-2026-10-28-s03",
+          "startMs": 6878,
+          "endMs": 9161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Memory fades quickly after you finish a long business conversation.",
-          "translationJa": "長いビジネス会話を終えると、記憶はすぐに薄れてしまいます。",
-          "id": "beginner-2026-10-27-s04",
-          "startMs": 9239,
-          "endMs": 12993,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s04.m4a"
+          "text": "Is the library far from this busy street right now?",
+          "translationJa": "図書館はこの賑やかな通りから遠いですか？",
+          "id": "beginner-2026-10-28-s04",
+          "startMs": 9561,
+          "endMs": 12344,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to list the next steps for your project clearly.",
-          "translationJa": "プロジェクトの次のステップを明確にリストアップしましょう。",
-          "id": "beginner-2026-10-27-s05",
-          "startMs": 13393,
-          "endMs": 16238,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s05.m4a"
+          "text": "Please go straight ahead until you see a large park.",
+          "translationJa": "大きな公園が見えるまで真っ直ぐ進んでください。",
+          "id": "beginner-2026-10-28-s05",
+          "startMs": 12744,
+          "endMs": 15424,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Set a deadline for each task you need to complete.",
-          "translationJa": "完了させる必要がある各タスクに期限を設定してください。",
-          "id": "beginner-2026-10-27-s06",
-          "startMs": 16638,
-          "endMs": 19288,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s06.m4a"
+          "text": "Turn left at the next traffic light near the cafe.",
+          "translationJa": "カフェの近くの次の信号を左に曲がってください。",
+          "id": "beginner-2026-10-28-s06",
+          "startMs": 15824,
+          "endMs": 18587,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You can use a simple notebook or a digital app.",
-          "translationJa": "シンプルなノートやデジタルアプリを使うことができます。",
-          "id": "beginner-2026-10-27-s07",
-          "startMs": 19688,
-          "endMs": 22223,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s07.m4a"
+          "text": "It will be on your right side after the bank.",
+          "translationJa": "銀行を過ぎた右側にあります。",
+          "id": "beginner-2026-10-28-s07",
+          "startMs": 18987,
+          "endMs": 21213,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Sharing these notes with your team helps everyone stay updated.",
-          "translationJa": "チームとこれらのメモを共有すると、全員が最新状況を把握できます。",
-          "id": "beginner-2026-10-27-s08",
-          "startMs": 22623,
-          "endMs": 25860,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s08.m4a"
+          "text": "Thank you very much for your kind help today, sir.",
+          "translationJa": "親切に教えてくださってありがとうございます。",
+          "id": "beginner-2026-10-28-s08",
+          "startMs": 21613,
+          "endMs": 24633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Good habits make your daily work much easier to manage.",
-          "translationJa": "良い習慣は毎日の仕事を管理しやすくしてくれます。",
-          "id": "beginner-2026-10-27-s09",
-          "startMs": 26260,
-          "endMs": 29236,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner-s09.m4a"
+          "text": "I hope you have a wonderful day in this city.",
+          "translationJa": "この街で素敵な一日を過ごしてください。",
+          "id": "beginner-2026-10-28-s09",
+          "startMs": 25033,
+          "endMs": 27177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "decision",
-          "meaningJa": "決定、決断"
+          "word": "lost",
+          "meaningJa": "迷子になった",
+          "exampleEn": "I am lost.",
+          "exampleJa": "迷子になりました。"
         },
         {
-          "word": "fade",
-          "meaningJa": "薄れる、消えていく"
+          "word": "straight",
+          "meaningJa": "まっすぐ",
+          "exampleEn": "Go straight.",
+          "exampleJa": "まっすぐ進んでください。"
         },
         {
-          "word": "deadline",
-          "meaningJa": "締め切り、期限"
+          "word": "traffic light",
+          "meaningJa": "信号機",
+          "exampleEn": "Turn at the light.",
+          "exampleJa": "信号で曲がってください。"
         },
         {
-          "word": "update",
-          "meaningJa": "最新情報にする"
+          "word": "nearby",
+          "meaningJa": "近くの",
+          "exampleEn": "Is there a shop nearby?",
+          "exampleJa": "近くに店はありますか？"
         },
         {
-          "word": "manage",
-          "meaningJa": "管理する、何とかやり遂げる"
+          "word": "direction",
+          "meaningJa": "方向、道順",
+          "exampleEn": "Can you give me directions?",
+          "exampleJa": "道を教えてくれますか？"
         }
       ],
-      "id": "beginner-2026-10-27",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/beginner.m4a",
-      "durationSeconds": 28
+      "id": "beginner-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner.m4a",
+      "durationSeconds": 26
     },
     {
       "levelGroup": "intermediate",
-      "title": "Mastering Post-Call Documentation",
+      "title": "Navigating Like a Local",
       "cefrLevel": "B1",
-      "summaryJa": "通話後のメモ取りを習慣化し、仕事の効率とチームの連携を高めるための具体的なアドバイス。",
+      "summaryJa": "目的地までの道順を尋ね、目印を使って相手と情報を共有する実践的な会話です。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Taking brief notes immediately after a call is a key productivity habit.",
-          "translationJa": "通話直後に短いメモを取ることは、生産性を高める重要な習慣です。",
-          "id": "intermediate-2026-10-27-s01",
+          "text": "Excuse me, I am trying to find the city art gallery but I am lost.",
+          "translationJa": "すみません、市のアートギャラリーを探しているのですが、迷ってしまいました。",
+          "id": "intermediate-2026-10-28-s01",
           "startMs": 0,
-          "endMs": 4145,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s01.m4a"
+          "endMs": 4164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people forget important details if they do not write them down fast.",
-          "translationJa": "多くの人は、素早く書き留めないと重要な詳細を忘れてしまいます。",
-          "id": "intermediate-2026-10-27-s02",
-          "startMs": 4545,
-          "endMs": 8566,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s02.m4a"
+          "text": "Could you point me in the right direction for the central bus station area?",
+          "translationJa": "中央バスターミナルへ行くにはどちらの方向へ進めばよいか教えていただけますか？",
+          "id": "intermediate-2026-10-28-s02",
+          "startMs": 4564,
+          "endMs": 8150,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Start by summarizing the main decisions made during your short business discussion today.",
-          "translationJa": "今日の短いビジネス議論の間に決まった主な決定事項をまとめることから始めましょう。",
-          "id": "intermediate-2026-10-27-s03",
-          "startMs": 8966,
-          "endMs": 13693,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s03.m4a"
+          "text": "I have a map on my phone, but the street names are very confusing here.",
+          "translationJa": "スマホで地図を見ていますが、ここの通りの名前はとても分かりにくいです。",
+          "id": "intermediate-2026-10-28-s03",
+          "startMs": 8550,
+          "endMs": 12540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You should also list the specific action items for every person involved here.",
-          "translationJa": "また、ここに関わる全員の具体的なアクションアイテムもリストアップすべきです。",
-          "id": "intermediate-2026-10-27-s04",
-          "startMs": 14093,
-          "endMs": 18184,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s04.m4a"
+          "text": "Oh, that is actually quite simple if you follow the main road for two blocks.",
+          "translationJa": "ああ、大通りを2ブロック進めば、実はとても簡単ですよ。",
+          "id": "intermediate-2026-10-28-s04",
+          "startMs": 12940,
+          "endMs": 17310,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "If you have a clear deadline, make sure to highlight it in your notes.",
-          "translationJa": "もし明確な期限があるなら、メモの中でそれを強調するようにしてください。",
-          "id": "intermediate-2026-10-27-s05",
-          "startMs": 18584,
-          "endMs": 22261,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s05.m4a"
+          "text": "You will see a large historic clock tower standing right in front of the park.",
+          "translationJa": "公園のすぐ前に大きな歴史的な時計台が立っているのが見えます。",
+          "id": "intermediate-2026-10-28-s05",
+          "startMs": 17710,
+          "endMs": 21696,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Reviewing these notes later prevents confusion and keeps your project moving forward smoothly.",
-          "translationJa": "後でこれらのメモを見直すことで、混乱を防ぎプロジェクトを円滑に進められます。",
-          "id": "intermediate-2026-10-27-s06",
-          "startMs": 22661,
-          "endMs": 27510,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s06.m4a"
+          "text": "After you pass the clock tower, make a sharp right turn at the small bakery.",
+          "translationJa": "時計台を通り過ぎたら、小さなパン屋さんのところで急な右折をしてください。",
+          "id": "intermediate-2026-10-28-s06",
+          "startMs": 22096,
+          "endMs": 26377,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Using a shared document allows your team to see the progress in real time.",
-          "translationJa": "共有ドキュメントを使えば、チームがリアルタイムで進捗を確認できます。",
-          "id": "intermediate-2026-10-27-s07",
-          "startMs": 27910,
-          "endMs": 31861,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s07.m4a"
+          "text": "Is it within walking distance from that intersection, or should I take a taxi?",
+          "translationJa": "その交差点から徒歩で行ける距離ですか、それともタクシーに乗るべきでしょうか？",
+          "id": "intermediate-2026-10-28-s07",
+          "startMs": 26777,
+          "endMs": 30942,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Consistency is essential when you are trying to improve your daily professional workflow habits.",
-          "translationJa": "日々の専門的なワークフローの習慣を改善しようとする際、継続性は不可欠です。",
-          "id": "intermediate-2026-10-27-s08",
-          "startMs": 32261,
-          "endMs": 37358,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s08.m4a"
+          "text": "It is only a five-minute walk, so you can easily reach it on foot today.",
+          "translationJa": "徒歩5分ですので、今日なら簡単に歩いて行くことができます。",
+          "id": "intermediate-2026-10-28-s08",
+          "startMs": 31342,
+          "endMs": 35542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "You will find that your communication becomes much clearer with this simple daily practice.",
-          "translationJa": "このシンプルな毎日の習慣で、コミュニケーションがより明確になることに気づくでしょう。",
-          "id": "intermediate-2026-10-27-s09",
-          "startMs": 37758,
-          "endMs": 42336,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s09.m4a"
+          "text": "That is very helpful, thank you for clarifying the route for me so clearly.",
+          "translationJa": "とても助かります。道順を明確に教えてくださってありがとうございます。",
+          "id": "intermediate-2026-10-28-s09",
+          "startMs": 35942,
+          "endMs": 40108,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Take a few minutes today to organize your thoughts after your next phone meeting.",
-          "translationJa": "次の電話会議の後は、数分間を使って考えを整理してみましょう。",
-          "id": "intermediate-2026-10-27-s10",
-          "startMs": 42736,
-          "endMs": 46730,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s10.m4a"
+          "text": "I really appreciate your patience and your excellent advice regarding my travel plans.",
+          "translationJa": "私の旅行の計画に関する忍耐と素晴らしいアドバイスに心から感謝します。",
+          "id": "intermediate-2026-10-28-s10",
+          "startMs": 40508,
+          "endMs": 45102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Small efforts like this often lead to significant improvements in your overall work quality.",
-          "translationJa": "このような小さな努力が、多くの場合、仕事全体の質の大きな向上につながります。",
-          "id": "intermediate-2026-10-27-s11",
-          "startMs": 47130,
-          "endMs": 51950,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate-s11.m4a"
+          "text": "Enjoy your visit to the gallery and have a fantastic time exploring our city.",
+          "translationJa": "ギャラリーへの訪問を楽しみ、私たちの街を探索して素晴らしい時間を過ごしてください。",
+          "id": "intermediate-2026-10-28-s11",
+          "startMs": 45502,
+          "endMs": 49562,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "productivity",
-          "meaningJa": "生産性"
+          "word": "confusing",
+          "meaningJa": "分かりにくい",
+          "exampleEn": "The map is confusing.",
+          "exampleJa": "この地図は分かりにくいです。"
         },
         {
-          "word": "summarize",
-          "meaningJa": "要約する"
+          "word": "intersection",
+          "meaningJa": "交差点",
+          "exampleEn": "Turn at the intersection.",
+          "exampleJa": "交差点を曲がってください。"
         },
         {
-          "word": "action item",
-          "meaningJa": "実行項目"
+          "word": "walking distance",
+          "meaningJa": "徒歩圏内",
+          "exampleEn": "It is walking distance.",
+          "exampleJa": "徒歩圏内です。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性、継続性"
+          "word": "clarify",
+          "meaningJa": "明確にする",
+          "exampleEn": "Can you clarify that?",
+          "exampleJa": "それを明確に説明できますか？"
         },
         {
-          "word": "workflow",
-          "meaningJa": "作業の流れ、ワークフロー"
+          "word": "explore",
+          "meaningJa": "探索する",
+          "exampleEn": "I want to explore the city.",
+          "exampleJa": "街を探索したいです。"
         }
       ],
-      "id": "intermediate-2026-10-27",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/intermediate.m4a",
-      "durationSeconds": 50
+      "id": "intermediate-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate.m4a",
+      "durationSeconds": 48
     },
     {
       "levelGroup": "advanced",
-      "title": "Mastering Post-Call Documentation",
+      "title": "Mastering Urban Navigation",
       "cefrLevel": "B2",
-      "summaryJa": "通話直後に決定事項や次のステップ、期限をメモする習慣の重要性と具体的な方法についての解説。",
+      "summaryJa": "都市部で複雑な場所を尋ねたり、ランドマークを基準に道順を理解したりする高度な会話練習です。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/short-notes-after-calls"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Effective communication does not end when you hang up the phone after a long meeting.",
-          "translationJa": "長い会議の後の電話を切った瞬間に、効果的なコミュニケーションが終わるわけではありません。",
-          "id": "advanced-2026-10-27-s01",
+          "text": "Pardon me, I am searching for the historic district but my navigation app is failing.",
+          "translationJa": "すみません、歴史地区を探しているのですが、ナビアプリがうまく機能していません。",
+          "id": "advanced-2026-10-28-s01",
           "startMs": 0,
-          "endMs": 4222,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s01.m4a"
+          "endMs": 4795,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Taking brief notes immediately after a call is essential for maintaining your personal work productivity.",
-          "translationJa": "通話直後に簡単なメモを取ることは、個人の業務生産性を維持するために不可欠です。",
-          "id": "advanced-2026-10-27-s02",
-          "startMs": 4622,
-          "endMs": 10206,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s02.m4a"
+          "text": "Could you provide some guidance on the best route to reach the old city center?",
+          "translationJa": "旧市街中心部へ行くための最善のルートについて助言をいただけますか？",
+          "id": "advanced-2026-10-28-s02",
+          "startMs": 5195,
+          "endMs": 8990,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "You should capture all important decisions and specific action items before starting your next task.",
-          "translationJa": "次のタスクに取り掛かる前に、すべての重要な決定事項と具体的なアクションアイテムを記録すべきです。",
-          "id": "advanced-2026-10-27-s03",
-          "startMs": 10606,
-          "endMs": 16090,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s03.m4a"
+          "text": "You are currently near the waterfront, so you need to head west toward the hills.",
+          "translationJa": "現在ウォーターフロント付近にいるので、丘に向かって西へ進む必要があります。",
+          "id": "advanced-2026-10-28-s03",
+          "startMs": 9390,
+          "endMs": 13620,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "If you wait too long, your memory of the fine details will likely start to fade.",
-          "translationJa": "あまりに長く待ってしまうと、細かい詳細に関する記憶は徐々に薄れていく可能性が高いでしょう。",
-          "id": "advanced-2026-10-27-s04",
-          "startMs": 16490,
-          "endMs": 20829,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s04.m4a"
+          "text": "Continue along the riverbank until you reach the bridge with the distinct stone arches.",
+          "translationJa": "特徴的な石のアーチがある橋に到着するまで、川岸に沿って進んでください。",
+          "id": "advanced-2026-10-28-s04",
+          "startMs": 14020,
+          "endMs": 18281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Write down clear deadlines for every responsibility assigned to you during that short video conversation.",
-          "translationJa": "その短いビデオ通話中にあなたに割り当てられたすべての責任について、明確な期限を書き留めてください。",
-          "id": "advanced-2026-10-27-s05",
-          "startMs": 21229,
-          "endMs": 26832,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s05.m4a"
+          "text": "Once you cross that bridge, take the first left onto a narrow pedestrian street.",
+          "translationJa": "その橋を渡ったら、最初の角を左に曲がり、歩行者専用の細い道に入ってください。",
+          "id": "advanced-2026-10-28-s05",
+          "startMs": 18681,
+          "endMs": 23292,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Organize your notes into a simple format that you can review quickly during the morning.",
-          "translationJa": "朝の時間に素早く見直せるような、シンプルな形式にメモを整理しておきましょう。",
-          "id": "advanced-2026-10-27-s06",
-          "startMs": 27232,
-          "endMs": 31600,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s06.m4a"
+          "text": "You will find a series of colorful cafes that serve as a very reliable landmark.",
+          "translationJa": "非常に信頼できる目印となる、カラフルなカフェが並んでいるのが見つかるはずです。",
+          "id": "advanced-2026-10-28-s06",
+          "startMs": 23692,
+          "endMs": 28189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Sharing these summary points with your team helps everyone stay aligned on the project goals.",
-          "translationJa": "これらの要点をチームと共有することで、全員がプロジェクトの目標に対して足並みを揃えられます。",
-          "id": "advanced-2026-10-27-s07",
-          "startMs": 32000,
-          "endMs": 36735,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s07.m4a"
+          "text": "From there, the main square is just a short walk up the gentle slope ahead.",
+          "translationJa": "そこから中央広場までは、前方の緩やかな坂を少し歩くだけです。",
+          "id": "advanced-2026-10-28-s07",
+          "startMs": 28589,
+          "endMs": 32538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "This simple habit prevents misunderstandings and reduces the need for constant follow-up emails later on.",
-          "translationJa": "この単純な習慣が誤解を防ぎ、後から絶えずフォローアップメールを送る必要性を減らしてくれます。",
-          "id": "advanced-2026-10-27-s08",
-          "startMs": 37135,
-          "endMs": 42938,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s08.m4a"
+          "text": "Is there any significant construction work that I should be aware of on that path?",
+          "translationJa": "その道中で注意すべき大規模な工事などは行われていますか？",
+          "id": "advanced-2026-10-28-s08",
+          "startMs": 32938,
+          "endMs": 37022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "You will find that your professional reputation improves when you are known for being reliable.",
-          "translationJa": "信頼できる人物として知られるようになれば、プロとしての評判が高まることに気づくはずです。",
-          "id": "advanced-2026-10-27-s09",
-          "startMs": 43338,
-          "endMs": 47928,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s09.m4a"
+          "text": "There is minor road maintenance near the plaza, but the pedestrian path remains completely open.",
+          "translationJa": "広場付近で軽微な道路整備がありますが、歩行者用通路は完全に開放されています。",
+          "id": "advanced-2026-10-28-s09",
+          "startMs": 37422,
+          "endMs": 42633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Consistent documentation allows you to focus your mental energy on complex problem solving rather than remembering.",
-          "translationJa": "一貫した記録を残すことで、記憶することではなく複雑な問題解決に精神的エネルギーを集中できます。",
-          "id": "advanced-2026-10-27-s10",
-          "startMs": 48328,
-          "endMs": 54713,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s10.m4a"
+          "text": "That is reassuring to hear, as I was concerned about potential detours and long delays.",
+          "translationJa": "迂回路や長時間の遅延を懸念していたので、それを聞いて安心しました。",
+          "id": "advanced-2026-10-28-s10",
+          "startMs": 43033,
+          "endMs": 47849,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Start implementing this strategy today to build a more efficient and stress-free work routine now.",
-          "translationJa": "より効率的でストレスのない仕事のルーチンを築くために、今日からこの戦略を実践してください。",
-          "id": "advanced-2026-10-27-s11",
-          "startMs": 55113,
-          "endMs": 60224,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s11.m4a"
+          "text": "Thank you for your detailed explanation, it has made my navigation much more manageable today.",
+          "translationJa": "詳細な説明をありがとうございます。おかげで今日の移動がずっと楽になりました。",
+          "id": "advanced-2026-10-28-s11",
+          "startMs": 48249,
+          "endMs": 53603,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Taking these proactive steps will ensure that you never miss an important detail at work.",
-          "translationJa": "こうした積極的なステップを踏むことで、仕事上の重要な詳細を見逃すことは決してなくなるでしょう。",
-          "id": "advanced-2026-10-27-s12",
-          "startMs": 60624,
-          "endMs": 65163,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced-s12.m4a"
+          "text": "You are very welcome, and I hope you enjoy your afternoon in our beautiful district.",
+          "translationJa": "どういたしまして。私たちの美しい地区で午後を楽しんでくださいね。",
+          "id": "advanced-2026-10-28-s12",
+          "startMs": 54003,
+          "endMs": 58535,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "proactive",
-          "meaningJa": "先を見越した、積極的な",
-          "exampleEn": "He took a proactive approach to solving the problem.",
-          "exampleJa": "彼は問題解決に対して先を見越したアプローチをとった。"
+          "word": "navigation",
+          "meaningJa": "道案内、ナビゲーション",
+          "exampleEn": "GPS navigation is useful.",
+          "exampleJa": "GPSナビゲーションは便利です。"
         },
         {
-          "word": "aligned",
-          "meaningJa": "足並みが揃っている、一致している",
-          "exampleEn": "We need to ensure the team is aligned on the new strategy.",
-          "exampleJa": "新しい戦略についてチームの足並みが揃っていることを確認する必要がある。"
+          "word": "landmark",
+          "meaningJa": "目印",
+          "exampleEn": "Use the tower as a landmark.",
+          "exampleJa": "塔を目印にしてください。"
         },
         {
-          "word": "reliable",
-          "meaningJa": "信頼できる",
-          "exampleEn": "She is a very reliable colleague.",
-          "exampleJa": "彼女は非常に信頼できる同僚です。"
+          "word": "pedestrian",
+          "meaningJa": "歩行者",
+          "exampleEn": "A pedestrian zone.",
+          "exampleJa": "歩行者専用ゾーン。"
         },
         {
-          "word": "documentation",
-          "meaningJa": "記録、文書化",
-          "exampleEn": "Proper documentation is crucial for project success.",
-          "exampleJa": "プロジェクトの成功には適切な文書化が不可欠です。"
+          "word": "maintenance",
+          "meaningJa": "整備、維持",
+          "exampleEn": "The road is under maintenance.",
+          "exampleJa": "道路は整備中です。"
         },
         {
-          "word": "fade",
-          "meaningJa": "薄れる、消えていく",
-          "exampleEn": "The memories of that day began to fade.",
-          "exampleJa": "その日の記憶は徐々に薄れ始めた。"
+          "word": "reassuring",
+          "meaningJa": "安心させる",
+          "exampleEn": "That is reassuring.",
+          "exampleJa": "それは安心できる情報です。"
         }
       ],
-      "id": "advanced-2026-10-27",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-27/advanced.m4a",
-      "durationSeconds": 63
+      "id": "advanced-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced.m4a",
+      "durationSeconds": 56
     }
   ],
-  "topicCategory": "work_productivity"
+  "topicCategory": "travel_culture"
 }

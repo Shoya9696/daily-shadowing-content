@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-27T15:02:23Z",
+  "lessonDate": "2026-10-28",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Finding Your Way Around",
+      "cefrLevel": "A2",
+      "summaryJa": "新しい街で道を聞く際の丁寧な表現と、ランドマークの確認方法を学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Excuse me, I am looking for the main train station nearby.",
+          "translationJa": "すみません、近くの主要な駅を探しています。",
+          "id": "beginner-2026-10-28-s01",
+          "startMs": 0,
+          "endMs": 3688,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Could you please tell me how to get to the museum?",
+          "translationJa": "博物館への行き方を教えていただけますか？",
+          "id": "beginner-2026-10-28-s02",
+          "startMs": 4088,
+          "endMs": 6478,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "I think I am a little lost in this big city.",
+          "translationJa": "この大きな街で少し迷ってしまったようです。",
+          "id": "beginner-2026-10-28-s03",
+          "startMs": 6878,
+          "endMs": 9161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Is the library far from this busy street right now?",
+          "translationJa": "図書館はこの賑やかな通りから遠いですか？",
+          "id": "beginner-2026-10-28-s04",
+          "startMs": 9561,
+          "endMs": 12344,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Please go straight ahead until you see a large park.",
+          "translationJa": "大きな公園が見えるまで真っ直ぐ進んでください。",
+          "id": "beginner-2026-10-28-s05",
+          "startMs": 12744,
+          "endMs": 15424,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Turn left at the next traffic light near the cafe.",
+          "translationJa": "カフェの近くの次の信号を左に曲がってください。",
+          "id": "beginner-2026-10-28-s06",
+          "startMs": 15824,
+          "endMs": 18587,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "It will be on your right side after the bank.",
+          "translationJa": "銀行を過ぎた右側にあります。",
+          "id": "beginner-2026-10-28-s07",
+          "startMs": 18987,
+          "endMs": 21213,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Thank you very much for your kind help today, sir.",
+          "translationJa": "親切に教えてくださってありがとうございます。",
+          "id": "beginner-2026-10-28-s08",
+          "startMs": 21613,
+          "endMs": 24633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "I hope you have a wonderful day in this city.",
+          "translationJa": "この街で素敵な一日を過ごしてください。",
+          "id": "beginner-2026-10-28-s09",
+          "startMs": 25033,
+          "endMs": 27177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "lost",
+          "meaningJa": "迷子になった",
+          "exampleEn": "I am lost.",
+          "exampleJa": "迷子になりました。"
+        },
+        {
+          "word": "straight",
+          "meaningJa": "まっすぐ",
+          "exampleEn": "Go straight.",
+          "exampleJa": "まっすぐ進んでください。"
+        },
+        {
+          "word": "traffic light",
+          "meaningJa": "信号機",
+          "exampleEn": "Turn at the light.",
+          "exampleJa": "信号で曲がってください。"
+        },
+        {
+          "word": "nearby",
+          "meaningJa": "近くの",
+          "exampleEn": "Is there a shop nearby?",
+          "exampleJa": "近くに店はありますか？"
+        },
+        {
+          "word": "direction",
+          "meaningJa": "方向、道順",
+          "exampleEn": "Can you give me directions?",
+          "exampleJa": "道を教えてくれますか？"
+        }
+      ],
+      "id": "beginner-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner.m4a",
+      "durationSeconds": 26
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Navigating Like a Local",
+      "cefrLevel": "B1",
+      "summaryJa": "目的地までの道順を尋ね、目印を使って相手と情報を共有する実践的な会話です。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Excuse me, I am trying to find the city art gallery but I am lost.",
+          "translationJa": "すみません、市のアートギャラリーを探しているのですが、迷ってしまいました。",
+          "id": "intermediate-2026-10-28-s01",
+          "startMs": 0,
+          "endMs": 4164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Could you point me in the right direction for the central bus station area?",
+          "translationJa": "中央バスターミナルへ行くにはどちらの方向へ進めばよいか教えていただけますか？",
+          "id": "intermediate-2026-10-28-s02",
+          "startMs": 4564,
+          "endMs": 8150,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "I have a map on my phone, but the street names are very confusing here.",
+          "translationJa": "スマホで地図を見ていますが、ここの通りの名前はとても分かりにくいです。",
+          "id": "intermediate-2026-10-28-s03",
+          "startMs": 8550,
+          "endMs": 12540,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Oh, that is actually quite simple if you follow the main road for two blocks.",
+          "translationJa": "ああ、大通りを2ブロック進めば、実はとても簡単ですよ。",
+          "id": "intermediate-2026-10-28-s04",
+          "startMs": 12940,
+          "endMs": 17310,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You will see a large historic clock tower standing right in front of the park.",
+          "translationJa": "公園のすぐ前に大きな歴史的な時計台が立っているのが見えます。",
+          "id": "intermediate-2026-10-28-s05",
+          "startMs": 17710,
+          "endMs": 21696,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "After you pass the clock tower, make a sharp right turn at the small bakery.",
+          "translationJa": "時計台を通り過ぎたら、小さなパン屋さんのところで急な右折をしてください。",
+          "id": "intermediate-2026-10-28-s06",
+          "startMs": 22096,
+          "endMs": 26377,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Is it within walking distance from that intersection, or should I take a taxi?",
+          "translationJa": "その交差点から徒歩で行ける距離ですか、それともタクシーに乗るべきでしょうか？",
+          "id": "intermediate-2026-10-28-s07",
+          "startMs": 26777,
+          "endMs": 30942,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "It is only a five-minute walk, so you can easily reach it on foot today.",
+          "translationJa": "徒歩5分ですので、今日なら簡単に歩いて行くことができます。",
+          "id": "intermediate-2026-10-28-s08",
+          "startMs": 31342,
+          "endMs": 35542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "That is very helpful, thank you for clarifying the route for me so clearly.",
+          "translationJa": "とても助かります。道順を明確に教えてくださってありがとうございます。",
+          "id": "intermediate-2026-10-28-s09",
+          "startMs": 35942,
+          "endMs": 40108,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "I really appreciate your patience and your excellent advice regarding my travel plans.",
+          "translationJa": "私の旅行の計画に関する忍耐と素晴らしいアドバイスに心から感謝します。",
+          "id": "intermediate-2026-10-28-s10",
+          "startMs": 40508,
+          "endMs": 45102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Enjoy your visit to the gallery and have a fantastic time exploring our city.",
+          "translationJa": "ギャラリーへの訪問を楽しみ、私たちの街を探索して素晴らしい時間を過ごしてください。",
+          "id": "intermediate-2026-10-28-s11",
+          "startMs": 45502,
+          "endMs": 49562,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "confusing",
+          "meaningJa": "分かりにくい",
+          "exampleEn": "The map is confusing.",
+          "exampleJa": "この地図は分かりにくいです。"
+        },
+        {
+          "word": "intersection",
+          "meaningJa": "交差点",
+          "exampleEn": "Turn at the intersection.",
+          "exampleJa": "交差点を曲がってください。"
+        },
+        {
+          "word": "walking distance",
+          "meaningJa": "徒歩圏内",
+          "exampleEn": "It is walking distance.",
+          "exampleJa": "徒歩圏内です。"
+        },
+        {
+          "word": "clarify",
+          "meaningJa": "明確にする",
+          "exampleEn": "Can you clarify that?",
+          "exampleJa": "それを明確に説明できますか？"
+        },
+        {
+          "word": "explore",
+          "meaningJa": "探索する",
+          "exampleEn": "I want to explore the city.",
+          "exampleJa": "街を探索したいです。"
+        }
+      ],
+      "id": "intermediate-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate.m4a",
+      "durationSeconds": 48
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Urban Navigation",
+      "cefrLevel": "B2",
+      "summaryJa": "都市部で複雑な場所を尋ねたり、ランドマークを基準に道順を理解したりする高度な会話練習です。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Pardon me, I am searching for the historic district but my navigation app is failing.",
+          "translationJa": "すみません、歴史地区を探しているのですが、ナビアプリがうまく機能していません。",
+          "id": "advanced-2026-10-28-s01",
+          "startMs": 0,
+          "endMs": 4795,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Could you provide some guidance on the best route to reach the old city center?",
+          "translationJa": "旧市街中心部へ行くための最善のルートについて助言をいただけますか？",
+          "id": "advanced-2026-10-28-s02",
+          "startMs": 5195,
+          "endMs": 8990,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You are currently near the waterfront, so you need to head west toward the hills.",
+          "translationJa": "現在ウォーターフロント付近にいるので、丘に向かって西へ進む必要があります。",
+          "id": "advanced-2026-10-28-s03",
+          "startMs": 9390,
+          "endMs": 13620,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Continue along the riverbank until you reach the bridge with the distinct stone arches.",
+          "translationJa": "特徴的な石のアーチがある橋に到着するまで、川岸に沿って進んでください。",
+          "id": "advanced-2026-10-28-s04",
+          "startMs": 14020,
+          "endMs": 18281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Once you cross that bridge, take the first left onto a narrow pedestrian street.",
+          "translationJa": "その橋を渡ったら、最初の角を左に曲がり、歩行者専用の細い道に入ってください。",
+          "id": "advanced-2026-10-28-s05",
+          "startMs": 18681,
+          "endMs": 23292,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You will find a series of colorful cafes that serve as a very reliable landmark.",
+          "translationJa": "非常に信頼できる目印となる、カラフルなカフェが並んでいるのが見つかるはずです。",
+          "id": "advanced-2026-10-28-s06",
+          "startMs": 23692,
+          "endMs": 28189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "From there, the main square is just a short walk up the gentle slope ahead.",
+          "translationJa": "そこから中央広場までは、前方の緩やかな坂を少し歩くだけです。",
+          "id": "advanced-2026-10-28-s07",
+          "startMs": 28589,
+          "endMs": 32538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Is there any significant construction work that I should be aware of on that path?",
+          "translationJa": "その道中で注意すべき大規模な工事などは行われていますか？",
+          "id": "advanced-2026-10-28-s08",
+          "startMs": 32938,
+          "endMs": 37022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "There is minor road maintenance near the plaza, but the pedestrian path remains completely open.",
+          "translationJa": "広場付近で軽微な道路整備がありますが、歩行者用通路は完全に開放されています。",
+          "id": "advanced-2026-10-28-s09",
+          "startMs": 37422,
+          "endMs": 42633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "That is reassuring to hear, as I was concerned about potential detours and long delays.",
+          "translationJa": "迂回路や長時間の遅延を懸念していたので、それを聞いて安心しました。",
+          "id": "advanced-2026-10-28-s10",
+          "startMs": 43033,
+          "endMs": 47849,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Thank you for your detailed explanation, it has made my navigation much more manageable today.",
+          "translationJa": "詳細な説明をありがとうございます。おかげで今日の移動がずっと楽になりました。",
+          "id": "advanced-2026-10-28-s11",
+          "startMs": 48249,
+          "endMs": 53603,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "You are very welcome, and I hope you enjoy your afternoon in our beautiful district.",
+          "translationJa": "どういたしまして。私たちの美しい地区で午後を楽しんでくださいね。",
+          "id": "advanced-2026-10-28-s12",
+          "startMs": 54003,
+          "endMs": 58535,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "navigation",
+          "meaningJa": "道案内、ナビゲーション",
+          "exampleEn": "GPS navigation is useful.",
+          "exampleJa": "GPSナビゲーションは便利です。"
+        },
+        {
+          "word": "landmark",
+          "meaningJa": "目印",
+          "exampleEn": "Use the tower as a landmark.",
+          "exampleJa": "塔を目印にしてください。"
+        },
+        {
+          "word": "pedestrian",
+          "meaningJa": "歩行者",
+          "exampleEn": "A pedestrian zone.",
+          "exampleJa": "歩行者専用ゾーン。"
+        },
+        {
+          "word": "maintenance",
+          "meaningJa": "整備、維持",
+          "exampleEn": "The road is under maintenance.",
+          "exampleJa": "道路は整備中です。"
+        },
+        {
+          "word": "reassuring",
+          "meaningJa": "安心させる",
+          "exampleEn": "That is reassuring.",
+          "exampleJa": "それは安心できる情報です。"
+        }
+      ],
+      "id": "advanced-2026-10-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced.m4a",
+      "durationSeconds": 56
+    }
+  ],
+  "topicCategory": "travel_culture"
+}

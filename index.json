@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-26T15:02:56Z",
-  "latestLessonDate": "2026-10-27",
+  "generatedAtUtc": "2026-10-27T15:02:23Z",
+  "latestLessonDate": "2026-10-28",
   "days": [
+    {
+      "lessonDate": "2026-10-28",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-28.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Finding Your Way Around",
+          "durationSeconds": 26,
+          "summaryJa": "新しい街で道を聞く際の丁寧な表現と、ランドマークの確認方法を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Navigating Like a Local",
+          "durationSeconds": 48,
+          "summaryJa": "目的地までの道順を尋ね、目印を使って相手と情報を共有する実践的な会話です。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Urban Navigation",
+          "durationSeconds": 56,
+          "summaryJa": "都市部で複雑な場所を尋ねたり、ランドマークを基準に道順を理解したりする高度な会話練習です。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-10-27",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-27.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-09-27",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-27.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Planning Meals for a Busy Week",
-          "durationSeconds": 33,
-          "summaryJa": "忙しい週のための食事計画と買い物のコツについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Planning Meals for a Busy Week",
-          "durationSeconds": 52,
-          "summaryJa": "忙しい日常の中で時間を有効活用するための、効率的な食事管理術を紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Planning Meals for a Busy Week",
-          "durationSeconds": 61,
-          "summaryJa": "効率的な食事計画と準備を通じて、忙しい日々を豊かにするライフハック。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
