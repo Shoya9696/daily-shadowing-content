@@ -1,434 +1,452 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-27T15:02:23Z",
-  "lessonDate": "2026-10-28",
+  "generatedAtUtc": "2026-10-28T17:50:26Z",
+  "lessonDate": "2026-10-29",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Finding Your Way Around",
+      "title": "Setting Up Your New Devices",
       "cefrLevel": "A2",
-      "summaryJa": "新しい街で道を聞く際の丁寧な表現と、ランドマークの確認方法を学びます。",
+      "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新して快適に使うための基本的な手順。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Excuse me, I am looking for the main train station nearby.",
-          "translationJa": "すみません、近くの主要な駅を探しています。",
-          "id": "beginner-2026-10-28-s01",
+          "text": "Setting up a new electronic device is usually very easy to do.",
+          "translationJa": "新しい電子機器のセットアップは、通常とても簡単です。",
+          "id": "beginner-2026-10-29-s01",
           "startMs": 0,
-          "endMs": 3688,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s01.m4a"
+          "endMs": 3672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Could you please tell me how to get to the museum?",
-          "translationJa": "博物館への行き方を教えていただけますか？",
-          "id": "beginner-2026-10-28-s02",
-          "startMs": 4088,
-          "endMs": 6478,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s02.m4a"
+          "text": "First you must connect your device to the local wireless internet network.",
+          "translationJa": "まず、デバイスをローカルの無線インターネットネットワークに接続する必要があります。",
+          "id": "beginner-2026-10-29-s02",
+          "startMs": 4072,
+          "endMs": 7916,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "I think I am a little lost in this big city.",
-          "translationJa": "この大きな街で少し迷ってしまったようです。",
-          "id": "beginner-2026-10-28-s03",
-          "startMs": 6878,
-          "endMs": 9161,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s03.m4a"
+          "text": "You should open the settings menu to find the list of networks.",
+          "translationJa": "設定メニューを開いて、ネットワークのリストを見つけるとよいでしょう。",
+          "id": "beginner-2026-10-29-s03",
+          "startMs": 8316,
+          "endMs": 11513,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Is the library far from this busy street right now?",
-          "translationJa": "図書館はこの賑やかな通りから遠いですか？",
-          "id": "beginner-2026-10-28-s04",
-          "startMs": 9561,
-          "endMs": 12344,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s04.m4a"
+          "text": "Select your home Wi-Fi name and type in your secret password carefully.",
+          "translationJa": "自宅のWi-Fi名を選択し、パスワードを慎重に入力してください。",
+          "id": "beginner-2026-10-29-s04",
+          "startMs": 11913,
+          "endMs": 15875,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Please go straight ahead until you see a large park.",
-          "translationJa": "大きな公園が見えるまで真っ直ぐ進んでください。",
-          "id": "beginner-2026-10-28-s05",
-          "startMs": 12744,
-          "endMs": 15424,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s05.m4a"
+          "text": "After you are online you should check for the latest software updates.",
+          "translationJa": "オンラインになったら、最新のソフトウェアアップデートを確認すべきです。",
+          "id": "beginner-2026-10-29-s05",
+          "startMs": 16275,
+          "endMs": 19952,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Turn left at the next traffic light near the cafe.",
-          "translationJa": "カフェの近くの次の信号を左に曲がってください。",
-          "id": "beginner-2026-10-28-s06",
-          "startMs": 15824,
-          "endMs": 18587,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s06.m4a"
+          "text": "Updates help your device work better and keep it safe from problems.",
+          "translationJa": "アップデートはデバイスの動作を改善し、問題から守るのに役立ちます。",
+          "id": "beginner-2026-10-29-s06",
+          "startMs": 20352,
+          "endMs": 23981,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "It will be on your right side after the bank.",
-          "translationJa": "銀行を過ぎた右側にあります。",
-          "id": "beginner-2026-10-28-s07",
-          "startMs": 18987,
-          "endMs": 21213,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s07.m4a"
+          "text": "Sometimes an app might stop working or crash during a busy day.",
+          "translationJa": "時々、忙しい一日の間にアプリが動かなくなったり、強制終了したりすることがあります。",
+          "id": "beginner-2026-10-29-s07",
+          "startMs": 24381,
+          "endMs": 27902,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Thank you very much for your kind help today, sir.",
-          "translationJa": "親切に教えてくださってありがとうございます。",
-          "id": "beginner-2026-10-28-s08",
-          "startMs": 21613,
-          "endMs": 24633,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s08.m4a"
+          "text": "You can simply restart the device to fix these small technical errors.",
+          "translationJa": "デバイスを再起動するだけで、こうした小さな技術的なエラーを修正できます。",
+          "id": "beginner-2026-10-29-s08",
+          "startMs": 28302,
+          "endMs": 32172,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "I hope you have a wonderful day in this city.",
-          "translationJa": "この街で素敵な一日を過ごしてください。",
-          "id": "beginner-2026-10-28-s09",
-          "startMs": 25033,
-          "endMs": 27177,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner-s09.m4a"
+          "text": "Now you are ready to enjoy using your favorite technology every day.",
+          "translationJa": "これで、毎日お気に入りのテクノロジーを楽しむ準備が整いました。",
+          "id": "beginner-2026-10-29-s09",
+          "startMs": 32572,
+          "endMs": 36363,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Technology makes our daily lives much more convenient and also very fun.",
+          "translationJa": "テクノロジーは私たちの日常生活をずっと便利で、とても楽しいものにしてくれます。",
+          "id": "beginner-2026-10-29-s10",
+          "startMs": 36763,
+          "endMs": 40966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "lost",
-          "meaningJa": "迷子になった",
-          "exampleEn": "I am lost.",
-          "exampleJa": "迷子になりました。"
+          "word": "device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is easy to use.",
+          "exampleJa": "この機器は使いやすいです。"
         },
         {
-          "word": "straight",
-          "meaningJa": "まっすぐ",
-          "exampleEn": "Go straight.",
-          "exampleJa": "まっすぐ進んでください。"
+          "word": "connect",
+          "meaningJa": "接続する",
+          "exampleEn": "Connect to the Wi-Fi now.",
+          "exampleJa": "今すぐWi-Fiに接続してください。"
         },
         {
-          "word": "traffic light",
-          "meaningJa": "信号機",
-          "exampleEn": "Turn at the light.",
-          "exampleJa": "信号で曲がってください。"
+          "word": "settings",
+          "meaningJa": "設定",
+          "exampleEn": "Check your phone settings.",
+          "exampleJa": "携帯電話の設定を確認してください。"
         },
         {
-          "word": "nearby",
-          "meaningJa": "近くの",
-          "exampleEn": "Is there a shop nearby?",
-          "exampleJa": "近くに店はありますか？"
+          "word": "password",
+          "meaningJa": "パスワード",
+          "exampleEn": "Do not share your password.",
+          "exampleJa": "パスワードを共有しないでください。"
         },
         {
-          "word": "direction",
-          "meaningJa": "方向、道順",
-          "exampleEn": "Can you give me directions?",
-          "exampleJa": "道を教えてくれますか？"
+          "word": "restart",
+          "meaningJa": "再起動する",
+          "exampleEn": "Please restart your computer.",
+          "exampleJa": "コンピュータを再起動してください。"
         }
       ],
-      "id": "beginner-2026-10-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/beginner.m4a",
-      "durationSeconds": 26
+      "id": "beginner-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner.m4a",
+      "durationSeconds": 39
     },
     {
       "levelGroup": "intermediate",
-      "title": "Navigating Like a Local",
+      "title": "Mastering Your Digital Tools",
       "cefrLevel": "B1",
-      "summaryJa": "目的地までの道順を尋ね、目印を使って相手と情報を共有する実践的な会話です。",
+      "summaryJa": "日常のデジタル機器を適切に管理し、接続トラブルを解決するための実用的なスキル。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Excuse me, I am trying to find the city art gallery but I am lost.",
-          "translationJa": "すみません、市のアートギャラリーを探しているのですが、迷ってしまいました。",
-          "id": "intermediate-2026-10-28-s01",
+          "text": "Managing your everyday digital devices requires a basic understanding of how they function.",
+          "translationJa": "日常のデジタル機器を管理するには、それらがどのように機能するかという基本的な理解が必要です。",
+          "id": "intermediate-2026-10-29-s01",
           "startMs": 0,
-          "endMs": 4164,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s01.m4a"
+          "endMs": 4927,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Could you point me in the right direction for the central bus station area?",
-          "translationJa": "中央バスターミナルへ行くにはどちらの方向へ進めばよいか教えていただけますか？",
-          "id": "intermediate-2026-10-28-s02",
-          "startMs": 4564,
-          "endMs": 8150,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s02.m4a"
+          "text": "Most modern gadgets provide a simple interface to help users configure their network settings.",
+          "translationJa": "ほとんどの最新ガジェットは、ユーザーがネットワーク設定を構成するのに役立つシンプルなインターフェースを提供しています。",
+          "id": "intermediate-2026-10-29-s02",
+          "startMs": 5327,
+          "endMs": 10382,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "I have a map on my phone, but the street names are very confusing here.",
-          "translationJa": "スマホで地図を見ていますが、ここの通りの名前はとても分かりにくいです。",
-          "id": "intermediate-2026-10-28-s03",
-          "startMs": 8550,
-          "endMs": 12540,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s03.m4a"
+          "text": "When you encounter connection issues, you should first verify that your internet is active.",
+          "translationJa": "接続の問題が発生したときは、まずインターネットが有効であることを確認するべきです。",
+          "id": "intermediate-2026-10-29-s03",
+          "startMs": 10782,
+          "endMs": 15544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Oh, that is actually quite simple if you follow the main road for two blocks.",
-          "translationJa": "ああ、大通りを2ブロック進めば、実はとても簡単ですよ。",
-          "id": "intermediate-2026-10-28-s04",
-          "startMs": 12940,
-          "endMs": 17310,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s04.m4a"
+          "text": "If the signal is weak, moving closer to the router often solves the problem.",
+          "translationJa": "信号が弱い場合は、ルーターに近づくことで問題が解決することがよくあります。",
+          "id": "intermediate-2026-10-29-s04",
+          "startMs": 15944,
+          "endMs": 20272,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You will see a large historic clock tower standing right in front of the park.",
-          "translationJa": "公園のすぐ前に大きな歴史的な時計台が立っているのが見えます。",
-          "id": "intermediate-2026-10-28-s05",
-          "startMs": 17710,
-          "endMs": 21696,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s05.m4a"
+          "text": "Keeping your software updated is essential to ensure that your devices run very smoothly.",
+          "translationJa": "ソフトウェアを最新の状態に保つことは、デバイスを非常にスムーズに動作させるために不可欠です。",
+          "id": "intermediate-2026-10-29-s05",
+          "startMs": 20672,
+          "endMs": 25500,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "After you pass the clock tower, make a sharp right turn at the small bakery.",
-          "translationJa": "時計台を通り過ぎたら、小さなパン屋さんのところで急な右折をしてください。",
-          "id": "intermediate-2026-10-28-s06",
-          "startMs": 22096,
-          "endMs": 26377,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s06.m4a"
+          "text": "Developers frequently release patches to improve security and fix bugs found in older versions.",
+          "translationJa": "開発者はセキュリティを向上させ、古いバージョンで見つかったバグを修正するために頻繁にパッチをリリースします。",
+          "id": "intermediate-2026-10-29-s06",
+          "startMs": 25900,
+          "endMs": 31177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Is it within walking distance from that intersection, or should I take a taxi?",
-          "translationJa": "その交差点から徒歩で行ける距離ですか、それともタクシーに乗るべきでしょうか？",
-          "id": "intermediate-2026-10-28-s07",
-          "startMs": 26777,
-          "endMs": 30942,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s07.m4a"
+          "text": "You can enable automatic updates to save time and avoid manual maintenance every month.",
+          "translationJa": "自動更新を有効にすれば、時間を節約し、毎月の手動メンテナンスを避けることができます。",
+          "id": "intermediate-2026-10-29-s07",
+          "startMs": 31577,
+          "endMs": 36457,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is only a five-minute walk, so you can easily reach it on foot today.",
-          "translationJa": "徒歩5分ですので、今日なら簡単に歩いて行くことができます。",
-          "id": "intermediate-2026-10-28-s08",
-          "startMs": 31342,
-          "endMs": 35542,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s08.m4a"
+          "text": "If an application crashes unexpectedly, try closing it completely before starting it again today.",
+          "translationJa": "アプリが予期せずクラッシュした場合は、今日再度起動する前に完全に閉じてみてください。",
+          "id": "intermediate-2026-10-29-s08",
+          "startMs": 36857,
+          "endMs": 42752,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "That is very helpful, thank you for clarifying the route for me so clearly.",
-          "translationJa": "とても助かります。道順を明確に教えてくださってありがとうございます。",
-          "id": "intermediate-2026-10-28-s09",
-          "startMs": 35942,
-          "endMs": 40108,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s09.m4a"
+          "text": "A quick restart of your tablet or smartphone clears the temporary memory quite effectively.",
+          "translationJa": "タブレットやスマートフォンのクイック再起動は、一時メモリを非常に効果的にクリアします。",
+          "id": "intermediate-2026-10-29-s09",
+          "startMs": 43152,
+          "endMs": 48060,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "I really appreciate your patience and your excellent advice regarding my travel plans.",
-          "translationJa": "私の旅行の計画に関する忍耐と素晴らしいアドバイスに心から感謝します。",
-          "id": "intermediate-2026-10-28-s10",
-          "startMs": 40508,
-          "endMs": 45102,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s10.m4a"
+          "text": "These simple habits will help you maintain your technology in excellent condition for years.",
+          "translationJa": "これらの単純な習慣は、長年にわたってテクノロジーを優れた状態に保つのに役立ちます。",
+          "id": "intermediate-2026-10-29-s10",
+          "startMs": 48460,
+          "endMs": 53102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Enjoy your visit to the gallery and have a fantastic time exploring our city.",
-          "translationJa": "ギャラリーへの訪問を楽しみ、私たちの街を探索して素晴らしい時間を過ごしてください。",
-          "id": "intermediate-2026-10-28-s11",
-          "startMs": 45502,
-          "endMs": 49562,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate-s11.m4a"
-        }
-      ],
-      "vocabulary": [
-        {
-          "word": "confusing",
-          "meaningJa": "分かりにくい",
-          "exampleEn": "The map is confusing.",
-          "exampleJa": "この地図は分かりにくいです。"
-        },
-        {
-          "word": "intersection",
-          "meaningJa": "交差点",
-          "exampleEn": "Turn at the intersection.",
-          "exampleJa": "交差点を曲がってください。"
-        },
-        {
-          "word": "walking distance",
-          "meaningJa": "徒歩圏内",
-          "exampleEn": "It is walking distance.",
-          "exampleJa": "徒歩圏内です。"
-        },
-        {
-          "word": "clarify",
-          "meaningJa": "明確にする",
-          "exampleEn": "Can you clarify that?",
-          "exampleJa": "それを明確に説明できますか？"
-        },
-        {
-          "word": "explore",
-          "meaningJa": "探索する",
-          "exampleEn": "I want to explore the city.",
-          "exampleJa": "街を探索したいです。"
-        }
-      ],
-      "id": "intermediate-2026-10-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/intermediate.m4a",
-      "durationSeconds": 48
-    },
-    {
-      "levelGroup": "advanced",
-      "title": "Mastering Urban Navigation",
-      "cefrLevel": "B2",
-      "summaryJa": "都市部で複雑な場所を尋ねたり、ランドマークを基準に道順を理解したりする高度な会話練習です。",
-      "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/asking-for-directions"
-      ],
-      "sentences": [
-        {
-          "index": 0,
-          "text": "Pardon me, I am searching for the historic district but my navigation app is failing.",
-          "translationJa": "すみません、歴史地区を探しているのですが、ナビアプリがうまく機能していません。",
-          "id": "advanced-2026-10-28-s01",
-          "startMs": 0,
-          "endMs": 4795,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s01.m4a"
-        },
-        {
-          "index": 1,
-          "text": "Could you provide some guidance on the best route to reach the old city center?",
-          "translationJa": "旧市街中心部へ行くための最善のルートについて助言をいただけますか？",
-          "id": "advanced-2026-10-28-s02",
-          "startMs": 5195,
-          "endMs": 8990,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s02.m4a"
-        },
-        {
-          "index": 2,
-          "text": "You are currently near the waterfront, so you need to head west toward the hills.",
-          "translationJa": "現在ウォーターフロント付近にいるので、丘に向かって西へ進む必要があります。",
-          "id": "advanced-2026-10-28-s03",
-          "startMs": 9390,
-          "endMs": 13620,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s03.m4a"
-        },
-        {
-          "index": 3,
-          "text": "Continue along the riverbank until you reach the bridge with the distinct stone arches.",
-          "translationJa": "特徴的な石のアーチがある橋に到着するまで、川岸に沿って進んでください。",
-          "id": "advanced-2026-10-28-s04",
-          "startMs": 14020,
-          "endMs": 18281,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s04.m4a"
-        },
-        {
-          "index": 4,
-          "text": "Once you cross that bridge, take the first left onto a narrow pedestrian street.",
-          "translationJa": "その橋を渡ったら、最初の角を左に曲がり、歩行者専用の細い道に入ってください。",
-          "id": "advanced-2026-10-28-s05",
-          "startMs": 18681,
-          "endMs": 23292,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s05.m4a"
-        },
-        {
-          "index": 5,
-          "text": "You will find a series of colorful cafes that serve as a very reliable landmark.",
-          "translationJa": "非常に信頼できる目印となる、カラフルなカフェが並んでいるのが見つかるはずです。",
-          "id": "advanced-2026-10-28-s06",
-          "startMs": 23692,
-          "endMs": 28189,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s06.m4a"
-        },
-        {
-          "index": 6,
-          "text": "From there, the main square is just a short walk up the gentle slope ahead.",
-          "translationJa": "そこから中央広場までは、前方の緩やかな坂を少し歩くだけです。",
-          "id": "advanced-2026-10-28-s07",
-          "startMs": 28589,
-          "endMs": 32538,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s07.m4a"
-        },
-        {
-          "index": 7,
-          "text": "Is there any significant construction work that I should be aware of on that path?",
-          "translationJa": "その道中で注意すべき大規模な工事などは行われていますか？",
-          "id": "advanced-2026-10-28-s08",
-          "startMs": 32938,
-          "endMs": 37022,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "There is minor road maintenance near the plaza, but the pedestrian path remains completely open.",
-          "translationJa": "広場付近で軽微な道路整備がありますが、歩行者用通路は完全に開放されています。",
-          "id": "advanced-2026-10-28-s09",
-          "startMs": 37422,
-          "endMs": 42633,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "That is reassuring to hear, as I was concerned about potential detours and long delays.",
-          "translationJa": "迂回路や長時間の遅延を懸念していたので、それを聞いて安心しました。",
-          "id": "advanced-2026-10-28-s10",
-          "startMs": 43033,
-          "endMs": 47849,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s10.m4a"
-        },
-        {
-          "index": 10,
-          "text": "Thank you for your detailed explanation, it has made my navigation much more manageable today.",
-          "translationJa": "詳細な説明をありがとうございます。おかげで今日の移動がずっと楽になりました。",
-          "id": "advanced-2026-10-28-s11",
-          "startMs": 48249,
-          "endMs": 53603,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s11.m4a"
+          "text": "By following these steps, you can spend less time troubleshooting and more time working.",
+          "translationJa": "これらの手順に従うことで、トラブルシューティングに費やす時間を減らし、作業により多くの時間を割けます。",
+          "id": "intermediate-2026-10-29-s11",
+          "startMs": 53502,
+          "endMs": 58290,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s11.m4a"
         },
         {
           "index": 11,
-          "text": "You are very welcome, and I hope you enjoy your afternoon in our beautiful district.",
-          "translationJa": "どういたしまして。私たちの美しい地区で午後を楽しんでくださいね。",
-          "id": "advanced-2026-10-28-s12",
-          "startMs": 54003,
-          "endMs": 58535,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced-s12.m4a"
+          "text": "Technology should serve your needs rather than becoming a source of daily frustration instead.",
+          "translationJa": "テクノロジーは、日々のフラストレーションの源になるのではなく、あなたのニーズを満たすものであるべきです。",
+          "id": "intermediate-2026-10-29-s12",
+          "startMs": 58690,
+          "endMs": 63427,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "navigation",
-          "meaningJa": "道案内、ナビゲーション",
-          "exampleEn": "GPS navigation is useful.",
-          "exampleJa": "GPSナビゲーションは便利です。"
+          "word": "gadget",
+          "meaningJa": "小道具、便利な装置",
+          "exampleEn": "I love buying new gadgets.",
+          "exampleJa": "私は新しいガジェットを買うのが大好きです。"
         },
         {
-          "word": "landmark",
-          "meaningJa": "目印",
-          "exampleEn": "Use the tower as a landmark.",
-          "exampleJa": "塔を目印にしてください。"
+          "word": "configure",
+          "meaningJa": "設定する",
+          "exampleEn": "Configure the settings carefully.",
+          "exampleJa": "設定を慎重に構成してください。"
         },
         {
-          "word": "pedestrian",
-          "meaningJa": "歩行者",
-          "exampleEn": "A pedestrian zone.",
-          "exampleJa": "歩行者専用ゾーン。"
+          "word": "verify",
+          "meaningJa": "確認する",
+          "exampleEn": "Please verify your email address.",
+          "exampleJa": "メールアドレスを確認してください。"
         },
         {
-          "word": "maintenance",
-          "meaningJa": "整備、維持",
-          "exampleEn": "The road is under maintenance.",
-          "exampleJa": "道路は整備中です。"
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Sleep is essential for health.",
+          "exampleJa": "睡眠は健康に不可欠です。"
         },
         {
-          "word": "reassuring",
-          "meaningJa": "安心させる",
-          "exampleEn": "That is reassuring.",
-          "exampleJa": "それは安心できる情報です。"
+          "word": "troubleshooting",
+          "meaningJa": "問題解決、トラブルシューティング",
+          "exampleEn": "I spent hours troubleshooting.",
+          "exampleJa": "トラブルシューティングに何時間も費やしました。"
         }
       ],
-      "id": "advanced-2026-10-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-28/advanced.m4a",
-      "durationSeconds": 56
+      "id": "intermediate-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate.m4a",
+      "durationSeconds": 61
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Your Digital Home Setup",
+      "cefrLevel": "B2",
+      "summaryJa": "家庭内のデジタルデバイスをスムーズにセットアップし、トラブルを解決するための実用的なガイド。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Setting up new electronic devices often feels like a daunting task for many people.",
+          "translationJa": "新しい電子機器のセットアップは、多くの人にとって気が遠くなるような作業に感じられることがよくあります。",
+          "id": "advanced-2026-10-29-s01",
+          "startMs": 0,
+          "endMs": 4740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, most modern hardware follows a very consistent and logical sequence for initial configuration.",
+          "translationJa": "しかし、ほとんどの最新ハードウェアは、初期設定において非常に一貫した論理的な手順に従っています。",
+          "id": "advanced-2026-10-29-s02",
+          "startMs": 5140,
+          "endMs": 11209,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, ensure your home network is stable before attempting to connect any new equipment.",
+          "translationJa": "まず、新しい機器を接続する前に、自宅のネットワークが安定していることを確認してください。",
+          "id": "advanced-2026-10-29-s03",
+          "startMs": 11609,
+          "endMs": 16603,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Weak signal strength is the primary reason why pairing processes fail during the installation phase.",
+          "translationJa": "信号強度が弱いことは、インストール段階でペアリング処理が失敗する主な原因となります。",
+          "id": "advanced-2026-10-29-s04",
+          "startMs": 17003,
+          "endMs": 22473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Once connected, checking for firmware updates should be the very next step you perform.",
+          "translationJa": "接続が完了したら、ファームウェアのアップデートを確認することが、次に行うべき非常に重要な手順です。",
+          "id": "advanced-2026-10-29-s05",
+          "startMs": 22873,
+          "endMs": 27682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Manufacturers release these patches to improve security features and resolve known software performance bugs.",
+          "translationJa": "メーカーは、セキュリティ機能を向上させ、既知のソフトウェアのパフォーマンス上のバグを解決するためにこれらのパッチをリリースします。",
+          "id": "advanced-2026-10-29-s06",
+          "startMs": 28082,
+          "endMs": 34332,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If you encounter unexpected errors, a simple power cycle often resolves the underlying issue.",
+          "translationJa": "予期せぬエラーに遭遇した場合は、電源を入れ直すだけで根本的な問題が解決することがよくあります。",
+          "id": "advanced-2026-10-29-s07",
+          "startMs": 34732,
+          "endMs": 40221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You should unplug the device from the power source for about thirty seconds before restarting.",
+          "translationJa": "再起動する前に、約30秒間電源からデバイスのプラグを抜いておく必要があります。",
+          "id": "advanced-2026-10-29-s08",
+          "startMs": 40621,
+          "endMs": 45176,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Most manuals provide clear troubleshooting tables that address these common connectivity and setup problems.",
+          "translationJa": "ほとんどの取扱説明書には、こうした一般的な接続やセットアップの問題に対処するための明確なトラブルシューティング表が記載されています。",
+          "id": "advanced-2026-10-29-s09",
+          "startMs": 45576,
+          "endMs": 51548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Do not hesitate to consult the official support website if the basic steps fail repeatedly.",
+          "translationJa": "基本的な手順を繰り返しても失敗する場合は、ためらわずに公式サポートウェブサイトを参照してください。",
+          "id": "advanced-2026-10-29-s10",
+          "startMs": 51948,
+          "endMs": 57037,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Maintaining an organized digital environment makes managing your daily technology much more efficient and enjoyable.",
+          "translationJa": "整理されたデジタル環境を維持することは、日々のテクノロジー管理をより効率的で楽しいものにします。",
+          "id": "advanced-2026-10-29-s11",
+          "startMs": 57437,
+          "endMs": 63722,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Taking time to learn these fundamental skills will save you significant frustration in the future.",
+          "translationJa": "これらの基本的なスキルを学ぶ時間を取ることは、将来的に大きなストレスを減らすことにつながります。",
+          "id": "advanced-2026-10-29-s12",
+          "startMs": 64122,
+          "endMs": 69114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "daunting",
+          "meaningJa": "気が遠くなるような、困難な",
+          "exampleEn": "The project seemed daunting at first.",
+          "exampleJa": "そのプロジェクトは最初は困難に思えた。"
+        },
+        {
+          "word": "configuration",
+          "meaningJa": "構成、設定",
+          "exampleEn": "The system requires a specific configuration.",
+          "exampleJa": "そのシステムは特定の構成を必要とする。"
+        },
+        {
+          "word": "firmware",
+          "meaningJa": "ファームウェア（機器を制御するソフトウェア）",
+          "exampleEn": "Updating the firmware fixed the connection issue.",
+          "exampleJa": "ファームウェアを更新したら接続の問題が直った。"
+        },
+        {
+          "word": "power cycle",
+          "meaningJa": "電源の入れ直し",
+          "exampleEn": "Try a power cycle if the device freezes.",
+          "exampleJa": "デバイスがフリーズしたら電源の入れ直しを試してください。"
+        },
+        {
+          "word": "troubleshooting",
+          "meaningJa": "トラブルシューティング、問題解決",
+          "exampleEn": "Check the guide for troubleshooting tips.",
+          "exampleJa": "問題解決のヒントについてはガイドを確認してください。"
+        }
+      ],
+      "id": "advanced-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced.m4a",
+      "durationSeconds": 67
     }
   ],
-  "topicCategory": "travel_culture"
+  "topicCategory": "science_technology"
 }

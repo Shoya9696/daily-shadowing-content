@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-27T15:02:23Z",
-  "latestLessonDate": "2026-10-28",
+  "generatedAtUtc": "2026-10-28T17:50:26Z",
+  "latestLessonDate": "2026-10-29",
   "days": [
+    {
+      "lessonDate": "2026-10-29",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-29.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Setting Up Your New Devices",
+          "durationSeconds": 39,
+          "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新して快適に使うための基本的な手順。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Digital Tools",
+          "durationSeconds": 61,
+          "summaryJa": "日常のデジタル機器を適切に管理し、接続トラブルを解決するための実用的なスキル。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Your Digital Home Setup",
+          "durationSeconds": 67,
+          "summaryJa": "家庭内のデジタルデバイスをスムーズにセットアップし、トラブルを解決するための実用的なガイド。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-10-28",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-28.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-09-28",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-28.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Plan Your Work Day",
-          "durationSeconds": 34,
-          "summaryJa": "一日の仕事の優先順位を決め、効率的に進めるための基本的な習慣について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Daily Workflow",
-          "durationSeconds": 56,
-          "summaryJa": "生産性を高めるためのタイムブロッキングや集中力の維持方法について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Work Efficiency",
-          "durationSeconds": 63,
-          "summaryJa": "タスク管理の高度な戦略と、持続可能な働き方を実現するための考え方を解説します。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }

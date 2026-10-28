@@ -1,0 +1,452 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-28T17:50:26Z",
+  "lessonDate": "2026-10-29",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Setting Up Your New Devices",
+      "cefrLevel": "A2",
+      "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新して快適に使うための基本的な手順。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Setting up a new electronic device is usually very easy to do.",
+          "translationJa": "新しい電子機器のセットアップは、通常とても簡単です。",
+          "id": "beginner-2026-10-29-s01",
+          "startMs": 0,
+          "endMs": 3672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First you must connect your device to the local wireless internet network.",
+          "translationJa": "まず、デバイスをローカルの無線インターネットネットワークに接続する必要があります。",
+          "id": "beginner-2026-10-29-s02",
+          "startMs": 4072,
+          "endMs": 7916,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You should open the settings menu to find the list of networks.",
+          "translationJa": "設定メニューを開いて、ネットワークのリストを見つけるとよいでしょう。",
+          "id": "beginner-2026-10-29-s03",
+          "startMs": 8316,
+          "endMs": 11513,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Select your home Wi-Fi name and type in your secret password carefully.",
+          "translationJa": "自宅のWi-Fi名を選択し、パスワードを慎重に入力してください。",
+          "id": "beginner-2026-10-29-s04",
+          "startMs": 11913,
+          "endMs": 15875,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "After you are online you should check for the latest software updates.",
+          "translationJa": "オンラインになったら、最新のソフトウェアアップデートを確認すべきです。",
+          "id": "beginner-2026-10-29-s05",
+          "startMs": 16275,
+          "endMs": 19952,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Updates help your device work better and keep it safe from problems.",
+          "translationJa": "アップデートはデバイスの動作を改善し、問題から守るのに役立ちます。",
+          "id": "beginner-2026-10-29-s06",
+          "startMs": 20352,
+          "endMs": 23981,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Sometimes an app might stop working or crash during a busy day.",
+          "translationJa": "時々、忙しい一日の間にアプリが動かなくなったり、強制終了したりすることがあります。",
+          "id": "beginner-2026-10-29-s07",
+          "startMs": 24381,
+          "endMs": 27902,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You can simply restart the device to fix these small technical errors.",
+          "translationJa": "デバイスを再起動するだけで、こうした小さな技術的なエラーを修正できます。",
+          "id": "beginner-2026-10-29-s08",
+          "startMs": 28302,
+          "endMs": 32172,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Now you are ready to enjoy using your favorite technology every day.",
+          "translationJa": "これで、毎日お気に入りのテクノロジーを楽しむ準備が整いました。",
+          "id": "beginner-2026-10-29-s09",
+          "startMs": 32572,
+          "endMs": 36363,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Technology makes our daily lives much more convenient and also very fun.",
+          "translationJa": "テクノロジーは私たちの日常生活をずっと便利で、とても楽しいものにしてくれます。",
+          "id": "beginner-2026-10-29-s10",
+          "startMs": 36763,
+          "endMs": 40966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner-s10.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is easy to use.",
+          "exampleJa": "この機器は使いやすいです。"
+        },
+        {
+          "word": "connect",
+          "meaningJa": "接続する",
+          "exampleEn": "Connect to the Wi-Fi now.",
+          "exampleJa": "今すぐWi-Fiに接続してください。"
+        },
+        {
+          "word": "settings",
+          "meaningJa": "設定",
+          "exampleEn": "Check your phone settings.",
+          "exampleJa": "携帯電話の設定を確認してください。"
+        },
+        {
+          "word": "password",
+          "meaningJa": "パスワード",
+          "exampleEn": "Do not share your password.",
+          "exampleJa": "パスワードを共有しないでください。"
+        },
+        {
+          "word": "restart",
+          "meaningJa": "再起動する",
+          "exampleEn": "Please restart your computer.",
+          "exampleJa": "コンピュータを再起動してください。"
+        }
+      ],
+      "id": "beginner-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/beginner.m4a",
+      "durationSeconds": 39
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Your Digital Tools",
+      "cefrLevel": "B1",
+      "summaryJa": "日常のデジタル機器を適切に管理し、接続トラブルを解決するための実用的なスキル。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing your everyday digital devices requires a basic understanding of how they function.",
+          "translationJa": "日常のデジタル機器を管理するには、それらがどのように機能するかという基本的な理解が必要です。",
+          "id": "intermediate-2026-10-29-s01",
+          "startMs": 0,
+          "endMs": 4927,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Most modern gadgets provide a simple interface to help users configure their network settings.",
+          "translationJa": "ほとんどの最新ガジェットは、ユーザーがネットワーク設定を構成するのに役立つシンプルなインターフェースを提供しています。",
+          "id": "intermediate-2026-10-29-s02",
+          "startMs": 5327,
+          "endMs": 10382,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "When you encounter connection issues, you should first verify that your internet is active.",
+          "translationJa": "接続の問題が発生したときは、まずインターネットが有効であることを確認するべきです。",
+          "id": "intermediate-2026-10-29-s03",
+          "startMs": 10782,
+          "endMs": 15544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "If the signal is weak, moving closer to the router often solves the problem.",
+          "translationJa": "信号が弱い場合は、ルーターに近づくことで問題が解決することがよくあります。",
+          "id": "intermediate-2026-10-29-s04",
+          "startMs": 15944,
+          "endMs": 20272,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Keeping your software updated is essential to ensure that your devices run very smoothly.",
+          "translationJa": "ソフトウェアを最新の状態に保つことは、デバイスを非常にスムーズに動作させるために不可欠です。",
+          "id": "intermediate-2026-10-29-s05",
+          "startMs": 20672,
+          "endMs": 25500,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Developers frequently release patches to improve security and fix bugs found in older versions.",
+          "translationJa": "開発者はセキュリティを向上させ、古いバージョンで見つかったバグを修正するために頻繁にパッチをリリースします。",
+          "id": "intermediate-2026-10-29-s06",
+          "startMs": 25900,
+          "endMs": 31177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "You can enable automatic updates to save time and avoid manual maintenance every month.",
+          "translationJa": "自動更新を有効にすれば、時間を節約し、毎月の手動メンテナンスを避けることができます。",
+          "id": "intermediate-2026-10-29-s07",
+          "startMs": 31577,
+          "endMs": 36457,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If an application crashes unexpectedly, try closing it completely before starting it again today.",
+          "translationJa": "アプリが予期せずクラッシュした場合は、今日再度起動する前に完全に閉じてみてください。",
+          "id": "intermediate-2026-10-29-s08",
+          "startMs": 36857,
+          "endMs": 42752,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "A quick restart of your tablet or smartphone clears the temporary memory quite effectively.",
+          "translationJa": "タブレットやスマートフォンのクイック再起動は、一時メモリを非常に効果的にクリアします。",
+          "id": "intermediate-2026-10-29-s09",
+          "startMs": 43152,
+          "endMs": 48060,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "These simple habits will help you maintain your technology in excellent condition for years.",
+          "translationJa": "これらの単純な習慣は、長年にわたってテクノロジーを優れた状態に保つのに役立ちます。",
+          "id": "intermediate-2026-10-29-s10",
+          "startMs": 48460,
+          "endMs": 53102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By following these steps, you can spend less time troubleshooting and more time working.",
+          "translationJa": "これらの手順に従うことで、トラブルシューティングに費やす時間を減らし、作業により多くの時間を割けます。",
+          "id": "intermediate-2026-10-29-s11",
+          "startMs": 53502,
+          "endMs": 58290,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Technology should serve your needs rather than becoming a source of daily frustration instead.",
+          "translationJa": "テクノロジーは、日々のフラストレーションの源になるのではなく、あなたのニーズを満たすものであるべきです。",
+          "id": "intermediate-2026-10-29-s12",
+          "startMs": 58690,
+          "endMs": 63427,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "gadget",
+          "meaningJa": "小道具、便利な装置",
+          "exampleEn": "I love buying new gadgets.",
+          "exampleJa": "私は新しいガジェットを買うのが大好きです。"
+        },
+        {
+          "word": "configure",
+          "meaningJa": "設定する",
+          "exampleEn": "Configure the settings carefully.",
+          "exampleJa": "設定を慎重に構成してください。"
+        },
+        {
+          "word": "verify",
+          "meaningJa": "確認する",
+          "exampleEn": "Please verify your email address.",
+          "exampleJa": "メールアドレスを確認してください。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Sleep is essential for health.",
+          "exampleJa": "睡眠は健康に不可欠です。"
+        },
+        {
+          "word": "troubleshooting",
+          "meaningJa": "問題解決、トラブルシューティング",
+          "exampleEn": "I spent hours troubleshooting.",
+          "exampleJa": "トラブルシューティングに何時間も費やしました。"
+        }
+      ],
+      "id": "intermediate-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/intermediate.m4a",
+      "durationSeconds": 61
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Your Digital Home Setup",
+      "cefrLevel": "B2",
+      "summaryJa": "家庭内のデジタルデバイスをスムーズにセットアップし、トラブルを解決するための実用的なガイド。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/everyday-devices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Setting up new electronic devices often feels like a daunting task for many people.",
+          "translationJa": "新しい電子機器のセットアップは、多くの人にとって気が遠くなるような作業に感じられることがよくあります。",
+          "id": "advanced-2026-10-29-s01",
+          "startMs": 0,
+          "endMs": 4740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, most modern hardware follows a very consistent and logical sequence for initial configuration.",
+          "translationJa": "しかし、ほとんどの最新ハードウェアは、初期設定において非常に一貫した論理的な手順に従っています。",
+          "id": "advanced-2026-10-29-s02",
+          "startMs": 5140,
+          "endMs": 11209,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, ensure your home network is stable before attempting to connect any new equipment.",
+          "translationJa": "まず、新しい機器を接続する前に、自宅のネットワークが安定していることを確認してください。",
+          "id": "advanced-2026-10-29-s03",
+          "startMs": 11609,
+          "endMs": 16603,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Weak signal strength is the primary reason why pairing processes fail during the installation phase.",
+          "translationJa": "信号強度が弱いことは、インストール段階でペアリング処理が失敗する主な原因となります。",
+          "id": "advanced-2026-10-29-s04",
+          "startMs": 17003,
+          "endMs": 22473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Once connected, checking for firmware updates should be the very next step you perform.",
+          "translationJa": "接続が完了したら、ファームウェアのアップデートを確認することが、次に行うべき非常に重要な手順です。",
+          "id": "advanced-2026-10-29-s05",
+          "startMs": 22873,
+          "endMs": 27682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Manufacturers release these patches to improve security features and resolve known software performance bugs.",
+          "translationJa": "メーカーは、セキュリティ機能を向上させ、既知のソフトウェアのパフォーマンス上のバグを解決するためにこれらのパッチをリリースします。",
+          "id": "advanced-2026-10-29-s06",
+          "startMs": 28082,
+          "endMs": 34332,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If you encounter unexpected errors, a simple power cycle often resolves the underlying issue.",
+          "translationJa": "予期せぬエラーに遭遇した場合は、電源を入れ直すだけで根本的な問題が解決することがよくあります。",
+          "id": "advanced-2026-10-29-s07",
+          "startMs": 34732,
+          "endMs": 40221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You should unplug the device from the power source for about thirty seconds before restarting.",
+          "translationJa": "再起動する前に、約30秒間電源からデバイスのプラグを抜いておく必要があります。",
+          "id": "advanced-2026-10-29-s08",
+          "startMs": 40621,
+          "endMs": 45176,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Most manuals provide clear troubleshooting tables that address these common connectivity and setup problems.",
+          "translationJa": "ほとんどの取扱説明書には、こうした一般的な接続やセットアップの問題に対処するための明確なトラブルシューティング表が記載されています。",
+          "id": "advanced-2026-10-29-s09",
+          "startMs": 45576,
+          "endMs": 51548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Do not hesitate to consult the official support website if the basic steps fail repeatedly.",
+          "translationJa": "基本的な手順を繰り返しても失敗する場合は、ためらわずに公式サポートウェブサイトを参照してください。",
+          "id": "advanced-2026-10-29-s10",
+          "startMs": 51948,
+          "endMs": 57037,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Maintaining an organized digital environment makes managing your daily technology much more efficient and enjoyable.",
+          "translationJa": "整理されたデジタル環境を維持することは、日々のテクノロジー管理をより効率的で楽しいものにします。",
+          "id": "advanced-2026-10-29-s11",
+          "startMs": 57437,
+          "endMs": 63722,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Taking time to learn these fundamental skills will save you significant frustration in the future.",
+          "translationJa": "これらの基本的なスキルを学ぶ時間を取ることは、将来的に大きなストレスを減らすことにつながります。",
+          "id": "advanced-2026-10-29-s12",
+          "startMs": 64122,
+          "endMs": 69114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "daunting",
+          "meaningJa": "気が遠くなるような、困難な",
+          "exampleEn": "The project seemed daunting at first.",
+          "exampleJa": "そのプロジェクトは最初は困難に思えた。"
+        },
+        {
+          "word": "configuration",
+          "meaningJa": "構成、設定",
+          "exampleEn": "The system requires a specific configuration.",
+          "exampleJa": "そのシステムは特定の構成を必要とする。"
+        },
+        {
+          "word": "firmware",
+          "meaningJa": "ファームウェア（機器を制御するソフトウェア）",
+          "exampleEn": "Updating the firmware fixed the connection issue.",
+          "exampleJa": "ファームウェアを更新したら接続の問題が直った。"
+        },
+        {
+          "word": "power cycle",
+          "meaningJa": "電源の入れ直し",
+          "exampleEn": "Try a power cycle if the device freezes.",
+          "exampleJa": "デバイスがフリーズしたら電源の入れ直しを試してください。"
+        },
+        {
+          "word": "troubleshooting",
+          "meaningJa": "トラブルシューティング、問題解決",
+          "exampleEn": "Check the guide for troubleshooting tips.",
+          "exampleJa": "問題解決のヒントについてはガイドを確認してください。"
+        }
+      ],
+      "id": "advanced-2026-10-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-29/advanced.m4a",
+      "durationSeconds": 67
+    }
+  ],
+  "topicCategory": "science_technology"
+}
