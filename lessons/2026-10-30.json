@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-29T15:01:26Z",
+  "lessonDate": "2026-10-30",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Taking Stretch Breaks at Your Desk",
+      "cefrLevel": "A2",
+      "summaryJa": "デスクワーク中の簡単なストレッチと姿勢の改善方法について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Do you often feel tired after sitting at your desk all day?",
+          "translationJa": "一日中デスクに座っていて、よく疲れを感じますか？",
+          "id": "beginner-2026-10-30-s01",
+          "startMs": 0,
+          "endMs": 3254,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "It is important to take small breaks to stretch your body muscles.",
+          "translationJa": "体の筋肉を伸ばすために短い休憩を取ることはとても大切です。",
+          "id": "beginner-2026-10-30-s02",
+          "startMs": 3654,
+          "endMs": 7111,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, you should try to sit up straight in your office chair.",
+          "translationJa": "まず、オフィスの椅子にまっすぐ座るようにしましょう。",
+          "id": "beginner-2026-10-30-s03",
+          "startMs": 7511,
+          "endMs": 10740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Keep your shoulders relaxed and look forward at your computer screen now.",
+          "translationJa": "肩の力を抜いて、今すぐコンピュータの画面をまっすぐ見てください。",
+          "id": "beginner-2026-10-30-s04",
+          "startMs": 11140,
+          "endMs": 14807,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can slowly move your head from side to side to relax.",
+          "translationJa": "リラックスするために、頭をゆっくり左右に動かすことができます。",
+          "id": "beginner-2026-10-30-s05",
+          "startMs": 15207,
+          "endMs": 18323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Stretch your arms above your head to feel a good, deep energy.",
+          "translationJa": "頭の上で腕を伸ばして、心地よいエネルギーを感じてみましょう。",
+          "id": "beginner-2026-10-30-s06",
+          "startMs": 18723,
+          "endMs": 22069,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking these short breaks helps you stay focused on your daily tasks.",
+          "translationJa": "こうした短い休憩を取ることは、毎日の仕事に集中する助けになります。",
+          "id": "beginner-2026-10-30-s07",
+          "startMs": 22469,
+          "endMs": 26172,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Your back will feel much better if you move around every hour.",
+          "translationJa": "一時間ごとに体を動かせば、背中の調子がずっと良くなります。",
+          "id": "beginner-2026-10-30-s08",
+          "startMs": 26572,
+          "endMs": 29467,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Healthy habits at work will make your life much happier every day.",
+          "translationJa": "職場での健康的な習慣が、毎日をより幸せにしてくれるはずです。",
+          "id": "beginner-2026-10-30-s09",
+          "startMs": 29867,
+          "endMs": 33324,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "stretch",
+          "meaningJa": "ストレッチをする、伸ばす",
+          "exampleEn": "It feels good to stretch in the morning.",
+          "exampleJa": "朝にストレッチをすると気持ちがいいです。"
+        },
+        {
+          "word": "posture",
+          "meaningJa": "姿勢",
+          "exampleEn": "Good posture helps reduce back pain.",
+          "exampleJa": "良い姿勢は背中の痛みを減らすのに役立ちます。"
+        },
+        {
+          "word": "relaxed",
+          "meaningJa": "リラックスした",
+          "exampleEn": "Try to keep your shoulders relaxed.",
+          "exampleJa": "肩をリラックスさせるようにしてください。"
+        },
+        {
+          "word": "focused",
+          "meaningJa": "集中した",
+          "exampleEn": "I am focused on my work today.",
+          "exampleJa": "今日は仕事に集中しています。"
+        },
+        {
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "Walking is a very healthy habit.",
+          "exampleJa": "ウォーキングはとても健康的な習慣です。"
+        }
+      ],
+      "id": "beginner-2026-10-30",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Taking Stretch Breaks at Your Desk",
+      "cefrLevel": "B1",
+      "summaryJa": "デスクワークによる体の凝りを防ぐための、効果的なストレッチの習慣について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Working at a desk for many hours can often lead to stiff muscles.",
+          "translationJa": "長時間デスクで作業をすることは、筋肉の凝りにつながることがよくあります。",
+          "id": "intermediate-2026-10-30-s01",
+          "startMs": 0,
+          "endMs": 3462,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people forget to move because they are busy with their daily tasks.",
+          "translationJa": "多くの人は日々の仕事に追われているため、体を動かすことを忘れてしまいます。",
+          "id": "intermediate-2026-10-30-s02",
+          "startMs": 3862,
+          "endMs": 7581,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "However, taking short breaks to stretch is essential for your long-term physical health.",
+          "translationJa": "しかし、ストレッチのために短い休憩を取ることは、長期的な身体の健康に不可欠です。",
+          "id": "intermediate-2026-10-30-s03",
+          "startMs": 7981,
+          "endMs": 12808,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You can start by adjusting your chair height to support your lower back properly.",
+          "translationJa": "まずは椅子の高さを調整して、腰を正しくサポートすることから始めましょう。",
+          "id": "intermediate-2026-10-30-s04",
+          "startMs": 13208,
+          "endMs": 17241,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to roll your shoulders backward to release the tension from your neck area.",
+          "translationJa": "首周りの緊張をほぐすために、肩を後ろに回すようにしてみてください。",
+          "id": "intermediate-2026-10-30-s05",
+          "startMs": 17641,
+          "endMs": 21484,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Reaching your arms toward the ceiling will help improve your blood flow very quickly.",
+          "translationJa": "腕を天井に向かって伸ばすと、血流を非常に素早く改善する助けになります。",
+          "id": "intermediate-2026-10-30-s06",
+          "startMs": 21884,
+          "endMs": 25955,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Remember to take deep breaths while you are doing these simple stretching movements today.",
+          "translationJa": "こうした単純なストレッチの動きをしている間は、深く呼吸することを忘れないでください。",
+          "id": "intermediate-2026-10-30-s07",
+          "startMs": 26355,
+          "endMs": 30774,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Setting a timer on your phone can remind you to stand up every hour.",
+          "translationJa": "スマホでタイマーをセットすれば、一時間ごとに立ち上がることを思い出せます。",
+          "id": "intermediate-2026-10-30-s08",
+          "startMs": 31174,
+          "endMs": 34625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Small changes in your daily routine can make a significant difference in your comfort.",
+          "translationJa": "日課の小さな変化が、快適さに大きな違いを生むことがあります。",
+          "id": "intermediate-2026-10-30-s09",
+          "startMs": 35025,
+          "endMs": 39450,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consistency is the key to maintaining a healthy body while working in an office.",
+          "translationJa": "オフィスで働きながら健康な体を維持するには、継続することが鍵となります。",
+          "id": "intermediate-2026-10-30-s10",
+          "startMs": 39850,
+          "endMs": 44041,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Prioritize your own well-being to stay productive and happy throughout the working week.",
+          "translationJa": "仕事の週を通して生産的で幸せでいるために、自分自身の健康を優先しましょう。",
+          "id": "intermediate-2026-10-30-s11",
+          "startMs": 44441,
+          "endMs": 48816,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "stiff",
+          "meaningJa": "凝った、硬い",
+          "exampleEn": "My neck feels stiff after sitting all day.",
+          "exampleJa": "一日中座っていたので首が凝っています。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "tension",
+          "meaningJa": "緊張、張り",
+          "exampleEn": "Stretching helps release muscle tension.",
+          "exampleJa": "ストレッチは筋肉の緊張をほぐすのに役立ちます。"
+        },
+        {
+          "word": "significant",
+          "meaningJa": "重要な、かなりの",
+          "exampleEn": "There was a significant change in his plan.",
+          "exampleJa": "彼の計画にはかなりの変化がありました。"
+        },
+        {
+          "word": "consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is important for learning.",
+          "exampleJa": "学習には継続が大切です。"
+        }
+      ],
+      "id": "intermediate-2026-10-30",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate.m4a",
+      "durationSeconds": 47
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Taking Stretch Breaks at Your Desk",
+      "cefrLevel": "B2",
+      "summaryJa": "デスクワーク中の健康管理として、効率的なストレッチと作業環境の最適化について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining physical well-being while working at a desk requires intentional movement throughout the day.",
+          "translationJa": "デスクワーク中に健康を維持するには、一日を通して意図的に体を動かす必要があります。",
+          "id": "advanced-2026-10-30-s01",
+          "startMs": 0,
+          "endMs": 5159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Sedentary work environments often contribute to poor posture and chronic muscle stiffness over time.",
+          "translationJa": "座りっぱなしの職場環境は、しばしば姿勢の悪化や慢性的な筋肉の凝りにつながります。",
+          "id": "advanced-2026-10-30-s02",
+          "startMs": 5559,
+          "endMs": 11320,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "To mitigate these issues, integrate brief stretching intervals into your standard professional workflow effectively.",
+          "translationJa": "こうした問題を軽減するために、短いストレッチの間隔を日々の仕事の流れに効果的に組み込みましょう。",
+          "id": "advanced-2026-10-30-s03",
+          "startMs": 11720,
+          "endMs": 17780,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Focus on opening your chest muscles to counteract the forward hunching caused by computer use.",
+          "translationJa": "コンピュータの使用によって引き起こされる前かがみの姿勢に対抗するため、胸の筋肉を開くことに注力してください。",
+          "id": "advanced-2026-10-30-s04",
+          "startMs": 18180,
+          "endMs": 23394,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Simple neck rotations can alleviate the strain accumulated from staring at monitors for prolonged periods.",
+          "translationJa": "単純な首の回旋運動は、長時間モニターを見つめることで蓄積された負担を和らげることができます。",
+          "id": "advanced-2026-10-30-s05",
+          "startMs": 23794,
+          "endMs": 29741,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Ensure your ergonomic setup supports neutral alignment to minimize unnecessary physical stress on your body.",
+          "translationJa": "身体への不要な物理的ストレスを最小限に抑えるため、人間工学に基づいた環境が正しい姿勢を支えているか確認してください。",
+          "id": "advanced-2026-10-30-s06",
+          "startMs": 30141,
+          "endMs": 36140,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Hydration also plays a vital role in keeping your muscles flexible and your mind sharp.",
+          "translationJa": "水分補給もまた、筋肉を柔軟に保ち、頭を冴えさせる上で重要な役割を果たします。",
+          "id": "advanced-2026-10-30-s07",
+          "startMs": 36540,
+          "endMs": 41192,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Use physical cues, such as finishing a task, as a prompt to stand and stretch.",
+          "translationJa": "タスクを終えるといった物理的な合図を、立ち上がってストレッチをするきっかけにしましょう。",
+          "id": "advanced-2026-10-30-s08",
+          "startMs": 41592,
+          "endMs": 46577,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "These deliberate pauses are not merely breaks but essential investments in your long-term energy levels.",
+          "translationJa": "こうした意識的な休止は単なる休憩ではなく、長期的なエネルギーレベルへの重要な投資です。",
+          "id": "advanced-2026-10-30-s09",
+          "startMs": 46977,
+          "endMs": 52258,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By prioritizing these movements, you cultivate a sustainable approach to your daily professional responsibilities.",
+          "translationJa": "これらの動きを優先することで、日々の仕事上の責任に対して持続可能なアプローチを築けます。",
+          "id": "advanced-2026-10-30-s10",
+          "startMs": 52658,
+          "endMs": 59152,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, a balanced routine fosters both physical comfort and enhanced focus during busy office hours.",
+          "translationJa": "結局のところ、バランスの取れた日課は、忙しいオフィス時間中の身体的な快適さと集中力の向上を促進します。",
+          "id": "advanced-2026-10-30-s11",
+          "startMs": 59552,
+          "endMs": 65874,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "sedentary",
+          "meaningJa": "座りっぱなしの",
+          "exampleEn": "A sedentary lifestyle can be unhealthy.",
+          "exampleJa": "座りっぱなしの生活習慣は不健康になり得ます。"
+        },
+        {
+          "word": "mitigate",
+          "meaningJa": "軽減する",
+          "exampleEn": "We must mitigate the risk of injury.",
+          "exampleJa": "怪我のリスクを軽減しなければなりません。"
+        },
+        {
+          "word": "counteract",
+          "meaningJa": "対抗する、相殺する",
+          "exampleEn": "Exercise helps counteract the effects of stress.",
+          "exampleJa": "運動はストレスの影響を相殺する助けになります。"
+        },
+        {
+          "word": "ergonomic",
+          "meaningJa": "人間工学に基づいた",
+          "exampleEn": "I bought an ergonomic chair for my office.",
+          "exampleJa": "オフィス用に人間工学に基づいた椅子を買いました。"
+        },
+        {
+          "word": "cultivate",
+          "meaningJa": "養う、築く",
+          "exampleEn": "It takes time to cultivate good habits.",
+          "exampleJa": "良い習慣を築くには時間がかかります。"
+        }
+      ],
+      "id": "advanced-2026-10-30",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced.m4a",
+      "durationSeconds": 64
+    }
+  ],
+  "topicCategory": "health_wellness"
+}

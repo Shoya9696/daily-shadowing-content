@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-28T17:50:26Z",
-  "latestLessonDate": "2026-10-29",
+  "generatedAtUtc": "2026-10-29T15:01:26Z",
+  "latestLessonDate": "2026-10-30",
   "days": [
+    {
+      "lessonDate": "2026-10-30",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-30.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Taking Stretch Breaks at Your Desk",
+          "durationSeconds": 32,
+          "summaryJa": "デスクワーク中の簡単なストレッチと姿勢の改善方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Taking Stretch Breaks at Your Desk",
+          "durationSeconds": 47,
+          "summaryJa": "デスクワークによる体の凝りを防ぐための、効果的なストレッチの習慣について学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Taking Stretch Breaks at Your Desk",
+          "durationSeconds": 64,
+          "summaryJa": "デスクワーク中の健康管理として、効率的なストレッチと作業環境の最適化について学びます。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-10-29",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-29.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-09-29",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-29.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Exploring a Local Market",
-          "durationSeconds": 32,
-          "summaryJa": "地元の市場を訪れて、食べ物を探したり店員と会話したりする際の基本的な表現を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Enjoying the Atmosphere of a Local Market",
-          "durationSeconds": 49,
-          "summaryJa": "地元の市場の活気ある雰囲気の中での買い物や、店員とのやり取りについての表現を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Navigating Local Markets",
-          "durationSeconds": 59,
-          "summaryJa": "旅行先で地元の市場をより深く楽しみ、地元の人々との交流を深めるための洗練された表現を学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
