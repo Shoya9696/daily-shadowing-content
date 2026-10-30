@@ -1,425 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-29T15:01:26Z",
-  "lessonDate": "2026-10-30",
+  "generatedAtUtc": "2026-10-30T15:02:35Z",
+  "lessonDate": "2026-10-31",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Taking Stretch Breaks at Your Desk",
+      "title": "Planning a Simple Monthly Budget",
       "cefrLevel": "A2",
-      "summaryJa": "デスクワーク中の簡単なストレッチと姿勢の改善方法について学びます。",
+      "summaryJa": "月々の予算を立てるための実践的なヒントと、支出を管理して貯金をする方法について。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Do you often feel tired after sitting at your desk all day?",
-          "translationJa": "一日中デスクに座っていて、よく疲れを感じますか？",
-          "id": "beginner-2026-10-30-s01",
+          "text": "Managing your monthly money is a very important skill for everyone today.",
+          "translationJa": "月々の資金を管理することは、今日誰にとっても非常に重要なスキルです。",
+          "id": "beginner-2026-10-31-s01",
           "startMs": 0,
-          "endMs": 3254,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s01.m4a"
+          "endMs": 3812,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "It is important to take small breaks to stretch your body muscles.",
-          "translationJa": "体の筋肉を伸ばすために短い休憩を取ることはとても大切です。",
-          "id": "beginner-2026-10-30-s02",
-          "startMs": 3654,
-          "endMs": 7111,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s02.m4a"
+          "text": "First, you should look at how much money you earn every single month.",
+          "translationJa": "まず、毎月いくら稼いでいるかを確認する必要があります。",
+          "id": "beginner-2026-10-31-s02",
+          "startMs": 4212,
+          "endMs": 7917,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "First, you should try to sit up straight in your office chair.",
-          "translationJa": "まず、オフィスの椅子にまっすぐ座るようにしましょう。",
-          "id": "beginner-2026-10-30-s03",
-          "startMs": 7511,
-          "endMs": 10740,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s03.m4a"
+          "text": "Then, write down all your necessary expenses like rent and your grocery bills.",
+          "translationJa": "次に、家賃や食費などの必要な支出をすべて書き出してください。",
+          "id": "beginner-2026-10-31-s03",
+          "startMs": 8317,
+          "endMs": 12785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Keep your shoulders relaxed and look forward at your computer screen now.",
-          "translationJa": "肩の力を抜いて、今すぐコンピュータの画面をまっすぐ見てください。",
-          "id": "beginner-2026-10-30-s04",
-          "startMs": 11140,
-          "endMs": 14807,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s04.m4a"
+          "text": "It is helpful to use a simple notebook or a phone app today.",
+          "translationJa": "今日では、シンプルなノートやスマホアプリを使うのが役立ちます。",
+          "id": "beginner-2026-10-31-s04",
+          "startMs": 13185,
+          "endMs": 16433,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You can slowly move your head from side to side to relax.",
-          "translationJa": "リラックスするために、頭をゆっくり左右に動かすことができます。",
-          "id": "beginner-2026-10-30-s05",
-          "startMs": 15207,
-          "endMs": 18323,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s05.m4a"
+          "text": "Try to categorize your spending to see where your money goes each week.",
+          "translationJa": "毎週どこにお金を使っているかを確認するために、支出を分類してみましょう。",
+          "id": "beginner-2026-10-31-s05",
+          "startMs": 16833,
+          "endMs": 20444,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Stretch your arms above your head to feel a good, deep energy.",
-          "translationJa": "頭の上で腕を伸ばして、心地よいエネルギーを感じてみましょう。",
-          "id": "beginner-2026-10-30-s06",
-          "startMs": 18723,
-          "endMs": 22069,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s06.m4a"
+          "text": "You might find that you spend too much money on coffee or snacks.",
+          "translationJa": "コーヒーやおやつにお金を使いすぎていることに気づくかもしれません。",
+          "id": "beginner-2026-10-31-s06",
+          "startMs": 20844,
+          "endMs": 24331,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Taking these short breaks helps you stay focused on your daily tasks.",
-          "translationJa": "こうした短い休憩を取ることは、毎日の仕事に集中する助けになります。",
-          "id": "beginner-2026-10-30-s07",
-          "startMs": 22469,
-          "endMs": 26172,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s07.m4a"
+          "text": "Set a small limit for your extra spending to keep your budget balanced.",
+          "translationJa": "予算のバランスを保つために、余分な支出に小さな制限を設けましょう。",
+          "id": "beginner-2026-10-31-s07",
+          "startMs": 24731,
+          "endMs": 28461,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Your back will feel much better if you move around every hour.",
-          "translationJa": "一時間ごとに体を動かせば、背中の調子がずっと良くなります。",
-          "id": "beginner-2026-10-30-s08",
-          "startMs": 26572,
-          "endMs": 29467,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s08.m4a"
+          "text": "Even saving a small amount of money every month will help you later.",
+          "translationJa": "毎月少額でも貯金することは、後であなたを助けることになります。",
+          "id": "beginner-2026-10-31-s08",
+          "startMs": 28861,
+          "endMs": 32259,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Healthy habits at work will make your life much happier every day.",
-          "translationJa": "職場での健康的な習慣が、毎日をより幸せにしてくれるはずです。",
-          "id": "beginner-2026-10-30-s09",
-          "startMs": 29867,
-          "endMs": 33324,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner-s09.m4a"
+          "text": "Being careful with your personal finances leads to a much less stressful life.",
+          "translationJa": "個人の財政に気を使うことは、ストレスの少ない生活につながります。",
+          "id": "beginner-2026-10-31-s09",
+          "startMs": 32659,
+          "endMs": 36925,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "stretch",
-          "meaningJa": "ストレッチをする、伸ばす",
-          "exampleEn": "It feels good to stretch in the morning.",
-          "exampleJa": "朝にストレッチをすると気持ちがいいです。"
+          "word": "manage",
+          "meaningJa": "管理する",
+          "exampleEn": "I need to manage my time better.",
+          "exampleJa": "もっと時間を上手に管理する必要があります。"
         },
         {
-          "word": "posture",
-          "meaningJa": "姿勢",
-          "exampleEn": "Good posture helps reduce back pain.",
-          "exampleJa": "良い姿勢は背中の痛みを減らすのに役立ちます。"
+          "word": "expense",
+          "meaningJa": "支出",
+          "exampleEn": "Keep track of every daily expense.",
+          "exampleJa": "毎日の支出をすべて記録しておいてください。"
         },
         {
-          "word": "relaxed",
-          "meaningJa": "リラックスした",
-          "exampleEn": "Try to keep your shoulders relaxed.",
-          "exampleJa": "肩をリラックスさせるようにしてください。"
+          "word": "categorize",
+          "meaningJa": "分類する",
+          "exampleEn": "Categorize your items by color.",
+          "exampleJa": "アイテムを色ごとに分類してください。"
         },
         {
-          "word": "focused",
-          "meaningJa": "集中した",
-          "exampleEn": "I am focused on my work today.",
-          "exampleJa": "今日は仕事に集中しています。"
+          "word": "balanced",
+          "meaningJa": "バランスの取れた",
+          "exampleEn": "Eat a balanced diet every day.",
+          "exampleJa": "毎日バランスの取れた食事を摂りましょう。"
         },
         {
-          "word": "habit",
-          "meaningJa": "習慣",
-          "exampleEn": "Walking is a very healthy habit.",
-          "exampleJa": "ウォーキングはとても健康的な習慣です。"
+          "word": "stressful",
+          "meaningJa": "ストレスの多い",
+          "exampleEn": "The job was very stressful.",
+          "exampleJa": "その仕事はとてもストレスが多かったです。"
         }
       ],
-      "id": "beginner-2026-10-30",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/beginner.m4a",
-      "durationSeconds": 32
+      "id": "beginner-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner.m4a",
+      "durationSeconds": 35
     },
     {
       "levelGroup": "intermediate",
-      "title": "Taking Stretch Breaks at Your Desk",
+      "title": "Creating an Effective Monthly Budget",
       "cefrLevel": "B1",
-      "summaryJa": "デスクワークによる体の凝りを防ぐための、効果的なストレッチの習慣について学びます。",
+      "summaryJa": "効果的な月間予算の立て方と、賢い支出管理のためのステップ。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Working at a desk for many hours can often lead to stiff muscles.",
-          "translationJa": "長時間デスクで作業をすることは、筋肉の凝りにつながることがよくあります。",
-          "id": "intermediate-2026-10-30-s01",
+          "text": "Creating a monthly budget is the best way to take control of your finances.",
+          "translationJa": "月間予算を作成することは、家計を管理するための最善の方法です。",
+          "id": "intermediate-2026-10-31-s01",
           "startMs": 0,
-          "endMs": 3462,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s01.m4a"
+          "endMs": 4120,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people forget to move because they are busy with their daily tasks.",
-          "translationJa": "多くの人は日々の仕事に追われているため、体を動かすことを忘れてしまいます。",
-          "id": "intermediate-2026-10-30-s02",
-          "startMs": 3862,
-          "endMs": 7581,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s02.m4a"
+          "text": "Start by listing your total monthly income from all of your different work sources.",
+          "translationJa": "まずは、すべての異なる労働源からの月間総収入をリストアップすることから始めましょう。",
+          "id": "intermediate-2026-10-31-s02",
+          "startMs": 4520,
+          "endMs": 8713,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "However, taking short breaks to stretch is essential for your long-term physical health.",
-          "translationJa": "しかし、ストレッチのために短い休憩を取ることは、長期的な身体の健康に不可欠です。",
-          "id": "intermediate-2026-10-30-s03",
-          "startMs": 7981,
-          "endMs": 12808,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s03.m4a"
+          "text": "Next, identify your fixed costs such as monthly rent, utility bills, and insurance payments.",
+          "translationJa": "次に、家賃、光熱費、保険料などの固定費を特定してください。",
+          "id": "intermediate-2026-10-31-s03",
+          "startMs": 9113,
+          "endMs": 15308,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You can start by adjusting your chair height to support your lower back properly.",
-          "translationJa": "まずは椅子の高さを調整して、腰を正しくサポートすることから始めましょう。",
-          "id": "intermediate-2026-10-30-s04",
-          "startMs": 13208,
-          "endMs": 17241,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s04.m4a"
+          "text": "These costs are usually the same every month and must be paid on time.",
+          "translationJa": "これらの費用は通常毎月同じであり、期限内に支払う必要があります。",
+          "id": "intermediate-2026-10-31-s04",
+          "startMs": 15708,
+          "endMs": 19317,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to roll your shoulders backward to release the tension from your neck area.",
-          "translationJa": "首周りの緊張をほぐすために、肩を後ろに回すようにしてみてください。",
-          "id": "intermediate-2026-10-30-s05",
-          "startMs": 17641,
-          "endMs": 21484,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s05.m4a"
+          "text": "Then, look at your variable spending like groceries, dining out, and your entertainment habits.",
+          "translationJa": "その後、食費、外食、娯楽の習慣などの変動費を確認してください。",
+          "id": "intermediate-2026-10-31-s05",
+          "startMs": 19717,
+          "endMs": 25439,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Reaching your arms toward the ceiling will help improve your blood flow very quickly.",
-          "translationJa": "腕を天井に向かって伸ばすと、血流を非常に素早く改善する助けになります。",
-          "id": "intermediate-2026-10-30-s06",
-          "startMs": 21884,
-          "endMs": 25955,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s06.m4a"
+          "text": "Tracking these small purchases often reveals where you can save quite a bit money.",
+          "translationJa": "これらの小さな買い物を記録すると、どこでかなり節約できるかが明らかになることがよくあります。",
+          "id": "intermediate-2026-10-31-s06",
+          "startMs": 25839,
+          "endMs": 30077,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Remember to take deep breaths while you are doing these simple stretching movements today.",
-          "translationJa": "こうした単純なストレッチの動きをしている間は、深く呼吸することを忘れないでください。",
-          "id": "intermediate-2026-10-30-s07",
-          "startMs": 26355,
-          "endMs": 30774,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s07.m4a"
+          "text": "Set realistic goals for your savings to stay motivated throughout the entire year ahead.",
+          "translationJa": "一年を通してモチベーションを維持するために、貯金に対して現実的な目標を設定しましょう。",
+          "id": "intermediate-2026-10-31-s07",
+          "startMs": 30477,
+          "endMs": 35101,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Setting a timer on your phone can remind you to stand up every hour.",
-          "translationJa": "スマホでタイマーをセットすれば、一時間ごとに立ち上がることを思い出せます。",
-          "id": "intermediate-2026-10-30-s08",
-          "startMs": 31174,
-          "endMs": 34625,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s08.m4a"
+          "text": "Use a digital spreadsheet to monitor your progress toward your financial goals each month.",
+          "translationJa": "デジタルスプレッドシートを使用して、毎月、経済的目標に向けた進捗状況を監視しましょう。",
+          "id": "intermediate-2026-10-31-s08",
+          "startMs": 35501,
+          "endMs": 40161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small changes in your daily routine can make a significant difference in your comfort.",
-          "translationJa": "日課の小さな変化が、快適さに大きな違いを生むことがあります。",
-          "id": "intermediate-2026-10-30-s09",
-          "startMs": 35025,
-          "endMs": 39450,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s09.m4a"
+          "text": "If you go over your budget, simply adjust your spending habits for the next period.",
+          "translationJa": "もし予算を超えてしまったら、次の期間に向けて支出習慣を調整するだけです。",
+          "id": "intermediate-2026-10-31-s09",
+          "startMs": 40561,
+          "endMs": 45016,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Consistency is the key to maintaining a healthy body while working in an office.",
-          "translationJa": "オフィスで働きながら健康な体を維持するには、継続することが鍵となります。",
-          "id": "intermediate-2026-10-30-s10",
-          "startMs": 39850,
-          "endMs": 44041,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s10.m4a"
+          "text": "Consistency is truly the most important factor when you are building long-term financial habits.",
+          "translationJa": "長期的な経済習慣を築く際には、継続することが最も重要な要素となります。",
+          "id": "intermediate-2026-10-31-s10",
+          "startMs": 45416,
+          "endMs": 50640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Prioritize your own well-being to stay productive and happy throughout the working week.",
-          "translationJa": "仕事の週を通して生産的で幸せでいるために、自分自身の健康を優先しましょう。",
-          "id": "intermediate-2026-10-30-s11",
-          "startMs": 44441,
-          "endMs": 48816,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate-s11.m4a"
+          "text": "With patience and discipline, you will eventually reach your personal financial goals very easily.",
+          "translationJa": "忍耐と規律があれば、最終的には個人の経済的目標を非常に簡単に達成できるでしょう。",
+          "id": "intermediate-2026-10-31-s11",
+          "startMs": 51040,
+          "endMs": 56255,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "stiff",
-          "meaningJa": "凝った、硬い",
-          "exampleEn": "My neck feels stiff after sitting all day.",
-          "exampleJa": "一日中座っていたので首が凝っています。"
+          "word": "fixed cost",
+          "meaningJa": "固定費",
+          "exampleEn": "Rent is a typical fixed cost.",
+          "exampleJa": "家賃は典型的な固定費です。"
         },
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命に不可欠です。"
+          "word": "variable",
+          "meaningJa": "変動する",
+          "exampleEn": "Variable costs change every month.",
+          "exampleJa": "変動費は毎月変化します。"
         },
         {
-          "word": "tension",
-          "meaningJa": "緊張、張り",
-          "exampleEn": "Stretching helps release muscle tension.",
-          "exampleJa": "ストレッチは筋肉の緊張をほぐすのに役立ちます。"
-        },
-        {
-          "word": "significant",
-          "meaningJa": "重要な、かなりの",
-          "exampleEn": "There was a significant change in his plan.",
-          "exampleJa": "彼の計画にはかなりの変化がありました。"
+          "word": "monitor",
+          "meaningJa": "監視する、記録する",
+          "exampleEn": "Monitor your spending closely.",
+          "exampleJa": "支出を注意深く記録してください。"
         },
         {
           "word": "consistency",
-          "meaningJa": "一貫性、継続",
-          "exampleEn": "Consistency is important for learning.",
-          "exampleJa": "学習には継続が大切です。"
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is key to success.",
+          "exampleJa": "継続こそが成功の鍵です。"
+        },
+        {
+          "word": "discipline",
+          "meaningJa": "規律、自己管理",
+          "exampleEn": "He has the discipline to save money.",
+          "exampleJa": "彼にはお金を貯める規律があります。"
         }
       ],
-      "id": "intermediate-2026-10-30",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/intermediate.m4a",
-      "durationSeconds": 47
+      "id": "intermediate-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Taking Stretch Breaks at Your Desk",
+      "title": "Mastering Personal Financial Management",
       "cefrLevel": "B2",
-      "summaryJa": "デスクワーク中の健康管理として、効率的なストレッチと作業環境の最適化について学びます。",
+      "summaryJa": "個人の財務管理をマスターし、持続可能な節約と将来の計画を立てるための戦略。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/stretch-breaks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Maintaining physical well-being while working at a desk requires intentional movement throughout the day.",
-          "translationJa": "デスクワーク中に健康を維持するには、一日を通して意図的に体を動かす必要があります。",
-          "id": "advanced-2026-10-30-s01",
+          "text": "Developing a robust budget is essential for maintaining long-term financial stability and personal peace.",
+          "translationJa": "強固な予算を策定することは、長期的な経済的安定と心の平穏を維持するために不可欠です。",
+          "id": "advanced-2026-10-31-s01",
           "startMs": 0,
-          "endMs": 5159,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s01.m4a"
+          "endMs": 5625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Sedentary work environments often contribute to poor posture and chronic muscle stiffness over time.",
-          "translationJa": "座りっぱなしの職場環境は、しばしば姿勢の悪化や慢性的な筋肉の凝りにつながります。",
-          "id": "advanced-2026-10-30-s02",
-          "startMs": 5559,
-          "endMs": 11320,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s02.m4a"
+          "text": "Begin by auditing your previous three months of spending to understand your current financial patterns.",
+          "translationJa": "まずは過去3ヶ月の支出を精査し、現在の経済的パターンを理解することから始めましょう。",
+          "id": "advanced-2026-10-31-s02",
+          "startMs": 6025,
+          "endMs": 11172,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "To mitigate these issues, integrate brief stretching intervals into your standard professional workflow effectively.",
-          "translationJa": "こうした問題を軽減するために、短いストレッチの間隔を日々の仕事の流れに効果的に組み込みましょう。",
-          "id": "advanced-2026-10-30-s03",
-          "startMs": 11720,
-          "endMs": 17780,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s03.m4a"
+          "text": "Distinguish clearly between your essential living needs and your discretionary spending on luxury items.",
+          "translationJa": "生活に必要な支出と、贅沢品への裁量的な支出を明確に区別してください。",
+          "id": "advanced-2026-10-31-s03",
+          "startMs": 11572,
+          "endMs": 17116,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Focus on opening your chest muscles to counteract the forward hunching caused by computer use.",
-          "translationJa": "コンピュータの使用によって引き起こされる前かがみの姿勢に対抗するため、胸の筋肉を開くことに注力してください。",
-          "id": "advanced-2026-10-30-s04",
-          "startMs": 18180,
-          "endMs": 23394,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s04.m4a"
+          "text": "Once identified, allocate specific amounts to each category to prevent overspending in certain areas.",
+          "translationJa": "特定できたら、特定の分野での浪費を防ぐために各カテゴリーに特定の金額を割り当てましょう。",
+          "id": "advanced-2026-10-31-s04",
+          "startMs": 17516,
+          "endMs": 23799,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Simple neck rotations can alleviate the strain accumulated from staring at monitors for prolonged periods.",
-          "translationJa": "単純な首の回旋運動は、長時間モニターを見つめることで蓄積された負担を和らげることができます。",
-          "id": "advanced-2026-10-30-s05",
-          "startMs": 23794,
-          "endMs": 29741,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s05.m4a"
+          "text": "Automating your savings transfers can effectively remove the temptation to spend your extra cash.",
+          "translationJa": "貯金の振替を自動化することで、余分な現金を浪費する誘惑を効果的に排除できます。",
+          "id": "advanced-2026-10-31-s05",
+          "startMs": 24199,
+          "endMs": 29496,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Ensure your ergonomic setup supports neutral alignment to minimize unnecessary physical stress on your body.",
-          "translationJa": "身体への不要な物理的ストレスを最小限に抑えるため、人間工学に基づいた環境が正しい姿勢を支えているか確認してください。",
-          "id": "advanced-2026-10-30-s06",
-          "startMs": 30141,
-          "endMs": 36140,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s06.m4a"
+          "text": "Review your budget at the end of every month to adjust for any unexpected circumstances.",
+          "translationJa": "予期せぬ状況に対応できるよう、毎月末に予算を見直すようにしてください。",
+          "id": "advanced-2026-10-31-s06",
+          "startMs": 29896,
+          "endMs": 34571,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Hydration also plays a vital role in keeping your muscles flexible and your mind sharp.",
-          "translationJa": "水分補給もまた、筋肉を柔軟に保ち、頭を冴えさせる上で重要な役割を果たします。",
-          "id": "advanced-2026-10-30-s07",
-          "startMs": 36540,
-          "endMs": 41192,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s07.m4a"
+          "text": "Consider creating an emergency fund to cover at least three months of your living expenses.",
+          "translationJa": "少なくとも3ヶ月分の生活費をカバーできる緊急資金を作成することを検討してください。",
+          "id": "advanced-2026-10-31-s07",
+          "startMs": 34971,
+          "endMs": 39754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Use physical cues, such as finishing a task, as a prompt to stand and stretch.",
-          "translationJa": "タスクを終えるといった物理的な合図を、立ち上がってストレッチをするきっかけにしましょう。",
-          "id": "advanced-2026-10-30-s08",
-          "startMs": 41592,
-          "endMs": 46577,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s08.m4a"
+          "text": "Financial literacy allows you to make informed decisions about how you allocate your resources.",
+          "translationJa": "金融リテラシーがあれば、リソースをどのように配分するかについて情報に基づいた決定ができます。",
+          "id": "advanced-2026-10-31-s08",
+          "startMs": 40154,
+          "endMs": 45357,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "These deliberate pauses are not merely breaks but essential investments in your long-term energy levels.",
-          "translationJa": "こうした意識的な休止は単なる休憩ではなく、長期的なエネルギーレベルへの重要な投資です。",
-          "id": "advanced-2026-10-30-s09",
-          "startMs": 46977,
-          "endMs": 52258,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s09.m4a"
+          "text": "Avoiding high-interest debt is another crucial component of maintaining a healthy financial balance sheet.",
+          "translationJa": "高金利の負債を避けることも、健全な貸借対照表を維持するための重要な要素です。",
+          "id": "advanced-2026-10-31-s09",
+          "startMs": 45757,
+          "endMs": 51199,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "By prioritizing these movements, you cultivate a sustainable approach to your daily professional responsibilities.",
-          "translationJa": "これらの動きを優先することで、日々の仕事上の責任に対して持続可能なアプローチを築けます。",
-          "id": "advanced-2026-10-30-s10",
-          "startMs": 52658,
-          "endMs": 59152,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s10.m4a"
+          "text": "Remember that a budget is not a restriction but a tool for achieving freedom.",
+          "translationJa": "予算は制限ではなく、自由を達成するためのツールであることを忘れないでください。",
+          "id": "advanced-2026-10-31-s10",
+          "startMs": 51599,
+          "endMs": 55321,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Ultimately, a balanced routine fosters both physical comfort and enhanced focus during busy office hours.",
-          "translationJa": "結局のところ、バランスの取れた日課は、忙しいオフィス時間中の身体的な快適さと集中力の向上を促進します。",
-          "id": "advanced-2026-10-30-s11",
-          "startMs": 59552,
-          "endMs": 65874,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced-s11.m4a"
+          "text": "Small, incremental changes in your daily behavior will yield significant results over the years.",
+          "translationJa": "日々の行動における小さく段階的な変化が、何年にもわたって大きな結果をもたらすでしょう。",
+          "id": "advanced-2026-10-31-s11",
+          "startMs": 55721,
+          "endMs": 61157,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Stay focused on your objectives and adjust your strategy whenever your life situation changes.",
+          "translationJa": "目標に集中し、生活状況が変わるたびに戦略を調整してください。",
+          "id": "advanced-2026-10-31-s12",
+          "startMs": 61557,
+          "endMs": 66575,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "sedentary",
-          "meaningJa": "座りっぱなしの",
-          "exampleEn": "A sedentary lifestyle can be unhealthy.",
-          "exampleJa": "座りっぱなしの生活習慣は不健康になり得ます。"
+          "word": "robust",
+          "meaningJa": "強固な、しっかりした",
+          "exampleEn": "We need a robust plan.",
+          "exampleJa": "私たちは強固な計画が必要です。"
         },
         {
-          "word": "mitigate",
-          "meaningJa": "軽減する",
-          "exampleEn": "We must mitigate the risk of injury.",
-          "exampleJa": "怪我のリスクを軽減しなければなりません。"
+          "word": "audit",
+          "meaningJa": "精査する、監査する",
+          "exampleEn": "Audit your expenses carefully.",
+          "exampleJa": "支出を注意深く精査してください。"
         },
         {
-          "word": "counteract",
-          "meaningJa": "対抗する、相殺する",
-          "exampleEn": "Exercise helps counteract the effects of stress.",
-          "exampleJa": "運動はストレスの影響を相殺する助けになります。"
+          "word": "discretionary",
+          "meaningJa": "裁量的な、自由な",
+          "exampleEn": "Reduce your discretionary spending.",
+          "exampleJa": "自由裁量の支出を減らしましょう。"
         },
         {
-          "word": "ergonomic",
-          "meaningJa": "人間工学に基づいた",
-          "exampleEn": "I bought an ergonomic chair for my office.",
-          "exampleJa": "オフィス用に人間工学に基づいた椅子を買いました。"
+          "word": "literacy",
+          "meaningJa": "読み書き能力、知識",
+          "exampleEn": "Financial literacy is a key skill.",
+          "exampleJa": "金融リテラシーは重要なスキルです。"
         },
         {
-          "word": "cultivate",
-          "meaningJa": "養う、築く",
-          "exampleEn": "It takes time to cultivate good habits.",
-          "exampleJa": "良い習慣を築くには時間がかかります。"
+          "word": "incremental",
+          "meaningJa": "増加の、段階的な",
+          "exampleEn": "Make incremental progress daily.",
+          "exampleJa": "毎日段階的に進歩してください。"
         }
       ],
-      "id": "advanced-2026-10-30",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-30/advanced.m4a",
+      "id": "advanced-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced.m4a",
       "durationSeconds": 64
     }
   ],
-  "topicCategory": "health_wellness"
+  "topicCategory": "business_money"
 }

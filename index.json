@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-29T15:01:26Z",
-  "latestLessonDate": "2026-10-30",
+  "generatedAtUtc": "2026-10-30T15:02:35Z",
+  "latestLessonDate": "2026-10-31",
   "days": [
+    {
+      "lessonDate": "2026-10-31",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-31.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Planning a Simple Monthly Budget",
+          "durationSeconds": 35,
+          "summaryJa": "月々の予算を立てるための実践的なヒントと、支出を管理して貯金をする方法について。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating an Effective Monthly Budget",
+          "durationSeconds": 54,
+          "summaryJa": "効果的な月間予算の立て方と、賢い支出管理のためのステップ。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Personal Financial Management",
+          "durationSeconds": 64,
+          "summaryJa": "個人の財務管理をマスターし、持続可能な節約と将来の計画を立てるための戦略。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-10-30",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-30.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-09-30",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-09-30.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Organizing Your Digital Study Space",
-          "durationSeconds": 36,
-          "summaryJa": "デジタル学習ツールを活用して、毎日の勉強を効率的に整理する方法を紹介します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Digital Study Habits",
-          "durationSeconds": 56,
-          "summaryJa": "デジタルツールを使って学習の効率を高め、整理された環境を作るためのヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Learning Workflow",
-          "durationSeconds": 70,
-          "summaryJa": "デジタルツールを戦略的に活用して、学習ワークフローを最適化する方法について。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }

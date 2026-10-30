@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-30T15:02:35Z",
+  "lessonDate": "2026-10-31",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Planning a Simple Monthly Budget",
+      "cefrLevel": "A2",
+      "summaryJa": "月々の予算を立てるための実践的なヒントと、支出を管理して貯金をする方法について。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing your monthly money is a very important skill for everyone today.",
+          "translationJa": "月々の資金を管理することは、今日誰にとっても非常に重要なスキルです。",
+          "id": "beginner-2026-10-31-s01",
+          "startMs": 0,
+          "endMs": 3812,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should look at how much money you earn every single month.",
+          "translationJa": "まず、毎月いくら稼いでいるかを確認する必要があります。",
+          "id": "beginner-2026-10-31-s02",
+          "startMs": 4212,
+          "endMs": 7917,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Then, write down all your necessary expenses like rent and your grocery bills.",
+          "translationJa": "次に、家賃や食費などの必要な支出をすべて書き出してください。",
+          "id": "beginner-2026-10-31-s03",
+          "startMs": 8317,
+          "endMs": 12785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is helpful to use a simple notebook or a phone app today.",
+          "translationJa": "今日では、シンプルなノートやスマホアプリを使うのが役立ちます。",
+          "id": "beginner-2026-10-31-s04",
+          "startMs": 13185,
+          "endMs": 16433,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to categorize your spending to see where your money goes each week.",
+          "translationJa": "毎週どこにお金を使っているかを確認するために、支出を分類してみましょう。",
+          "id": "beginner-2026-10-31-s05",
+          "startMs": 16833,
+          "endMs": 20444,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You might find that you spend too much money on coffee or snacks.",
+          "translationJa": "コーヒーやおやつにお金を使いすぎていることに気づくかもしれません。",
+          "id": "beginner-2026-10-31-s06",
+          "startMs": 20844,
+          "endMs": 24331,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Set a small limit for your extra spending to keep your budget balanced.",
+          "translationJa": "予算のバランスを保つために、余分な支出に小さな制限を設けましょう。",
+          "id": "beginner-2026-10-31-s07",
+          "startMs": 24731,
+          "endMs": 28461,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Even saving a small amount of money every month will help you later.",
+          "translationJa": "毎月少額でも貯金することは、後であなたを助けることになります。",
+          "id": "beginner-2026-10-31-s08",
+          "startMs": 28861,
+          "endMs": 32259,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Being careful with your personal finances leads to a much less stressful life.",
+          "translationJa": "個人の財政に気を使うことは、ストレスの少ない生活につながります。",
+          "id": "beginner-2026-10-31-s09",
+          "startMs": 32659,
+          "endMs": 36925,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "manage",
+          "meaningJa": "管理する",
+          "exampleEn": "I need to manage my time better.",
+          "exampleJa": "もっと時間を上手に管理する必要があります。"
+        },
+        {
+          "word": "expense",
+          "meaningJa": "支出",
+          "exampleEn": "Keep track of every daily expense.",
+          "exampleJa": "毎日の支出をすべて記録しておいてください。"
+        },
+        {
+          "word": "categorize",
+          "meaningJa": "分類する",
+          "exampleEn": "Categorize your items by color.",
+          "exampleJa": "アイテムを色ごとに分類してください。"
+        },
+        {
+          "word": "balanced",
+          "meaningJa": "バランスの取れた",
+          "exampleEn": "Eat a balanced diet every day.",
+          "exampleJa": "毎日バランスの取れた食事を摂りましょう。"
+        },
+        {
+          "word": "stressful",
+          "meaningJa": "ストレスの多い",
+          "exampleEn": "The job was very stressful.",
+          "exampleJa": "その仕事はとてもストレスが多かったです。"
+        }
+      ],
+      "id": "beginner-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner.m4a",
+      "durationSeconds": 35
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Creating an Effective Monthly Budget",
+      "cefrLevel": "B1",
+      "summaryJa": "効果的な月間予算の立て方と、賢い支出管理のためのステップ。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Creating a monthly budget is the best way to take control of your finances.",
+          "translationJa": "月間予算を作成することは、家計を管理するための最善の方法です。",
+          "id": "intermediate-2026-10-31-s01",
+          "startMs": 0,
+          "endMs": 4120,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Start by listing your total monthly income from all of your different work sources.",
+          "translationJa": "まずは、すべての異なる労働源からの月間総収入をリストアップすることから始めましょう。",
+          "id": "intermediate-2026-10-31-s02",
+          "startMs": 4520,
+          "endMs": 8713,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Next, identify your fixed costs such as monthly rent, utility bills, and insurance payments.",
+          "translationJa": "次に、家賃、光熱費、保険料などの固定費を特定してください。",
+          "id": "intermediate-2026-10-31-s03",
+          "startMs": 9113,
+          "endMs": 15308,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "These costs are usually the same every month and must be paid on time.",
+          "translationJa": "これらの費用は通常毎月同じであり、期限内に支払う必要があります。",
+          "id": "intermediate-2026-10-31-s04",
+          "startMs": 15708,
+          "endMs": 19317,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Then, look at your variable spending like groceries, dining out, and your entertainment habits.",
+          "translationJa": "その後、食費、外食、娯楽の習慣などの変動費を確認してください。",
+          "id": "intermediate-2026-10-31-s05",
+          "startMs": 19717,
+          "endMs": 25439,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Tracking these small purchases often reveals where you can save quite a bit money.",
+          "translationJa": "これらの小さな買い物を記録すると、どこでかなり節約できるかが明らかになることがよくあります。",
+          "id": "intermediate-2026-10-31-s06",
+          "startMs": 25839,
+          "endMs": 30077,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Set realistic goals for your savings to stay motivated throughout the entire year ahead.",
+          "translationJa": "一年を通してモチベーションを維持するために、貯金に対して現実的な目標を設定しましょう。",
+          "id": "intermediate-2026-10-31-s07",
+          "startMs": 30477,
+          "endMs": 35101,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Use a digital spreadsheet to monitor your progress toward your financial goals each month.",
+          "translationJa": "デジタルスプレッドシートを使用して、毎月、経済的目標に向けた進捗状況を監視しましょう。",
+          "id": "intermediate-2026-10-31-s08",
+          "startMs": 35501,
+          "endMs": 40161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "If you go over your budget, simply adjust your spending habits for the next period.",
+          "translationJa": "もし予算を超えてしまったら、次の期間に向けて支出習慣を調整するだけです。",
+          "id": "intermediate-2026-10-31-s09",
+          "startMs": 40561,
+          "endMs": 45016,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consistency is truly the most important factor when you are building long-term financial habits.",
+          "translationJa": "長期的な経済習慣を築く際には、継続することが最も重要な要素となります。",
+          "id": "intermediate-2026-10-31-s10",
+          "startMs": 45416,
+          "endMs": 50640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "With patience and discipline, you will eventually reach your personal financial goals very easily.",
+          "translationJa": "忍耐と規律があれば、最終的には個人の経済的目標を非常に簡単に達成できるでしょう。",
+          "id": "intermediate-2026-10-31-s11",
+          "startMs": 51040,
+          "endMs": 56255,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "fixed cost",
+          "meaningJa": "固定費",
+          "exampleEn": "Rent is a typical fixed cost.",
+          "exampleJa": "家賃は典型的な固定費です。"
+        },
+        {
+          "word": "variable",
+          "meaningJa": "変動する",
+          "exampleEn": "Variable costs change every month.",
+          "exampleJa": "変動費は毎月変化します。"
+        },
+        {
+          "word": "monitor",
+          "meaningJa": "監視する、記録する",
+          "exampleEn": "Monitor your spending closely.",
+          "exampleJa": "支出を注意深く記録してください。"
+        },
+        {
+          "word": "consistency",
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is key to success.",
+          "exampleJa": "継続こそが成功の鍵です。"
+        },
+        {
+          "word": "discipline",
+          "meaningJa": "規律、自己管理",
+          "exampleEn": "He has the discipline to save money.",
+          "exampleJa": "彼にはお金を貯める規律があります。"
+        }
+      ],
+      "id": "intermediate-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Personal Financial Management",
+      "cefrLevel": "B2",
+      "summaryJa": "個人の財務管理をマスターし、持続可能な節約と将来の計画を立てるための戦略。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Developing a robust budget is essential for maintaining long-term financial stability and personal peace.",
+          "translationJa": "強固な予算を策定することは、長期的な経済的安定と心の平穏を維持するために不可欠です。",
+          "id": "advanced-2026-10-31-s01",
+          "startMs": 0,
+          "endMs": 5625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Begin by auditing your previous three months of spending to understand your current financial patterns.",
+          "translationJa": "まずは過去3ヶ月の支出を精査し、現在の経済的パターンを理解することから始めましょう。",
+          "id": "advanced-2026-10-31-s02",
+          "startMs": 6025,
+          "endMs": 11172,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Distinguish clearly between your essential living needs and your discretionary spending on luxury items.",
+          "translationJa": "生活に必要な支出と、贅沢品への裁量的な支出を明確に区別してください。",
+          "id": "advanced-2026-10-31-s03",
+          "startMs": 11572,
+          "endMs": 17116,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Once identified, allocate specific amounts to each category to prevent overspending in certain areas.",
+          "translationJa": "特定できたら、特定の分野での浪費を防ぐために各カテゴリーに特定の金額を割り当てましょう。",
+          "id": "advanced-2026-10-31-s04",
+          "startMs": 17516,
+          "endMs": 23799,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Automating your savings transfers can effectively remove the temptation to spend your extra cash.",
+          "translationJa": "貯金の振替を自動化することで、余分な現金を浪費する誘惑を効果的に排除できます。",
+          "id": "advanced-2026-10-31-s05",
+          "startMs": 24199,
+          "endMs": 29496,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Review your budget at the end of every month to adjust for any unexpected circumstances.",
+          "translationJa": "予期せぬ状況に対応できるよう、毎月末に予算を見直すようにしてください。",
+          "id": "advanced-2026-10-31-s06",
+          "startMs": 29896,
+          "endMs": 34571,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Consider creating an emergency fund to cover at least three months of your living expenses.",
+          "translationJa": "少なくとも3ヶ月分の生活費をカバーできる緊急資金を作成することを検討してください。",
+          "id": "advanced-2026-10-31-s07",
+          "startMs": 34971,
+          "endMs": 39754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Financial literacy allows you to make informed decisions about how you allocate your resources.",
+          "translationJa": "金融リテラシーがあれば、リソースをどのように配分するかについて情報に基づいた決定ができます。",
+          "id": "advanced-2026-10-31-s08",
+          "startMs": 40154,
+          "endMs": 45357,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Avoiding high-interest debt is another crucial component of maintaining a healthy financial balance sheet.",
+          "translationJa": "高金利の負債を避けることも、健全な貸借対照表を維持するための重要な要素です。",
+          "id": "advanced-2026-10-31-s09",
+          "startMs": 45757,
+          "endMs": 51199,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Remember that a budget is not a restriction but a tool for achieving freedom.",
+          "translationJa": "予算は制限ではなく、自由を達成するためのツールであることを忘れないでください。",
+          "id": "advanced-2026-10-31-s10",
+          "startMs": 51599,
+          "endMs": 55321,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Small, incremental changes in your daily behavior will yield significant results over the years.",
+          "translationJa": "日々の行動における小さく段階的な変化が、何年にもわたって大きな結果をもたらすでしょう。",
+          "id": "advanced-2026-10-31-s11",
+          "startMs": 55721,
+          "endMs": 61157,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Stay focused on your objectives and adjust your strategy whenever your life situation changes.",
+          "translationJa": "目標に集中し、生活状況が変わるたびに戦略を調整してください。",
+          "id": "advanced-2026-10-31-s12",
+          "startMs": 61557,
+          "endMs": 66575,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "robust",
+          "meaningJa": "強固な、しっかりした",
+          "exampleEn": "We need a robust plan.",
+          "exampleJa": "私たちは強固な計画が必要です。"
+        },
+        {
+          "word": "audit",
+          "meaningJa": "精査する、監査する",
+          "exampleEn": "Audit your expenses carefully.",
+          "exampleJa": "支出を注意深く精査してください。"
+        },
+        {
+          "word": "discretionary",
+          "meaningJa": "裁量的な、自由な",
+          "exampleEn": "Reduce your discretionary spending.",
+          "exampleJa": "自由裁量の支出を減らしましょう。"
+        },
+        {
+          "word": "literacy",
+          "meaningJa": "読み書き能力、知識",
+          "exampleEn": "Financial literacy is a key skill.",
+          "exampleJa": "金融リテラシーは重要なスキルです。"
+        },
+        {
+          "word": "incremental",
+          "meaningJa": "増加の、段階的な",
+          "exampleEn": "Make incremental progress daily.",
+          "exampleJa": "毎日段階的に進歩してください。"
+        }
+      ],
+      "id": "advanced-2026-10-31",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced.m4a",
+      "durationSeconds": 64
+    }
+  ],
+  "topicCategory": "business_money"
+}
