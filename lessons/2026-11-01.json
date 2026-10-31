@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-10-31T15:01:11Z",
+  "lessonDate": "2026-11-01",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Organizing Your Digital Study Space",
+      "cefrLevel": "A2",
+      "summaryJa": "デジタル学習ツールを整理して、効率的に勉強する方法について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people use digital tools to learn new things every single day.",
+          "translationJa": "多くの人が毎日新しいことを学ぶためにデジタルツールを使っています。",
+          "id": "beginner-2026-11-01-s01",
+          "startMs": 0,
+          "endMs": 3627,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should choose one good app to keep your notes organized.",
+          "translationJa": "まず、ノートを整理するために良いアプリを一つ選ぶべきです。",
+          "id": "beginner-2026-11-01-s02",
+          "startMs": 4027,
+          "endMs": 7558,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is helpful to create different folders for each of your classes.",
+          "translationJa": "各授業のために別のフォルダーを作成すると役立ちます。",
+          "id": "beginner-2026-11-01-s03",
+          "startMs": 7958,
+          "endMs": 11322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You can also set daily reminders on your phone for your homework.",
+          "translationJa": "宿題のために携帯電話で毎日のリマインダーを設定することもできます。",
+          "id": "beginner-2026-11-01-s04",
+          "startMs": 11722,
+          "endMs": 15081,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Do not try to use too many apps at the same time today.",
+          "translationJa": "今日、一度にたくさんのアプリを使おうとしないでください。",
+          "id": "beginner-2026-11-01-s05",
+          "startMs": 15481,
+          "endMs": 18654,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Simple methods are usually the best way to stay focused while studying.",
+          "translationJa": "シンプルな方法は、勉強中に集中し続けるための最善の方法です。",
+          "id": "beginner-2026-11-01-s06",
+          "startMs": 19054,
+          "endMs": 22818,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Check your progress every week to see how much you have learned.",
+          "translationJa": "どれだけ学んだかを確認するために、毎週進捗状況をチェックしましょう。",
+          "id": "beginner-2026-11-01-s07",
+          "startMs": 23218,
+          "endMs": 26211,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Digital learning is a great way to improve your skills at home.",
+          "translationJa": "デジタル学習は家でスキルを向上させるための素晴らしい方法です。",
+          "id": "beginner-2026-11-01-s08",
+          "startMs": 26611,
+          "endMs": 29624,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Start small and enjoy your journey with these new digital study tools.",
+          "translationJa": "小さく始めて、これらの新しいデジタル学習ツールとの旅を楽しみましょう。",
+          "id": "beginner-2026-11-01-s09",
+          "startMs": 30024,
+          "endMs": 33718,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "digital",
+          "meaningJa": "デジタルの",
+          "exampleEn": "I use digital tools for work.",
+          "exampleJa": "仕事でデジタルツールを使います。"
+        },
+        {
+          "word": "organized",
+          "meaningJa": "整理された",
+          "exampleEn": "Keep your desk organized.",
+          "exampleJa": "机を整理しておいてください。"
+        },
+        {
+          "word": "reminder",
+          "meaningJa": "思い出させるもの、リマインダー",
+          "exampleEn": "Set a reminder for the meeting.",
+          "exampleJa": "会議のリマインダーを設定してください。"
+        },
+        {
+          "word": "progress",
+          "meaningJa": "進歩、進捗",
+          "exampleEn": "I am happy with your progress.",
+          "exampleJa": "あなたの進歩を嬉しく思います。"
+        },
+        {
+          "word": "focused",
+          "meaningJa": "集中した",
+          "exampleEn": "Stay focused on your task.",
+          "exampleJa": "タスクに集中してください。"
+        }
+      ],
+      "id": "beginner-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Your Digital Study Workflow",
+      "cefrLevel": "B1",
+      "summaryJa": "デジタル学習環境を整え、学習効率を最大化するためのステップを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Creating a clean digital environment is essential for effective learning in the modern age.",
+          "translationJa": "現代において、清潔なデジタル環境を作ることは効果的な学習に不可欠です。",
+          "id": "intermediate-2026-11-01-s01",
+          "startMs": 0,
+          "endMs": 4688,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You should start by choosing a reliable note-taking application that fits your specific needs.",
+          "translationJa": "自分の特定のニーズに合った信頼できるメモアプリを選ぶことから始めるべきです。",
+          "id": "intermediate-2026-11-01-s02",
+          "startMs": 5088,
+          "endMs": 10061,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Syncing your files across different devices ensures that you can study whenever you want.",
+          "translationJa": "デバイス間でファイルを同期することで、いつでも好きな時に勉強できます。",
+          "id": "intermediate-2026-11-01-s03",
+          "startMs": 10461,
+          "endMs": 15201,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is also useful to use calendar alerts to manage your daily study time blocks.",
+          "translationJa": "毎日の学習時間を管理するためにカレンダーのアラートを使うことも便利です。",
+          "id": "intermediate-2026-11-01-s04",
+          "startMs": 15601,
+          "endMs": 20184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Try to minimize distractions by turning off unnecessary notifications on your phone or computer.",
+          "translationJa": "携帯電話やパソコンの不要な通知をオフにして、気を散らすものを最小限に抑えましょう。",
+          "id": "intermediate-2026-11-01-s05",
+          "startMs": 20584,
+          "endMs": 26076,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Reviewing your digital notes regularly helps you remember the information much more effectively later.",
+          "translationJa": "デジタルノートを定期的に見直すことで、後でより効果的に情報を思い出すことができます。",
+          "id": "intermediate-2026-11-01-s06",
+          "startMs": 26476,
+          "endMs": 31719,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If you struggle with motivation, try using a simple habit tracker app for support.",
+          "translationJa": "やる気に苦労しているなら、サポートのためにシンプルな習慣トラッカーアプリを使ってみてください。",
+          "id": "intermediate-2026-11-01-s07",
+          "startMs": 32119,
+          "endMs": 36876,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Consistency is much more important than studying for long hours without a clear plan.",
+          "translationJa": "明確な計画なしに長時間勉強することよりも、継続することの方がはるかに重要です。",
+          "id": "intermediate-2026-11-01-s08",
+          "startMs": 37276,
+          "endMs": 41838,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Once you establish a routine, your learning process will become much smoother and faster.",
+          "translationJa": "一度ルーチンを確立すれば、学習プロセスはよりスムーズで速くなるでしょう。",
+          "id": "intermediate-2026-11-01-s09",
+          "startMs": 42238,
+          "endMs": 47139,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Technology is a powerful tool when you know how to use it for improvement.",
+          "translationJa": "テクノロジーは、向上心を持ってどう使うかを知っていれば強力なツールになります。",
+          "id": "intermediate-2026-11-01-s10",
+          "startMs": 47539,
+          "endMs": 51393,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Take some time this weekend to organize your digital workspace for the next week.",
+          "translationJa": "今週末、来週のためにデジタルワークスペースを整理する時間を少し取りましょう。",
+          "id": "intermediate-2026-11-01-s11",
+          "startMs": 51793,
+          "endMs": 56042,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "reliable",
+          "meaningJa": "信頼できる",
+          "exampleEn": "She is a reliable friend.",
+          "exampleJa": "彼女は信頼できる友人です。"
+        },
+        {
+          "word": "distraction",
+          "meaningJa": "気を散らすもの",
+          "exampleEn": "Music can be a distraction.",
+          "exampleJa": "音楽は気を散らす原因になることがあります。"
+        },
+        {
+          "word": "consistency",
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is key to success.",
+          "exampleJa": "継続が成功の鍵です。"
+        },
+        {
+          "word": "establish",
+          "meaningJa": "確立する",
+          "exampleEn": "Establish a good routine.",
+          "exampleJa": "良いルーチンを確立しましょう。"
+        }
+      ],
+      "id": "intermediate-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Digital Study Tools",
+      "cefrLevel": "B2",
+      "summaryJa": "デジタル学習ツールを活用して、効率的に学習を管理し、記憶を定着させるための実践的なアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Modern digital tools offer incredible opportunities to enhance our personal learning and daily productivity habits.",
+          "translationJa": "現代のデジタルツールは、個人の学習や日々の生産的な習慣を向上させるための素晴らしい機会を提供しています。",
+          "id": "advanced-2026-11-01-s01",
+          "startMs": 0,
+          "endMs": 6343,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The secret to success lies in choosing the right applications that fit your specific needs.",
+          "translationJa": "成功の秘訣は、自分の特定のニーズに合った適切なアプリケーションを選ぶことにあります。",
+          "id": "advanced-2026-11-01-s02",
+          "startMs": 6743,
+          "endMs": 11585,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You should start by organizing your digital workspace to minimize distractions during your study sessions.",
+          "translationJa": "学習時間中の注意散漫を最小限に抑えるために、デジタルワークスペースを整理することから始めるべきです。",
+          "id": "advanced-2026-11-01-s03",
+          "startMs": 11985,
+          "endMs": 17666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Cloud-based note taking apps allow you to access your important information from any device easily.",
+          "translationJa": "クラウドベースのメモアプリを使えば、どのデバイスからでも重要な情報に簡単にアクセスできます。",
+          "id": "advanced-2026-11-01-s04",
+          "startMs": 18066,
+          "endMs": 23323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Setting automated reminders ensures that you never miss a deadline for your ongoing educational projects.",
+          "translationJa": "自動リマインダーを設定することで、進行中の教育プロジェクトの締め切りを逃すことがなくなります。",
+          "id": "advanced-2026-11-01-s05",
+          "startMs": 23723,
+          "endMs": 29473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Many learners find that blocking specific websites helps them stay focused on complex academic tasks.",
+          "translationJa": "多くの学習者は、特定のウェブサイトをブロックすることが、複雑な学習課題に集中する助けになると感じています。",
+          "id": "advanced-2026-11-01-s06",
+          "startMs": 29873,
+          "endMs": 35926,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Consistency is far more important than intensity when you are learning a challenging new skill.",
+          "translationJa": "難しい新しいスキルを習得する際には、激しさよりも継続性の方がはるかに重要です。",
+          "id": "advanced-2026-11-01-s07",
+          "startMs": 36326,
+          "endMs": 41109,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Try to dedicate a small amount of time every single day to review your notes.",
+          "translationJa": "毎日少しずつ時間を割いて、メモを見直すようにしてみてください。",
+          "id": "advanced-2026-11-01-s08",
+          "startMs": 41509,
+          "endMs": 45666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "You can also use digital flashcards to reinforce your memory retention over a longer period.",
+          "translationJa": "また、デジタル単語帳を使って、長期間にわたって記憶を定着させることもできます。",
+          "id": "advanced-2026-11-01-s09",
+          "startMs": 46066,
+          "endMs": 51295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Do not overwhelm yourself by trying to master too many new tools at the same time.",
+          "translationJa": "一度に多くの新しいツールを使いこなそうとして、自分を追い詰めないようにしてください。",
+          "id": "advanced-2026-11-01-s10",
+          "startMs": 51695,
+          "endMs": 56308,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Focus on building a reliable system that truly supports your unique and personal learning journey.",
+          "translationJa": "あなた独自の個人的な学習の旅を真にサポートする、信頼できるシステムの構築に集中しましょう。",
+          "id": "advanced-2026-11-01-s11",
+          "startMs": 56708,
+          "endMs": 61644,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Ultimately, the best technology is the one that you actually use consistently every single day.",
+          "translationJa": "結局のところ、最高のテクノロジーとは、あなたが実際に毎日継続して使用するものです。",
+          "id": "advanced-2026-11-01-s12",
+          "startMs": 62044,
+          "endMs": 67542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Using the right tools can significantly increase your daily productivity.",
+          "exampleJa": "適切なツールを使うことで、日々の生産性を大幅に高めることができます。"
+        },
+        {
+          "word": "Distraction",
+          "meaningJa": "注意散漫、気を逸らすもの",
+          "exampleEn": "Turn off notifications to avoid any distraction while working.",
+          "exampleJa": "作業中の注意散漫を避けるために、通知をオフにしましょう。"
+        },
+        {
+          "word": "Consistency",
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is key to mastering any new language.",
+          "exampleJa": "どんな新しい言語を習得するにも、継続性が鍵となります。"
+        },
+        {
+          "word": "Retention",
+          "meaningJa": "保持、記憶",
+          "exampleEn": "Regular reviews are essential for better memory retention.",
+          "exampleJa": "記憶をより良く保持するためには、定期的な復習が不可欠です。"
+        },
+        {
+          "word": "Overwhelm",
+          "meaningJa": "圧倒する、困惑させる",
+          "exampleEn": "Do not let the amount of information overwhelm your progress.",
+          "exampleJa": "情報の量に圧倒されて進歩を妨げられないようにしてください。"
+        }
+      ],
+      "id": "advanced-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced.m4a",
+      "durationSeconds": 65
+    }
+  ],
+  "topicCategory": "science_technology"
+}

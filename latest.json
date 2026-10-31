@@ -1,434 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-10-30T15:02:35Z",
-  "lessonDate": "2026-10-31",
+  "generatedAtUtc": "2026-10-31T15:01:11Z",
+  "lessonDate": "2026-11-01",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Planning a Simple Monthly Budget",
+      "title": "Organizing Your Digital Study Space",
       "cefrLevel": "A2",
-      "summaryJa": "月々の予算を立てるための実践的なヒントと、支出を管理して貯金をする方法について。",
+      "summaryJa": "デジタル学習ツールを整理して、効率的に勉強する方法について学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Managing your monthly money is a very important skill for everyone today.",
-          "translationJa": "月々の資金を管理することは、今日誰にとっても非常に重要なスキルです。",
-          "id": "beginner-2026-10-31-s01",
+          "text": "Many people use digital tools to learn new things every single day.",
+          "translationJa": "多くの人が毎日新しいことを学ぶためにデジタルツールを使っています。",
+          "id": "beginner-2026-11-01-s01",
           "startMs": 0,
-          "endMs": 3812,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s01.m4a"
+          "endMs": 3627,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "First, you should look at how much money you earn every single month.",
-          "translationJa": "まず、毎月いくら稼いでいるかを確認する必要があります。",
-          "id": "beginner-2026-10-31-s02",
-          "startMs": 4212,
-          "endMs": 7917,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s02.m4a"
+          "text": "First, you should choose one good app to keep your notes organized.",
+          "translationJa": "まず、ノートを整理するために良いアプリを一つ選ぶべきです。",
+          "id": "beginner-2026-11-01-s02",
+          "startMs": 4027,
+          "endMs": 7558,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Then, write down all your necessary expenses like rent and your grocery bills.",
-          "translationJa": "次に、家賃や食費などの必要な支出をすべて書き出してください。",
-          "id": "beginner-2026-10-31-s03",
-          "startMs": 8317,
-          "endMs": 12785,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s03.m4a"
+          "text": "It is helpful to create different folders for each of your classes.",
+          "translationJa": "各授業のために別のフォルダーを作成すると役立ちます。",
+          "id": "beginner-2026-11-01-s03",
+          "startMs": 7958,
+          "endMs": 11322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is helpful to use a simple notebook or a phone app today.",
-          "translationJa": "今日では、シンプルなノートやスマホアプリを使うのが役立ちます。",
-          "id": "beginner-2026-10-31-s04",
-          "startMs": 13185,
-          "endMs": 16433,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s04.m4a"
+          "text": "You can also set daily reminders on your phone for your homework.",
+          "translationJa": "宿題のために携帯電話で毎日のリマインダーを設定することもできます。",
+          "id": "beginner-2026-11-01-s04",
+          "startMs": 11722,
+          "endMs": 15081,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to categorize your spending to see where your money goes each week.",
-          "translationJa": "毎週どこにお金を使っているかを確認するために、支出を分類してみましょう。",
-          "id": "beginner-2026-10-31-s05",
-          "startMs": 16833,
-          "endMs": 20444,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s05.m4a"
+          "text": "Do not try to use too many apps at the same time today.",
+          "translationJa": "今日、一度にたくさんのアプリを使おうとしないでください。",
+          "id": "beginner-2026-11-01-s05",
+          "startMs": 15481,
+          "endMs": 18654,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You might find that you spend too much money on coffee or snacks.",
-          "translationJa": "コーヒーやおやつにお金を使いすぎていることに気づくかもしれません。",
-          "id": "beginner-2026-10-31-s06",
-          "startMs": 20844,
-          "endMs": 24331,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s06.m4a"
+          "text": "Simple methods are usually the best way to stay focused while studying.",
+          "translationJa": "シンプルな方法は、勉強中に集中し続けるための最善の方法です。",
+          "id": "beginner-2026-11-01-s06",
+          "startMs": 19054,
+          "endMs": 22818,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Set a small limit for your extra spending to keep your budget balanced.",
-          "translationJa": "予算のバランスを保つために、余分な支出に小さな制限を設けましょう。",
-          "id": "beginner-2026-10-31-s07",
-          "startMs": 24731,
-          "endMs": 28461,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s07.m4a"
+          "text": "Check your progress every week to see how much you have learned.",
+          "translationJa": "どれだけ学んだかを確認するために、毎週進捗状況をチェックしましょう。",
+          "id": "beginner-2026-11-01-s07",
+          "startMs": 23218,
+          "endMs": 26211,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Even saving a small amount of money every month will help you later.",
-          "translationJa": "毎月少額でも貯金することは、後であなたを助けることになります。",
-          "id": "beginner-2026-10-31-s08",
-          "startMs": 28861,
-          "endMs": 32259,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s08.m4a"
+          "text": "Digital learning is a great way to improve your skills at home.",
+          "translationJa": "デジタル学習は家でスキルを向上させるための素晴らしい方法です。",
+          "id": "beginner-2026-11-01-s08",
+          "startMs": 26611,
+          "endMs": 29624,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Being careful with your personal finances leads to a much less stressful life.",
-          "translationJa": "個人の財政に気を使うことは、ストレスの少ない生活につながります。",
-          "id": "beginner-2026-10-31-s09",
-          "startMs": 32659,
-          "endMs": 36925,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner-s09.m4a"
+          "text": "Start small and enjoy your journey with these new digital study tools.",
+          "translationJa": "小さく始めて、これらの新しいデジタル学習ツールとの旅を楽しみましょう。",
+          "id": "beginner-2026-11-01-s09",
+          "startMs": 30024,
+          "endMs": 33718,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "manage",
-          "meaningJa": "管理する",
-          "exampleEn": "I need to manage my time better.",
-          "exampleJa": "もっと時間を上手に管理する必要があります。"
+          "word": "digital",
+          "meaningJa": "デジタルの",
+          "exampleEn": "I use digital tools for work.",
+          "exampleJa": "仕事でデジタルツールを使います。"
         },
         {
-          "word": "expense",
-          "meaningJa": "支出",
-          "exampleEn": "Keep track of every daily expense.",
-          "exampleJa": "毎日の支出をすべて記録しておいてください。"
+          "word": "organized",
+          "meaningJa": "整理された",
+          "exampleEn": "Keep your desk organized.",
+          "exampleJa": "机を整理しておいてください。"
         },
         {
-          "word": "categorize",
-          "meaningJa": "分類する",
-          "exampleEn": "Categorize your items by color.",
-          "exampleJa": "アイテムを色ごとに分類してください。"
+          "word": "reminder",
+          "meaningJa": "思い出させるもの、リマインダー",
+          "exampleEn": "Set a reminder for the meeting.",
+          "exampleJa": "会議のリマインダーを設定してください。"
         },
         {
-          "word": "balanced",
-          "meaningJa": "バランスの取れた",
-          "exampleEn": "Eat a balanced diet every day.",
-          "exampleJa": "毎日バランスの取れた食事を摂りましょう。"
+          "word": "progress",
+          "meaningJa": "進歩、進捗",
+          "exampleEn": "I am happy with your progress.",
+          "exampleJa": "あなたの進歩を嬉しく思います。"
         },
         {
-          "word": "stressful",
-          "meaningJa": "ストレスの多い",
-          "exampleEn": "The job was very stressful.",
-          "exampleJa": "その仕事はとてもストレスが多かったです。"
+          "word": "focused",
+          "meaningJa": "集中した",
+          "exampleEn": "Stay focused on your task.",
+          "exampleJa": "タスクに集中してください。"
         }
       ],
-      "id": "beginner-2026-10-31",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/beginner.m4a",
-      "durationSeconds": 35
+      "id": "beginner-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/beginner.m4a",
+      "durationSeconds": 32
     },
     {
       "levelGroup": "intermediate",
-      "title": "Creating an Effective Monthly Budget",
+      "title": "Mastering Your Digital Study Workflow",
       "cefrLevel": "B1",
-      "summaryJa": "効果的な月間予算の立て方と、賢い支出管理のためのステップ。",
+      "summaryJa": "デジタル学習環境を整え、学習効率を最大化するためのステップを紹介します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Creating a monthly budget is the best way to take control of your finances.",
-          "translationJa": "月間予算を作成することは、家計を管理するための最善の方法です。",
-          "id": "intermediate-2026-10-31-s01",
+          "text": "Creating a clean digital environment is essential for effective learning in the modern age.",
+          "translationJa": "現代において、清潔なデジタル環境を作ることは効果的な学習に不可欠です。",
+          "id": "intermediate-2026-11-01-s01",
           "startMs": 0,
-          "endMs": 4120,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s01.m4a"
+          "endMs": 4688,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Start by listing your total monthly income from all of your different work sources.",
-          "translationJa": "まずは、すべての異なる労働源からの月間総収入をリストアップすることから始めましょう。",
-          "id": "intermediate-2026-10-31-s02",
-          "startMs": 4520,
-          "endMs": 8713,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s02.m4a"
+          "text": "You should start by choosing a reliable note-taking application that fits your specific needs.",
+          "translationJa": "自分の特定のニーズに合った信頼できるメモアプリを選ぶことから始めるべきです。",
+          "id": "intermediate-2026-11-01-s02",
+          "startMs": 5088,
+          "endMs": 10061,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Next, identify your fixed costs such as monthly rent, utility bills, and insurance payments.",
-          "translationJa": "次に、家賃、光熱費、保険料などの固定費を特定してください。",
-          "id": "intermediate-2026-10-31-s03",
-          "startMs": 9113,
-          "endMs": 15308,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s03.m4a"
+          "text": "Syncing your files across different devices ensures that you can study whenever you want.",
+          "translationJa": "デバイス間でファイルを同期することで、いつでも好きな時に勉強できます。",
+          "id": "intermediate-2026-11-01-s03",
+          "startMs": 10461,
+          "endMs": 15201,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "These costs are usually the same every month and must be paid on time.",
-          "translationJa": "これらの費用は通常毎月同じであり、期限内に支払う必要があります。",
-          "id": "intermediate-2026-10-31-s04",
-          "startMs": 15708,
-          "endMs": 19317,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s04.m4a"
+          "text": "It is also useful to use calendar alerts to manage your daily study time blocks.",
+          "translationJa": "毎日の学習時間を管理するためにカレンダーのアラートを使うことも便利です。",
+          "id": "intermediate-2026-11-01-s04",
+          "startMs": 15601,
+          "endMs": 20184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Then, look at your variable spending like groceries, dining out, and your entertainment habits.",
-          "translationJa": "その後、食費、外食、娯楽の習慣などの変動費を確認してください。",
-          "id": "intermediate-2026-10-31-s05",
-          "startMs": 19717,
-          "endMs": 25439,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s05.m4a"
+          "text": "Try to minimize distractions by turning off unnecessary notifications on your phone or computer.",
+          "translationJa": "携帯電話やパソコンの不要な通知をオフにして、気を散らすものを最小限に抑えましょう。",
+          "id": "intermediate-2026-11-01-s05",
+          "startMs": 20584,
+          "endMs": 26076,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Tracking these small purchases often reveals where you can save quite a bit money.",
-          "translationJa": "これらの小さな買い物を記録すると、どこでかなり節約できるかが明らかになることがよくあります。",
-          "id": "intermediate-2026-10-31-s06",
-          "startMs": 25839,
-          "endMs": 30077,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s06.m4a"
+          "text": "Reviewing your digital notes regularly helps you remember the information much more effectively later.",
+          "translationJa": "デジタルノートを定期的に見直すことで、後でより効果的に情報を思い出すことができます。",
+          "id": "intermediate-2026-11-01-s06",
+          "startMs": 26476,
+          "endMs": 31719,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Set realistic goals for your savings to stay motivated throughout the entire year ahead.",
-          "translationJa": "一年を通してモチベーションを維持するために、貯金に対して現実的な目標を設定しましょう。",
-          "id": "intermediate-2026-10-31-s07",
-          "startMs": 30477,
-          "endMs": 35101,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s07.m4a"
+          "text": "If you struggle with motivation, try using a simple habit tracker app for support.",
+          "translationJa": "やる気に苦労しているなら、サポートのためにシンプルな習慣トラッカーアプリを使ってみてください。",
+          "id": "intermediate-2026-11-01-s07",
+          "startMs": 32119,
+          "endMs": 36876,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Use a digital spreadsheet to monitor your progress toward your financial goals each month.",
-          "translationJa": "デジタルスプレッドシートを使用して、毎月、経済的目標に向けた進捗状況を監視しましょう。",
-          "id": "intermediate-2026-10-31-s08",
-          "startMs": 35501,
-          "endMs": 40161,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s08.m4a"
+          "text": "Consistency is much more important than studying for long hours without a clear plan.",
+          "translationJa": "明確な計画なしに長時間勉強することよりも、継続することの方がはるかに重要です。",
+          "id": "intermediate-2026-11-01-s08",
+          "startMs": 37276,
+          "endMs": 41838,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "If you go over your budget, simply adjust your spending habits for the next period.",
-          "translationJa": "もし予算を超えてしまったら、次の期間に向けて支出習慣を調整するだけです。",
-          "id": "intermediate-2026-10-31-s09",
-          "startMs": 40561,
-          "endMs": 45016,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s09.m4a"
+          "text": "Once you establish a routine, your learning process will become much smoother and faster.",
+          "translationJa": "一度ルーチンを確立すれば、学習プロセスはよりスムーズで速くなるでしょう。",
+          "id": "intermediate-2026-11-01-s09",
+          "startMs": 42238,
+          "endMs": 47139,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Consistency is truly the most important factor when you are building long-term financial habits.",
-          "translationJa": "長期的な経済習慣を築く際には、継続することが最も重要な要素となります。",
-          "id": "intermediate-2026-10-31-s10",
-          "startMs": 45416,
-          "endMs": 50640,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s10.m4a"
+          "text": "Technology is a powerful tool when you know how to use it for improvement.",
+          "translationJa": "テクノロジーは、向上心を持ってどう使うかを知っていれば強力なツールになります。",
+          "id": "intermediate-2026-11-01-s10",
+          "startMs": 47539,
+          "endMs": 51393,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "With patience and discipline, you will eventually reach your personal financial goals very easily.",
-          "translationJa": "忍耐と規律があれば、最終的には個人の経済的目標を非常に簡単に達成できるでしょう。",
-          "id": "intermediate-2026-10-31-s11",
-          "startMs": 51040,
-          "endMs": 56255,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate-s11.m4a"
+          "text": "Take some time this weekend to organize your digital workspace for the next week.",
+          "translationJa": "今週末、来週のためにデジタルワークスペースを整理する時間を少し取りましょう。",
+          "id": "intermediate-2026-11-01-s11",
+          "startMs": 51793,
+          "endMs": 56042,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "fixed cost",
-          "meaningJa": "固定費",
-          "exampleEn": "Rent is a typical fixed cost.",
-          "exampleJa": "家賃は典型的な固定費です。"
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
         },
         {
-          "word": "variable",
-          "meaningJa": "変動する",
-          "exampleEn": "Variable costs change every month.",
-          "exampleJa": "変動費は毎月変化します。"
+          "word": "reliable",
+          "meaningJa": "信頼できる",
+          "exampleEn": "She is a reliable friend.",
+          "exampleJa": "彼女は信頼できる友人です。"
         },
         {
-          "word": "monitor",
-          "meaningJa": "監視する、記録する",
-          "exampleEn": "Monitor your spending closely.",
-          "exampleJa": "支出を注意深く記録してください。"
+          "word": "distraction",
+          "meaningJa": "気を散らすもの",
+          "exampleEn": "Music can be a distraction.",
+          "exampleJa": "音楽は気を散らす原因になることがあります。"
         },
         {
           "word": "consistency",
           "meaningJa": "一貫性、継続性",
           "exampleEn": "Consistency is key to success.",
-          "exampleJa": "継続こそが成功の鍵です。"
+          "exampleJa": "継続が成功の鍵です。"
         },
         {
-          "word": "discipline",
-          "meaningJa": "規律、自己管理",
-          "exampleEn": "He has the discipline to save money.",
-          "exampleJa": "彼にはお金を貯める規律があります。"
+          "word": "establish",
+          "meaningJa": "確立する",
+          "exampleEn": "Establish a good routine.",
+          "exampleJa": "良いルーチンを確立しましょう。"
         }
       ],
-      "id": "intermediate-2026-10-31",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/intermediate.m4a",
+      "id": "intermediate-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/intermediate.m4a",
       "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Mastering Personal Financial Management",
+      "title": "Mastering Digital Study Tools",
       "cefrLevel": "B2",
-      "summaryJa": "個人の財務管理をマスターし、持続可能な節約と将来の計画を立てるための戦略。",
+      "summaryJa": "デジタル学習ツールを活用して、効率的に学習を管理し、記憶を定着させるための実践的なアドバイス。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/monthly-budget"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/online-learning-tools"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Developing a robust budget is essential for maintaining long-term financial stability and personal peace.",
-          "translationJa": "強固な予算を策定することは、長期的な経済的安定と心の平穏を維持するために不可欠です。",
-          "id": "advanced-2026-10-31-s01",
+          "text": "Modern digital tools offer incredible opportunities to enhance our personal learning and daily productivity habits.",
+          "translationJa": "現代のデジタルツールは、個人の学習や日々の生産的な習慣を向上させるための素晴らしい機会を提供しています。",
+          "id": "advanced-2026-11-01-s01",
           "startMs": 0,
-          "endMs": 5625,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s01.m4a"
+          "endMs": 6343,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Begin by auditing your previous three months of spending to understand your current financial patterns.",
-          "translationJa": "まずは過去3ヶ月の支出を精査し、現在の経済的パターンを理解することから始めましょう。",
-          "id": "advanced-2026-10-31-s02",
-          "startMs": 6025,
-          "endMs": 11172,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s02.m4a"
+          "text": "The secret to success lies in choosing the right applications that fit your specific needs.",
+          "translationJa": "成功の秘訣は、自分の特定のニーズに合った適切なアプリケーションを選ぶことにあります。",
+          "id": "advanced-2026-11-01-s02",
+          "startMs": 6743,
+          "endMs": 11585,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Distinguish clearly between your essential living needs and your discretionary spending on luxury items.",
-          "translationJa": "生活に必要な支出と、贅沢品への裁量的な支出を明確に区別してください。",
-          "id": "advanced-2026-10-31-s03",
-          "startMs": 11572,
-          "endMs": 17116,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s03.m4a"
+          "text": "You should start by organizing your digital workspace to minimize distractions during your study sessions.",
+          "translationJa": "学習時間中の注意散漫を最小限に抑えるために、デジタルワークスペースを整理することから始めるべきです。",
+          "id": "advanced-2026-11-01-s03",
+          "startMs": 11985,
+          "endMs": 17666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Once identified, allocate specific amounts to each category to prevent overspending in certain areas.",
-          "translationJa": "特定できたら、特定の分野での浪費を防ぐために各カテゴリーに特定の金額を割り当てましょう。",
-          "id": "advanced-2026-10-31-s04",
-          "startMs": 17516,
-          "endMs": 23799,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s04.m4a"
+          "text": "Cloud-based note taking apps allow you to access your important information from any device easily.",
+          "translationJa": "クラウドベースのメモアプリを使えば、どのデバイスからでも重要な情報に簡単にアクセスできます。",
+          "id": "advanced-2026-11-01-s04",
+          "startMs": 18066,
+          "endMs": 23323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Automating your savings transfers can effectively remove the temptation to spend your extra cash.",
-          "translationJa": "貯金の振替を自動化することで、余分な現金を浪費する誘惑を効果的に排除できます。",
-          "id": "advanced-2026-10-31-s05",
-          "startMs": 24199,
-          "endMs": 29496,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s05.m4a"
+          "text": "Setting automated reminders ensures that you never miss a deadline for your ongoing educational projects.",
+          "translationJa": "自動リマインダーを設定することで、進行中の教育プロジェクトの締め切りを逃すことがなくなります。",
+          "id": "advanced-2026-11-01-s05",
+          "startMs": 23723,
+          "endMs": 29473,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Review your budget at the end of every month to adjust for any unexpected circumstances.",
-          "translationJa": "予期せぬ状況に対応できるよう、毎月末に予算を見直すようにしてください。",
-          "id": "advanced-2026-10-31-s06",
-          "startMs": 29896,
-          "endMs": 34571,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s06.m4a"
+          "text": "Many learners find that blocking specific websites helps them stay focused on complex academic tasks.",
+          "translationJa": "多くの学習者は、特定のウェブサイトをブロックすることが、複雑な学習課題に集中する助けになると感じています。",
+          "id": "advanced-2026-11-01-s06",
+          "startMs": 29873,
+          "endMs": 35926,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Consider creating an emergency fund to cover at least three months of your living expenses.",
-          "translationJa": "少なくとも3ヶ月分の生活費をカバーできる緊急資金を作成することを検討してください。",
-          "id": "advanced-2026-10-31-s07",
-          "startMs": 34971,
-          "endMs": 39754,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s07.m4a"
+          "text": "Consistency is far more important than intensity when you are learning a challenging new skill.",
+          "translationJa": "難しい新しいスキルを習得する際には、激しさよりも継続性の方がはるかに重要です。",
+          "id": "advanced-2026-11-01-s07",
+          "startMs": 36326,
+          "endMs": 41109,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Financial literacy allows you to make informed decisions about how you allocate your resources.",
-          "translationJa": "金融リテラシーがあれば、リソースをどのように配分するかについて情報に基づいた決定ができます。",
-          "id": "advanced-2026-10-31-s08",
-          "startMs": 40154,
-          "endMs": 45357,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s08.m4a"
+          "text": "Try to dedicate a small amount of time every single day to review your notes.",
+          "translationJa": "毎日少しずつ時間を割いて、メモを見直すようにしてみてください。",
+          "id": "advanced-2026-11-01-s08",
+          "startMs": 41509,
+          "endMs": 45666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Avoiding high-interest debt is another crucial component of maintaining a healthy financial balance sheet.",
-          "translationJa": "高金利の負債を避けることも、健全な貸借対照表を維持するための重要な要素です。",
-          "id": "advanced-2026-10-31-s09",
-          "startMs": 45757,
-          "endMs": 51199,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s09.m4a"
+          "text": "You can also use digital flashcards to reinforce your memory retention over a longer period.",
+          "translationJa": "また、デジタル単語帳を使って、長期間にわたって記憶を定着させることもできます。",
+          "id": "advanced-2026-11-01-s09",
+          "startMs": 46066,
+          "endMs": 51295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Remember that a budget is not a restriction but a tool for achieving freedom.",
-          "translationJa": "予算は制限ではなく、自由を達成するためのツールであることを忘れないでください。",
-          "id": "advanced-2026-10-31-s10",
-          "startMs": 51599,
-          "endMs": 55321,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s10.m4a"
+          "text": "Do not overwhelm yourself by trying to master too many new tools at the same time.",
+          "translationJa": "一度に多くの新しいツールを使いこなそうとして、自分を追い詰めないようにしてください。",
+          "id": "advanced-2026-11-01-s10",
+          "startMs": 51695,
+          "endMs": 56308,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Small, incremental changes in your daily behavior will yield significant results over the years.",
-          "translationJa": "日々の行動における小さく段階的な変化が、何年にもわたって大きな結果をもたらすでしょう。",
-          "id": "advanced-2026-10-31-s11",
-          "startMs": 55721,
-          "endMs": 61157,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s11.m4a"
+          "text": "Focus on building a reliable system that truly supports your unique and personal learning journey.",
+          "translationJa": "あなた独自の個人的な学習の旅を真にサポートする、信頼できるシステムの構築に集中しましょう。",
+          "id": "advanced-2026-11-01-s11",
+          "startMs": 56708,
+          "endMs": 61644,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Stay focused on your objectives and adjust your strategy whenever your life situation changes.",
-          "translationJa": "目標に集中し、生活状況が変わるたびに戦略を調整してください。",
-          "id": "advanced-2026-10-31-s12",
-          "startMs": 61557,
-          "endMs": 66575,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced-s12.m4a"
+          "text": "Ultimately, the best technology is the one that you actually use consistently every single day.",
+          "translationJa": "結局のところ、最高のテクノロジーとは、あなたが実際に毎日継続して使用するものです。",
+          "id": "advanced-2026-11-01-s12",
+          "startMs": 62044,
+          "endMs": 67542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "robust",
-          "meaningJa": "強固な、しっかりした",
-          "exampleEn": "We need a robust plan.",
-          "exampleJa": "私たちは強固な計画が必要です。"
+          "word": "Productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Using the right tools can significantly increase your daily productivity.",
+          "exampleJa": "適切なツールを使うことで、日々の生産性を大幅に高めることができます。"
         },
         {
-          "word": "audit",
-          "meaningJa": "精査する、監査する",
-          "exampleEn": "Audit your expenses carefully.",
-          "exampleJa": "支出を注意深く精査してください。"
+          "word": "Distraction",
+          "meaningJa": "注意散漫、気を逸らすもの",
+          "exampleEn": "Turn off notifications to avoid any distraction while working.",
+          "exampleJa": "作業中の注意散漫を避けるために、通知をオフにしましょう。"
         },
         {
-          "word": "discretionary",
-          "meaningJa": "裁量的な、自由な",
-          "exampleEn": "Reduce your discretionary spending.",
-          "exampleJa": "自由裁量の支出を減らしましょう。"
+          "word": "Consistency",
+          "meaningJa": "一貫性、継続性",
+          "exampleEn": "Consistency is key to mastering any new language.",
+          "exampleJa": "どんな新しい言語を習得するにも、継続性が鍵となります。"
         },
         {
-          "word": "literacy",
-          "meaningJa": "読み書き能力、知識",
-          "exampleEn": "Financial literacy is a key skill.",
-          "exampleJa": "金融リテラシーは重要なスキルです。"
+          "word": "Retention",
+          "meaningJa": "保持、記憶",
+          "exampleEn": "Regular reviews are essential for better memory retention.",
+          "exampleJa": "記憶をより良く保持するためには、定期的な復習が不可欠です。"
         },
         {
-          "word": "incremental",
-          "meaningJa": "増加の、段階的な",
-          "exampleEn": "Make incremental progress daily.",
-          "exampleJa": "毎日段階的に進歩してください。"
+          "word": "Overwhelm",
+          "meaningJa": "圧倒する、困惑させる",
+          "exampleEn": "Do not let the amount of information overwhelm your progress.",
+          "exampleJa": "情報の量に圧倒されて進歩を妨げられないようにしてください。"
         }
       ],
-      "id": "advanced-2026-10-31",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-10-31/advanced.m4a",
-      "durationSeconds": 64
+      "id": "advanced-2026-11-01",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-01/advanced.m4a",
+      "durationSeconds": 65
     }
   ],
-  "topicCategory": "business_money"
+  "topicCategory": "science_technology"
 }

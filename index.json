@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-30T15:02:35Z",
-  "latestLessonDate": "2026-10-31",
+  "generatedAtUtc": "2026-10-31T15:01:11Z",
+  "latestLessonDate": "2026-11-01",
   "days": [
+    {
+      "lessonDate": "2026-11-01",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-01.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Organizing Your Digital Study Space",
+          "durationSeconds": 32,
+          "summaryJa": "デジタル学習ツールを整理して、効率的に勉強する方法について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Digital Study Workflow",
+          "durationSeconds": 54,
+          "summaryJa": "デジタル学習環境を整え、学習効率を最大化するためのステップを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering Digital Study Tools",
+          "durationSeconds": 65,
+          "summaryJa": "デジタル学習ツールを活用して、効率的に学習を管理し、記憶を定着させるための実践的なアドバイス。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-10-31",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-31.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-10-01",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-01.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Navigating Public Transit",
-          "durationSeconds": 32,
-          "summaryJa": "新しい場所で公共交通機関を使いこなすための基本的なステップを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Local Transportation",
-          "durationSeconds": 53,
-          "summaryJa": "新しい街で効率的に公共交通機関を利用し、スムーズに目的地へ向かうコツを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Navigating Global Transit Systems",
-          "durationSeconds": 69,
-          "summaryJa": "公共交通機関を使いこなし、異国の地でストレスなく移動するための洗練されたアプローチを学びます。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
