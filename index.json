@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-10-31T15:01:11Z",
-  "latestLessonDate": "2026-11-01",
+  "generatedAtUtc": "2026-11-01T15:01:17Z",
+  "latestLessonDate": "2026-11-02",
   "days": [
+    {
+      "lessonDate": "2026-11-02",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-02.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Establishing a Healthy Sleep Routine",
+          "durationSeconds": 31,
+          "summaryJa": "質の高い睡眠のために、毎日の就寝時間を一定に保つことの重要性を学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building Better Sleep Habits",
+          "durationSeconds": 51,
+          "summaryJa": "睡眠の質を向上させるための、スクリーン制限やリラックスした夜の過ごし方について説明します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Circadian Rhythm",
+          "durationSeconds": 60,
+          "summaryJa": "体内時計を整え、睡眠の質を高めるための戦略的アプローチを解説します。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-11-01",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-01.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -756,32 +782,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-10-02",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-02.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Keeping Your Phone Battery Healthy",
-          "durationSeconds": 34,
-          "summaryJa": "スマートフォンのバッテリーを長持ちさせるための日常的なヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Smart Battery Care and Data Safety",
-          "durationSeconds": 54,
-          "summaryJa": "バッテリーの寿命を延ばす方法と、デジタルデータのバックアップの重要性について。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Device Longevity and Data Integrity",
-          "durationSeconds": 67,
-          "summaryJa": "デバイスの長寿命化とデータ整合性を保つための高度な管理手法。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }

@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-01T15:01:17Z",
+  "lessonDate": "2026-11-02",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Establishing a Healthy Sleep Routine",
+      "cefrLevel": "A2",
+      "summaryJa": "質の高い睡眠のために、毎日の就寝時間を一定に保つことの重要性を学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Having a regular sleep schedule is very important for your health.",
+          "translationJa": "規則正しい睡眠スケジュールを持つことは、健康にとって非常に重要です。",
+          "id": "beginner-2026-11-02-s01",
+          "startMs": 0,
+          "endMs": 3433,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You should try to go to bed at the same time daily.",
+          "translationJa": "毎日同じ時間に寝るように心がけるべきです。",
+          "id": "beginner-2026-11-02-s02",
+          "startMs": 3833,
+          "endMs": 6380,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It helps your body feel much more relaxed during the night hours.",
+          "translationJa": "それは夜間に体がよりリラックスするのを助けてくれます。",
+          "id": "beginner-2026-11-02-s03",
+          "startMs": 6780,
+          "endMs": 10109,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Avoid using your smartphone right before you close your tired eyes.",
+          "translationJa": "疲れた目を閉じる直前にスマートフォンを使うのは避けましょう。",
+          "id": "beginner-2026-11-02-s04",
+          "startMs": 10509,
+          "endMs": 14058,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "The bright light from screens can make it hard to fall asleep.",
+          "translationJa": "画面からの明るい光は、寝つきを悪くすることがあります。",
+          "id": "beginner-2026-11-02-s05",
+          "startMs": 14458,
+          "endMs": 17523,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Try reading a paper book instead of looking at your digital phone.",
+          "translationJa": "デジタル機器を見る代わりに、紙の本を読むことを試してください。",
+          "id": "beginner-2026-11-02-s06",
+          "startMs": 17923,
+          "endMs": 21197,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "A dark room is also helpful for getting a good night's rest.",
+          "translationJa": "暗い部屋も、夜ぐっすりと眠るために役立ちます。",
+          "id": "beginner-2026-11-02-s07",
+          "startMs": 21597,
+          "endMs": 24763,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You will wake up feeling refreshed and ready for the next day.",
+          "translationJa": "翌朝、すっきりと目覚めて次の日に備えることができます。",
+          "id": "beginner-2026-11-02-s08",
+          "startMs": 25163,
+          "endMs": 28151,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Small changes to your routine will make a big difference over time.",
+          "translationJa": "ルーチンへの小さな変更が、時間をかけて大きな違いを生みます。",
+          "id": "beginner-2026-11-02-s09",
+          "startMs": 28551,
+          "endMs": 32129,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "regular",
+          "meaningJa": "規則正しい",
+          "exampleEn": "I keep a regular schedule.",
+          "exampleJa": "私は規則正しいスケジュールを守っています。"
+        },
+        {
+          "word": "relaxed",
+          "meaningJa": "リラックスした",
+          "exampleEn": "I feel relaxed today.",
+          "exampleJa": "今日はリラックスした気分です。"
+        },
+        {
+          "word": "avoid",
+          "meaningJa": "避ける",
+          "exampleEn": "Avoid eating too much sugar.",
+          "exampleJa": "砂糖の摂りすぎを避けてください。"
+        },
+        {
+          "word": "refreshed",
+          "meaningJa": "すっきりした、元気な",
+          "exampleEn": "I feel refreshed after a nap.",
+          "exampleJa": "昼寝の後、すっきりした気分です。"
+        },
+        {
+          "word": "routine",
+          "meaningJa": "日課、習慣",
+          "exampleEn": "My morning routine is simple.",
+          "exampleJa": "私の朝の習慣はシンプルです。"
+        }
+      ],
+      "id": "beginner-2026-11-02",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner.m4a",
+      "durationSeconds": 31
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Building Better Sleep Habits",
+      "cefrLevel": "B1",
+      "summaryJa": "睡眠の質を向上させるための、スクリーン制限やリラックスした夜の過ごし方について説明します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining a consistent sleep schedule is essential for your long-term physical and mental well-being.",
+          "translationJa": "一貫した睡眠スケジュールを維持することは、長期的な心身の健康にとって不可欠です。",
+          "id": "intermediate-2026-11-02-s01",
+          "startMs": 0,
+          "endMs": 5113,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people struggle to fall asleep because they check their phones late at night.",
+          "translationJa": "多くの人は、夜遅くにスマートフォンをチェックするため、寝つくのに苦労しています。",
+          "id": "intermediate-2026-11-02-s02",
+          "startMs": 5513,
+          "endMs": 9523,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The blue light emitted by devices can trick your brain into staying awake longer.",
+          "translationJa": "デバイスから発せられるブルーライトは、脳をだまして長く起きている状態にさせることがあります。",
+          "id": "intermediate-2026-11-02-s03",
+          "startMs": 9923,
+          "endMs": 13964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is wise to turn off all your electronic devices one hour before your bedtime.",
+          "translationJa": "就寝の1時間前にすべての電子機器の電源を切るのが賢明です。",
+          "id": "intermediate-2026-11-02-s04",
+          "startMs": 14364,
+          "endMs": 18842,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Instead of scrolling through social media, try listening to some calm and quiet music.",
+          "translationJa": "SNSをスクロールする代わりに、穏やかで静かな音楽を聴いてみてください。",
+          "id": "intermediate-2026-11-02-s05",
+          "startMs": 19242,
+          "endMs": 23987,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Creating a relaxing environment in your bedroom will help you drift off to sleep faster.",
+          "translationJa": "寝室をリラックスできる環境にすることで、より早く眠りにつくことができます。",
+          "id": "intermediate-2026-11-02-s06",
+          "startMs": 24387,
+          "endMs": 28983,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Make sure your mattress and pillows are comfortable enough for a deep night of sleep.",
+          "translationJa": "マットレスや枕が、深い夜の睡眠に十分快適であることを確認してください。",
+          "id": "intermediate-2026-11-02-s07",
+          "startMs": 29383,
+          "endMs": 33404,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Consistent wake-up times are just as important as your set time for going to bed.",
+          "translationJa": "起床時間を一定に保つことは、就寝時間を決めるのと同じくらい重要です。",
+          "id": "intermediate-2026-11-02-s08",
+          "startMs": 33804,
+          "endMs": 38146,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Do not hit the snooze button, as it often makes you feel more tired later.",
+          "translationJa": "スヌーズボタンを押さないでください。後でもっと疲れを感じることが多いからです。",
+          "id": "intermediate-2026-11-02-s09",
+          "startMs": 38546,
+          "endMs": 42566,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Focusing on these simple habits will significantly improve your overall quality of daily life.",
+          "translationJa": "これらの単純な習慣に集中することで、日常生活の質が大幅に向上します。",
+          "id": "intermediate-2026-11-02-s10",
+          "startMs": 42966,
+          "endMs": 48146,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Consistency is truly the key to feeling energized throughout the entire busy work week.",
+          "translationJa": "継続こそが、忙しい一週間を通して活力を持って過ごすための鍵となります。",
+          "id": "intermediate-2026-11-02-s11",
+          "startMs": 48546,
+          "endMs": 53271,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "consistent",
+          "meaningJa": "一貫した、安定した",
+          "exampleEn": "Be consistent with your exercise.",
+          "exampleJa": "運動を一貫して続けなさい。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "emitted",
+          "meaningJa": "放出された",
+          "exampleEn": "The lamp emitted a soft light.",
+          "exampleJa": "ランプが柔らかい光を放った。"
+        },
+        {
+          "word": "significantly",
+          "meaningJa": "著しく、かなり",
+          "exampleEn": "Costs have increased significantly.",
+          "exampleJa": "コストが大幅に上がった。"
+        },
+        {
+          "word": "energized",
+          "meaningJa": "活力に満ちた",
+          "exampleEn": "I feel energized after a walk.",
+          "exampleJa": "散歩の後、活力が湧いた。"
+        }
+      ],
+      "id": "intermediate-2026-11-02",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate.m4a",
+      "durationSeconds": 51
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Your Circadian Rhythm",
+      "cefrLevel": "B2",
+      "summaryJa": "体内時計を整え、睡眠の質を高めるための戦略的アプローチを解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Optimizing your circadian rhythm requires strict adherence to a predictable daily sleep schedule.",
+          "translationJa": "体内時計を最適化するには、予測可能な毎日の睡眠スケジュールを厳守する必要があります。",
+          "id": "advanced-2026-11-02-s01",
+          "startMs": 0,
+          "endMs": 5382,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Fluctuations in your rest patterns often disrupt the natural production of sleep-regulating hormones.",
+          "translationJa": "休息パターンの変動は、睡眠を調整するホルモンの自然な生成をしばしば妨げます。",
+          "id": "advanced-2026-11-02-s02",
+          "startMs": 5782,
+          "endMs": 11356,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Exposure to natural sunlight early in the morning helps reset your internal biological clock.",
+          "translationJa": "朝早い時間に自然の太陽光を浴びることは、体内生物時計をリセットするのに役立ちます。",
+          "id": "advanced-2026-11-02-s03",
+          "startMs": 11756,
+          "endMs": 17093,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Conversely, excessive artificial light exposure in the evening can delay your body's sleep onset.",
+          "translationJa": "逆に、夕方に過度な人工光を浴びると、体の睡眠開始が遅れる可能性があります。",
+          "id": "advanced-2026-11-02-s04",
+          "startMs": 17493,
+          "endMs": 22891,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Consider implementing a digital curfew to minimize the negative impact of blue light exposure.",
+          "translationJa": "ブルーライトによる悪影響を最小限に抑えるため、デジタル機器の使用制限時間を設けることを検討してください。",
+          "id": "advanced-2026-11-02-s05",
+          "startMs": 23291,
+          "endMs": 28213,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Developing a calming pre-sleep ritual significantly improves your ability to achieve deep restorative sleep.",
+          "translationJa": "心を落ち着かせる就寝前の儀式を確立することは、深い回復的な睡眠を得る能力を大幅に改善します。",
+          "id": "advanced-2026-11-02-s06",
+          "startMs": 28613,
+          "endMs": 34459,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Engaging in light reading or gentle stretching often signals to your brain that rest approaches.",
+          "translationJa": "軽い読書や穏やかなストレッチを行うことは、脳に休息が近づいていることを伝える合図となります。",
+          "id": "advanced-2026-11-02-s07",
+          "startMs": 34859,
+          "endMs": 39709,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Temperature regulation within your bedroom environment also plays a vital role in sleep quality.",
+          "translationJa": "寝室環境内の温度調整もまた、睡眠の質において極めて重要な役割を果たします。",
+          "id": "advanced-2026-11-02-s08",
+          "startMs": 40109,
+          "endMs": 45322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Maintaining a cool room temperature generally promotes faster transition into the initial sleep stages.",
+          "translationJa": "涼しい室温を維持することは、一般的に最初の睡眠段階への移行を早めます。",
+          "id": "advanced-2026-11-02-s09",
+          "startMs": 45722,
+          "endMs": 51299,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Avoid heavy meals and caffeine intake several hours before you intend to go to bed.",
+          "translationJa": "就寝予定時刻の数時間前には、重い食事やカフェインの摂取を避けるようにしてください。",
+          "id": "advanced-2026-11-02-s10",
+          "startMs": 51699,
+          "endMs": 56142,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Prioritizing these structural adjustments will lead to sustained improvements in your daily cognitive performance.",
+          "translationJa": "これらの構造的な調整を優先することで、日々の認知パフォーマンスに持続的な改善がもたらされます。",
+          "id": "advanced-2026-11-02-s11",
+          "startMs": 56542,
+          "endMs": 62438,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "circadian",
+          "meaningJa": "概日（体内時計の）",
+          "exampleEn": "Circadian rhythms affect our sleep.",
+          "exampleJa": "概日リズムは睡眠に影響を与える。"
+        },
+        {
+          "word": "adherence",
+          "meaningJa": "固守、忠実",
+          "exampleEn": "Adherence to rules is required.",
+          "exampleJa": "規則の固守が求められる。"
+        },
+        {
+          "word": "fluctuations",
+          "meaningJa": "変動",
+          "exampleEn": "Market fluctuations can be risky.",
+          "exampleJa": "市場の変動はリスクになり得る。"
+        },
+        {
+          "word": "restorative",
+          "meaningJa": "回復させる",
+          "exampleEn": "Sleep has a restorative effect.",
+          "exampleJa": "睡眠には回復効果がある。"
+        },
+        {
+          "word": "cognitive",
+          "meaningJa": "認知の",
+          "exampleEn": "Exercise boosts cognitive function.",
+          "exampleJa": "運動は認知機能を高める。"
+        }
+      ],
+      "id": "advanced-2026-11-02",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced.m4a",
+      "durationSeconds": 60
+    }
+  ],
+  "topicCategory": "health_wellness"
+}
