@@ -1,425 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-01T15:01:17Z",
-  "lessonDate": "2026-11-02",
+  "generatedAtUtc": "2026-11-05T22:14:05Z",
+  "lessonDate": "2026-11-06",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Establishing a Healthy Sleep Routine",
+      "title": "A Doctor Returns Home for Care",
       "cefrLevel": "A2",
-      "summaryJa": "質の高い睡眠のために、毎日の就寝時間を一定に保つことの重要性を学びます。",
+      "summaryJa": "エボラ出血熱に感染した英国人医師が、治療のためにロンドンの病院へ搬送されました。一般市民への感染リスクは低いとされています。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Having a regular sleep schedule is very important for your health.",
-          "translationJa": "規則正しい睡眠スケジュールを持つことは、健康にとって非常に重要です。",
-          "id": "beginner-2026-11-02-s01",
+          "text": "A British doctor recently caught a serious virus in Africa.",
+          "translationJa": "ある英国人医師が最近、アフリカで深刻なウイルスに感染しました。",
+          "id": "beginner-2026-11-06-s01",
           "startMs": 0,
-          "endMs": 3433,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s01.m4a"
+          "endMs": 3387,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You should try to go to bed at the same time daily.",
-          "translationJa": "毎日同じ時間に寝るように心がけるべきです。",
-          "id": "beginner-2026-11-02-s02",
-          "startMs": 3833,
-          "endMs": 6380,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s02.m4a"
+          "text": "The doctor was working hard in the Congo area lately.",
+          "translationJa": "その医師は最近、コンゴ地域で懸命に働いていました。",
+          "id": "beginner-2026-11-06-s02",
+          "startMs": 3787,
+          "endMs": 6527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It helps your body feel much more relaxed during the night hours.",
-          "translationJa": "それは夜間に体がよりリラックスするのを助けてくれます。",
-          "id": "beginner-2026-11-02-s03",
-          "startMs": 6780,
-          "endMs": 10109,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s03.m4a"
+          "text": "Now the doctor is back in London for special care.",
+          "translationJa": "現在、その医師は特別な治療を受けるためにロンドンに戻っています。",
+          "id": "beginner-2026-11-06-s03",
+          "startMs": 6927,
+          "endMs": 9697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Avoid using your smartphone right before you close your tired eyes.",
-          "translationJa": "疲れた目を閉じる直前にスマートフォンを使うのは避けましょう。",
-          "id": "beginner-2026-11-02-s04",
-          "startMs": 10509,
-          "endMs": 14058,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s04.m4a"
+          "text": "Medical experts are taking good care of the patient now.",
+          "translationJa": "医療専門家が現在、その患者をしっかりとケアしています。",
+          "id": "beginner-2026-11-06-s04",
+          "startMs": 10097,
+          "endMs": 13120,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "The bright light from screens can make it hard to fall asleep.",
-          "translationJa": "画面からの明るい光は、寝つきを悪くすることがあります。",
-          "id": "beginner-2026-11-02-s05",
-          "startMs": 14458,
-          "endMs": 17523,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s05.m4a"
+          "text": "The hospital has many tools to help sick people recover.",
+          "translationJa": "病院には病気の人が回復を助けるための多くの器具があります。",
+          "id": "beginner-2026-11-06-s05",
+          "startMs": 13520,
+          "endMs": 16527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Try reading a paper book instead of looking at your digital phone.",
-          "translationJa": "デジタル機器を見る代わりに、紙の本を読むことを試してください。",
-          "id": "beginner-2026-11-02-s06",
-          "startMs": 17923,
-          "endMs": 21197,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s06.m4a"
+          "text": "Officials say the public is safe from this health issue.",
+          "translationJa": "当局は、この健康問題から一般市民は安全であると述べています。",
+          "id": "beginner-2026-11-06-s06",
+          "startMs": 16927,
+          "endMs": 19745,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "A dark room is also helpful for getting a good night's rest.",
-          "translationJa": "暗い部屋も、夜ぐっすりと眠るために役立ちます。",
-          "id": "beginner-2026-11-02-s07",
-          "startMs": 21597,
-          "endMs": 24763,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s07.m4a"
+          "text": "The chance of spreading the virus is very low today.",
+          "translationJa": "ウイルスが広がる可能性は現在非常に低いです。",
+          "id": "beginner-2026-11-06-s07",
+          "startMs": 20145,
+          "endMs": 22862,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "You will wake up feeling refreshed and ready for the next day.",
-          "translationJa": "翌朝、すっきりと目覚めて次の日に備えることができます。",
-          "id": "beginner-2026-11-02-s08",
-          "startMs": 25163,
-          "endMs": 28151,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s08.m4a"
+          "text": "Everyone hopes the doctor will feel better very soon now.",
+          "translationJa": "誰もが、その医師がすぐに良くなることを願っています。",
+          "id": "beginner-2026-11-06-s08",
+          "startMs": 23262,
+          "endMs": 26359,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small changes to your routine will make a big difference over time.",
-          "translationJa": "ルーチンへの小さな変更が、時間をかけて大きな違いを生みます。",
-          "id": "beginner-2026-11-02-s09",
-          "startMs": 28551,
-          "endMs": 32129,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner-s09.m4a"
+          "text": "Good health is very important for all of us daily.",
+          "translationJa": "健康であることは、私たち全員にとって毎日とても大切です。",
+          "id": "beginner-2026-11-06-s09",
+          "startMs": 26759,
+          "endMs": 29294,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "regular",
-          "meaningJa": "規則正しい",
-          "exampleEn": "I keep a regular schedule.",
-          "exampleJa": "私は規則正しいスケジュールを守っています。"
+          "word": "virus",
+          "meaningJa": "ウイルス",
+          "exampleEn": "The doctor caught a virus.",
+          "exampleJa": "その医師はウイルスに感染した。"
         },
         {
-          "word": "relaxed",
-          "meaningJa": "リラックスした",
-          "exampleEn": "I feel relaxed today.",
-          "exampleJa": "今日はリラックスした気分です。"
+          "word": "patient",
+          "meaningJa": "患者",
+          "exampleEn": "The patient is resting now.",
+          "exampleJa": "患者は今休んでいる。"
         },
         {
-          "word": "avoid",
-          "meaningJa": "避ける",
-          "exampleEn": "Avoid eating too much sugar.",
-          "exampleJa": "砂糖の摂りすぎを避けてください。"
+          "word": "recover",
+          "meaningJa": "回復する",
+          "exampleEn": "He will recover soon.",
+          "exampleJa": "彼はすぐに回復するだろう。"
         },
         {
-          "word": "refreshed",
-          "meaningJa": "すっきりした、元気な",
-          "exampleEn": "I feel refreshed after a nap.",
-          "exampleJa": "昼寝の後、すっきりした気分です。"
+          "word": "official",
+          "meaningJa": "当局者",
+          "exampleEn": "The official gave a report.",
+          "exampleJa": "当局者が報告を行った。"
         },
         {
-          "word": "routine",
-          "meaningJa": "日課、習慣",
-          "exampleEn": "My morning routine is simple.",
-          "exampleJa": "私の朝の習慣はシンプルです。"
+          "word": "safe",
+          "meaningJa": "安全な",
+          "exampleEn": "Please stay safe today.",
+          "exampleJa": "今日は安全に過ごしてください。"
         }
       ],
-      "id": "beginner-2026-11-02",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/beginner.m4a",
-      "durationSeconds": 31
+      "id": "beginner-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner.m4a",
+      "durationSeconds": 28
     },
     {
       "levelGroup": "intermediate",
-      "title": "Building Better Sleep Habits",
+      "title": "Monitoring Public Health Concerns",
       "cefrLevel": "B1",
-      "summaryJa": "睡眠の質を向上させるための、スクリーン制限やリラックスした夜の過ごし方について説明します。",
+      "summaryJa": "コンゴ民主共和国でエボラ出血熱に感染した英国人医師が、ロンドンの病院へ搬送されました。当局は公衆衛生上のリスクは極めて低いと強調しています。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Maintaining a consistent sleep schedule is essential for your long-term physical and mental well-being.",
-          "translationJa": "一貫した睡眠スケジュールを維持することは、長期的な心身の健康にとって不可欠です。",
-          "id": "intermediate-2026-11-02-s01",
+          "text": "A British doctor has been transported back to London after contracting a dangerous virus.",
+          "translationJa": "危険なウイルスに感染した英国人医師が、ロンドンへ搬送されました。",
+          "id": "intermediate-2026-11-06-s01",
           "startMs": 0,
-          "endMs": 5113,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s01.m4a"
+          "endMs": 4977,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people struggle to fall asleep because they check their phones late at night.",
-          "translationJa": "多くの人は、夜遅くにスマートフォンをチェックするため、寝つくのに苦労しています。",
-          "id": "intermediate-2026-11-02-s02",
-          "startMs": 5513,
-          "endMs": 9523,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s02.m4a"
+          "text": "The physician was providing medical assistance in the Democratic Republic of Congo recently.",
+          "translationJa": "その医師は最近、コンゴ民主共和国で医療支援を提供していました。",
+          "id": "intermediate-2026-11-06-s02",
+          "startMs": 5377,
+          "endMs": 10405,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The blue light emitted by devices can trick your brain into staying awake longer.",
-          "translationJa": "デバイスから発せられるブルーライトは、脳をだまして長く起きている状態にさせることがあります。",
-          "id": "intermediate-2026-11-02-s03",
-          "startMs": 9923,
-          "endMs": 13964,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s03.m4a"
+          "text": "Upon testing positive, the doctor was moved to a specialized hospital unit immediately.",
+          "translationJa": "陽性反応が出た後、医師はすぐに専門の病院ユニットへ移動されました。",
+          "id": "intermediate-2026-11-06-s03",
+          "startMs": 10805,
+          "endMs": 15945,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is wise to turn off all your electronic devices one hour before your bedtime.",
-          "translationJa": "就寝の1時間前にすべての電子機器の電源を切るのが賢明です。",
-          "id": "intermediate-2026-11-02-s04",
-          "startMs": 14364,
-          "endMs": 18842,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s04.m4a"
+          "text": "This facility is designed to manage high-risk cases with strict safety protocols in place.",
+          "translationJa": "この施設は、厳格な安全基準のもとで高リスクの症例を管理するように設計されています。",
+          "id": "intermediate-2026-11-06-s04",
+          "startMs": 16345,
+          "endMs": 21429,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Instead of scrolling through social media, try listening to some calm and quiet music.",
-          "translationJa": "SNSをスクロールする代わりに、穏やかで静かな音楽を聴いてみてください。",
-          "id": "intermediate-2026-11-02-s05",
-          "startMs": 19242,
-          "endMs": 23987,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s05.m4a"
+          "text": "Health officials have been quick to reassure the public about the current situation today.",
+          "translationJa": "保健当局は、今日の現状について一般市民を安心させるため迅速に対応しました。",
+          "id": "intermediate-2026-11-06-s05",
+          "startMs": 21829,
+          "endMs": 26354,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Creating a relaxing environment in your bedroom will help you drift off to sleep faster.",
-          "translationJa": "寝室をリラックスできる環境にすることで、より早く眠りにつくことができます。",
-          "id": "intermediate-2026-11-02-s06",
-          "startMs": 24387,
-          "endMs": 28983,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s06.m4a"
+          "text": "They stated that the overall risk to the general population remains extremely low indeed.",
+          "translationJa": "彼らは、一般市民への全体的なリスクは依然として極めて低いと述べました。",
+          "id": "intermediate-2026-11-06-s06",
+          "startMs": 26754,
+          "endMs": 31501,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Make sure your mattress and pillows are comfortable enough for a deep night of sleep.",
-          "translationJa": "マットレスや枕が、深い夜の睡眠に十分快適であることを確認してください。",
-          "id": "intermediate-2026-11-02-s07",
-          "startMs": 29383,
-          "endMs": 33404,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s07.m4a"
+          "text": "Medical teams are monitoring the situation closely to prevent any potential spread of infection.",
+          "translationJa": "医療チームは、感染が広がるのを防ぐため状況を注意深く監視しています。",
+          "id": "intermediate-2026-11-06-s07",
+          "startMs": 31901,
+          "endMs": 37153,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Consistent wake-up times are just as important as your set time for going to bed.",
-          "translationJa": "起床時間を一定に保つことは、就寝時間を決めるのと同じくらい重要です。",
-          "id": "intermediate-2026-11-02-s08",
-          "startMs": 33804,
-          "endMs": 38146,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s08.m4a"
+          "text": "The doctor is receiving the highest standard of care from experienced clinical staff members.",
+          "translationJa": "医師は、経験豊富な臨床スタッフから最高水準のケアを受けています。",
+          "id": "intermediate-2026-11-06-s08",
+          "startMs": 37553,
+          "endMs": 42464,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Do not hit the snooze button, as it often makes you feel more tired later.",
-          "translationJa": "スヌーズボタンを押さないでください。後でもっと疲れを感じることが多いからです。",
-          "id": "intermediate-2026-11-02-s09",
-          "startMs": 38546,
-          "endMs": 42566,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s09.m4a"
+          "text": "Strict isolation measures are being followed to ensure that no further transmission can occur.",
+          "translationJa": "これ以上の感染を防ぐため、厳格な隔離措置が守られています。",
+          "id": "intermediate-2026-11-06-s09",
+          "startMs": 42864,
+          "endMs": 47870,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Focusing on these simple habits will significantly improve your overall quality of daily life.",
-          "translationJa": "これらの単純な習慣に集中することで、日常生活の質が大幅に向上します。",
-          "id": "intermediate-2026-11-02-s10",
-          "startMs": 42966,
-          "endMs": 48146,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s10.m4a"
+          "text": "Public health agencies work hard to protect everyone from such serious international health threats.",
+          "translationJa": "公衆衛生機関は、このような深刻な国際的健康脅威から人々を守るために尽力しています。",
+          "id": "intermediate-2026-11-06-s10",
+          "startMs": 48270,
+          "endMs": 53657,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Consistency is truly the key to feeling energized throughout the entire busy work week.",
-          "translationJa": "継続こそが、忙しい一週間を通して活力を持って過ごすための鍵となります。",
-          "id": "intermediate-2026-11-02-s11",
-          "startMs": 48546,
-          "endMs": 53271,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate-s11.m4a"
+          "text": "We hope for a speedy recovery for the doctor during this difficult treatment period.",
+          "translationJa": "この困難な治療期間中、医師の早い回復を願っています。",
+          "id": "intermediate-2026-11-06-s11",
+          "startMs": 54057,
+          "endMs": 58413,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "consistent",
-          "meaningJa": "一貫した、安定した",
-          "exampleEn": "Be consistent with your exercise.",
-          "exampleJa": "運動を一貫して続けなさい。"
+          "word": "contract",
+          "meaningJa": "（病気に）かかる",
+          "exampleEn": "He contracted the illness while traveling.",
+          "exampleJa": "彼は旅行中に病気にかかった。"
         },
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命に不可欠です。"
+          "word": "facility",
+          "meaningJa": "施設",
+          "exampleEn": "The hospital is a modern facility.",
+          "exampleJa": "その病院は近代的な施設です。"
         },
         {
-          "word": "emitted",
-          "meaningJa": "放出された",
-          "exampleEn": "The lamp emitted a soft light.",
-          "exampleJa": "ランプが柔らかい光を放った。"
+          "word": "protocol",
+          "meaningJa": "手順、規約",
+          "exampleEn": "Follow the safety protocol carefully.",
+          "exampleJa": "安全手順に注意深く従ってください。"
         },
         {
-          "word": "significantly",
-          "meaningJa": "著しく、かなり",
-          "exampleEn": "Costs have increased significantly.",
-          "exampleJa": "コストが大幅に上がった。"
+          "word": "reassure",
+          "meaningJa": "安心させる",
+          "exampleEn": "The report served to reassure the public.",
+          "exampleJa": "その報告は市民を安心させる役割を果たした。"
         },
         {
-          "word": "energized",
-          "meaningJa": "活力に満ちた",
-          "exampleEn": "I feel energized after a walk.",
-          "exampleJa": "散歩の後、活力が湧いた。"
+          "word": "transmission",
+          "meaningJa": "伝染、伝達",
+          "exampleEn": "Preventing the transmission of the disease is key.",
+          "exampleJa": "病気の伝染を防ぐことが重要です。"
         }
       ],
-      "id": "intermediate-2026-11-02",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/intermediate.m4a",
-      "durationSeconds": 51
+      "id": "intermediate-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate.m4a",
+      "durationSeconds": 56
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Your Circadian Rhythm",
+      "title": "Managing High-Risk Medical Evacuations",
       "cefrLevel": "B2",
-      "summaryJa": "体内時計を整え、睡眠の質を高めるための戦略的アプローチを解説します。",
+      "summaryJa": "エボラ出血熱に感染した英国人医師の帰国と専門病院での治療について、公衆衛生上の安全対策とリスク管理の観点から解説します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/sleep-schedule"
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Optimizing your circadian rhythm requires strict adherence to a predictable daily sleep schedule.",
-          "translationJa": "体内時計を最適化するには、予測可能な毎日の睡眠スケジュールを厳守する必要があります。",
-          "id": "advanced-2026-11-02-s01",
+          "text": "A British physician has returned to London for specialized treatment following an Ebola diagnosis.",
+          "translationJa": "エボラ出血熱の診断を受け、英国人医師が専門治療のためロンドンに帰国しました。",
+          "id": "advanced-2026-11-06-s01",
           "startMs": 0,
-          "endMs": 5382,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s01.m4a"
+          "endMs": 5419,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Fluctuations in your rest patterns often disrupt the natural production of sleep-regulating hormones.",
-          "translationJa": "休息パターンの変動は、睡眠を調整するホルモンの自然な生成をしばしば妨げます。",
-          "id": "advanced-2026-11-02-s02",
-          "startMs": 5782,
-          "endMs": 11356,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s02.m4a"
+          "text": "The doctor contracted the virus while performing humanitarian medical duties in the Congo region.",
+          "translationJa": "その医師はコンゴ地域で人道的な医療活動中にウイルスに感染しました。",
+          "id": "advanced-2026-11-06-s02",
+          "startMs": 5819,
+          "endMs": 11102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Exposure to natural sunlight early in the morning helps reset your internal biological clock.",
-          "translationJa": "朝早い時間に自然の太陽光を浴びることは、体内生物時計をリセットするのに役立ちます。",
-          "id": "advanced-2026-11-02-s03",
-          "startMs": 11756,
-          "endMs": 17093,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s03.m4a"
+          "text": "Patients with such high-consequence pathogens require care in designated high-level isolation units.",
+          "translationJa": "このような高リスクの病原体を持つ患者は、指定された高度隔離ユニットでの治療が必要です。",
+          "id": "advanced-2026-11-06-s03",
+          "startMs": 11502,
+          "endMs": 17304,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Conversely, excessive artificial light exposure in the evening can delay your body's sleep onset.",
-          "translationJa": "逆に、夕方に過度な人工光を浴びると、体の睡眠開始が遅れる可能性があります。",
-          "id": "advanced-2026-11-02-s04",
-          "startMs": 17493,
-          "endMs": 22891,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s04.m4a"
+          "text": "The Royal Free Hospital is managing the patient under stringent clinical safety guidelines today.",
+          "translationJa": "ロイヤルフリー病院は現在、厳格な臨床安全ガイドラインのもとで患者を管理しています。",
+          "id": "advanced-2026-11-06-s04",
+          "startMs": 17704,
+          "endMs": 22999,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Consider implementing a digital curfew to minimize the negative impact of blue light exposure.",
-          "translationJa": "ブルーライトによる悪影響を最小限に抑えるため、デジタル機器の使用制限時間を設けることを検討してください。",
-          "id": "advanced-2026-11-02-s05",
-          "startMs": 23291,
-          "endMs": 28213,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s05.m4a"
+          "text": "Government officials emphasize that the infection risk to the public remains exceptionally low overall.",
+          "translationJa": "政府当局は、一般市民への感染リスクは全体として極めて低いと強調しています。",
+          "id": "advanced-2026-11-06-s05",
+          "startMs": 23399,
+          "endMs": 28929,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Developing a calming pre-sleep ritual significantly improves your ability to achieve deep restorative sleep.",
-          "translationJa": "心を落ち着かせる就寝前の儀式を確立することは、深い回復的な睡眠を得る能力を大幅に改善します。",
-          "id": "advanced-2026-11-02-s06",
-          "startMs": 28613,
-          "endMs": 34459,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s06.m4a"
+          "text": "Public health surveillance systems are operating effectively to track any potential contacts of concern.",
+          "translationJa": "公衆衛生監視システムは、懸念される接触者を追跡するために効果的に機能しています。",
+          "id": "advanced-2026-11-06-s06",
+          "startMs": 29329,
+          "endMs": 34948,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Engaging in light reading or gentle stretching often signals to your brain that rest approaches.",
-          "translationJa": "軽い読書や穏やかなストレッチを行うことは、脳に休息が近づいていることを伝える合図となります。",
-          "id": "advanced-2026-11-02-s07",
-          "startMs": 34859,
-          "endMs": 39709,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s07.m4a"
+          "text": "Expert teams are utilizing advanced medical equipment to monitor the patient's vitals around the clock.",
+          "translationJa": "専門家チームは、患者のバイタルを24時間監視するために高度な医療機器を活用しています。",
+          "id": "advanced-2026-11-06-s07",
+          "startMs": 35348,
+          "endMs": 40894,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Temperature regulation within your bedroom environment also plays a vital role in sleep quality.",
-          "translationJa": "寝室環境内の温度調整もまた、睡眠の質において極めて重要な役割を果たします。",
-          "id": "advanced-2026-11-02-s08",
-          "startMs": 40109,
-          "endMs": 45322,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s08.m4a"
+          "text": "The focus remains on providing supportive care while maintaining rigorous infection control protocols daily.",
+          "translationJa": "日々の厳格な感染管理手順を維持しつつ、支持療法を提供することに焦点が置かれています。",
+          "id": "advanced-2026-11-06-s08",
+          "startMs": 41294,
+          "endMs": 47169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Maintaining a cool room temperature generally promotes faster transition into the initial sleep stages.",
-          "translationJa": "涼しい室温を維持することは、一般的に最初の睡眠段階への移行を早めます。",
-          "id": "advanced-2026-11-02-s09",
-          "startMs": 45722,
-          "endMs": 51299,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s09.m4a"
+          "text": "International collaboration is essential when managing such rare and dangerous global health incidents effectively.",
+          "translationJa": "このような稀で危険な世界的な健康事案を効果的に管理するには、国際的な協力が不可欠です。",
+          "id": "advanced-2026-11-06-s09",
+          "startMs": 47569,
+          "endMs": 53650,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Avoid heavy meals and caffeine intake several hours before you intend to go to bed.",
-          "translationJa": "就寝予定時刻の数時間前には、重い食事やカフェインの摂取を避けるようにしてください。",
-          "id": "advanced-2026-11-02-s10",
-          "startMs": 51699,
-          "endMs": 56142,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s10.m4a"
+          "text": "The authorities continue to share updates to maintain transparency and prevent unnecessary public alarm.",
+          "translationJa": "当局は透明性を維持し、不必要な市民の不安を防ぐために最新情報を共有し続けています。",
+          "id": "advanced-2026-11-06-s10",
+          "startMs": 54050,
+          "endMs": 60074,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Prioritizing these structural adjustments will lead to sustained improvements in your daily cognitive performance.",
-          "translationJa": "これらの構造的な調整を優先することで、日々の認知パフォーマンスに持続的な改善がもたらされます。",
-          "id": "advanced-2026-11-02-s11",
-          "startMs": 56542,
-          "endMs": 62438,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced-s11.m4a"
+          "text": "We monitor the patient's progress while respecting the privacy of those involved in care.",
+          "translationJa": "私たちは、治療に関わる人々のプライバシーを尊重しながら患者の経過を見守っています。",
+          "id": "advanced-2026-11-06-s11",
+          "startMs": 60474,
+          "endMs": 65004,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Effective management of such cases demonstrates the resilience of our national health infrastructure today.",
+          "translationJa": "このような症例の適切な管理は、今日の私たちの国家医療基盤の回復力を示しています。",
+          "id": "advanced-2026-11-06-s12",
+          "startMs": 65404,
+          "endMs": 71159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "circadian",
-          "meaningJa": "概日（体内時計の）",
-          "exampleEn": "Circadian rhythms affect our sleep.",
-          "exampleJa": "概日リズムは睡眠に影響を与える。"
+          "word": "pathogen",
+          "meaningJa": "病原体",
+          "exampleEn": "The lab studies dangerous pathogens.",
+          "exampleJa": "その研究所は危険な病原体を研究している。"
         },
         {
-          "word": "adherence",
-          "meaningJa": "固守、忠実",
-          "exampleEn": "Adherence to rules is required.",
-          "exampleJa": "規則の固守が求められる。"
+          "word": "stringent",
+          "meaningJa": "厳格な",
+          "exampleEn": "We have stringent rules for safety.",
+          "exampleJa": "私たちは安全のために厳格なルールを設けている。"
         },
         {
-          "word": "fluctuations",
-          "meaningJa": "変動",
-          "exampleEn": "Market fluctuations can be risky.",
-          "exampleJa": "市場の変動はリスクになり得る。"
+          "word": "surveillance",
+          "meaningJa": "監視",
+          "exampleEn": "The area is under constant surveillance.",
+          "exampleJa": "その地域は常に監視下にある。"
         },
         {
-          "word": "restorative",
-          "meaningJa": "回復させる",
-          "exampleEn": "Sleep has a restorative effect.",
-          "exampleJa": "睡眠には回復効果がある。"
+          "word": "resilience",
+          "meaningJa": "回復力、強靭さ",
+          "exampleEn": "The system showed great resilience.",
+          "exampleJa": "そのシステムは大きな回復力を見せた。"
         },
         {
-          "word": "cognitive",
-          "meaningJa": "認知の",
-          "exampleEn": "Exercise boosts cognitive function.",
-          "exampleJa": "運動は認知機能を高める。"
+          "word": "transparency",
+          "meaningJa": "透明性",
+          "exampleEn": "The government promised full transparency.",
+          "exampleJa": "政府は完全な透明性を約束した。"
         }
       ],
-      "id": "advanced-2026-11-02",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-02/advanced.m4a",
-      "durationSeconds": 60
+      "id": "advanced-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced.m4a",
+      "durationSeconds": 69
     }
   ],
-  "topicCategory": "health_wellness"
+  "topicCategory": "news"
 }

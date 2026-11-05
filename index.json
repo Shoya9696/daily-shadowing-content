@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-01T15:01:17Z",
-  "latestLessonDate": "2026-11-02",
+  "generatedAtUtc": "2026-11-05T22:14:05Z",
+  "latestLessonDate": "2026-11-06",
   "days": [
+    {
+      "lessonDate": "2026-11-06",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-06.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Doctor Returns Home for Care",
+          "durationSeconds": 28,
+          "summaryJa": "エボラ出血熱に感染した英国人医師が、治療のためにロンドンの病院へ搬送されました。一般市民への感染リスクは低いとされています。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Monitoring Public Health Concerns",
+          "durationSeconds": 56,
+          "summaryJa": "コンゴ民主共和国でエボラ出血熱に感染した英国人医師が、ロンドンの病院へ搬送されました。当局は公衆衛生上のリスクは極めて低いと強調しています。"
+        },
+        {
+          "level": "advanced",
+          "title": "Managing High-Risk Medical Evacuations",
+          "durationSeconds": 69,
+          "summaryJa": "エボラ出血熱に感染した英国人医師の帰国と専門病院での治療について、公衆衛生上の安全対策とリスク管理の観点から解説します。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-11-02",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-02.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,84 +730,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-10-06",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-06.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Checking on a Friend",
-          "durationSeconds": 32,
-          "summaryJa": "友人への思いやりある声のかけ方と、相手の話を聞くことの大切さについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Checking on a Friend",
-          "durationSeconds": 53,
-          "summaryJa": "友人との良好な関係を保つための連絡の取り方と、共感的な聞き方について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Checking on a Friend",
-          "durationSeconds": 66,
-          "summaryJa": "友人関係を深めるための能動的な気遣いと、質の高いコミュニケーションの重要性について考察します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-10-05",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-05.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Easy Ways to Save Energy",
-          "durationSeconds": 31,
-          "summaryJa": "家庭で簡単にできる節電の習慣について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Practical Tips for Household Energy Efficiency",
-          "durationSeconds": 59,
-          "summaryJa": "家庭のエネルギー効率を高めるための実践的なヒントについて。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Home Energy Use for a Sustainable Future",
-          "durationSeconds": 73,
-          "summaryJa": "持続可能な未来のために、家庭のエネルギー利用を最適化する方法。"
-        }
-      ],
-      "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-10-04",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-04.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Smart Shopping Habits",
-          "durationSeconds": 41,
-          "summaryJa": "賢い買い物のために、価格を比較して衝動買いを防ぐ方法を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Art of Smart Spending",
-          "durationSeconds": 47,
-          "summaryJa": "衝動買いを避け、価値ある買い物を判断するための実践的なヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Value Assessment",
-          "durationSeconds": 65,
-          "summaryJa": "価格比較を超えた、真の価値を見極めるための戦略的な購買思考。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }

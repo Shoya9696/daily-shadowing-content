@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-05T22:14:05Z",
+  "lessonDate": "2026-11-06",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "A Doctor Returns Home for Care",
+      "cefrLevel": "A2",
+      "summaryJa": "エボラ出血熱に感染した英国人医師が、治療のためにロンドンの病院へ搬送されました。一般市民への感染リスクは低いとされています。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A British doctor recently caught a serious virus in Africa.",
+          "translationJa": "ある英国人医師が最近、アフリカで深刻なウイルスに感染しました。",
+          "id": "beginner-2026-11-06-s01",
+          "startMs": 0,
+          "endMs": 3387,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The doctor was working hard in the Congo area lately.",
+          "translationJa": "その医師は最近、コンゴ地域で懸命に働いていました。",
+          "id": "beginner-2026-11-06-s02",
+          "startMs": 3787,
+          "endMs": 6527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Now the doctor is back in London for special care.",
+          "translationJa": "現在、その医師は特別な治療を受けるためにロンドンに戻っています。",
+          "id": "beginner-2026-11-06-s03",
+          "startMs": 6927,
+          "endMs": 9697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Medical experts are taking good care of the patient now.",
+          "translationJa": "医療専門家が現在、その患者をしっかりとケアしています。",
+          "id": "beginner-2026-11-06-s04",
+          "startMs": 10097,
+          "endMs": 13120,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "The hospital has many tools to help sick people recover.",
+          "translationJa": "病院には病気の人が回復を助けるための多くの器具があります。",
+          "id": "beginner-2026-11-06-s05",
+          "startMs": 13520,
+          "endMs": 16527,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Officials say the public is safe from this health issue.",
+          "translationJa": "当局は、この健康問題から一般市民は安全であると述べています。",
+          "id": "beginner-2026-11-06-s06",
+          "startMs": 16927,
+          "endMs": 19745,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "The chance of spreading the virus is very low today.",
+          "translationJa": "ウイルスが広がる可能性は現在非常に低いです。",
+          "id": "beginner-2026-11-06-s07",
+          "startMs": 20145,
+          "endMs": 22862,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Everyone hopes the doctor will feel better very soon now.",
+          "translationJa": "誰もが、その医師がすぐに良くなることを願っています。",
+          "id": "beginner-2026-11-06-s08",
+          "startMs": 23262,
+          "endMs": 26359,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Good health is very important for all of us daily.",
+          "translationJa": "健康であることは、私たち全員にとって毎日とても大切です。",
+          "id": "beginner-2026-11-06-s09",
+          "startMs": 26759,
+          "endMs": 29294,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "virus",
+          "meaningJa": "ウイルス",
+          "exampleEn": "The doctor caught a virus.",
+          "exampleJa": "その医師はウイルスに感染した。"
+        },
+        {
+          "word": "patient",
+          "meaningJa": "患者",
+          "exampleEn": "The patient is resting now.",
+          "exampleJa": "患者は今休んでいる。"
+        },
+        {
+          "word": "recover",
+          "meaningJa": "回復する",
+          "exampleEn": "He will recover soon.",
+          "exampleJa": "彼はすぐに回復するだろう。"
+        },
+        {
+          "word": "official",
+          "meaningJa": "当局者",
+          "exampleEn": "The official gave a report.",
+          "exampleJa": "当局者が報告を行った。"
+        },
+        {
+          "word": "safe",
+          "meaningJa": "安全な",
+          "exampleEn": "Please stay safe today.",
+          "exampleJa": "今日は安全に過ごしてください。"
+        }
+      ],
+      "id": "beginner-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner.m4a",
+      "durationSeconds": 28
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Monitoring Public Health Concerns",
+      "cefrLevel": "B1",
+      "summaryJa": "コンゴ民主共和国でエボラ出血熱に感染した英国人医師が、ロンドンの病院へ搬送されました。当局は公衆衛生上のリスクは極めて低いと強調しています。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A British doctor has been transported back to London after contracting a dangerous virus.",
+          "translationJa": "危険なウイルスに感染した英国人医師が、ロンドンへ搬送されました。",
+          "id": "intermediate-2026-11-06-s01",
+          "startMs": 0,
+          "endMs": 4977,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The physician was providing medical assistance in the Democratic Republic of Congo recently.",
+          "translationJa": "その医師は最近、コンゴ民主共和国で医療支援を提供していました。",
+          "id": "intermediate-2026-11-06-s02",
+          "startMs": 5377,
+          "endMs": 10405,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Upon testing positive, the doctor was moved to a specialized hospital unit immediately.",
+          "translationJa": "陽性反応が出た後、医師はすぐに専門の病院ユニットへ移動されました。",
+          "id": "intermediate-2026-11-06-s03",
+          "startMs": 10805,
+          "endMs": 15945,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "This facility is designed to manage high-risk cases with strict safety protocols in place.",
+          "translationJa": "この施設は、厳格な安全基準のもとで高リスクの症例を管理するように設計されています。",
+          "id": "intermediate-2026-11-06-s04",
+          "startMs": 16345,
+          "endMs": 21429,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Health officials have been quick to reassure the public about the current situation today.",
+          "translationJa": "保健当局は、今日の現状について一般市民を安心させるため迅速に対応しました。",
+          "id": "intermediate-2026-11-06-s05",
+          "startMs": 21829,
+          "endMs": 26354,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "They stated that the overall risk to the general population remains extremely low indeed.",
+          "translationJa": "彼らは、一般市民への全体的なリスクは依然として極めて低いと述べました。",
+          "id": "intermediate-2026-11-06-s06",
+          "startMs": 26754,
+          "endMs": 31501,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Medical teams are monitoring the situation closely to prevent any potential spread of infection.",
+          "translationJa": "医療チームは、感染が広がるのを防ぐため状況を注意深く監視しています。",
+          "id": "intermediate-2026-11-06-s07",
+          "startMs": 31901,
+          "endMs": 37153,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "The doctor is receiving the highest standard of care from experienced clinical staff members.",
+          "translationJa": "医師は、経験豊富な臨床スタッフから最高水準のケアを受けています。",
+          "id": "intermediate-2026-11-06-s08",
+          "startMs": 37553,
+          "endMs": 42464,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Strict isolation measures are being followed to ensure that no further transmission can occur.",
+          "translationJa": "これ以上の感染を防ぐため、厳格な隔離措置が守られています。",
+          "id": "intermediate-2026-11-06-s09",
+          "startMs": 42864,
+          "endMs": 47870,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Public health agencies work hard to protect everyone from such serious international health threats.",
+          "translationJa": "公衆衛生機関は、このような深刻な国際的健康脅威から人々を守るために尽力しています。",
+          "id": "intermediate-2026-11-06-s10",
+          "startMs": 48270,
+          "endMs": 53657,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "We hope for a speedy recovery for the doctor during this difficult treatment period.",
+          "translationJa": "この困難な治療期間中、医師の早い回復を願っています。",
+          "id": "intermediate-2026-11-06-s11",
+          "startMs": 54057,
+          "endMs": 58413,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "contract",
+          "meaningJa": "（病気に）かかる",
+          "exampleEn": "He contracted the illness while traveling.",
+          "exampleJa": "彼は旅行中に病気にかかった。"
+        },
+        {
+          "word": "facility",
+          "meaningJa": "施設",
+          "exampleEn": "The hospital is a modern facility.",
+          "exampleJa": "その病院は近代的な施設です。"
+        },
+        {
+          "word": "protocol",
+          "meaningJa": "手順、規約",
+          "exampleEn": "Follow the safety protocol carefully.",
+          "exampleJa": "安全手順に注意深く従ってください。"
+        },
+        {
+          "word": "reassure",
+          "meaningJa": "安心させる",
+          "exampleEn": "The report served to reassure the public.",
+          "exampleJa": "その報告は市民を安心させる役割を果たした。"
+        },
+        {
+          "word": "transmission",
+          "meaningJa": "伝染、伝達",
+          "exampleEn": "Preventing the transmission of the disease is key.",
+          "exampleJa": "病気の伝染を防ぐことが重要です。"
+        }
+      ],
+      "id": "intermediate-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate.m4a",
+      "durationSeconds": 56
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Managing High-Risk Medical Evacuations",
+      "cefrLevel": "B2",
+      "summaryJa": "エボラ出血熱に感染した英国人医師の帰国と専門病院での治療について、公衆衛生上の安全対策とリスク管理の観点から解説します。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A British physician has returned to London for specialized treatment following an Ebola diagnosis.",
+          "translationJa": "エボラ出血熱の診断を受け、英国人医師が専門治療のためロンドンに帰国しました。",
+          "id": "advanced-2026-11-06-s01",
+          "startMs": 0,
+          "endMs": 5419,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The doctor contracted the virus while performing humanitarian medical duties in the Congo region.",
+          "translationJa": "その医師はコンゴ地域で人道的な医療活動中にウイルスに感染しました。",
+          "id": "advanced-2026-11-06-s02",
+          "startMs": 5819,
+          "endMs": 11102,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Patients with such high-consequence pathogens require care in designated high-level isolation units.",
+          "translationJa": "このような高リスクの病原体を持つ患者は、指定された高度隔離ユニットでの治療が必要です。",
+          "id": "advanced-2026-11-06-s03",
+          "startMs": 11502,
+          "endMs": 17304,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The Royal Free Hospital is managing the patient under stringent clinical safety guidelines today.",
+          "translationJa": "ロイヤルフリー病院は現在、厳格な臨床安全ガイドラインのもとで患者を管理しています。",
+          "id": "advanced-2026-11-06-s04",
+          "startMs": 17704,
+          "endMs": 22999,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Government officials emphasize that the infection risk to the public remains exceptionally low overall.",
+          "translationJa": "政府当局は、一般市民への感染リスクは全体として極めて低いと強調しています。",
+          "id": "advanced-2026-11-06-s05",
+          "startMs": 23399,
+          "endMs": 28929,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Public health surveillance systems are operating effectively to track any potential contacts of concern.",
+          "translationJa": "公衆衛生監視システムは、懸念される接触者を追跡するために効果的に機能しています。",
+          "id": "advanced-2026-11-06-s06",
+          "startMs": 29329,
+          "endMs": 34948,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Expert teams are utilizing advanced medical equipment to monitor the patient's vitals around the clock.",
+          "translationJa": "専門家チームは、患者のバイタルを24時間監視するために高度な医療機器を活用しています。",
+          "id": "advanced-2026-11-06-s07",
+          "startMs": 35348,
+          "endMs": 40894,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "The focus remains on providing supportive care while maintaining rigorous infection control protocols daily.",
+          "translationJa": "日々の厳格な感染管理手順を維持しつつ、支持療法を提供することに焦点が置かれています。",
+          "id": "advanced-2026-11-06-s08",
+          "startMs": 41294,
+          "endMs": 47169,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "International collaboration is essential when managing such rare and dangerous global health incidents effectively.",
+          "translationJa": "このような稀で危険な世界的な健康事案を効果的に管理するには、国際的な協力が不可欠です。",
+          "id": "advanced-2026-11-06-s09",
+          "startMs": 47569,
+          "endMs": 53650,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "The authorities continue to share updates to maintain transparency and prevent unnecessary public alarm.",
+          "translationJa": "当局は透明性を維持し、不必要な市民の不安を防ぐために最新情報を共有し続けています。",
+          "id": "advanced-2026-11-06-s10",
+          "startMs": 54050,
+          "endMs": 60074,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "We monitor the patient's progress while respecting the privacy of those involved in care.",
+          "translationJa": "私たちは、治療に関わる人々のプライバシーを尊重しながら患者の経過を見守っています。",
+          "id": "advanced-2026-11-06-s11",
+          "startMs": 60474,
+          "endMs": 65004,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Effective management of such cases demonstrates the resilience of our national health infrastructure today.",
+          "translationJa": "このような症例の適切な管理は、今日の私たちの国家医療基盤の回復力を示しています。",
+          "id": "advanced-2026-11-06-s12",
+          "startMs": 65404,
+          "endMs": 71159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "pathogen",
+          "meaningJa": "病原体",
+          "exampleEn": "The lab studies dangerous pathogens.",
+          "exampleJa": "その研究所は危険な病原体を研究している。"
+        },
+        {
+          "word": "stringent",
+          "meaningJa": "厳格な",
+          "exampleEn": "We have stringent rules for safety.",
+          "exampleJa": "私たちは安全のために厳格なルールを設けている。"
+        },
+        {
+          "word": "surveillance",
+          "meaningJa": "監視",
+          "exampleEn": "The area is under constant surveillance.",
+          "exampleJa": "その地域は常に監視下にある。"
+        },
+        {
+          "word": "resilience",
+          "meaningJa": "回復力、強靭さ",
+          "exampleEn": "The system showed great resilience.",
+          "exampleJa": "そのシステムは大きな回復力を見せた。"
+        },
+        {
+          "word": "transparency",
+          "meaningJa": "透明性",
+          "exampleEn": "The government promised full transparency.",
+          "exampleJa": "政府は完全な透明性を約束した。"
+        }
+      ],
+      "id": "advanced-2026-11-06",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced.m4a",
+      "durationSeconds": 69
+    }
+  ],
+  "topicCategory": "news"
+}
