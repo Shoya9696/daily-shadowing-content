@@ -68,3 +68,62 @@ jobs:
             REQUIRE_TODAY_ARGS="--require-today-jst"
           fi
           python .github/scripts/validate_pages_deployment.py ${REQUIRE_TODAY_ARGS}
+
+  # The freshness check caught the 2026-11-02..05 outage every single day. What
+  # failed was noticing it: a failed run is one more email. An issue stays open
+  # until delivery actually recovers, and closes itself when it does.
+  report-stale:
+    needs: validate
+    if: always() && github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Open or close the stale-delivery issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          VALIDATE_RESULT: ${{ needs.validate.result }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          PAGES_BASE_URL: https://shoya9696.github.io/daily-shadowing-content
+        run: |
+          set -euo pipefail
+          LABEL="delivery-stale"
+          TITLE="配信が止まっています（手動リトライが必要）"
+
+          gh label create "$LABEL" --repo "$REPO" --color B60205             --description "日次教材の配信が止まっている間だけ開く" --force
+
+          OPEN=$(gh issue list --repo "$REPO" --state open --label "$LABEL"                    --json number -q '.[0].number // empty')
+
+          if [ "$VALIDATE_RESULT" = "success" ]; then
+            if [ -n "$OPEN" ]; then
+              gh issue close "$OPEN" --repo "$REPO"                 --comment "鮮度チェックが回復しました。 $RUN_URL"
+              echo "closed #$OPEN"
+            else
+              echo "delivery is healthy; nothing open"
+            fi
+            exit 0
+          fi
+
+          TODAY=$(TZ=Asia/Tokyo date +%F)
+          SERVED=$(curl -fsS "$PAGES_BASE_URL/latest.json"                    | python3 -c 'import sys,json; print(json.load(sys.stdin).get("lessonDate","(unknown)"))'                    || echo "(unreachable)")
+
+          if [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --repo "$REPO"               --body "まだ復旧していません。本日 $TODAY / 配信中 $SERVED 。 $RUN_URL"
+            echo "commented on #$OPEN"
+            exit 0
+          fi
+
+          sed -e "s|__TODAY__|$TODAY|g" \
+              -e "s|__SERVED__|$SERVED|g" \
+              -e "s|__RUN_URL__|$RUN_URL|g" \
+              -e "s|__BASE__|$PAGES_BASE_URL|g" \
+              .github/stale-delivery-issue.md > "$RUNNER_TEMP/body.md"
+
+          gh issue create --repo "$REPO" --title "$TITLE" --label "$LABEL" --body-file "$RUNNER_TEMP/body.md"
+          echo "opened a new issue"
