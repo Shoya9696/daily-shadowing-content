@@ -1,433 +1,334 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-05T22:14:05Z",
-  "lessonDate": "2026-11-06",
+  "generatedAtUtc": "2026-11-06T16:24:56Z",
+  "lessonDate": "2026-11-07",
   "lessons": [
     {
+      "id": "beginner-2026-11-07",
       "levelGroup": "beginner",
-      "title": "A Doctor Returns Home for Care",
+      "title": "Short Breaks at Work",
       "cefrLevel": "A2",
-      "summaryJa": "エボラ出血熱に感染した英国人医師が、治療のためにロンドンの病院へ搬送されました。一般市民への感染リスクは低いとされています。",
+      "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "sentences": [
         {
+          "id": "beginner-2026-11-07-s01",
           "index": 0,
-          "text": "A British doctor recently caught a serious virus in Africa.",
-          "translationJa": "ある英国人医師が最近、アフリカで深刻なウイルスに感染しました。",
-          "id": "beginner-2026-11-06-s01",
+          "text": "I take a short break every two hours at my desk during the workday, even when I feel busy.",
+          "translationJa": "忙しく感じていても、仕事では2時間ごとにデスクで短い休憩を取ります。",
           "startMs": 0,
-          "endMs": 3387,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s01.m4a"
+          "endMs": 5128,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s01.m4a"
         },
         {
+          "id": "beginner-2026-11-07-s02",
           "index": 1,
-          "text": "The doctor was working hard in the Congo area lately.",
-          "translationJa": "その医師は最近、コンゴ地域で懸命に働いていました。",
-          "id": "beginner-2026-11-06-s02",
-          "startMs": 3787,
-          "endMs": 6527,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s02.m4a"
+          "text": "During that break, I stand up, stretch my shoulders and neck, and walk slowly around the office hallway.",
+          "translationJa": "休憩では立ち上がり、肩と首を伸ばし、オフィスの廊下をゆっくり歩きます。",
+          "startMs": 5528,
+          "endMs": 11584,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s02.m4a"
         },
         {
+          "id": "beginner-2026-11-07-s03",
           "index": 2,
-          "text": "Now the doctor is back in London for special care.",
-          "translationJa": "現在、その医師は特別な治療を受けるためにロンドンに戻っています。",
-          "id": "beginner-2026-11-06-s03",
-          "startMs": 6927,
-          "endMs": 9697,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s03.m4a"
+          "text": "A quick five-minute walk outside in the fresh air helps me feel more awake and much less tired.",
+          "translationJa": "外の新鮮な空気の中で5分歩くと、目が覚めて疲れがかなり和らぎます。",
+          "startMs": 11984,
+          "endMs": 16938,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s03.m4a"
         },
         {
+          "id": "beginner-2026-11-07-s04",
           "index": 3,
-          "text": "Medical experts are taking good care of the patient now.",
-          "translationJa": "医療専門家が現在、その患者をしっかりとケアしています。",
-          "id": "beginner-2026-11-06-s04",
-          "startMs": 10097,
-          "endMs": 13120,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s04.m4a"
+          "text": "I also drink a full glass of water and look away from the computer screen for at least one minute.",
+          "translationJa": "水を一杯飲み、少なくとも1分間はパソコンの画面から目を離します。",
+          "startMs": 17338,
+          "endMs": 22222,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s04.m4a"
         },
         {
+          "id": "beginner-2026-11-07-s05",
           "index": 4,
-          "text": "The hospital has many tools to help sick people recover.",
-          "translationJa": "病院には病気の人が回復を助けるための多くの器具があります。",
-          "id": "beginner-2026-11-06-s05",
-          "startMs": 13520,
-          "endMs": 16527,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s05.m4a"
+          "text": "Sometimes I chat with a coworker about something light, which helps me relax before I start again.",
+          "translationJa": "ときどき同僚と軽い話をしてリラックスし、それからまた仕事を始めます。",
+          "startMs": 22622,
+          "endMs": 28372,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s05.m4a"
         },
         {
+          "id": "beginner-2026-11-07-s06",
           "index": 5,
-          "text": "Officials say the public is safe from this health issue.",
-          "translationJa": "当局は、この健康問題から一般市民は安全であると述べています。",
-          "id": "beginner-2026-11-06-s06",
-          "startMs": 16927,
-          "endMs": 19745,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s06.m4a"
-        },
-        {
-          "index": 6,
-          "text": "The chance of spreading the virus is very low today.",
-          "translationJa": "ウイルスが広がる可能性は現在非常に低いです。",
-          "id": "beginner-2026-11-06-s07",
-          "startMs": 20145,
-          "endMs": 22862,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s07.m4a"
-        },
-        {
-          "index": 7,
-          "text": "Everyone hopes the doctor will feel better very soon now.",
-          "translationJa": "誰もが、その医師がすぐに良くなることを願っています。",
-          "id": "beginner-2026-11-06-s08",
-          "startMs": 23262,
-          "endMs": 26359,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "Good health is very important for all of us daily.",
-          "translationJa": "健康であることは、私たち全員にとって毎日とても大切です。",
-          "id": "beginner-2026-11-06-s09",
-          "startMs": 26759,
-          "endMs": 29294,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner-s09.m4a"
+          "text": "Then I return to my desk with fresh energy and finish the rest of my tasks calmly and carefully.",
+          "translationJa": "それから元気を取り戻してデスクに戻り、残りの仕事を落ち着いて丁寧に終えます。",
+          "startMs": 28772,
+          "endMs": 33949,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s06.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "virus",
-          "meaningJa": "ウイルス",
-          "exampleEn": "The doctor caught a virus.",
-          "exampleJa": "その医師はウイルスに感染した。"
+          "word": "break",
+          "meaningJa": "休憩",
+          "exampleEn": "Take a short break.",
+          "exampleJa": "短い休憩を取りましょう。"
         },
         {
-          "word": "patient",
-          "meaningJa": "患者",
-          "exampleEn": "The patient is resting now.",
-          "exampleJa": "患者は今休んでいる。"
+          "word": "awake",
+          "meaningJa": "目が覚めた",
+          "exampleEn": "I feel awake now.",
+          "exampleJa": "今は目が覚めた感じです。"
         },
         {
-          "word": "recover",
-          "meaningJa": "回復する",
-          "exampleEn": "He will recover soon.",
-          "exampleJa": "彼はすぐに回復するだろう。"
+          "word": "stretch",
+          "meaningJa": "伸ばす",
+          "exampleEn": "Stretch your arms.",
+          "exampleJa": "腕を伸ばしてください。"
         },
         {
-          "word": "official",
-          "meaningJa": "当局者",
-          "exampleEn": "The official gave a report.",
-          "exampleJa": "当局者が報告を行った。"
+          "word": "desk",
+          "meaningJa": "机・デスク",
+          "exampleEn": "Go back to your desk.",
+          "exampleJa": "デスクに戻ります。"
         },
         {
-          "word": "safe",
-          "meaningJa": "安全な",
-          "exampleEn": "Please stay safe today.",
-          "exampleJa": "今日は安全に過ごしてください。"
+          "word": "energy",
+          "meaningJa": "元気・エネルギー",
+          "exampleEn": "I need more energy.",
+          "exampleJa": "もっと元気が必要です。"
         }
       ],
-      "id": "beginner-2026-11-06",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/beginner.m4a",
-      "durationSeconds": 28
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner.m4a",
+      "durationSeconds": 33
     },
     {
+      "id": "intermediate-2026-11-07",
       "levelGroup": "intermediate",
-      "title": "Monitoring Public Health Concerns",
+      "title": "Resetting Focus During the Day",
       "cefrLevel": "B1",
-      "summaryJa": "コンゴ民主共和国でエボラ出血熱に感染した英国人医師が、ロンドンの病院へ搬送されました。当局は公衆衛生上のリスクは極めて低いと強調しています。",
+      "summaryJa": "日中の集中力をリセットする工夫を扱います。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "sentences": [
         {
+          "id": "intermediate-2026-11-07-s01",
           "index": 0,
-          "text": "A British doctor has been transported back to London after contracting a dangerous virus.",
-          "translationJa": "危険なウイルスに感染した英国人医師が、ロンドンへ搬送されました。",
-          "id": "intermediate-2026-11-06-s01",
+          "text": "Many office workers now schedule short breaks during the day to reset their focus and avoid burnout from constant screen time.",
+          "translationJa": "多くの会社員は、画面を見続けることによる燃え尽きを防ぎ集中力をリセットするため、日中に短い休憩を入れるようになっています。",
           "startMs": 0,
-          "endMs": 4977,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s01.m4a"
+          "endMs": 6610,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s01.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s02",
           "index": 1,
-          "text": "The physician was providing medical assistance in the Democratic Republic of Congo recently.",
-          "translationJa": "その医師は最近、コンゴ民主共和国で医療支援を提供していました。",
-          "id": "intermediate-2026-11-06-s02",
-          "startMs": 5377,
-          "endMs": 10405,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s02.m4a"
+          "text": "A five-minute walk away from the desk can reduce eye strain and give the mind a chance to recover before the next task.",
+          "translationJa": "デスクを離れて5分歩くだけで、目の疲れを和らげ、次の仕事の前に頭を休められます。",
+          "startMs": 7010,
+          "endMs": 12951,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s02.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s03",
           "index": 2,
-          "text": "Upon testing positive, the doctor was moved to a specialized hospital unit immediately.",
-          "translationJa": "陽性反応が出た後、医師はすぐに専門の病院ユニットへ移動されました。",
-          "id": "intermediate-2026-11-06-s03",
-          "startMs": 10805,
-          "endMs": 15945,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s03.m4a"
+          "text": "Hydration, light stretching, and a few deep breaths also help people return to work with clearer attention and better posture.",
+          "translationJa": "水分補給、軽いストレッチ、深呼吸も、よりはっきりした注意力と良い姿勢で仕事に戻る助けになります。",
+          "startMs": 13351,
+          "endMs": 20360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s03.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s04",
           "index": 3,
-          "text": "This facility is designed to manage high-risk cases with strict safety protocols in place.",
-          "translationJa": "この施設は、厳格な安全基準のもとで高リスクの症例を管理するように設計されています。",
-          "id": "intermediate-2026-11-06-s04",
-          "startMs": 16345,
-          "endMs": 21429,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s04.m4a"
+          "text": "Managers are starting to encourage these small habits because they support steady productivity across the long afternoon hours.",
+          "translationJa": "こうした小さな習慣は長い午後の生産性を支えるため、管理者も勧め始めています。",
+          "startMs": 20760,
+          "endMs": 27475,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s04.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s05",
           "index": 4,
-          "text": "Health officials have been quick to reassure the public about the current situation today.",
-          "translationJa": "保健当局は、今日の現状について一般市民を安心させるため迅速に対応しました。",
-          "id": "intermediate-2026-11-06-s05",
-          "startMs": 21829,
-          "endMs": 26354,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s05.m4a"
+          "text": "Some teams even set shared reminders so everyone remembers to stand up, move, and drink water at similar times.",
+          "translationJa": "全員が同じタイミングで立ち上がり、動き、水を飲むことを忘れないよう、チームでリマインダーを共有する例もあります。",
+          "startMs": 27875,
+          "endMs": 34507,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s05.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s06",
           "index": 5,
-          "text": "They stated that the overall risk to the general population remains extremely low indeed.",
-          "translationJa": "彼らは、一般市民への全体的なリスクは依然として極めて低いと述べました。",
-          "id": "intermediate-2026-11-06-s06",
-          "startMs": 26754,
-          "endMs": 31501,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s06.m4a"
+          "text": "The most effective approach is consistency, so workers repeat the same simple routine every day until it feels natural.",
+          "translationJa": "最も効果的なのは一貫性なので、自然に感じられるまで毎日同じシンプルなルーティンを繰り返します。",
+          "startMs": 34907,
+          "endMs": 41699,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s06.m4a"
         },
         {
+          "id": "intermediate-2026-11-07-s07",
           "index": 6,
-          "text": "Medical teams are monitoring the situation closely to prevent any potential spread of infection.",
-          "translationJa": "医療チームは、感染が広がるのを防ぐため状況を注意深く監視しています。",
-          "id": "intermediate-2026-11-06-s07",
-          "startMs": 31901,
-          "endMs": 37153,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s07.m4a"
-        },
-        {
-          "index": 7,
-          "text": "The doctor is receiving the highest standard of care from experienced clinical staff members.",
-          "translationJa": "医師は、経験豊富な臨床スタッフから最高水準のケアを受けています。",
-          "id": "intermediate-2026-11-06-s08",
-          "startMs": 37553,
-          "endMs": 42464,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "Strict isolation measures are being followed to ensure that no further transmission can occur.",
-          "translationJa": "これ以上の感染を防ぐため、厳格な隔離措置が守られています。",
-          "id": "intermediate-2026-11-06-s09",
-          "startMs": 42864,
-          "endMs": 47870,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Public health agencies work hard to protect everyone from such serious international health threats.",
-          "translationJa": "公衆衛生機関は、このような深刻な国際的健康脅威から人々を守るために尽力しています。",
-          "id": "intermediate-2026-11-06-s10",
-          "startMs": 48270,
-          "endMs": 53657,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s10.m4a"
-        },
-        {
-          "index": 10,
-          "text": "We hope for a speedy recovery for the doctor during this difficult treatment period.",
-          "translationJa": "この困難な治療期間中、医師の早い回復を願っています。",
-          "id": "intermediate-2026-11-06-s11",
-          "startMs": 54057,
-          "endMs": 58413,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate-s11.m4a"
+          "text": "Over time, these small resets become a reliable habit that protects focus and prevents the afternoon slump many workers feel after lunch.",
+          "translationJa": "時間が経つと、こうした短いリセットは集中力を守り、昼食後に多くの人が感じる午後のだるさを防ぐ頼もしい習慣になります。",
+          "startMs": 42099,
+          "endMs": 50022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s07.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "contract",
-          "meaningJa": "（病気に）かかる",
-          "exampleEn": "He contracted the illness while traveling.",
-          "exampleJa": "彼は旅行中に病気にかかった。"
+          "word": "schedule",
+          "meaningJa": "予定を立てる",
+          "exampleEn": "I schedule breaks.",
+          "exampleJa": "休憩を予定に入れます。"
         },
         {
-          "word": "facility",
-          "meaningJa": "施設",
-          "exampleEn": "The hospital is a modern facility.",
-          "exampleJa": "その病院は近代的な施設です。"
+          "word": "strain",
+          "meaningJa": "疲労・負担",
+          "exampleEn": "Eye strain is common.",
+          "exampleJa": "目の疲れはよくあります。"
         },
         {
-          "word": "protocol",
-          "meaningJa": "手順、規約",
-          "exampleEn": "Follow the safety protocol carefully.",
-          "exampleJa": "安全手順に注意深く従ってください。"
+          "word": "hydration",
+          "meaningJa": "水分補給",
+          "exampleEn": "Hydration matters at work.",
+          "exampleJa": "仕事では水分補給が大切です。"
         },
         {
-          "word": "reassure",
-          "meaningJa": "安心させる",
-          "exampleEn": "The report served to reassure the public.",
-          "exampleJa": "その報告は市民を安心させる役割を果たした。"
+          "word": "productivity",
+          "meaningJa": "生産性",
+          "exampleEn": "Breaks can help productivity.",
+          "exampleJa": "休憩は生産性の助けになります。"
         },
         {
-          "word": "transmission",
-          "meaningJa": "伝染、伝達",
-          "exampleEn": "Preventing the transmission of the disease is key.",
-          "exampleJa": "病気の伝染を防ぐことが重要です。"
+          "word": "consistency",
+          "meaningJa": "一貫性",
+          "exampleEn": "Consistency matters most.",
+          "exampleJa": "一貫性が最も重要です。"
         }
       ],
-      "id": "intermediate-2026-11-06",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/intermediate.m4a",
-      "durationSeconds": 56
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate.m4a",
+      "durationSeconds": 49
     },
     {
+      "id": "advanced-2026-11-07",
       "levelGroup": "advanced",
-      "title": "Managing High-Risk Medical Evacuations",
+      "title": "Micro-breaks and Sustainable Focus",
       "cefrLevel": "B2",
-      "summaryJa": "エボラ出血熱に感染した英国人医師の帰国と専門病院での治療について、公衆衛生上の安全対策とリスク管理の観点から解説します。",
+      "summaryJa": "マイクロブレイクと持続可能な集中について扱います。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss"
+        "https://www.cdc.gov/workplacehealthpromotion/index.html"
       ],
       "sentences": [
         {
+          "id": "advanced-2026-11-07-s01",
           "index": 0,
-          "text": "A British physician has returned to London for specialized treatment following an Ebola diagnosis.",
-          "translationJa": "エボラ出血熱の診断を受け、英国人医師が専門治療のためロンドンに帰国しました。",
-          "id": "advanced-2026-11-06-s01",
+          "text": "Workplace wellness guidance increasingly emphasizes micro-breaks rather than long idle periods that disrupt workflow momentum and drain mental energy.",
+          "translationJa": "職場の健康づくりの指針は、作業の流れと精神的なエネルギーを奪う長い中断よりも、短いマイクロブレイクを重視するようになっています。",
           "startMs": 0,
-          "endMs": 5419,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s01.m4a"
+          "endMs": 8350,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s01.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s02",
           "index": 1,
-          "text": "The doctor contracted the virus while performing humanitarian medical duties in the Congo region.",
-          "translationJa": "その医師はコンゴ地域で人道的な医療活動中にウイルスに感染しました。",
-          "id": "advanced-2026-11-06-s02",
-          "startMs": 5819,
-          "endMs": 11102,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s02.m4a"
+          "text": "Brief movement, hydration, and screen-free moments can interrupt mental fatigue without forcing employees to lose their concentration entirely.",
+          "translationJa": "短い運動、水分補給、画面から離れる時間は、従業員の集中力を完全に失わせずに精神的な疲れを中断できます。",
+          "startMs": 8750,
+          "endMs": 16905,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s02.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s03",
           "index": 2,
-          "text": "Patients with such high-consequence pathogens require care in designated high-level isolation units.",
-          "translationJa": "このような高リスクの病原体を持つ患者は、指定された高度隔離ユニットでの治療が必要です。",
-          "id": "advanced-2026-11-06-s03",
-          "startMs": 11502,
-          "endMs": 17304,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s03.m4a"
+          "text": "Employees who plan short resets throughout the day often report steadier concentration, fewer headaches, and less stiffness during long computer sessions.",
+          "translationJa": "一日を通して短いリセットを計画する従業員は、長時間のパソコン作業中に集中力が安定し、頭痛やこわばりも少ないと答えます。",
+          "startMs": 17305,
+          "endMs": 26148,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s03.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s04",
           "index": 3,
-          "text": "The Royal Free Hospital is managing the patient under stringent clinical safety guidelines today.",
-          "translationJa": "ロイヤルフリー病院は現在、厳格な臨床安全ガイドラインのもとで患者を管理しています。",
-          "id": "advanced-2026-11-06-s04",
-          "startMs": 17704,
-          "endMs": 22999,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s04.m4a"
+          "text": "Organizations that normalize these habits see better engagement because people feel permission to recover before stress accumulates and performance drops.",
+          "translationJa": "こうした習慣を当たり前にする組織では、ストレスがたまり成果が落ちる前に回復できると感じるため、エンゲージメントが高まります。",
+          "startMs": 26548,
+          "endMs": 34900,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s04.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s05",
           "index": 4,
-          "text": "Government officials emphasize that the infection risk to the public remains exceptionally low overall.",
-          "translationJa": "政府当局は、一般市民への感染リスクは全体として極めて低いと強調しています。",
-          "id": "advanced-2026-11-06-s05",
-          "startMs": 23399,
-          "endMs": 28929,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s05.m4a"
+          "text": "Leaders who model micro-breaks themselves send a practical message that sustainable focus is a shared responsibility, not a personal weakness.",
+          "translationJa": "自分自身がマイクロブレイクを実践するリーダーは、持続可能な集中が個人の弱さではなく共有の責任だという実践的なメッセージを送ります。",
+          "startMs": 35300,
+          "endMs": 43431,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s05.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s06",
           "index": 5,
-          "text": "Public health surveillance systems are operating effectively to track any potential contacts of concern.",
-          "translationJa": "公衆衛生監視システムは、懸念される接触者を追跡するために効果的に機能しています。",
-          "id": "advanced-2026-11-06-s06",
-          "startMs": 29329,
-          "endMs": 34948,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s06.m4a"
+          "text": "The key is consistency rather than intensity, because durable attention depends on small routines that are easy to repeat every single working day.",
+          "translationJa": "持続する注意力は毎営業日繰り返しやすい小さなルーティンにかかっているため、大切なのは強度ではなく一貫性です。",
+          "startMs": 43831,
+          "endMs": 51900,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s06.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s07",
           "index": 6,
-          "text": "Expert teams are utilizing advanced medical equipment to monitor the patient's vitals around the clock.",
-          "translationJa": "専門家チームは、患者のバイタルを24時間監視するために高度な医療機器を活用しています。",
-          "id": "advanced-2026-11-06-s07",
-          "startMs": 35348,
-          "endMs": 40894,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s07.m4a"
+          "text": "Research suggests that even brief physical movement can refresh working memory without requiring employees to leave the building for an extended period of time.",
+          "translationJa": "研究によると、短い身体活動でも作業記憶をリフレッシュでき、従業員が長時間外出する必要はありません。",
+          "startMs": 52300,
+          "endMs": 60806,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s07.m4a"
         },
         {
+          "id": "advanced-2026-11-07-s08",
           "index": 7,
-          "text": "The focus remains on providing supportive care while maintaining rigorous infection control protocols daily.",
-          "translationJa": "日々の厳格な感染管理手順を維持しつつ、支持療法を提供することに焦点が置かれています。",
-          "id": "advanced-2026-11-06-s08",
-          "startMs": 41294,
-          "endMs": 47169,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "International collaboration is essential when managing such rare and dangerous global health incidents effectively.",
-          "translationJa": "このような稀で危険な世界的な健康事案を効果的に管理するには、国際的な協力が不可欠です。",
-          "id": "advanced-2026-11-06-s09",
-          "startMs": 47569,
-          "endMs": 53650,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "The authorities continue to share updates to maintain transparency and prevent unnecessary public alarm.",
-          "translationJa": "当局は透明性を維持し、不必要な市民の不安を防ぐために最新情報を共有し続けています。",
-          "id": "advanced-2026-11-06-s10",
-          "startMs": 54050,
-          "endMs": 60074,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s10.m4a"
-        },
-        {
-          "index": 10,
-          "text": "We monitor the patient's progress while respecting the privacy of those involved in care.",
-          "translationJa": "私たちは、治療に関わる人々のプライバシーを尊重しながら患者の経過を見守っています。",
-          "id": "advanced-2026-11-06-s11",
-          "startMs": 60474,
-          "endMs": 65004,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Effective management of such cases demonstrates the resilience of our national health infrastructure today.",
-          "translationJa": "このような症例の適切な管理は、今日の私たちの国家医療基盤の回復力を示しています。",
-          "id": "advanced-2026-11-06-s12",
-          "startMs": 65404,
-          "endMs": 71159,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced-s12.m4a"
+          "text": "Teams that embrace this philosophy often report better morale, because recovery is treated as part of sustainable performance rather than a distraction from it.",
+          "translationJa": "この考え方を取り入れるチームは、回復が作業の妨げではなく持続可能な成果の一部として扱われるため、士気が高まると答えることが多いです。",
+          "startMs": 61206,
+          "endMs": 69553,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s08.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "pathogen",
-          "meaningJa": "病原体",
-          "exampleEn": "The lab studies dangerous pathogens.",
-          "exampleJa": "その研究所は危険な病原体を研究している。"
+          "word": "micro-break",
+          "meaningJa": "短い休憩",
+          "exampleEn": "Take a micro-break.",
+          "exampleJa": "短い休憩を取りましょう。"
         },
         {
-          "word": "stringent",
-          "meaningJa": "厳格な",
-          "exampleEn": "We have stringent rules for safety.",
-          "exampleJa": "私たちは安全のために厳格なルールを設けている。"
+          "word": "momentum",
+          "meaningJa": "勢い・流れ",
+          "exampleEn": "Keep your momentum.",
+          "exampleJa": "作業の流れを保ちます。"
         },
         {
-          "word": "surveillance",
-          "meaningJa": "監視",
-          "exampleEn": "The area is under constant surveillance.",
-          "exampleJa": "その地域は常に監視下にある。"
+          "word": "fatigue",
+          "meaningJa": "疲労",
+          "exampleEn": "Mental fatigue builds up.",
+          "exampleJa": "精神的な疲れがたまります。"
         },
         {
-          "word": "resilience",
-          "meaningJa": "回復力、強靭さ",
-          "exampleEn": "The system showed great resilience.",
-          "exampleJa": "そのシステムは大きな回復力を見せた。"
+          "word": "consistency",
+          "meaningJa": "一貫性",
+          "exampleEn": "Consistency matters most.",
+          "exampleJa": "一貫性が最も重要です。"
         },
         {
-          "word": "transparency",
-          "meaningJa": "透明性",
-          "exampleEn": "The government promised full transparency.",
-          "exampleJa": "政府は完全な透明性を約束した。"
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "Build sustainable habits.",
+          "exampleJa": "持続可能な習慣を作ります。"
         }
       ],
-      "id": "advanced-2026-11-06",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-06/advanced.m4a",
-      "durationSeconds": 69
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced.m4a",
+      "durationSeconds": 68
     }
   ],
   "topicCategory": "news"

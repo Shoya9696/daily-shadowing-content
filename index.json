@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-05T22:14:05Z",
-  "latestLessonDate": "2026-11-06",
+  "generatedAtUtc": "2026-11-06T16:24:56Z",
+  "latestLessonDate": "2026-11-07",
   "days": [
+    {
+      "lessonDate": "2026-11-07",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-07.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Short Breaks at Work",
+          "durationSeconds": 33,
+          "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Resetting Focus During the Day",
+          "durationSeconds": 49,
+          "summaryJa": "日中の集中力をリセットする工夫を扱います。"
+        },
+        {
+          "level": "advanced",
+          "title": "Micro-breaks and Sustainable Focus",
+          "durationSeconds": 68,
+          "summaryJa": "マイクロブレイクと持続可能な集中について扱います。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-11-06",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-06.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-10-07",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-07.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "The Rise of Vaping in the UK",
-          "durationSeconds": 38,
-          "summaryJa": "イギリスで喫煙経験のない人が電子タバコを利用するケースが増加しているニュース。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Changing Habits in Modern Britain",
-          "durationSeconds": 59,
-          "summaryJa": "イギリスにおける電子タバコの利用状況と、喫煙者数との比較に関するニュース。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Evolving Landscape of Nicotine Consumption",
-          "durationSeconds": 66,
-          "summaryJa": "イギリスにおける非喫煙者の電子タバコ利用増加と、それに対する公衆衛生上の懸念。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
