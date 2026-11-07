@@ -1,335 +1,452 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-06T16:24:56Z",
-  "lessonDate": "2026-11-07",
+  "generatedAtUtc": "2026-11-07T15:01:11Z",
+  "lessonDate": "2026-11-08",
   "lessons": [
     {
-      "id": "beginner-2026-11-07",
       "levelGroup": "beginner",
-      "title": "Short Breaks at Work",
+      "title": "Starting Your Workday Right",
       "cefrLevel": "A2",
-      "summaryJa": "仕事の合間に短い休憩を取る習慣を扱います。",
+      "summaryJa": "一日の始まりに重要なタスクに優先順位をつけるためのシンプルな方法。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
       ],
       "sentences": [
         {
-          "id": "beginner-2026-11-07-s01",
           "index": 0,
-          "text": "I take a short break every two hours at my desk during the workday, even when I feel busy.",
-          "translationJa": "忙しく感じていても、仕事では2時間ごとにデスクで短い休憩を取ります。",
+          "text": "Every morning, I take time to plan my tasks for the day.",
+          "translationJa": "毎朝、その日のタスクを計画するために時間を取ります。",
+          "id": "beginner-2026-11-08-s01",
           "startMs": 0,
-          "endMs": 5128,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s01.m4a"
+          "endMs": 3329,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s01.m4a"
         },
         {
-          "id": "beginner-2026-11-07-s02",
           "index": 1,
-          "text": "During that break, I stand up, stretch my shoulders and neck, and walk slowly around the office hallway.",
-          "translationJa": "休憩では立ち上がり、肩と首を伸ばし、オフィスの廊下をゆっくり歩きます。",
-          "startMs": 5528,
-          "endMs": 11584,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s02.m4a"
+          "text": "First, I write down everything that I need to finish today.",
+          "translationJa": "まず、今日終わらせる必要があるすべてのことを書き出します。",
+          "id": "beginner-2026-11-08-s02",
+          "startMs": 3729,
+          "endMs": 7074,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s02.m4a"
         },
         {
-          "id": "beginner-2026-11-07-s03",
           "index": 2,
-          "text": "A quick five-minute walk outside in the fresh air helps me feel more awake and much less tired.",
-          "translationJa": "外の新鮮な空気の中で5分歩くと、目が覚めて疲れがかなり和らぎます。",
-          "startMs": 11984,
-          "endMs": 16938,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s03.m4a"
+          "text": "Then, I choose the three most important things on my list.",
+          "translationJa": "次に、リストの中で最も重要な3つのことを選びます。",
+          "id": "beginner-2026-11-08-s03",
+          "startMs": 7474,
+          "endMs": 10758,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s03.m4a"
         },
         {
-          "id": "beginner-2026-11-07-s04",
           "index": 3,
-          "text": "I also drink a full glass of water and look away from the computer screen for at least one minute.",
-          "translationJa": "水を一杯飲み、少なくとも1分間はパソコンの画面から目を離します。",
-          "startMs": 17338,
-          "endMs": 22222,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s04.m4a"
+          "text": "These big tasks should always be done before lunch is over.",
+          "translationJa": "これらの大きなタスクは、いつも昼食が終わる前に終わらせるべきです。",
+          "id": "beginner-2026-11-08-s04",
+          "startMs": 11158,
+          "endMs": 14175,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s04.m4a"
         },
         {
-          "id": "beginner-2026-11-07-s05",
           "index": 4,
-          "text": "Sometimes I chat with a coworker about something light, which helps me relax before I start again.",
-          "translationJa": "ときどき同僚と軽い話をしてリラックスし、それからまた仕事を始めます。",
-          "startMs": 22622,
-          "endMs": 28372,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s05.m4a"
+          "text": "I try not to look at my email during this time.",
+          "translationJa": "この時間はメールを見ないようにしています。",
+          "id": "beginner-2026-11-08-s05",
+          "startMs": 14575,
+          "endMs": 17253,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s05.m4a"
         },
         {
-          "id": "beginner-2026-11-07-s06",
           "index": 5,
-          "text": "Then I return to my desk with fresh energy and finish the rest of my tasks calmly and carefully.",
-          "translationJa": "それから元気を取り戻してデスクに戻り、残りの仕事を落ち着いて丁寧に終えます。",
-          "startMs": 28772,
-          "endMs": 33949,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner-s06.m4a"
+          "text": "Focusing on one single task helps me work much faster now.",
+          "translationJa": "一つのタスクに集中することで、今ではずっと早く仕事ができます。",
+          "id": "beginner-2026-11-08-s06",
+          "startMs": 17653,
+          "endMs": 21265,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "It is also important to take short breaks every single hour.",
+          "translationJa": "1時間ごとに短い休憩を取ることも大切です。",
+          "id": "beginner-2026-11-08-s07",
+          "startMs": 21665,
+          "endMs": 24901,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Small breaks help my brain stay fresh for the afternoon work.",
+          "translationJa": "短い休憩は、午後の仕事に向けて脳をリフレッシュさせてくれます。",
+          "id": "beginner-2026-11-08-s08",
+          "startMs": 25301,
+          "endMs": 28682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Finally, I check my list again before I leave the office.",
+          "translationJa": "最後に、オフィスを出る前にリストをもう一度確認します。",
+          "id": "beginner-2026-11-08-s09",
+          "startMs": 29082,
+          "endMs": 32485,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Planning ahead makes me feel ready for the next busy day.",
+          "translationJa": "前もって計画を立てると、次の忙しい日に備えることができます。",
+          "id": "beginner-2026-11-08-s10",
+          "startMs": 32885,
+          "endMs": 35878,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "break",
-          "meaningJa": "休憩",
-          "exampleEn": "Take a short break.",
-          "exampleJa": "短い休憩を取りましょう。"
+          "word": "prioritize",
+          "meaningJa": "優先順位をつける",
+          "exampleEn": "I prioritize my tasks every morning.",
+          "exampleJa": "私は毎朝タスクに優先順位をつけます。"
         },
         {
-          "word": "awake",
-          "meaningJa": "目が覚めた",
-          "exampleEn": "I feel awake now.",
-          "exampleJa": "今は目が覚めた感じです。"
+          "word": "finish",
+          "meaningJa": "終わらせる",
+          "exampleEn": "I need to finish this report.",
+          "exampleJa": "この報告書を終わらせる必要があります。"
         },
         {
-          "word": "stretch",
-          "meaningJa": "伸ばす",
-          "exampleEn": "Stretch your arms.",
-          "exampleJa": "腕を伸ばしてください。"
+          "word": "important",
+          "meaningJa": "重要な",
+          "exampleEn": "This is an important meeting.",
+          "exampleJa": "これは重要な会議です。"
         },
         {
-          "word": "desk",
-          "meaningJa": "机・デスク",
-          "exampleEn": "Go back to your desk.",
-          "exampleJa": "デスクに戻ります。"
+          "word": "focus",
+          "meaningJa": "集中する",
+          "exampleEn": "It is hard to focus today.",
+          "exampleJa": "今日は集中するのが難しいです。"
         },
         {
-          "word": "energy",
-          "meaningJa": "元気・エネルギー",
-          "exampleEn": "I need more energy.",
-          "exampleJa": "もっと元気が必要です。"
+          "word": "fresh",
+          "meaningJa": "新鮮な、リフレッシュした",
+          "exampleEn": "A walk makes me feel fresh.",
+          "exampleJa": "散歩をするとリフレッシュした気分になります。"
         }
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/beginner.m4a",
-      "durationSeconds": 33
+      "id": "beginner-2026-11-08",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner.m4a",
+      "durationSeconds": 34
     },
     {
-      "id": "intermediate-2026-11-07",
       "levelGroup": "intermediate",
-      "title": "Resetting Focus During the Day",
+      "title": "Mastering Your Daily Productivity",
       "cefrLevel": "B1",
-      "summaryJa": "日中の集中力をリセットする工夫を扱います。",
+      "summaryJa": "生産性を高めるために、タスクを管理し、集中力を維持するための実践的なテクニック。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
       ],
       "sentences": [
         {
-          "id": "intermediate-2026-11-07-s01",
           "index": 0,
-          "text": "Many office workers now schedule short breaks during the day to reset their focus and avoid burnout from constant screen time.",
-          "translationJa": "多くの会社員は、画面を見続けることによる燃え尽きを防ぎ集中力をリセットするため、日中に短い休憩を入れるようになっています。",
+          "text": "Many people struggle to manage their busy schedules effectively throughout the work week.",
+          "translationJa": "多くの人が、仕事の週を通して忙しいスケジュールを効果的に管理することに苦労しています。",
+          "id": "intermediate-2026-11-08-s01",
           "startMs": 0,
-          "endMs": 6610,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s01.m4a"
+          "endMs": 4497,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s01.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s02",
           "index": 1,
-          "text": "A five-minute walk away from the desk can reduce eye strain and give the mind a chance to recover before the next task.",
-          "translationJa": "デスクを離れて5分歩くだけで、目の疲れを和らげ、次の仕事の前に頭を休められます。",
-          "startMs": 7010,
-          "endMs": 12951,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s02.m4a"
+          "text": "The secret to high productivity is choosing your most valuable tasks very carefully.",
+          "translationJa": "高い生産性の秘訣は、最も価値のあるタスクを慎重に選ぶことです。",
+          "id": "intermediate-2026-11-08-s02",
+          "startMs": 4897,
+          "endMs": 9553,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s02.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s03",
           "index": 2,
-          "text": "Hydration, light stretching, and a few deep breaths also help people return to work with clearer attention and better posture.",
-          "translationJa": "水分補給、軽いストレッチ、深呼吸も、よりはっきりした注意力と良い姿勢で仕事に戻る助けになります。",
-          "startMs": 13351,
-          "endMs": 20360,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s03.m4a"
+          "text": "You should start by identifying the main goals you want to achieve today.",
+          "translationJa": "まずは今日達成したい主な目標を特定することから始めるべきです。",
+          "id": "intermediate-2026-11-08-s03",
+          "startMs": 9953,
+          "endMs": 13754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s03.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s04",
           "index": 3,
-          "text": "Managers are starting to encourage these small habits because they support steady productivity across the long afternoon hours.",
-          "translationJa": "こうした小さな習慣は長い午後の生産性を支えるため、管理者も勧め始めています。",
-          "startMs": 20760,
-          "endMs": 27475,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s04.m4a"
+          "text": "Once you have your list, try blocking off time for deep, focused work.",
+          "translationJa": "リストができたら、深く集中して仕事をするための時間を確保してみてください。",
+          "id": "intermediate-2026-11-08-s04",
+          "startMs": 14154,
+          "endMs": 18440,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s04.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s05",
           "index": 4,
-          "text": "Some teams even set shared reminders so everyone remembers to stand up, move, and drink water at similar times.",
-          "translationJa": "全員が同じタイミングで立ち上がり、動き、水を飲むことを忘れないよう、チームでリマインダーを共有する例もあります。",
-          "startMs": 27875,
-          "endMs": 34507,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s05.m4a"
+          "text": "During these blocks, you must avoid checking social media or your personal messages.",
+          "translationJa": "これらの時間帯は、ソーシャルメディアや個人的なメッセージをチェックしてはいけません。",
+          "id": "intermediate-2026-11-08-s05",
+          "startMs": 18840,
+          "endMs": 23677,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s05.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s06",
           "index": 5,
-          "text": "The most effective approach is consistency, so workers repeat the same simple routine every day until it feels natural.",
-          "translationJa": "最も効果的なのは一貫性なので、自然に感じられるまで毎日同じシンプルなルーティンを繰り返します。",
-          "startMs": 34907,
-          "endMs": 41699,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s06.m4a"
+          "text": "It is also helpful to group similar small tasks together into one session.",
+          "translationJa": "似たような小さなタスクを1つのセッションにまとめることも役立ちます。",
+          "id": "intermediate-2026-11-08-s06",
+          "startMs": 24077,
+          "endMs": 28288,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s06.m4a"
         },
         {
-          "id": "intermediate-2026-11-07-s07",
           "index": 6,
-          "text": "Over time, these small resets become a reliable habit that protects focus and prevents the afternoon slump many workers feel after lunch.",
-          "translationJa": "時間が経つと、こうした短いリセットは集中力を守り、昼食後に多くの人が感じる午後のだるさを防ぐ頼もしい習慣になります。",
-          "startMs": 42099,
-          "endMs": 50022,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate-s07.m4a"
+          "text": "This method prevents you from constantly switching between different types of mental activities.",
+          "translationJa": "この方法は、異なる種類の精神活動の間で絶えず切り替えることを防いでくれます。",
+          "id": "intermediate-2026-11-08-s07",
+          "startMs": 28688,
+          "endMs": 33586,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If you feel overwhelmed, do not be afraid to delegate or reschedule some items.",
+          "translationJa": "もし圧倒されていると感じたら、いくつかの項目を委任したり、予定を変更したりすることを恐れないでください。",
+          "id": "intermediate-2026-11-08-s08",
+          "startMs": 33986,
+          "endMs": 38650,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Remember that quality of work is almost always better than just quantity alone.",
+          "translationJa": "仕事の質は、単なる量よりもほとんどの場合優れていることを忘れないでください。",
+          "id": "intermediate-2026-11-08-s09",
+          "startMs": 39050,
+          "endMs": 43272,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Taking time to review your progress helps you improve your daily habits constantly.",
+          "translationJa": "進捗を確認する時間を取ることは、日々の習慣を絶えず改善するのに役立ちます。",
+          "id": "intermediate-2026-11-08-s10",
+          "startMs": 43672,
+          "endMs": 48026,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "With practice, you will find it much easier to balance your professional responsibilities.",
+          "translationJa": "練習すれば、仕事上の責任のバランスを取ることがずっと簡単になるでしょう。",
+          "id": "intermediate-2026-11-08-s11",
+          "startMs": 48426,
+          "endMs": 53502,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Consistently applying these simple strategies will lead to much better results over time.",
+          "translationJa": "これらの単純な戦略を一貫して適用することで、時間が経つにつれてはるかに良い結果につながります。",
+          "id": "intermediate-2026-11-08-s12",
+          "startMs": 53902,
+          "endMs": 58581,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
-        {
-          "word": "schedule",
-          "meaningJa": "予定を立てる",
-          "exampleEn": "I schedule breaks.",
-          "exampleJa": "休憩を予定に入れます。"
-        },
-        {
-          "word": "strain",
-          "meaningJa": "疲労・負担",
-          "exampleEn": "Eye strain is common.",
-          "exampleJa": "目の疲れはよくあります。"
-        },
-        {
-          "word": "hydration",
-          "meaningJa": "水分補給",
-          "exampleEn": "Hydration matters at work.",
-          "exampleJa": "仕事では水分補給が大切です。"
-        },
         {
           "word": "productivity",
           "meaningJa": "生産性",
-          "exampleEn": "Breaks can help productivity.",
-          "exampleJa": "休憩は生産性の助けになります。"
+          "exampleEn": "The company wants to increase productivity.",
+          "exampleJa": "会社は生産性を高めたいと考えています。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性",
-          "exampleEn": "Consistency matters most.",
-          "exampleJa": "一貫性が最も重要です。"
+          "word": "valuable",
+          "meaningJa": "価値のある",
+          "exampleEn": "Your time is very valuable.",
+          "exampleJa": "あなたの時間はとても価値があります。"
+        },
+        {
+          "word": "identify",
+          "meaningJa": "特定する",
+          "exampleEn": "Can you identify the problem?",
+          "exampleJa": "問題を特定できますか？"
+        },
+        {
+          "word": "overwhelmed",
+          "meaningJa": "圧倒された、いっぱいいっぱいの",
+          "exampleEn": "I feel overwhelmed by my work.",
+          "exampleJa": "仕事に追われていっぱいいっぱいです。"
+        },
+        {
+          "word": "delegate",
+          "meaningJa": "委任する",
+          "exampleEn": "You should delegate tasks to others.",
+          "exampleJa": "他の人にタスクを任せるべきです。"
         }
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/intermediate.m4a",
-      "durationSeconds": 49
+      "id": "intermediate-2026-11-08",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate.m4a",
+      "durationSeconds": 56
     },
     {
-      "id": "advanced-2026-11-07",
       "levelGroup": "advanced",
-      "title": "Micro-breaks and Sustainable Focus",
+      "title": "Optimizing Workflow for Better Results",
       "cefrLevel": "B2",
-      "summaryJa": "マイクロブレイクと持続可能な集中について扱います。",
+      "summaryJa": "ワークフローを最適化し、日々の業務効率を最大化するための戦略的アプローチ。",
       "sourceUrls": [
-        "https://www.cdc.gov/workplacehealthpromotion/index.html"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
       ],
       "sentences": [
         {
-          "id": "advanced-2026-11-07-s01",
           "index": 0,
-          "text": "Workplace wellness guidance increasingly emphasizes micro-breaks rather than long idle periods that disrupt workflow momentum and drain mental energy.",
-          "translationJa": "職場の健康づくりの指針は、作業の流れと精神的なエネルギーを奪う長い中断よりも、短いマイクロブレイクを重視するようになっています。",
+          "text": "Optimizing your daily workflow is essential for maintaining high performance in any professional setting.",
+          "translationJa": "日々のワークフローを最適化することは、どのような職場環境でも高いパフォーマンスを維持するために不可欠です。",
+          "id": "advanced-2026-11-08-s01",
           "startMs": 0,
-          "endMs": 8350,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s01.m4a"
+          "endMs": 5440,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s01.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s02",
           "index": 1,
-          "text": "Brief movement, hydration, and screen-free moments can interrupt mental fatigue without forcing employees to lose their concentration entirely.",
-          "translationJa": "短い運動、水分補給、画面から離れる時間は、従業員の集中力を完全に失わせずに精神的な疲れを中断できます。",
-          "startMs": 8750,
-          "endMs": 16905,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s02.m4a"
+          "text": "Most professionals waste significant time by failing to prioritize their most impactful daily tasks.",
+          "translationJa": "ほとんどの専門家は、最も影響力のある日々のタスクを優先順位付けできないことで、貴重な時間を浪費しています。",
+          "id": "advanced-2026-11-08-s02",
+          "startMs": 5840,
+          "endMs": 11742,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s02.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s03",
           "index": 2,
-          "text": "Employees who plan short resets throughout the day often report steadier concentration, fewer headaches, and less stiffness during long computer sessions.",
-          "translationJa": "一日を通して短いリセットを計画する従業員は、長時間のパソコン作業中に集中力が安定し、頭痛やこわばりも少ないと答えます。",
-          "startMs": 17305,
-          "endMs": 26148,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s03.m4a"
+          "text": "The most effective approach involves evaluating your workload before you start your actual day.",
+          "translationJa": "最も効果的なアプローチは、実際の仕事を開始する前に自分の業務量を評価することを含みます。",
+          "id": "advanced-2026-11-08-s03",
+          "startMs": 12142,
+          "endMs": 17204,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s03.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s04",
           "index": 3,
-          "text": "Organizations that normalize these habits see better engagement because people feel permission to recover before stress accumulates and performance drops.",
-          "translationJa": "こうした習慣を当たり前にする組織では、ストレスがたまり成果が落ちる前に回復できると感じるため、エンゲージメントが高まります。",
-          "startMs": 26548,
-          "endMs": 34900,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s04.m4a"
+          "text": "By categorizing items based on urgency and importance, you create a clear roadmap for success.",
+          "translationJa": "緊急度と重要度に基づいて項目を分類することで、成功のための明確なロードマップを作成できます。",
+          "id": "advanced-2026-11-08-s04",
+          "startMs": 17604,
+          "endMs": 23274,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s04.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s05",
           "index": 4,
-          "text": "Leaders who model micro-breaks themselves send a practical message that sustainable focus is a shared responsibility, not a personal weakness.",
-          "translationJa": "自分自身がマイクロブレイクを実践するリーダーは、持続可能な集中が個人の弱さではなく共有の責任だという実践的なメッセージを送ります。",
-          "startMs": 35300,
-          "endMs": 43431,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s05.m4a"
+          "text": "Time blocking remains one of the most reliable methods to ensure deep, focused concentration.",
+          "translationJa": "タイムブロッキングは、深く集中した状態を確実にするための最も信頼できる方法の一つです。",
+          "id": "advanced-2026-11-08-s05",
+          "startMs": 23674,
+          "endMs": 29189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s05.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s06",
           "index": 5,
-          "text": "The key is consistency rather than intensity, because durable attention depends on small routines that are easy to repeat every single working day.",
-          "translationJa": "持続する注意力は毎営業日繰り返しやすい小さなルーティンにかかっているため、大切なのは強度ではなく一貫性です。",
-          "startMs": 43831,
-          "endMs": 51900,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s06.m4a"
+          "text": "During these dedicated intervals, you should eliminate all potential distractions from your immediate workspace.",
+          "translationJa": "これらの専用の時間枠の間は、作業スペースから考えられるすべての気を散らすものを取り除くべきです。",
+          "id": "advanced-2026-11-08-s06",
+          "startMs": 29589,
+          "endMs": 35599,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s06.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s07",
           "index": 6,
-          "text": "Research suggests that even brief physical movement can refresh working memory without requiring employees to leave the building for an extended period of time.",
-          "translationJa": "研究によると、短い身体活動でも作業記憶をリフレッシュでき、従業員が長時間外出する必要はありません。",
-          "startMs": 52300,
-          "endMs": 60806,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s07.m4a"
+          "text": "Multitasking is often counterproductive because it prevents your brain from reaching a state of flow.",
+          "translationJa": "マルチタスクは、脳がフロー状態に達するのを妨げるため、しばしば逆効果になります。",
+          "id": "advanced-2026-11-08-s07",
+          "startMs": 35999,
+          "endMs": 41239,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s07.m4a"
         },
         {
-          "id": "advanced-2026-11-07-s08",
           "index": 7,
-          "text": "Teams that embrace this philosophy often report better morale, because recovery is treated as part of sustainable performance rather than a distraction from it.",
-          "translationJa": "この考え方を取り入れるチームは、回復が作業の妨げではなく持続可能な成果の一部として扱われるため、士気が高まると答えることが多いです。",
-          "startMs": 61206,
-          "endMs": 69553,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced-s08.m4a"
+          "text": "Instead, commit to finishing one complex project before moving your attention to another task.",
+          "translationJa": "その代わりに、別のタスクに注意を移す前に、1つの複雑なプロジェクトを終えることに集中してください。",
+          "id": "advanced-2026-11-08-s08",
+          "startMs": 41639,
+          "endMs": 47069,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "It is also crucial to acknowledge your natural energy levels throughout the workday structure.",
+          "translationJa": "一日の業務構造の中で、自分の自然なエネルギーレベルを認識することも極めて重要です。",
+          "id": "advanced-2026-11-08-s09",
+          "startMs": 47469,
+          "endMs": 52342,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Reserve your most challenging and demanding work for when you feel most mentally alert.",
+          "translationJa": "最も困難で要求の厳しい仕事は、精神的に最も冴えている時のために取っておきましょう。",
+          "id": "advanced-2026-11-08-s10",
+          "startMs": 52742,
+          "endMs": 57022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Regularly reviewing your output allows you to refine your processes for better long-term efficiency.",
+          "translationJa": "定期的に成果を見直すことで、長期的な効率向上のためにプロセスを洗練させることができます。",
+          "id": "advanced-2026-11-08-s11",
+          "startMs": 57422,
+          "endMs": 62630,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Mastering these habits will lead to more meaningful achievements and less daily stress.",
+          "translationJa": "これらの習慣を習得することは、より有意義な成果と、日々のストレスの軽減につながるでしょう。",
+          "id": "advanced-2026-11-08-s12",
+          "startMs": 63030,
+          "endMs": 67295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "micro-break",
-          "meaningJa": "短い休憩",
-          "exampleEn": "Take a micro-break.",
-          "exampleJa": "短い休憩を取りましょう。"
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Proper planning is essential.",
+          "exampleJa": "適切な計画は不可欠です。"
         },
         {
-          "word": "momentum",
-          "meaningJa": "勢い・流れ",
-          "exampleEn": "Keep your momentum.",
-          "exampleJa": "作業の流れを保ちます。"
+          "word": "impactful",
+          "meaningJa": "影響力のある",
+          "exampleEn": "Make an impactful presentation.",
+          "exampleJa": "影響力のあるプレゼンテーションを行いなさい。"
         },
         {
-          "word": "fatigue",
-          "meaningJa": "疲労",
-          "exampleEn": "Mental fatigue builds up.",
-          "exampleJa": "精神的な疲れがたまります。"
+          "word": "urgency",
+          "meaningJa": "緊急性",
+          "exampleEn": "The urgency of this matter is high.",
+          "exampleJa": "この件の緊急性は高いです。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性",
-          "exampleEn": "Consistency matters most.",
-          "exampleJa": "一貫性が最も重要です。"
+          "word": "counterproductive",
+          "meaningJa": "逆効果の",
+          "exampleEn": "Working late is counterproductive.",
+          "exampleJa": "遅くまで働くのは逆効果です。"
         },
         {
-          "word": "sustainable",
-          "meaningJa": "持続可能な",
-          "exampleEn": "Build sustainable habits.",
-          "exampleJa": "持続可能な習慣を作ります。"
+          "word": "refine",
+          "meaningJa": "洗練させる、改善する",
+          "exampleEn": "We must refine our strategy.",
+          "exampleJa": "私たちは戦略を改善しなければなりません。"
         }
       ],
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-07/advanced.m4a",
-      "durationSeconds": 68
+      "id": "advanced-2026-11-08",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced.m4a",
+      "durationSeconds": 65
     }
   ],
-  "topicCategory": "news"
+  "topicCategory": "work_productivity"
 }

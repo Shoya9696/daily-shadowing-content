@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-06T16:24:56Z",
-  "latestLessonDate": "2026-11-07",
+  "generatedAtUtc": "2026-11-07T15:01:11Z",
+  "latestLessonDate": "2026-11-08",
   "days": [
+    {
+      "lessonDate": "2026-11-08",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-08.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Workday Right",
+          "durationSeconds": 34,
+          "summaryJa": "一日の始まりに重要なタスクに優先順位をつけるためのシンプルな方法。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Your Daily Productivity",
+          "durationSeconds": 56,
+          "summaryJa": "生産性を高めるために、タスクを管理し、集中力を維持するための実践的なテクニック。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Workflow for Better Results",
+          "durationSeconds": 65,
+          "summaryJa": "ワークフローを最適化し、日々の業務効率を最大化するための戦略的アプローチ。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-11-07",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-07.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-10-08",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-08.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Keeping Your Home Tidy",
-          "durationSeconds": 31,
-          "summaryJa": "小さな部屋を整理整頓し、快適な空間を保つためのヒント。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Creating a Comfortable Living Space",
-          "durationSeconds": 50,
-          "summaryJa": "限られたスペースを有効活用し、心地よい住環境を作るための工夫。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Minimalist Living",
-          "durationSeconds": 58,
-          "summaryJa": "ミニマリズムの考え方を取り入れ、住空間を最適化する高度なテクニック。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
