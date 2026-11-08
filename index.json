@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-07T15:01:11Z",
-  "latestLessonDate": "2026-11-08",
+  "generatedAtUtc": "2026-11-08T15:01:09Z",
+  "latestLessonDate": "2026-11-09",
   "days": [
+    {
+      "lessonDate": "2026-11-09",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-09.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Exploring a Local Market",
+          "durationSeconds": 31,
+          "summaryJa": "地元の市場を訪れて、食べ物を探したり店員さんと会話したりする練習。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Tips for Shopping at Markets",
+          "durationSeconds": 47,
+          "summaryJa": "市場で買い物を楽しむためのコツや、地元の人との交流について。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Cultural Experience of Markets",
+          "durationSeconds": 52,
+          "summaryJa": "市場が持つ文化的意義と、旅行者としての心構えについて。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-11-08",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-08.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-10-09",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-09.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Ask for Work Feedback",
-          "durationSeconds": 29,
-          "summaryJa": "仕事のドラフトに対して、どのようにフィードバックを求めるかについてのレッスンです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Effective Ways to Request Document Feedback",
-          "durationSeconds": 51,
-          "summaryJa": "文書に対するフィードバックを効果的に依頼するための具体的な表現を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Requesting Constructive Feedback",
-          "durationSeconds": 61,
-          "summaryJa": "建設的なフィードバックを依頼し、業務の質を高めるための洗練された英語表現を学びます。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }

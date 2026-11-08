@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-08T15:01:09Z",
+  "lessonDate": "2026-11-09",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Exploring a Local Market",
+      "cefrLevel": "A2",
+      "summaryJa": "地元の市場を訪れて、食べ物を探したり店員さんと会話したりする練習。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Visiting a local market is a great way to see the city.",
+          "translationJa": "地元の市場を訪れることは、その街を知るための素晴らしい方法です。",
+          "id": "beginner-2026-11-09-s01",
+          "startMs": 0,
+          "endMs": 2860,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can find many fresh fruits and vegetables at these small stalls.",
+          "translationJa": "これらの小さな屋台で、たくさんの新鮮な果物や野菜を見つけることができます。",
+          "id": "beginner-2026-11-09-s02",
+          "startMs": 3260,
+          "endMs": 6863,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "I like to walk around and look at all the colorful food items.",
+          "translationJa": "私は歩き回って、カラフルな食べ物をすべて見るのが好きです。",
+          "id": "beginner-2026-11-09-s03",
+          "startMs": 7263,
+          "endMs": 10394,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The vendors are usually very friendly and happy to talk with you.",
+          "translationJa": "店員さんはたいていとてもフレンドリーで、喜んで話をしてくれます。",
+          "id": "beginner-2026-11-09-s04",
+          "startMs": 10794,
+          "endMs": 14080,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You should ask them about the best local food to try today.",
+          "translationJa": "今日試すべき地元の最高の食べ物について、彼らに聞いてみるべきです。",
+          "id": "beginner-2026-11-09-s05",
+          "startMs": 14480,
+          "endMs": 17538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Sometimes the prices are quite low compared to the big grocery stores.",
+          "translationJa": "時々、大きなスーパーマーケットと比べて値段がかなり安いです。",
+          "id": "beginner-2026-11-09-s06",
+          "startMs": 17938,
+          "endMs": 21853,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "It is always a good idea to bring some small cash with you.",
+          "translationJa": "小銭を持っていくことは、いつも良い考えです。",
+          "id": "beginner-2026-11-09-s07",
+          "startMs": 22253,
+          "endMs": 25361,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "I often buy some snacks to eat while I walk around the area.",
+          "translationJa": "私はよく、その辺りを歩きながら食べるためのおやつを買います。",
+          "id": "beginner-2026-11-09-s08",
+          "startMs": 25761,
+          "endMs": 29066,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Market visits are my favorite part of traveling to a new place.",
+          "translationJa": "市場を訪れることは、新しい場所へ旅行する中で私が一番好きなことです。",
+          "id": "beginner-2026-11-09-s09",
+          "startMs": 29466,
+          "endMs": 32884,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vendor",
+          "meaningJa": "売り子、店員",
+          "exampleEn": "The vendor sold fresh apples.",
+          "exampleJa": "売り子が新鮮なリンゴを売っていました。"
+        },
+        {
+          "word": "stall",
+          "meaningJa": "屋台、露店",
+          "exampleEn": "There is a food stall nearby.",
+          "exampleJa": "近くに屋台があります。"
+        },
+        {
+          "word": "fresh",
+          "meaningJa": "新鮮な",
+          "exampleEn": "These vegetables look very fresh.",
+          "exampleJa": "これらの野菜はとても新鮮に見えます。"
+        },
+        {
+          "word": "grocery store",
+          "meaningJa": "食料品店、スーパー",
+          "exampleEn": "I went to the grocery store.",
+          "exampleJa": "私は食料品店へ行きました。"
+        },
+        {
+          "word": "cash",
+          "meaningJa": "現金",
+          "exampleEn": "Do you have any cash?",
+          "exampleJa": "現金は持っていますか？"
+        }
+      ],
+      "id": "beginner-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner.m4a",
+      "durationSeconds": 31
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Tips for Shopping at Markets",
+      "cefrLevel": "B1",
+      "summaryJa": "市場で買い物を楽しむためのコツや、地元の人との交流について。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Traveling to a new country offers a unique chance to visit busy local markets.",
+          "translationJa": "新しい国への旅行は、賑やかな地元の市場を訪れるユニークな機会を与えてくれます。",
+          "id": "intermediate-2026-11-09-s01",
+          "startMs": 0,
+          "endMs": 4319,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "These markets are often the heart of the community where people meet and shop.",
+          "translationJa": "これらの市場は、人々が出会い買い物をするコミュニティの中心であることがよくあります。",
+          "id": "intermediate-2026-11-09-s02",
+          "startMs": 4719,
+          "endMs": 8432,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "When you arrive, take a moment to observe how the local people choose their produce.",
+          "translationJa": "到着したら、地元の人々がどのように農産物を選んでいるかを観察する時間を取ってください。",
+          "id": "intermediate-2026-11-09-s03",
+          "startMs": 8832,
+          "endMs": 13246,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is helpful to learn a few basic phrases in the local language before visiting.",
+          "translationJa": "訪れる前に、その土地の言葉でいくつかの基本的なフレーズを学んでおくと役立ちます。",
+          "id": "intermediate-2026-11-09-s04",
+          "startMs": 13646,
+          "endMs": 17950,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Greeting the vendors with a smile often makes your shopping experience much more pleasant.",
+          "translationJa": "笑顔で売り子に挨拶することは、買い物の体験をより楽しいものにしてくれます。",
+          "id": "intermediate-2026-11-09-s05",
+          "startMs": 18350,
+          "endMs": 22754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You might find items that you have never seen in your home country before today.",
+          "translationJa": "今日まで母国で見たことがないような品物を見つけるかもしれません。",
+          "id": "intermediate-2026-11-09-s06",
+          "startMs": 23154,
+          "endMs": 27164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If you are unsure about a price, feel free to ask politely for the cost.",
+          "translationJa": "値段がよくわからない場合は、遠慮なく丁寧に費用を聞いてみてください。",
+          "id": "intermediate-2026-11-09-s07",
+          "startMs": 27564,
+          "endMs": 31880,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Most shop owners are proud of their goods and happy to explain how to cook.",
+          "translationJa": "ほとんどの店主は自分の商品を誇りに思っており、調理法を喜んで説明してくれます。",
+          "id": "intermediate-2026-11-09-s08",
+          "startMs": 32280,
+          "endMs": 36139,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Trying local snacks is a great way to understand the culture of the region better.",
+          "translationJa": "地元の軽食を試すことは、その地域の文化をよりよく理解するための素晴らしい方法です。",
+          "id": "intermediate-2026-11-09-s09",
+          "startMs": 36539,
+          "endMs": 40696,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Make sure to bring a reusable bag to carry all your fresh market finds home.",
+          "translationJa": "市場で見つけた新鮮な戦利品を家に持ち帰るために、再利用可能なバッグを忘れずに持参してください。",
+          "id": "intermediate-2026-11-09-s10",
+          "startMs": 41096,
+          "endMs": 45175,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Enjoying the sights and sounds of a market is a highlight of any great trip.",
+          "translationJa": "市場の景色や音を楽しむことは、素晴らしい旅行のハイライトになります。",
+          "id": "intermediate-2026-11-09-s11",
+          "startMs": 45575,
+          "endMs": 49287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "observe",
+          "meaningJa": "観察する",
+          "exampleEn": "Please observe the rules.",
+          "exampleJa": "ルールを観察してください。"
+        },
+        {
+          "word": "produce",
+          "meaningJa": "農産物",
+          "exampleEn": "The store sells fresh produce.",
+          "exampleJa": "その店は新鮮な農産物を売っています。"
+        },
+        {
+          "word": "pleasant",
+          "meaningJa": "楽しい、心地よい",
+          "exampleEn": "We had a pleasant chat.",
+          "exampleJa": "私たちは楽しいおしゃべりをしました。"
+        },
+        {
+          "word": "reusable",
+          "meaningJa": "再利用可能な",
+          "exampleEn": "Use a reusable bag.",
+          "exampleJa": "再利用可能なバッグを使ってください。"
+        },
+        {
+          "word": "highlight",
+          "meaningJa": "ハイライト、目玉",
+          "exampleEn": "The concert was the highlight.",
+          "exampleJa": "コンサートがハイライトでした。"
+        }
+      ],
+      "id": "intermediate-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate.m4a",
+      "durationSeconds": 47
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Cultural Experience of Markets",
+      "cefrLevel": "B2",
+      "summaryJa": "市場が持つ文化的意義と、旅行者としての心構えについて。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Local markets serve as vibrant hubs that reflect the unique identity of a region.",
+          "translationJa": "地元の市場は、その地域のユニークなアイデンティティを反映する活気ある拠点として機能します。",
+          "id": "advanced-2026-11-09-s01",
+          "startMs": 0,
+          "endMs": 4393,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Walking through these bustling spaces allows you to engage with the local way of life.",
+          "translationJa": "こうした賑やかな場所を歩くことで、地元の生活様式に触れることができます。",
+          "id": "advanced-2026-11-09-s02",
+          "startMs": 4793,
+          "endMs": 9184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The variety of ingredients found at stalls tells a story about the local climate.",
+          "translationJa": "屋台で見つかる多様な食材は、その土地の気候についての物語を伝えてくれます。",
+          "id": "advanced-2026-11-09-s03",
+          "startMs": 9584,
+          "endMs": 13892,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Engaging in brief conversations with vendors provides insights that guidebooks often fail to capture.",
+          "translationJa": "売り子との短い会話は、ガイドブックでは捉えきれない洞察を与えてくれます。",
+          "id": "advanced-2026-11-09-s04",
+          "startMs": 14292,
+          "endMs": 19873,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "It is important to respect the traditional customs that govern these communal trading spaces.",
+          "translationJa": "こうした共同の取引の場を支配する伝統的な習慣を尊重することは重要です。",
+          "id": "advanced-2026-11-09-s05",
+          "startMs": 20273,
+          "endMs": 25146,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Rather than just looking for bargains, focus on the quality and history of items.",
+          "translationJa": "単にお買い得品を探すのではなく、品物の質や歴史に注目してみてください。",
+          "id": "advanced-2026-11-09-s06",
+          "startMs": 25546,
+          "endMs": 30058,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "You will often discover that food is the most accessible gateway to cultural understanding.",
+          "translationJa": "食こそが文化を理解するための最も身近な入り口であることに気づくでしょう。",
+          "id": "advanced-2026-11-09-s07",
+          "startMs": 30458,
+          "endMs": 35211,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Remember that these markets are not just for tourists but for the local residents.",
+          "translationJa": "これらの市場は観光客のためだけでなく、地元住民のための場所であることを忘れないでください。",
+          "id": "advanced-2026-11-09-s08",
+          "startMs": 35611,
+          "endMs": 39763,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Maintaining a polite and curious attitude will surely enrich your overall travel experience significantly.",
+          "translationJa": "丁寧で好奇心旺盛な態度を保つことは、間違いなくあなたの旅行体験全体を大きく豊かにします。",
+          "id": "advanced-2026-11-09-s09",
+          "startMs": 40163,
+          "endMs": 45845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Take your time to wander without a strict schedule to find the hidden gems.",
+          "translationJa": "隠れた名店を見つけるために、厳しいスケジュールを立てずにゆっくりと歩き回ってください。",
+          "id": "advanced-2026-11-09-s10",
+          "startMs": 46245,
+          "endMs": 49925,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Every market visit builds a deeper connection between you and the city you visit.",
+          "translationJa": "市場を訪れるたびに、あなたと訪れる街との間により深い繋がりが生まれます。",
+          "id": "advanced-2026-11-09-s11",
+          "startMs": 50325,
+          "endMs": 54234,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "vibrant",
+          "meaningJa": "活気のある",
+          "exampleEn": "The city has a vibrant culture.",
+          "exampleJa": "その街は活気ある文化を持っています。"
+        },
+        {
+          "word": "hub",
+          "meaningJa": "拠点、中心",
+          "exampleEn": "This is a transportation hub.",
+          "exampleJa": "ここは交通の拠点です。"
+        },
+        {
+          "word": "bustling",
+          "meaningJa": "賑やかな",
+          "exampleEn": "The market was very bustling.",
+          "exampleJa": "市場はとても賑やかでした。"
+        },
+        {
+          "word": "insight",
+          "meaningJa": "洞察、見識",
+          "exampleEn": "He gave me a deep insight.",
+          "exampleJa": "彼は深い洞察をくれました。"
+        },
+        {
+          "word": "accessible",
+          "meaningJa": "アクセスしやすい、身近な",
+          "exampleEn": "The information is accessible.",
+          "exampleJa": "その情報は手に入りやすいです。"
+        }
+      ],
+      "id": "advanced-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced.m4a",
+      "durationSeconds": 52
+    }
+  ],
+  "topicCategory": "travel_culture"
+}

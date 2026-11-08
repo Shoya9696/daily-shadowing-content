@@ -1,452 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-07T15:01:11Z",
-  "lessonDate": "2026-11-08",
+  "generatedAtUtc": "2026-11-08T15:01:09Z",
+  "lessonDate": "2026-11-09",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Starting Your Workday Right",
+      "title": "Exploring a Local Market",
       "cefrLevel": "A2",
-      "summaryJa": "一日の始まりに重要なタスクに優先順位をつけるためのシンプルな方法。",
+      "summaryJa": "地元の市場を訪れて、食べ物を探したり店員さんと会話したりする練習。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Every morning, I take time to plan my tasks for the day.",
-          "translationJa": "毎朝、その日のタスクを計画するために時間を取ります。",
-          "id": "beginner-2026-11-08-s01",
+          "text": "Visiting a local market is a great way to see the city.",
+          "translationJa": "地元の市場を訪れることは、その街を知るための素晴らしい方法です。",
+          "id": "beginner-2026-11-09-s01",
           "startMs": 0,
-          "endMs": 3329,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s01.m4a"
+          "endMs": 2860,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "First, I write down everything that I need to finish today.",
-          "translationJa": "まず、今日終わらせる必要があるすべてのことを書き出します。",
-          "id": "beginner-2026-11-08-s02",
-          "startMs": 3729,
-          "endMs": 7074,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s02.m4a"
+          "text": "You can find many fresh fruits and vegetables at these small stalls.",
+          "translationJa": "これらの小さな屋台で、たくさんの新鮮な果物や野菜を見つけることができます。",
+          "id": "beginner-2026-11-09-s02",
+          "startMs": 3260,
+          "endMs": 6863,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Then, I choose the three most important things on my list.",
-          "translationJa": "次に、リストの中で最も重要な3つのことを選びます。",
-          "id": "beginner-2026-11-08-s03",
-          "startMs": 7474,
-          "endMs": 10758,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s03.m4a"
+          "text": "I like to walk around and look at all the colorful food items.",
+          "translationJa": "私は歩き回って、カラフルな食べ物をすべて見るのが好きです。",
+          "id": "beginner-2026-11-09-s03",
+          "startMs": 7263,
+          "endMs": 10394,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "These big tasks should always be done before lunch is over.",
-          "translationJa": "これらの大きなタスクは、いつも昼食が終わる前に終わらせるべきです。",
-          "id": "beginner-2026-11-08-s04",
-          "startMs": 11158,
-          "endMs": 14175,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s04.m4a"
+          "text": "The vendors are usually very friendly and happy to talk with you.",
+          "translationJa": "店員さんはたいていとてもフレンドリーで、喜んで話をしてくれます。",
+          "id": "beginner-2026-11-09-s04",
+          "startMs": 10794,
+          "endMs": 14080,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "I try not to look at my email during this time.",
-          "translationJa": "この時間はメールを見ないようにしています。",
-          "id": "beginner-2026-11-08-s05",
-          "startMs": 14575,
-          "endMs": 17253,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s05.m4a"
+          "text": "You should ask them about the best local food to try today.",
+          "translationJa": "今日試すべき地元の最高の食べ物について、彼らに聞いてみるべきです。",
+          "id": "beginner-2026-11-09-s05",
+          "startMs": 14480,
+          "endMs": 17538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Focusing on one single task helps me work much faster now.",
-          "translationJa": "一つのタスクに集中することで、今ではずっと早く仕事ができます。",
-          "id": "beginner-2026-11-08-s06",
-          "startMs": 17653,
-          "endMs": 21265,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s06.m4a"
+          "text": "Sometimes the prices are quite low compared to the big grocery stores.",
+          "translationJa": "時々、大きなスーパーマーケットと比べて値段がかなり安いです。",
+          "id": "beginner-2026-11-09-s06",
+          "startMs": 17938,
+          "endMs": 21853,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "It is also important to take short breaks every single hour.",
-          "translationJa": "1時間ごとに短い休憩を取ることも大切です。",
-          "id": "beginner-2026-11-08-s07",
-          "startMs": 21665,
-          "endMs": 24901,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s07.m4a"
+          "text": "It is always a good idea to bring some small cash with you.",
+          "translationJa": "小銭を持っていくことは、いつも良い考えです。",
+          "id": "beginner-2026-11-09-s07",
+          "startMs": 22253,
+          "endMs": 25361,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Small breaks help my brain stay fresh for the afternoon work.",
-          "translationJa": "短い休憩は、午後の仕事に向けて脳をリフレッシュさせてくれます。",
-          "id": "beginner-2026-11-08-s08",
-          "startMs": 25301,
-          "endMs": 28682,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s08.m4a"
+          "text": "I often buy some snacks to eat while I walk around the area.",
+          "translationJa": "私はよく、その辺りを歩きながら食べるためのおやつを買います。",
+          "id": "beginner-2026-11-09-s08",
+          "startMs": 25761,
+          "endMs": 29066,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Finally, I check my list again before I leave the office.",
-          "translationJa": "最後に、オフィスを出る前にリストをもう一度確認します。",
-          "id": "beginner-2026-11-08-s09",
-          "startMs": 29082,
-          "endMs": 32485,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Planning ahead makes me feel ready for the next busy day.",
-          "translationJa": "前もって計画を立てると、次の忙しい日に備えることができます。",
-          "id": "beginner-2026-11-08-s10",
-          "startMs": 32885,
-          "endMs": 35878,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner-s10.m4a"
+          "text": "Market visits are my favorite part of traveling to a new place.",
+          "translationJa": "市場を訪れることは、新しい場所へ旅行する中で私が一番好きなことです。",
+          "id": "beginner-2026-11-09-s09",
+          "startMs": 29466,
+          "endMs": 32884,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "prioritize",
-          "meaningJa": "優先順位をつける",
-          "exampleEn": "I prioritize my tasks every morning.",
-          "exampleJa": "私は毎朝タスクに優先順位をつけます。"
+          "word": "vendor",
+          "meaningJa": "売り子、店員",
+          "exampleEn": "The vendor sold fresh apples.",
+          "exampleJa": "売り子が新鮮なリンゴを売っていました。"
         },
         {
-          "word": "finish",
-          "meaningJa": "終わらせる",
-          "exampleEn": "I need to finish this report.",
-          "exampleJa": "この報告書を終わらせる必要があります。"
-        },
-        {
-          "word": "important",
-          "meaningJa": "重要な",
-          "exampleEn": "This is an important meeting.",
-          "exampleJa": "これは重要な会議です。"
-        },
-        {
-          "word": "focus",
-          "meaningJa": "集中する",
-          "exampleEn": "It is hard to focus today.",
-          "exampleJa": "今日は集中するのが難しいです。"
+          "word": "stall",
+          "meaningJa": "屋台、露店",
+          "exampleEn": "There is a food stall nearby.",
+          "exampleJa": "近くに屋台があります。"
         },
         {
           "word": "fresh",
-          "meaningJa": "新鮮な、リフレッシュした",
-          "exampleEn": "A walk makes me feel fresh.",
-          "exampleJa": "散歩をするとリフレッシュした気分になります。"
+          "meaningJa": "新鮮な",
+          "exampleEn": "These vegetables look very fresh.",
+          "exampleJa": "これらの野菜はとても新鮮に見えます。"
+        },
+        {
+          "word": "grocery store",
+          "meaningJa": "食料品店、スーパー",
+          "exampleEn": "I went to the grocery store.",
+          "exampleJa": "私は食料品店へ行きました。"
+        },
+        {
+          "word": "cash",
+          "meaningJa": "現金",
+          "exampleEn": "Do you have any cash?",
+          "exampleJa": "現金は持っていますか？"
         }
       ],
-      "id": "beginner-2026-11-08",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/beginner.m4a",
-      "durationSeconds": 34
+      "id": "beginner-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner.m4a",
+      "durationSeconds": 31
     },
     {
       "levelGroup": "intermediate",
-      "title": "Mastering Your Daily Productivity",
+      "title": "Tips for Shopping at Markets",
       "cefrLevel": "B1",
-      "summaryJa": "生産性を高めるために、タスクを管理し、集中力を維持するための実践的なテクニック。",
+      "summaryJa": "市場で買い物を楽しむためのコツや、地元の人との交流について。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many people struggle to manage their busy schedules effectively throughout the work week.",
-          "translationJa": "多くの人が、仕事の週を通して忙しいスケジュールを効果的に管理することに苦労しています。",
-          "id": "intermediate-2026-11-08-s01",
+          "text": "Traveling to a new country offers a unique chance to visit busy local markets.",
+          "translationJa": "新しい国への旅行は、賑やかな地元の市場を訪れるユニークな機会を与えてくれます。",
+          "id": "intermediate-2026-11-09-s01",
           "startMs": 0,
-          "endMs": 4497,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s01.m4a"
+          "endMs": 4319,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "The secret to high productivity is choosing your most valuable tasks very carefully.",
-          "translationJa": "高い生産性の秘訣は、最も価値のあるタスクを慎重に選ぶことです。",
-          "id": "intermediate-2026-11-08-s02",
-          "startMs": 4897,
-          "endMs": 9553,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s02.m4a"
+          "text": "These markets are often the heart of the community where people meet and shop.",
+          "translationJa": "これらの市場は、人々が出会い買い物をするコミュニティの中心であることがよくあります。",
+          "id": "intermediate-2026-11-09-s02",
+          "startMs": 4719,
+          "endMs": 8432,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "You should start by identifying the main goals you want to achieve today.",
-          "translationJa": "まずは今日達成したい主な目標を特定することから始めるべきです。",
-          "id": "intermediate-2026-11-08-s03",
-          "startMs": 9953,
-          "endMs": 13754,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s03.m4a"
+          "text": "When you arrive, take a moment to observe how the local people choose their produce.",
+          "translationJa": "到着したら、地元の人々がどのように農産物を選んでいるかを観察する時間を取ってください。",
+          "id": "intermediate-2026-11-09-s03",
+          "startMs": 8832,
+          "endMs": 13246,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Once you have your list, try blocking off time for deep, focused work.",
-          "translationJa": "リストができたら、深く集中して仕事をするための時間を確保してみてください。",
-          "id": "intermediate-2026-11-08-s04",
-          "startMs": 14154,
-          "endMs": 18440,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s04.m4a"
+          "text": "It is helpful to learn a few basic phrases in the local language before visiting.",
+          "translationJa": "訪れる前に、その土地の言葉でいくつかの基本的なフレーズを学んでおくと役立ちます。",
+          "id": "intermediate-2026-11-09-s04",
+          "startMs": 13646,
+          "endMs": 17950,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "During these blocks, you must avoid checking social media or your personal messages.",
-          "translationJa": "これらの時間帯は、ソーシャルメディアや個人的なメッセージをチェックしてはいけません。",
-          "id": "intermediate-2026-11-08-s05",
-          "startMs": 18840,
-          "endMs": 23677,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s05.m4a"
+          "text": "Greeting the vendors with a smile often makes your shopping experience much more pleasant.",
+          "translationJa": "笑顔で売り子に挨拶することは、買い物の体験をより楽しいものにしてくれます。",
+          "id": "intermediate-2026-11-09-s05",
+          "startMs": 18350,
+          "endMs": 22754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It is also helpful to group similar small tasks together into one session.",
-          "translationJa": "似たような小さなタスクを1つのセッションにまとめることも役立ちます。",
-          "id": "intermediate-2026-11-08-s06",
-          "startMs": 24077,
-          "endMs": 28288,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s06.m4a"
+          "text": "You might find items that you have never seen in your home country before today.",
+          "translationJa": "今日まで母国で見たことがないような品物を見つけるかもしれません。",
+          "id": "intermediate-2026-11-09-s06",
+          "startMs": 23154,
+          "endMs": 27164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "This method prevents you from constantly switching between different types of mental activities.",
-          "translationJa": "この方法は、異なる種類の精神活動の間で絶えず切り替えることを防いでくれます。",
-          "id": "intermediate-2026-11-08-s07",
-          "startMs": 28688,
-          "endMs": 33586,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s07.m4a"
+          "text": "If you are unsure about a price, feel free to ask politely for the cost.",
+          "translationJa": "値段がよくわからない場合は、遠慮なく丁寧に費用を聞いてみてください。",
+          "id": "intermediate-2026-11-09-s07",
+          "startMs": 27564,
+          "endMs": 31880,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "If you feel overwhelmed, do not be afraid to delegate or reschedule some items.",
-          "translationJa": "もし圧倒されていると感じたら、いくつかの項目を委任したり、予定を変更したりすることを恐れないでください。",
-          "id": "intermediate-2026-11-08-s08",
-          "startMs": 33986,
-          "endMs": 38650,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s08.m4a"
+          "text": "Most shop owners are proud of their goods and happy to explain how to cook.",
+          "translationJa": "ほとんどの店主は自分の商品を誇りに思っており、調理法を喜んで説明してくれます。",
+          "id": "intermediate-2026-11-09-s08",
+          "startMs": 32280,
+          "endMs": 36139,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Remember that quality of work is almost always better than just quantity alone.",
-          "translationJa": "仕事の質は、単なる量よりもほとんどの場合優れていることを忘れないでください。",
-          "id": "intermediate-2026-11-08-s09",
-          "startMs": 39050,
-          "endMs": 43272,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s09.m4a"
+          "text": "Trying local snacks is a great way to understand the culture of the region better.",
+          "translationJa": "地元の軽食を試すことは、その地域の文化をよりよく理解するための素晴らしい方法です。",
+          "id": "intermediate-2026-11-09-s09",
+          "startMs": 36539,
+          "endMs": 40696,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Taking time to review your progress helps you improve your daily habits constantly.",
-          "translationJa": "進捗を確認する時間を取ることは、日々の習慣を絶えず改善するのに役立ちます。",
-          "id": "intermediate-2026-11-08-s10",
-          "startMs": 43672,
-          "endMs": 48026,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s10.m4a"
+          "text": "Make sure to bring a reusable bag to carry all your fresh market finds home.",
+          "translationJa": "市場で見つけた新鮮な戦利品を家に持ち帰るために、再利用可能なバッグを忘れずに持参してください。",
+          "id": "intermediate-2026-11-09-s10",
+          "startMs": 41096,
+          "endMs": 45175,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "With practice, you will find it much easier to balance your professional responsibilities.",
-          "translationJa": "練習すれば、仕事上の責任のバランスを取ることがずっと簡単になるでしょう。",
-          "id": "intermediate-2026-11-08-s11",
-          "startMs": 48426,
-          "endMs": 53502,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Consistently applying these simple strategies will lead to much better results over time.",
-          "translationJa": "これらの単純な戦略を一貫して適用することで、時間が経つにつれてはるかに良い結果につながります。",
-          "id": "intermediate-2026-11-08-s12",
-          "startMs": 53902,
-          "endMs": 58581,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate-s12.m4a"
+          "text": "Enjoying the sights and sounds of a market is a highlight of any great trip.",
+          "translationJa": "市場の景色や音を楽しむことは、素晴らしい旅行のハイライトになります。",
+          "id": "intermediate-2026-11-09-s11",
+          "startMs": 45575,
+          "endMs": 49287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "productivity",
-          "meaningJa": "生産性",
-          "exampleEn": "The company wants to increase productivity.",
-          "exampleJa": "会社は生産性を高めたいと考えています。"
+          "word": "observe",
+          "meaningJa": "観察する",
+          "exampleEn": "Please observe the rules.",
+          "exampleJa": "ルールを観察してください。"
         },
         {
-          "word": "valuable",
-          "meaningJa": "価値のある",
-          "exampleEn": "Your time is very valuable.",
-          "exampleJa": "あなたの時間はとても価値があります。"
+          "word": "produce",
+          "meaningJa": "農産物",
+          "exampleEn": "The store sells fresh produce.",
+          "exampleJa": "その店は新鮮な農産物を売っています。"
         },
         {
-          "word": "identify",
-          "meaningJa": "特定する",
-          "exampleEn": "Can you identify the problem?",
-          "exampleJa": "問題を特定できますか？"
+          "word": "pleasant",
+          "meaningJa": "楽しい、心地よい",
+          "exampleEn": "We had a pleasant chat.",
+          "exampleJa": "私たちは楽しいおしゃべりをしました。"
         },
         {
-          "word": "overwhelmed",
-          "meaningJa": "圧倒された、いっぱいいっぱいの",
-          "exampleEn": "I feel overwhelmed by my work.",
-          "exampleJa": "仕事に追われていっぱいいっぱいです。"
+          "word": "reusable",
+          "meaningJa": "再利用可能な",
+          "exampleEn": "Use a reusable bag.",
+          "exampleJa": "再利用可能なバッグを使ってください。"
         },
         {
-          "word": "delegate",
-          "meaningJa": "委任する",
-          "exampleEn": "You should delegate tasks to others.",
-          "exampleJa": "他の人にタスクを任せるべきです。"
+          "word": "highlight",
+          "meaningJa": "ハイライト、目玉",
+          "exampleEn": "The concert was the highlight.",
+          "exampleJa": "コンサートがハイライトでした。"
         }
       ],
-      "id": "intermediate-2026-11-08",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/intermediate.m4a",
-      "durationSeconds": 56
+      "id": "intermediate-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate.m4a",
+      "durationSeconds": 47
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Workflow for Better Results",
+      "title": "The Cultural Experience of Markets",
       "cefrLevel": "B2",
-      "summaryJa": "ワークフローを最適化し、日々の業務効率を最大化するための戦略的アプローチ。",
+      "summaryJa": "市場が持つ文化的意義と、旅行者としての心構えについて。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/prioritizing-tasks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Optimizing your daily workflow is essential for maintaining high performance in any professional setting.",
-          "translationJa": "日々のワークフローを最適化することは、どのような職場環境でも高いパフォーマンスを維持するために不可欠です。",
-          "id": "advanced-2026-11-08-s01",
+          "text": "Local markets serve as vibrant hubs that reflect the unique identity of a region.",
+          "translationJa": "地元の市場は、その地域のユニークなアイデンティティを反映する活気ある拠点として機能します。",
+          "id": "advanced-2026-11-09-s01",
           "startMs": 0,
-          "endMs": 5440,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s01.m4a"
+          "endMs": 4393,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Most professionals waste significant time by failing to prioritize their most impactful daily tasks.",
-          "translationJa": "ほとんどの専門家は、最も影響力のある日々のタスクを優先順位付けできないことで、貴重な時間を浪費しています。",
-          "id": "advanced-2026-11-08-s02",
-          "startMs": 5840,
-          "endMs": 11742,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s02.m4a"
+          "text": "Walking through these bustling spaces allows you to engage with the local way of life.",
+          "translationJa": "こうした賑やかな場所を歩くことで、地元の生活様式に触れることができます。",
+          "id": "advanced-2026-11-09-s02",
+          "startMs": 4793,
+          "endMs": 9184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The most effective approach involves evaluating your workload before you start your actual day.",
-          "translationJa": "最も効果的なアプローチは、実際の仕事を開始する前に自分の業務量を評価することを含みます。",
-          "id": "advanced-2026-11-08-s03",
-          "startMs": 12142,
-          "endMs": 17204,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s03.m4a"
+          "text": "The variety of ingredients found at stalls tells a story about the local climate.",
+          "translationJa": "屋台で見つかる多様な食材は、その土地の気候についての物語を伝えてくれます。",
+          "id": "advanced-2026-11-09-s03",
+          "startMs": 9584,
+          "endMs": 13892,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "By categorizing items based on urgency and importance, you create a clear roadmap for success.",
-          "translationJa": "緊急度と重要度に基づいて項目を分類することで、成功のための明確なロードマップを作成できます。",
-          "id": "advanced-2026-11-08-s04",
-          "startMs": 17604,
-          "endMs": 23274,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s04.m4a"
+          "text": "Engaging in brief conversations with vendors provides insights that guidebooks often fail to capture.",
+          "translationJa": "売り子との短い会話は、ガイドブックでは捉えきれない洞察を与えてくれます。",
+          "id": "advanced-2026-11-09-s04",
+          "startMs": 14292,
+          "endMs": 19873,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Time blocking remains one of the most reliable methods to ensure deep, focused concentration.",
-          "translationJa": "タイムブロッキングは、深く集中した状態を確実にするための最も信頼できる方法の一つです。",
-          "id": "advanced-2026-11-08-s05",
-          "startMs": 23674,
-          "endMs": 29189,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s05.m4a"
+          "text": "It is important to respect the traditional customs that govern these communal trading spaces.",
+          "translationJa": "こうした共同の取引の場を支配する伝統的な習慣を尊重することは重要です。",
+          "id": "advanced-2026-11-09-s05",
+          "startMs": 20273,
+          "endMs": 25146,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "During these dedicated intervals, you should eliminate all potential distractions from your immediate workspace.",
-          "translationJa": "これらの専用の時間枠の間は、作業スペースから考えられるすべての気を散らすものを取り除くべきです。",
-          "id": "advanced-2026-11-08-s06",
-          "startMs": 29589,
-          "endMs": 35599,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s06.m4a"
+          "text": "Rather than just looking for bargains, focus on the quality and history of items.",
+          "translationJa": "単にお買い得品を探すのではなく、品物の質や歴史に注目してみてください。",
+          "id": "advanced-2026-11-09-s06",
+          "startMs": 25546,
+          "endMs": 30058,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Multitasking is often counterproductive because it prevents your brain from reaching a state of flow.",
-          "translationJa": "マルチタスクは、脳がフロー状態に達するのを妨げるため、しばしば逆効果になります。",
-          "id": "advanced-2026-11-08-s07",
-          "startMs": 35999,
-          "endMs": 41239,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s07.m4a"
+          "text": "You will often discover that food is the most accessible gateway to cultural understanding.",
+          "translationJa": "食こそが文化を理解するための最も身近な入り口であることに気づくでしょう。",
+          "id": "advanced-2026-11-09-s07",
+          "startMs": 30458,
+          "endMs": 35211,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Instead, commit to finishing one complex project before moving your attention to another task.",
-          "translationJa": "その代わりに、別のタスクに注意を移す前に、1つの複雑なプロジェクトを終えることに集中してください。",
-          "id": "advanced-2026-11-08-s08",
-          "startMs": 41639,
-          "endMs": 47069,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s08.m4a"
+          "text": "Remember that these markets are not just for tourists but for the local residents.",
+          "translationJa": "これらの市場は観光客のためだけでなく、地元住民のための場所であることを忘れないでください。",
+          "id": "advanced-2026-11-09-s08",
+          "startMs": 35611,
+          "endMs": 39763,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "It is also crucial to acknowledge your natural energy levels throughout the workday structure.",
-          "translationJa": "一日の業務構造の中で、自分の自然なエネルギーレベルを認識することも極めて重要です。",
-          "id": "advanced-2026-11-08-s09",
-          "startMs": 47469,
-          "endMs": 52342,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s09.m4a"
+          "text": "Maintaining a polite and curious attitude will surely enrich your overall travel experience significantly.",
+          "translationJa": "丁寧で好奇心旺盛な態度を保つことは、間違いなくあなたの旅行体験全体を大きく豊かにします。",
+          "id": "advanced-2026-11-09-s09",
+          "startMs": 40163,
+          "endMs": 45845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Reserve your most challenging and demanding work for when you feel most mentally alert.",
-          "translationJa": "最も困難で要求の厳しい仕事は、精神的に最も冴えている時のために取っておきましょう。",
-          "id": "advanced-2026-11-08-s10",
-          "startMs": 52742,
-          "endMs": 57022,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s10.m4a"
+          "text": "Take your time to wander without a strict schedule to find the hidden gems.",
+          "translationJa": "隠れた名店を見つけるために、厳しいスケジュールを立てずにゆっくりと歩き回ってください。",
+          "id": "advanced-2026-11-09-s10",
+          "startMs": 46245,
+          "endMs": 49925,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Regularly reviewing your output allows you to refine your processes for better long-term efficiency.",
-          "translationJa": "定期的に成果を見直すことで、長期的な効率向上のためにプロセスを洗練させることができます。",
-          "id": "advanced-2026-11-08-s11",
-          "startMs": 57422,
-          "endMs": 62630,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Mastering these habits will lead to more meaningful achievements and less daily stress.",
-          "translationJa": "これらの習慣を習得することは、より有意義な成果と、日々のストレスの軽減につながるでしょう。",
-          "id": "advanced-2026-11-08-s12",
-          "startMs": 63030,
-          "endMs": 67295,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced-s12.m4a"
+          "text": "Every market visit builds a deeper connection between you and the city you visit.",
+          "translationJa": "市場を訪れるたびに、あなたと訪れる街との間により深い繋がりが生まれます。",
+          "id": "advanced-2026-11-09-s11",
+          "startMs": 50325,
+          "endMs": 54234,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Proper planning is essential.",
-          "exampleJa": "適切な計画は不可欠です。"
+          "word": "vibrant",
+          "meaningJa": "活気のある",
+          "exampleEn": "The city has a vibrant culture.",
+          "exampleJa": "その街は活気ある文化を持っています。"
         },
         {
-          "word": "impactful",
-          "meaningJa": "影響力のある",
-          "exampleEn": "Make an impactful presentation.",
-          "exampleJa": "影響力のあるプレゼンテーションを行いなさい。"
+          "word": "hub",
+          "meaningJa": "拠点、中心",
+          "exampleEn": "This is a transportation hub.",
+          "exampleJa": "ここは交通の拠点です。"
         },
         {
-          "word": "urgency",
-          "meaningJa": "緊急性",
-          "exampleEn": "The urgency of this matter is high.",
-          "exampleJa": "この件の緊急性は高いです。"
+          "word": "bustling",
+          "meaningJa": "賑やかな",
+          "exampleEn": "The market was very bustling.",
+          "exampleJa": "市場はとても賑やかでした。"
         },
         {
-          "word": "counterproductive",
-          "meaningJa": "逆効果の",
-          "exampleEn": "Working late is counterproductive.",
-          "exampleJa": "遅くまで働くのは逆効果です。"
+          "word": "insight",
+          "meaningJa": "洞察、見識",
+          "exampleEn": "He gave me a deep insight.",
+          "exampleJa": "彼は深い洞察をくれました。"
         },
         {
-          "word": "refine",
-          "meaningJa": "洗練させる、改善する",
-          "exampleEn": "We must refine our strategy.",
-          "exampleJa": "私たちは戦略を改善しなければなりません。"
+          "word": "accessible",
+          "meaningJa": "アクセスしやすい、身近な",
+          "exampleEn": "The information is accessible.",
+          "exampleJa": "その情報は手に入りやすいです。"
         }
       ],
-      "id": "advanced-2026-11-08",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-08/advanced.m4a",
-      "durationSeconds": 65
+      "id": "advanced-2026-11-09",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced.m4a",
+      "durationSeconds": 52
     }
   ],
-  "topicCategory": "work_productivity"
+  "topicCategory": "travel_culture"
 }
