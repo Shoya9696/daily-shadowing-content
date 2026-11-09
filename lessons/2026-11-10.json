@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-09T15:07:21Z",
+  "lessonDate": "2026-11-10",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Managing Battery Life and Backups",
+      "cefrLevel": "A2",
+      "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータを安全にバックアップするコツについて学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people worry about their phone battery dying during the busy day.",
+          "translationJa": "多くの人が、忙しい一日の間にスマートフォンのバッテリーが切れることを心配しています。",
+          "id": "beginner-2026-11-10-s01",
+          "startMs": 0,
+          "endMs": 3638,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can save power by turning down the brightness of your screen.",
+          "translationJa": "画面の明るさを下げることで、電力を節約することができます。",
+          "id": "beginner-2026-11-10-s02",
+          "startMs": 4038,
+          "endMs": 7316,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is also a good idea to close apps you are not using.",
+          "translationJa": "使っていないアプリを閉じておくことも良い考えです。",
+          "id": "beginner-2026-11-10-s03",
+          "startMs": 7716,
+          "endMs": 10790,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Try to charge your device before the battery level gets too low.",
+          "translationJa": "バッテリー残量が少なくなりすぎる前に、デバイスを充電するようにしましょう。",
+          "id": "beginner-2026-11-10-s04",
+          "startMs": 11190,
+          "endMs": 14638,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "High temperatures can damage your battery, so keep your phone out of sunlight.",
+          "translationJa": "高温はバッテリーを傷める可能性があるため、直射日光を避けて保管してください。",
+          "id": "beginner-2026-11-10-s05",
+          "startMs": 15038,
+          "endMs": 19295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You should also make sure to save your important files in the cloud.",
+          "translationJa": "また、大切なファイルをクラウドに保存することも忘れないでください。",
+          "id": "beginner-2026-11-10-s06",
+          "startMs": 19695,
+          "endMs": 23159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Cloud storage helps you keep your photos safe if you lose your phone.",
+          "translationJa": "クラウドストレージは、万が一スマホを紛失しても写真を安全に保つのに役立ちます。",
+          "id": "beginner-2026-11-10-s07",
+          "startMs": 23559,
+          "endMs": 27052,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Checking your settings once every month is a very helpful daily habit.",
+          "translationJa": "月に一度設定を確認することは、非常に役立つ毎日の習慣です。",
+          "id": "beginner-2026-11-10-s08",
+          "startMs": 27452,
+          "endMs": 31061,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "These simple steps will keep your technology working well for a long time.",
+          "translationJa": "これらの簡単な手順で、あなたの機器は長く快適に使い続けることができます。",
+          "id": "beginner-2026-11-10-s09",
+          "startMs": 31461,
+          "endMs": 35314,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Taking care of your devices is always a smart choice for everyone today.",
+          "translationJa": "デバイスを大切に扱うことは、今日誰にとっても賢い選択です。",
+          "id": "beginner-2026-11-10-s10",
+          "startMs": 35714,
+          "endMs": 39615,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s10.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Battery",
+          "meaningJa": "電池",
+          "exampleEn": "My phone battery is low.",
+          "exampleJa": "スマホの充電が少ないです。"
+        },
+        {
+          "word": "Brightness",
+          "meaningJa": "明るさ",
+          "exampleEn": "Lower the screen brightness.",
+          "exampleJa": "画面の明るさを下げてください。"
+        },
+        {
+          "word": "Cloud",
+          "meaningJa": "クラウド（オンラインストレージ）",
+          "exampleEn": "I saved my photos in the cloud.",
+          "exampleJa": "写真をクラウドに保存しました。"
+        },
+        {
+          "word": "Device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is very useful.",
+          "exampleJa": "この機器はとても便利です。"
+        },
+        {
+          "word": "Habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
+        }
+      ],
+      "id": "beginner-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner.m4a",
+      "durationSeconds": 38
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Practical Tips for Digital Maintenance",
+      "cefrLevel": "B1",
+      "summaryJa": "日常のデジタル機器を快適に使用するためのバッテリー管理とデータ保護のヒント。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Managing your smartphone battery effectively can make a big difference in daily usage.",
+          "translationJa": "スマートフォンのバッテリーを効果的に管理することは、日常の使用において大きな違いを生みます。",
+          "id": "intermediate-2026-11-10-s01",
+          "startMs": 0,
+          "endMs": 4509,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Try to avoid letting your phone battery drop below twenty percent every single day.",
+          "translationJa": "毎日、スマートフォンのバッテリー残量が20パーセントを下回らないように努めてください。",
+          "id": "intermediate-2026-11-10-s02",
+          "startMs": 4909,
+          "endMs": 9286,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Extreme heat is the biggest enemy of your battery and overall device performance levels.",
+          "translationJa": "極端な熱は、バッテリーとデバイス全体のパフォーマンスレベルにとって最大の敵です。",
+          "id": "intermediate-2026-11-10-s03",
+          "startMs": 9686,
+          "endMs": 14350,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Keeping your phone in a cool place helps maintain its health for many years.",
+          "translationJa": "スマートフォンを涼しい場所に置くことは、長年にわたってその健康状態を維持するのに役立ちます。",
+          "id": "intermediate-2026-11-10-s04",
+          "startMs": 14750,
+          "endMs": 18591,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You should also remember to check your background apps to save more battery power.",
+          "translationJa": "また、バッテリーをさらに節約するためにバックグラウンドアプリを確認することを忘れないでください。",
+          "id": "intermediate-2026-11-10-s05",
+          "startMs": 18991,
+          "endMs": 23105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Besides power, protecting your personal data is another essential part of digital device care.",
+          "translationJa": "電力以外にも、個人データを保護することはデジタル機器ケアのもう一つの重要な部分です。",
+          "id": "intermediate-2026-11-10-s06",
+          "startMs": 23505,
+          "endMs": 28792,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Always keep a copy of your important documents stored in a secure cloud service.",
+          "translationJa": "重要な書類のコピーは、常に安全なクラウドサービスに保存しておきましょう。",
+          "id": "intermediate-2026-11-10-s07",
+          "startMs": 29192,
+          "endMs": 33618,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Automatic backups are convenient because they save your files without needing your constant attention.",
+          "translationJa": "自動バックアップは、常に意識しなくてもファイルを保存できるため非常に便利です。",
+          "id": "intermediate-2026-11-10-s08",
+          "startMs": 34018,
+          "endMs": 39269,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "If you lose your physical device, your precious photos will still remain safe online.",
+          "translationJa": "物理的なデバイスを紛失しても、大切な写真はオンライン上に安全に残ります。",
+          "id": "intermediate-2026-11-10-s09",
+          "startMs": 39669,
+          "endMs": 44496,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Following these simple habits ensures that your technology works well whenever you need it.",
+          "translationJa": "これらの簡単な習慣に従うことで、必要なときにいつでもテクノロジーがうまく機能するようになります。",
+          "id": "intermediate-2026-11-10-s10",
+          "startMs": 44896,
+          "endMs": 49472,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Taking care of your devices is a great way to save money and time.",
+          "translationJa": "デバイスを大切に扱うことは、お金と時間を節約する素晴らしい方法です。",
+          "id": "intermediate-2026-11-10-s11",
+          "startMs": 49872,
+          "endMs": 53413,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "effectively",
+          "meaningJa": "効果的に",
+          "exampleEn": "Work effectively to finish early.",
+          "exampleJa": "早く終わるように効果的に働きましょう。"
+        },
+        {
+          "word": "performance",
+          "meaningJa": "性能",
+          "exampleEn": "The performance of this laptop is great.",
+          "exampleJa": "このノートパソコンの性能は素晴らしいです。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "secure",
+          "meaningJa": "安全な",
+          "exampleEn": "Keep your password secure.",
+          "exampleJa": "パスワードを安全に保管してください。"
+        },
+        {
+          "word": "convenient",
+          "meaningJa": "便利な",
+          "exampleEn": "Online shopping is very convenient.",
+          "exampleJa": "オンラインショッピングはとても便利です。"
+        }
+      ],
+      "id": "intermediate-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate.m4a",
+      "durationSeconds": 51
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Device Longevity and Data Security",
+      "cefrLevel": "B2",
+      "summaryJa": "デバイスの寿命を延ばし、デジタル資産を保護するための専門的かつ実践的な戦略。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Modern smartphones rely on lithium-ion batteries that require careful maintenance to maximize their lifespan.",
+          "translationJa": "現代のスマートフォンは、寿命を最大化するために慎重なメンテナンスが必要なリチウムイオンバッテリーに依存しています。",
+          "id": "advanced-2026-11-10-s01",
+          "startMs": 0,
+          "endMs": 6378,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Users should avoid frequent full discharges to prevent unnecessary chemical stress on the internal cells.",
+          "translationJa": "ユーザーは、内部セルへの不必要な化学的ストレスを防ぐために、頻繁な完全放電を避けるべきです。",
+          "id": "advanced-2026-11-10-s02",
+          "startMs": 6778,
+          "endMs": 12610,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Maintaining a charge level between thirty and eighty percent significantly improves the battery's overall longevity.",
+          "translationJa": "充電レベルを30%から80%の間に維持することは、バッテリーの全体的な寿命を大幅に改善します。",
+          "id": "advanced-2026-11-10-s03",
+          "startMs": 13010,
+          "endMs": 19086,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Furthermore, ambient temperature plays a crucial role in preventing long-term degradation of modern electronic components.",
+          "translationJa": "さらに、周囲温度は現代の電子部品の長期的な劣化を防ぐ上で重要な役割を果たします。",
+          "id": "advanced-2026-11-10-s04",
+          "startMs": 19486,
+          "endMs": 26395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "While hardware care is vital, securing your digital data through regular backups is equally important.",
+          "translationJa": "ハードウェアのケアも不可欠ですが、定期的なバックアップを通じてデジタルデータを保護することも同様に重要です。",
+          "id": "advanced-2026-11-10-s05",
+          "startMs": 26795,
+          "endMs": 32521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Cloud storage solutions offer a seamless way to synchronize files across multiple devices without effort.",
+          "translationJa": "クラウドストレージソリューションは、複数のデバイス間で手間をかけずにファイルを同期するシームレスな方法を提供します。",
+          "id": "advanced-2026-11-10-s06",
+          "startMs": 32921,
+          "endMs": 38921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Implementing an automated backup schedule ensures that your most recent work is always safely preserved.",
+          "translationJa": "自動バックアップスケジュールを実装することで、最新の作業が常に安全に保存されるようになります。",
+          "id": "advanced-2026-11-10-s07",
+          "startMs": 39321,
+          "endMs": 44833,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Encryption adds an extra layer of privacy, protecting sensitive information from potential unauthorized access attempts.",
+          "translationJa": "暗号化はプライバシーの層を追加し、潜在的な不正アクセスから機密情報を保護します。",
+          "id": "advanced-2026-11-10-s08",
+          "startMs": 45233,
+          "endMs": 52312,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "By adopting these proactive habits, you minimize the risk of losing valuable memories or data.",
+          "translationJa": "これらの積極的な習慣を採用することで、貴重な思い出やデータを失うリスクを最小限に抑えられます。",
+          "id": "advanced-2026-11-10-s09",
+          "startMs": 52712,
+          "endMs": 58115,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Digital maintenance might seem tedious, but it provides peace of mind in our connected world.",
+          "translationJa": "デジタルメンテナンスは退屈に思えるかもしれませんが、つながった世界で心の平穏をもたらします。",
+          "id": "advanced-2026-11-10-s10",
+          "startMs": 58515,
+          "endMs": 63490,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Investing a small amount of time today will save you from major frustrations later on.",
+          "translationJa": "今日少しだけ時間を使うことは、後の大きな不満を避けることにつながります。",
+          "id": "advanced-2026-11-10-s11",
+          "startMs": 63890,
+          "endMs": 68566,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "maximize",
+          "meaningJa": "最大化する",
+          "exampleEn": "We want to maximize our profits.",
+          "exampleJa": "私たちは利益を最大化したいです。"
+        },
+        {
+          "word": "lifespan",
+          "meaningJa": "寿命",
+          "exampleEn": "The lifespan of this machine is short.",
+          "exampleJa": "この機械の寿命は短いです。"
+        },
+        {
+          "word": "degradation",
+          "meaningJa": "劣化",
+          "exampleEn": "Environmental degradation is a serious issue.",
+          "exampleJa": "環境の劣化は深刻な問題です。"
+        },
+        {
+          "word": "synchronize",
+          "meaningJa": "同期する",
+          "exampleEn": "Synchronize your data across devices.",
+          "exampleJa": "デバイス間でデータを同期してください。"
+        },
+        {
+          "word": "proactive",
+          "meaningJa": "先を見越した",
+          "exampleEn": "Take a proactive approach to problems.",
+          "exampleJa": "問題に対して先を見越したアプローチを取りましょう。"
+        }
+      ],
+      "id": "advanced-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced.m4a",
+      "durationSeconds": 67
+    }
+  ],
+  "topicCategory": "science_technology"
+}

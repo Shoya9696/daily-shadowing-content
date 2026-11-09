@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-08T15:01:09Z",
-  "latestLessonDate": "2026-11-09",
+  "generatedAtUtc": "2026-11-09T15:07:21Z",
+  "latestLessonDate": "2026-11-10",
   "days": [
+    {
+      "lessonDate": "2026-11-10",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-10.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Managing Battery Life and Backups",
+          "durationSeconds": 38,
+          "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータを安全にバックアップするコツについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Practical Tips for Digital Maintenance",
+          "durationSeconds": 51,
+          "summaryJa": "日常のデジタル機器を快適に使用するためのバッテリー管理とデータ保護のヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Device Longevity and Data Security",
+          "durationSeconds": 67,
+          "summaryJa": "デバイスの寿命を延ばし、デジタル資産を保護するための専門的かつ実践的な戦略。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-11-09",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-09.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-10-10",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-10.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Visiting a Museum for the First Time",
-          "durationSeconds": 31,
-          "summaryJa": "美術館を初めて訪れる際のチケット購入や展示の見方、基本的な質問の仕方について。"
-        },
-        {
-          "level": "intermediate",
-          "title": "A Guide to Enjoying Art Museums",
-          "durationSeconds": 50,
-          "summaryJa": "美術館をより楽しむためのチケットの買い方や館内でのマナー、展示品の鑑賞方法について。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Museum Exploration",
-          "durationSeconds": 62,
-          "summaryJa": "美術館での深い鑑賞体験、館内のマナー、そして文化的な学びを最大化するためのヒント。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }

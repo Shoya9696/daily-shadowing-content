@@ -1,425 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-08T15:01:09Z",
-  "lessonDate": "2026-11-09",
+  "generatedAtUtc": "2026-11-09T15:07:21Z",
+  "lessonDate": "2026-11-10",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Exploring a Local Market",
+      "title": "Managing Battery Life and Backups",
       "cefrLevel": "A2",
-      "summaryJa": "地元の市場を訪れて、食べ物を探したり店員さんと会話したりする練習。",
+      "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータを安全にバックアップするコツについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Visiting a local market is a great way to see the city.",
-          "translationJa": "地元の市場を訪れることは、その街を知るための素晴らしい方法です。",
-          "id": "beginner-2026-11-09-s01",
+          "text": "Many people worry about their phone battery dying during the busy day.",
+          "translationJa": "多くの人が、忙しい一日の間にスマートフォンのバッテリーが切れることを心配しています。",
+          "id": "beginner-2026-11-10-s01",
           "startMs": 0,
-          "endMs": 2860,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s01.m4a"
+          "endMs": 3638,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can find many fresh fruits and vegetables at these small stalls.",
-          "translationJa": "これらの小さな屋台で、たくさんの新鮮な果物や野菜を見つけることができます。",
-          "id": "beginner-2026-11-09-s02",
-          "startMs": 3260,
-          "endMs": 6863,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s02.m4a"
+          "text": "You can save power by turning down the brightness of your screen.",
+          "translationJa": "画面の明るさを下げることで、電力を節約することができます。",
+          "id": "beginner-2026-11-10-s02",
+          "startMs": 4038,
+          "endMs": 7316,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "I like to walk around and look at all the colorful food items.",
-          "translationJa": "私は歩き回って、カラフルな食べ物をすべて見るのが好きです。",
-          "id": "beginner-2026-11-09-s03",
-          "startMs": 7263,
-          "endMs": 10394,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s03.m4a"
+          "text": "It is also a good idea to close apps you are not using.",
+          "translationJa": "使っていないアプリを閉じておくことも良い考えです。",
+          "id": "beginner-2026-11-10-s03",
+          "startMs": 7716,
+          "endMs": 10790,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "The vendors are usually very friendly and happy to talk with you.",
-          "translationJa": "店員さんはたいていとてもフレンドリーで、喜んで話をしてくれます。",
-          "id": "beginner-2026-11-09-s04",
-          "startMs": 10794,
-          "endMs": 14080,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s04.m4a"
+          "text": "Try to charge your device before the battery level gets too low.",
+          "translationJa": "バッテリー残量が少なくなりすぎる前に、デバイスを充電するようにしましょう。",
+          "id": "beginner-2026-11-10-s04",
+          "startMs": 11190,
+          "endMs": 14638,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You should ask them about the best local food to try today.",
-          "translationJa": "今日試すべき地元の最高の食べ物について、彼らに聞いてみるべきです。",
-          "id": "beginner-2026-11-09-s05",
-          "startMs": 14480,
-          "endMs": 17538,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s05.m4a"
+          "text": "High temperatures can damage your battery, so keep your phone out of sunlight.",
+          "translationJa": "高温はバッテリーを傷める可能性があるため、直射日光を避けて保管してください。",
+          "id": "beginner-2026-11-10-s05",
+          "startMs": 15038,
+          "endMs": 19295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Sometimes the prices are quite low compared to the big grocery stores.",
-          "translationJa": "時々、大きなスーパーマーケットと比べて値段がかなり安いです。",
-          "id": "beginner-2026-11-09-s06",
-          "startMs": 17938,
-          "endMs": 21853,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s06.m4a"
+          "text": "You should also make sure to save your important files in the cloud.",
+          "translationJa": "また、大切なファイルをクラウドに保存することも忘れないでください。",
+          "id": "beginner-2026-11-10-s06",
+          "startMs": 19695,
+          "endMs": 23159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "It is always a good idea to bring some small cash with you.",
-          "translationJa": "小銭を持っていくことは、いつも良い考えです。",
-          "id": "beginner-2026-11-09-s07",
-          "startMs": 22253,
-          "endMs": 25361,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s07.m4a"
+          "text": "Cloud storage helps you keep your photos safe if you lose your phone.",
+          "translationJa": "クラウドストレージは、万が一スマホを紛失しても写真を安全に保つのに役立ちます。",
+          "id": "beginner-2026-11-10-s07",
+          "startMs": 23559,
+          "endMs": 27052,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "I often buy some snacks to eat while I walk around the area.",
-          "translationJa": "私はよく、その辺りを歩きながら食べるためのおやつを買います。",
-          "id": "beginner-2026-11-09-s08",
-          "startMs": 25761,
-          "endMs": 29066,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s08.m4a"
+          "text": "Checking your settings once every month is a very helpful daily habit.",
+          "translationJa": "月に一度設定を確認することは、非常に役立つ毎日の習慣です。",
+          "id": "beginner-2026-11-10-s08",
+          "startMs": 27452,
+          "endMs": 31061,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Market visits are my favorite part of traveling to a new place.",
-          "translationJa": "市場を訪れることは、新しい場所へ旅行する中で私が一番好きなことです。",
-          "id": "beginner-2026-11-09-s09",
-          "startMs": 29466,
-          "endMs": 32884,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner-s09.m4a"
+          "text": "These simple steps will keep your technology working well for a long time.",
+          "translationJa": "これらの簡単な手順で、あなたの機器は長く快適に使い続けることができます。",
+          "id": "beginner-2026-11-10-s09",
+          "startMs": 31461,
+          "endMs": 35314,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Taking care of your devices is always a smart choice for everyone today.",
+          "translationJa": "デバイスを大切に扱うことは、今日誰にとっても賢い選択です。",
+          "id": "beginner-2026-11-10-s10",
+          "startMs": 35714,
+          "endMs": 39615,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "vendor",
-          "meaningJa": "売り子、店員",
-          "exampleEn": "The vendor sold fresh apples.",
-          "exampleJa": "売り子が新鮮なリンゴを売っていました。"
+          "word": "Battery",
+          "meaningJa": "電池",
+          "exampleEn": "My phone battery is low.",
+          "exampleJa": "スマホの充電が少ないです。"
         },
         {
-          "word": "stall",
-          "meaningJa": "屋台、露店",
-          "exampleEn": "There is a food stall nearby.",
-          "exampleJa": "近くに屋台があります。"
+          "word": "Brightness",
+          "meaningJa": "明るさ",
+          "exampleEn": "Lower the screen brightness.",
+          "exampleJa": "画面の明るさを下げてください。"
         },
         {
-          "word": "fresh",
-          "meaningJa": "新鮮な",
-          "exampleEn": "These vegetables look very fresh.",
-          "exampleJa": "これらの野菜はとても新鮮に見えます。"
+          "word": "Cloud",
+          "meaningJa": "クラウド（オンラインストレージ）",
+          "exampleEn": "I saved my photos in the cloud.",
+          "exampleJa": "写真をクラウドに保存しました。"
         },
         {
-          "word": "grocery store",
-          "meaningJa": "食料品店、スーパー",
-          "exampleEn": "I went to the grocery store.",
-          "exampleJa": "私は食料品店へ行きました。"
+          "word": "Device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is very useful.",
+          "exampleJa": "この機器はとても便利です。"
         },
         {
-          "word": "cash",
-          "meaningJa": "現金",
-          "exampleEn": "Do you have any cash?",
-          "exampleJa": "現金は持っていますか？"
+          "word": "Habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
         }
       ],
-      "id": "beginner-2026-11-09",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/beginner.m4a",
-      "durationSeconds": 31
+      "id": "beginner-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner.m4a",
+      "durationSeconds": 38
     },
     {
       "levelGroup": "intermediate",
-      "title": "Tips for Shopping at Markets",
+      "title": "Practical Tips for Digital Maintenance",
       "cefrLevel": "B1",
-      "summaryJa": "市場で買い物を楽しむためのコツや、地元の人との交流について。",
+      "summaryJa": "日常のデジタル機器を快適に使用するためのバッテリー管理とデータ保護のヒント。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Traveling to a new country offers a unique chance to visit busy local markets.",
-          "translationJa": "新しい国への旅行は、賑やかな地元の市場を訪れるユニークな機会を与えてくれます。",
-          "id": "intermediate-2026-11-09-s01",
+          "text": "Managing your smartphone battery effectively can make a big difference in daily usage.",
+          "translationJa": "スマートフォンのバッテリーを効果的に管理することは、日常の使用において大きな違いを生みます。",
+          "id": "intermediate-2026-11-10-s01",
           "startMs": 0,
-          "endMs": 4319,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s01.m4a"
+          "endMs": 4509,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "These markets are often the heart of the community where people meet and shop.",
-          "translationJa": "これらの市場は、人々が出会い買い物をするコミュニティの中心であることがよくあります。",
-          "id": "intermediate-2026-11-09-s02",
-          "startMs": 4719,
-          "endMs": 8432,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s02.m4a"
+          "text": "Try to avoid letting your phone battery drop below twenty percent every single day.",
+          "translationJa": "毎日、スマートフォンのバッテリー残量が20パーセントを下回らないように努めてください。",
+          "id": "intermediate-2026-11-10-s02",
+          "startMs": 4909,
+          "endMs": 9286,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "When you arrive, take a moment to observe how the local people choose their produce.",
-          "translationJa": "到着したら、地元の人々がどのように農産物を選んでいるかを観察する時間を取ってください。",
-          "id": "intermediate-2026-11-09-s03",
-          "startMs": 8832,
-          "endMs": 13246,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s03.m4a"
+          "text": "Extreme heat is the biggest enemy of your battery and overall device performance levels.",
+          "translationJa": "極端な熱は、バッテリーとデバイス全体のパフォーマンスレベルにとって最大の敵です。",
+          "id": "intermediate-2026-11-10-s03",
+          "startMs": 9686,
+          "endMs": 14350,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is helpful to learn a few basic phrases in the local language before visiting.",
-          "translationJa": "訪れる前に、その土地の言葉でいくつかの基本的なフレーズを学んでおくと役立ちます。",
-          "id": "intermediate-2026-11-09-s04",
-          "startMs": 13646,
-          "endMs": 17950,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s04.m4a"
+          "text": "Keeping your phone in a cool place helps maintain its health for many years.",
+          "translationJa": "スマートフォンを涼しい場所に置くことは、長年にわたってその健康状態を維持するのに役立ちます。",
+          "id": "intermediate-2026-11-10-s04",
+          "startMs": 14750,
+          "endMs": 18591,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Greeting the vendors with a smile often makes your shopping experience much more pleasant.",
-          "translationJa": "笑顔で売り子に挨拶することは、買い物の体験をより楽しいものにしてくれます。",
-          "id": "intermediate-2026-11-09-s05",
-          "startMs": 18350,
-          "endMs": 22754,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s05.m4a"
+          "text": "You should also remember to check your background apps to save more battery power.",
+          "translationJa": "また、バッテリーをさらに節約するためにバックグラウンドアプリを確認することを忘れないでください。",
+          "id": "intermediate-2026-11-10-s05",
+          "startMs": 18991,
+          "endMs": 23105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You might find items that you have never seen in your home country before today.",
-          "translationJa": "今日まで母国で見たことがないような品物を見つけるかもしれません。",
-          "id": "intermediate-2026-11-09-s06",
-          "startMs": 23154,
-          "endMs": 27164,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s06.m4a"
+          "text": "Besides power, protecting your personal data is another essential part of digital device care.",
+          "translationJa": "電力以外にも、個人データを保護することはデジタル機器ケアのもう一つの重要な部分です。",
+          "id": "intermediate-2026-11-10-s06",
+          "startMs": 23505,
+          "endMs": 28792,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "If you are unsure about a price, feel free to ask politely for the cost.",
-          "translationJa": "値段がよくわからない場合は、遠慮なく丁寧に費用を聞いてみてください。",
-          "id": "intermediate-2026-11-09-s07",
-          "startMs": 27564,
-          "endMs": 31880,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s07.m4a"
+          "text": "Always keep a copy of your important documents stored in a secure cloud service.",
+          "translationJa": "重要な書類のコピーは、常に安全なクラウドサービスに保存しておきましょう。",
+          "id": "intermediate-2026-11-10-s07",
+          "startMs": 29192,
+          "endMs": 33618,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Most shop owners are proud of their goods and happy to explain how to cook.",
-          "translationJa": "ほとんどの店主は自分の商品を誇りに思っており、調理法を喜んで説明してくれます。",
-          "id": "intermediate-2026-11-09-s08",
-          "startMs": 32280,
-          "endMs": 36139,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s08.m4a"
+          "text": "Automatic backups are convenient because they save your files without needing your constant attention.",
+          "translationJa": "自動バックアップは、常に意識しなくてもファイルを保存できるため非常に便利です。",
+          "id": "intermediate-2026-11-10-s08",
+          "startMs": 34018,
+          "endMs": 39269,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Trying local snacks is a great way to understand the culture of the region better.",
-          "translationJa": "地元の軽食を試すことは、その地域の文化をよりよく理解するための素晴らしい方法です。",
-          "id": "intermediate-2026-11-09-s09",
-          "startMs": 36539,
-          "endMs": 40696,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s09.m4a"
+          "text": "If you lose your physical device, your precious photos will still remain safe online.",
+          "translationJa": "物理的なデバイスを紛失しても、大切な写真はオンライン上に安全に残ります。",
+          "id": "intermediate-2026-11-10-s09",
+          "startMs": 39669,
+          "endMs": 44496,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Make sure to bring a reusable bag to carry all your fresh market finds home.",
-          "translationJa": "市場で見つけた新鮮な戦利品を家に持ち帰るために、再利用可能なバッグを忘れずに持参してください。",
-          "id": "intermediate-2026-11-09-s10",
-          "startMs": 41096,
-          "endMs": 45175,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s10.m4a"
+          "text": "Following these simple habits ensures that your technology works well whenever you need it.",
+          "translationJa": "これらの簡単な習慣に従うことで、必要なときにいつでもテクノロジーがうまく機能するようになります。",
+          "id": "intermediate-2026-11-10-s10",
+          "startMs": 44896,
+          "endMs": 49472,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Enjoying the sights and sounds of a market is a highlight of any great trip.",
-          "translationJa": "市場の景色や音を楽しむことは、素晴らしい旅行のハイライトになります。",
-          "id": "intermediate-2026-11-09-s11",
-          "startMs": 45575,
-          "endMs": 49287,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate-s11.m4a"
+          "text": "Taking care of your devices is a great way to save money and time.",
+          "translationJa": "デバイスを大切に扱うことは、お金と時間を節約する素晴らしい方法です。",
+          "id": "intermediate-2026-11-10-s11",
+          "startMs": 49872,
+          "endMs": 53413,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "observe",
-          "meaningJa": "観察する",
-          "exampleEn": "Please observe the rules.",
-          "exampleJa": "ルールを観察してください。"
+          "word": "effectively",
+          "meaningJa": "効果的に",
+          "exampleEn": "Work effectively to finish early.",
+          "exampleJa": "早く終わるように効果的に働きましょう。"
         },
         {
-          "word": "produce",
-          "meaningJa": "農産物",
-          "exampleEn": "The store sells fresh produce.",
-          "exampleJa": "その店は新鮮な農産物を売っています。"
+          "word": "performance",
+          "meaningJa": "性能",
+          "exampleEn": "The performance of this laptop is great.",
+          "exampleJa": "このノートパソコンの性能は素晴らしいです。"
         },
         {
-          "word": "pleasant",
-          "meaningJa": "楽しい、心地よい",
-          "exampleEn": "We had a pleasant chat.",
-          "exampleJa": "私たちは楽しいおしゃべりをしました。"
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
         },
         {
-          "word": "reusable",
-          "meaningJa": "再利用可能な",
-          "exampleEn": "Use a reusable bag.",
-          "exampleJa": "再利用可能なバッグを使ってください。"
+          "word": "secure",
+          "meaningJa": "安全な",
+          "exampleEn": "Keep your password secure.",
+          "exampleJa": "パスワードを安全に保管してください。"
         },
         {
-          "word": "highlight",
-          "meaningJa": "ハイライト、目玉",
-          "exampleEn": "The concert was the highlight.",
-          "exampleJa": "コンサートがハイライトでした。"
+          "word": "convenient",
+          "meaningJa": "便利な",
+          "exampleEn": "Online shopping is very convenient.",
+          "exampleJa": "オンラインショッピングはとても便利です。"
         }
       ],
-      "id": "intermediate-2026-11-09",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/intermediate.m4a",
-      "durationSeconds": 47
+      "id": "intermediate-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate.m4a",
+      "durationSeconds": 51
     },
     {
       "levelGroup": "advanced",
-      "title": "The Cultural Experience of Markets",
+      "title": "Optimizing Device Longevity and Data Security",
       "cefrLevel": "B2",
-      "summaryJa": "市場が持つ文化的意義と、旅行者としての心構えについて。",
+      "summaryJa": "デバイスの寿命を延ばし、デジタル資産を保護するための専門的かつ実践的な戦略。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/visiting-local-market"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Local markets serve as vibrant hubs that reflect the unique identity of a region.",
-          "translationJa": "地元の市場は、その地域のユニークなアイデンティティを反映する活気ある拠点として機能します。",
-          "id": "advanced-2026-11-09-s01",
+          "text": "Modern smartphones rely on lithium-ion batteries that require careful maintenance to maximize their lifespan.",
+          "translationJa": "現代のスマートフォンは、寿命を最大化するために慎重なメンテナンスが必要なリチウムイオンバッテリーに依存しています。",
+          "id": "advanced-2026-11-10-s01",
           "startMs": 0,
-          "endMs": 4393,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s01.m4a"
+          "endMs": 6378,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Walking through these bustling spaces allows you to engage with the local way of life.",
-          "translationJa": "こうした賑やかな場所を歩くことで、地元の生活様式に触れることができます。",
-          "id": "advanced-2026-11-09-s02",
-          "startMs": 4793,
-          "endMs": 9184,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s02.m4a"
+          "text": "Users should avoid frequent full discharges to prevent unnecessary chemical stress on the internal cells.",
+          "translationJa": "ユーザーは、内部セルへの不必要な化学的ストレスを防ぐために、頻繁な完全放電を避けるべきです。",
+          "id": "advanced-2026-11-10-s02",
+          "startMs": 6778,
+          "endMs": 12610,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The variety of ingredients found at stalls tells a story about the local climate.",
-          "translationJa": "屋台で見つかる多様な食材は、その土地の気候についての物語を伝えてくれます。",
-          "id": "advanced-2026-11-09-s03",
-          "startMs": 9584,
-          "endMs": 13892,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s03.m4a"
+          "text": "Maintaining a charge level between thirty and eighty percent significantly improves the battery's overall longevity.",
+          "translationJa": "充電レベルを30%から80%の間に維持することは、バッテリーの全体的な寿命を大幅に改善します。",
+          "id": "advanced-2026-11-10-s03",
+          "startMs": 13010,
+          "endMs": 19086,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Engaging in brief conversations with vendors provides insights that guidebooks often fail to capture.",
-          "translationJa": "売り子との短い会話は、ガイドブックでは捉えきれない洞察を与えてくれます。",
-          "id": "advanced-2026-11-09-s04",
-          "startMs": 14292,
-          "endMs": 19873,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s04.m4a"
+          "text": "Furthermore, ambient temperature plays a crucial role in preventing long-term degradation of modern electronic components.",
+          "translationJa": "さらに、周囲温度は現代の電子部品の長期的な劣化を防ぐ上で重要な役割を果たします。",
+          "id": "advanced-2026-11-10-s04",
+          "startMs": 19486,
+          "endMs": 26395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "It is important to respect the traditional customs that govern these communal trading spaces.",
-          "translationJa": "こうした共同の取引の場を支配する伝統的な習慣を尊重することは重要です。",
-          "id": "advanced-2026-11-09-s05",
-          "startMs": 20273,
-          "endMs": 25146,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s05.m4a"
+          "text": "While hardware care is vital, securing your digital data through regular backups is equally important.",
+          "translationJa": "ハードウェアのケアも不可欠ですが、定期的なバックアップを通じてデジタルデータを保護することも同様に重要です。",
+          "id": "advanced-2026-11-10-s05",
+          "startMs": 26795,
+          "endMs": 32521,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Rather than just looking for bargains, focus on the quality and history of items.",
-          "translationJa": "単にお買い得品を探すのではなく、品物の質や歴史に注目してみてください。",
-          "id": "advanced-2026-11-09-s06",
-          "startMs": 25546,
-          "endMs": 30058,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s06.m4a"
+          "text": "Cloud storage solutions offer a seamless way to synchronize files across multiple devices without effort.",
+          "translationJa": "クラウドストレージソリューションは、複数のデバイス間で手間をかけずにファイルを同期するシームレスな方法を提供します。",
+          "id": "advanced-2026-11-10-s06",
+          "startMs": 32921,
+          "endMs": 38921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You will often discover that food is the most accessible gateway to cultural understanding.",
-          "translationJa": "食こそが文化を理解するための最も身近な入り口であることに気づくでしょう。",
-          "id": "advanced-2026-11-09-s07",
-          "startMs": 30458,
-          "endMs": 35211,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s07.m4a"
+          "text": "Implementing an automated backup schedule ensures that your most recent work is always safely preserved.",
+          "translationJa": "自動バックアップスケジュールを実装することで、最新の作業が常に安全に保存されるようになります。",
+          "id": "advanced-2026-11-10-s07",
+          "startMs": 39321,
+          "endMs": 44833,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Remember that these markets are not just for tourists but for the local residents.",
-          "translationJa": "これらの市場は観光客のためだけでなく、地元住民のための場所であることを忘れないでください。",
-          "id": "advanced-2026-11-09-s08",
-          "startMs": 35611,
-          "endMs": 39763,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s08.m4a"
+          "text": "Encryption adds an extra layer of privacy, protecting sensitive information from potential unauthorized access attempts.",
+          "translationJa": "暗号化はプライバシーの層を追加し、潜在的な不正アクセスから機密情報を保護します。",
+          "id": "advanced-2026-11-10-s08",
+          "startMs": 45233,
+          "endMs": 52312,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Maintaining a polite and curious attitude will surely enrich your overall travel experience significantly.",
-          "translationJa": "丁寧で好奇心旺盛な態度を保つことは、間違いなくあなたの旅行体験全体を大きく豊かにします。",
-          "id": "advanced-2026-11-09-s09",
-          "startMs": 40163,
-          "endMs": 45845,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s09.m4a"
+          "text": "By adopting these proactive habits, you minimize the risk of losing valuable memories or data.",
+          "translationJa": "これらの積極的な習慣を採用することで、貴重な思い出やデータを失うリスクを最小限に抑えられます。",
+          "id": "advanced-2026-11-10-s09",
+          "startMs": 52712,
+          "endMs": 58115,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Take your time to wander without a strict schedule to find the hidden gems.",
-          "translationJa": "隠れた名店を見つけるために、厳しいスケジュールを立てずにゆっくりと歩き回ってください。",
-          "id": "advanced-2026-11-09-s10",
-          "startMs": 46245,
-          "endMs": 49925,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s10.m4a"
+          "text": "Digital maintenance might seem tedious, but it provides peace of mind in our connected world.",
+          "translationJa": "デジタルメンテナンスは退屈に思えるかもしれませんが、つながった世界で心の平穏をもたらします。",
+          "id": "advanced-2026-11-10-s10",
+          "startMs": 58515,
+          "endMs": 63490,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Every market visit builds a deeper connection between you and the city you visit.",
-          "translationJa": "市場を訪れるたびに、あなたと訪れる街との間により深い繋がりが生まれます。",
-          "id": "advanced-2026-11-09-s11",
-          "startMs": 50325,
-          "endMs": 54234,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced-s11.m4a"
+          "text": "Investing a small amount of time today will save you from major frustrations later on.",
+          "translationJa": "今日少しだけ時間を使うことは、後の大きな不満を避けることにつながります。",
+          "id": "advanced-2026-11-10-s11",
+          "startMs": 63890,
+          "endMs": 68566,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "vibrant",
-          "meaningJa": "活気のある",
-          "exampleEn": "The city has a vibrant culture.",
-          "exampleJa": "その街は活気ある文化を持っています。"
+          "word": "maximize",
+          "meaningJa": "最大化する",
+          "exampleEn": "We want to maximize our profits.",
+          "exampleJa": "私たちは利益を最大化したいです。"
         },
         {
-          "word": "hub",
-          "meaningJa": "拠点、中心",
-          "exampleEn": "This is a transportation hub.",
-          "exampleJa": "ここは交通の拠点です。"
+          "word": "lifespan",
+          "meaningJa": "寿命",
+          "exampleEn": "The lifespan of this machine is short.",
+          "exampleJa": "この機械の寿命は短いです。"
         },
         {
-          "word": "bustling",
-          "meaningJa": "賑やかな",
-          "exampleEn": "The market was very bustling.",
-          "exampleJa": "市場はとても賑やかでした。"
+          "word": "degradation",
+          "meaningJa": "劣化",
+          "exampleEn": "Environmental degradation is a serious issue.",
+          "exampleJa": "環境の劣化は深刻な問題です。"
         },
         {
-          "word": "insight",
-          "meaningJa": "洞察、見識",
-          "exampleEn": "He gave me a deep insight.",
-          "exampleJa": "彼は深い洞察をくれました。"
+          "word": "synchronize",
+          "meaningJa": "同期する",
+          "exampleEn": "Synchronize your data across devices.",
+          "exampleJa": "デバイス間でデータを同期してください。"
         },
         {
-          "word": "accessible",
-          "meaningJa": "アクセスしやすい、身近な",
-          "exampleEn": "The information is accessible.",
-          "exampleJa": "その情報は手に入りやすいです。"
+          "word": "proactive",
+          "meaningJa": "先を見越した",
+          "exampleEn": "Take a proactive approach to problems.",
+          "exampleJa": "問題に対して先を見越したアプローチを取りましょう。"
         }
       ],
-      "id": "advanced-2026-11-09",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-09/advanced.m4a",
-      "durationSeconds": 52
+      "id": "advanced-2026-11-10",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced.m4a",
+      "durationSeconds": 67
     }
   ],
-  "topicCategory": "travel_culture"
+  "topicCategory": "science_technology"
 }
