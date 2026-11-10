@@ -1,434 +1,452 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-09T15:07:21Z",
-  "lessonDate": "2026-11-10",
+  "generatedAtUtc": "2026-11-10T19:15:12Z",
+  "lessonDate": "2026-11-11",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Managing Battery Life and Backups",
+      "title": "Healthy Snacks for Daily Energy",
       "cefrLevel": "A2",
-      "summaryJa": "スマートフォンのバッテリーを長持ちさせる方法と、大切なデータを安全にバックアップするコツについて学びます。",
+      "summaryJa": "健康的な間食の選び方と、エネルギーを維持するためのヒントについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many people worry about their phone battery dying during the busy day.",
-          "translationJa": "多くの人が、忙しい一日の間にスマートフォンのバッテリーが切れることを心配しています。",
-          "id": "beginner-2026-11-10-s01",
+          "text": "Choosing the right snacks is important for your health every single day.",
+          "translationJa": "毎日、正しい間食を選ぶことは健康にとって重要です。",
+          "id": "beginner-2026-11-11-s01",
           "startMs": 0,
-          "endMs": 3638,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s01.m4a"
+          "endMs": 3481,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can save power by turning down the brightness of your screen.",
-          "translationJa": "画面の明るさを下げることで、電力を節約することができます。",
-          "id": "beginner-2026-11-10-s02",
-          "startMs": 4038,
-          "endMs": 7316,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s02.m4a"
+          "text": "Many people feel tired in the afternoon because they eat sugary snacks.",
+          "translationJa": "多くの人は砂糖の多いおやつを食べるため、午後に疲れを感じます。",
+          "id": "beginner-2026-11-11-s02",
+          "startMs": 3881,
+          "endMs": 7879,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is also a good idea to close apps you are not using.",
-          "translationJa": "使っていないアプリを閉じておくことも良い考えです。",
-          "id": "beginner-2026-11-10-s03",
-          "startMs": 7716,
-          "endMs": 10790,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s03.m4a"
+          "text": "It is much better to choose foods that provide steady energy instead.",
+          "translationJa": "代わりに、安定したエネルギーを供給してくれる食べ物を選ぶ方がずっと良いです。",
+          "id": "beginner-2026-11-11-s03",
+          "startMs": 8279,
+          "endMs": 11805,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Try to charge your device before the battery level gets too low.",
-          "translationJa": "バッテリー残量が少なくなりすぎる前に、デバイスを充電するようにしましょう。",
-          "id": "beginner-2026-11-10-s04",
-          "startMs": 11190,
-          "endMs": 14638,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s04.m4a"
+          "text": "Fresh fruits like apples or bananas are always excellent and easy choices.",
+          "translationJa": "リンゴやバナナのような新鮮な果物は、いつでも素晴らしく簡単な選択肢です。",
+          "id": "beginner-2026-11-11-s04",
+          "startMs": 12205,
+          "endMs": 16316,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "High temperatures can damage your battery, so keep your phone out of sunlight.",
-          "translationJa": "高温はバッテリーを傷める可能性があるため、直射日光を避けて保管してください。",
-          "id": "beginner-2026-11-10-s05",
-          "startMs": 15038,
-          "endMs": 19295,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s05.m4a"
+          "text": "You can also try eating a small handful of plain raw nuts.",
+          "translationJa": "少量の味付けされていないナッツを一つかみ食べることも試してみてください。",
+          "id": "beginner-2026-11-11-s05",
+          "startMs": 16716,
+          "endMs": 20064,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You should also make sure to save your important files in the cloud.",
-          "translationJa": "また、大切なファイルをクラウドに保存することも忘れないでください。",
-          "id": "beginner-2026-11-10-s06",
-          "startMs": 19695,
-          "endMs": 23159,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s06.m4a"
+          "text": "These foods give your body good protein and healthy fats for energy.",
+          "translationJa": "これらの食べ物は、エネルギー源となる良質なタンパク質と健康的な脂肪を体にもたらします。",
+          "id": "beginner-2026-11-11-s06",
+          "startMs": 20464,
+          "endMs": 23818,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Cloud storage helps you keep your photos safe if you lose your phone.",
-          "translationJa": "クラウドストレージは、万が一スマホを紛失しても写真を安全に保つのに役立ちます。",
-          "id": "beginner-2026-11-10-s07",
-          "startMs": 23559,
-          "endMs": 27052,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s07.m4a"
+          "text": "Please remember to check the portion size before you start eating them.",
+          "translationJa": "食べ始める前に、必ず分量をチェックすることを忘れないでください。",
+          "id": "beginner-2026-11-11-s07",
+          "startMs": 24218,
+          "endMs": 27908,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Checking your settings once every month is a very helpful daily habit.",
-          "translationJa": "月に一度設定を確認することは、非常に役立つ毎日の習慣です。",
-          "id": "beginner-2026-11-10-s08",
-          "startMs": 27452,
-          "endMs": 31061,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s08.m4a"
+          "text": "Eating too much at one time can make you feel very sleepy.",
+          "translationJa": "一度に食べ過ぎると、とても眠くなってしまうことがあります。",
+          "id": "beginner-2026-11-11-s08",
+          "startMs": 28308,
+          "endMs": 31439,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "These simple steps will keep your technology working well for a long time.",
-          "translationJa": "これらの簡単な手順で、あなたの機器は長く快適に使い続けることができます。",
-          "id": "beginner-2026-11-10-s09",
-          "startMs": 31461,
-          "endMs": 35314,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s09.m4a"
+          "text": "Small and healthy snacks will help you stay active until the evening.",
+          "translationJa": "小さくて健康的なおやつは、あなたが夕方まで元気に過ごす助けになります。",
+          "id": "beginner-2026-11-11-s09",
+          "startMs": 31839,
+          "endMs": 35324,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Taking care of your devices is always a smart choice for everyone today.",
-          "translationJa": "デバイスを大切に扱うことは、今日誰にとっても賢い選択です。",
-          "id": "beginner-2026-11-10-s10",
-          "startMs": 35714,
-          "endMs": 39615,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner-s10.m4a"
+          "text": "Try these simple tips to improve your eating habits starting from today.",
+          "translationJa": "今日から食習慣を改善するために、これらのシンプルなヒントを試してみてください。",
+          "id": "beginner-2026-11-11-s10",
+          "startMs": 35724,
+          "endMs": 39370,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "Battery",
-          "meaningJa": "電池",
-          "exampleEn": "My phone battery is low.",
-          "exampleJa": "スマホの充電が少ないです。"
+          "word": "snack",
+          "meaningJa": "間食、おやつ",
+          "exampleEn": "I usually have a healthy snack at three.",
+          "exampleJa": "普段3時におやつを食べます。"
         },
         {
-          "word": "Brightness",
-          "meaningJa": "明るさ",
-          "exampleEn": "Lower the screen brightness.",
-          "exampleJa": "画面の明るさを下げてください。"
+          "word": "sugary",
+          "meaningJa": "砂糖の多い",
+          "exampleEn": "Avoid sugary drinks to stay healthy.",
+          "exampleJa": "健康を保つために甘い飲み物は控えましょう。"
         },
         {
-          "word": "Cloud",
-          "meaningJa": "クラウド（オンラインストレージ）",
-          "exampleEn": "I saved my photos in the cloud.",
-          "exampleJa": "写真をクラウドに保存しました。"
+          "word": "steady",
+          "meaningJa": "安定した",
+          "exampleEn": "He maintains a steady pace while running.",
+          "exampleJa": "彼は走っている間、安定したペースを保っています。"
         },
         {
-          "word": "Device",
-          "meaningJa": "装置、機器",
-          "exampleEn": "This device is very useful.",
-          "exampleJa": "この機器はとても便利です。"
+          "word": "portion",
+          "meaningJa": "一人分、分量",
+          "exampleEn": "Control your portion size carefully.",
+          "exampleJa": "分量を注意深く管理してください。"
         },
         {
-          "word": "Habit",
-          "meaningJa": "習慣",
-          "exampleEn": "It is a good habit.",
-          "exampleJa": "それは良い習慣です。"
+          "word": "active",
+          "meaningJa": "活動的な",
+          "exampleEn": "Staying active is good for your heart.",
+          "exampleJa": "活動的でいることは心臓に良いです。"
         }
       ],
-      "id": "beginner-2026-11-10",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/beginner.m4a",
+      "id": "beginner-2026-11-11",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner.m4a",
       "durationSeconds": 38
     },
     {
       "levelGroup": "intermediate",
-      "title": "Practical Tips for Digital Maintenance",
+      "title": "Smart Strategies for Balanced Snacking",
       "cefrLevel": "B1",
-      "summaryJa": "日常のデジタル機器を快適に使用するためのバッテリー管理とデータ保護のヒント。",
+      "summaryJa": "間食を賢く取り入れて、一日を通して体調を整えるための戦略を紹介します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Managing your smartphone battery effectively can make a big difference in daily usage.",
-          "translationJa": "スマートフォンのバッテリーを効果的に管理することは、日常の使用において大きな違いを生みます。",
-          "id": "intermediate-2026-11-10-s01",
+          "text": "Many people underestimate the impact of snacking on their daily physical performance levels.",
+          "translationJa": "多くの人は、間食が日々の身体能力に与える影響を過小評価しています。",
+          "id": "intermediate-2026-11-11-s01",
           "startMs": 0,
-          "endMs": 4509,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s01.m4a"
+          "endMs": 4834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Try to avoid letting your phone battery drop below twenty percent every single day.",
-          "translationJa": "毎日、スマートフォンのバッテリー残量が20パーセントを下回らないように努めてください。",
-          "id": "intermediate-2026-11-10-s02",
-          "startMs": 4909,
-          "endMs": 9286,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s02.m4a"
+          "text": "Choosing the right types of food can prevent that familiar afternoon energy crash.",
+          "translationJa": "正しい種類の食べ物を選ぶことで、よくある午後のエネルギー切れを防ぐことができます。",
+          "id": "intermediate-2026-11-11-s02",
+          "startMs": 5234,
+          "endMs": 9528,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Extreme heat is the biggest enemy of your battery and overall device performance levels.",
-          "translationJa": "極端な熱は、バッテリーとデバイス全体のパフォーマンスレベルにとって最大の敵です。",
-          "id": "intermediate-2026-11-10-s03",
-          "startMs": 9686,
-          "endMs": 14350,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s03.m4a"
+          "text": "Instead of reaching for processed sweets, look for snacks with fiber and protein.",
+          "translationJa": "加工されたお菓子に手を伸ばす代わりに、食物繊維とタンパク質を含む間食を探しましょう。",
+          "id": "intermediate-2026-11-11-s03",
+          "startMs": 9928,
+          "endMs": 14430,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Keeping your phone in a cool place helps maintain its health for many years.",
-          "translationJa": "スマートフォンを涼しい場所に置くことは、長年にわたってその健康状態を維持するのに役立ちます。",
-          "id": "intermediate-2026-11-10-s04",
-          "startMs": 14750,
-          "endMs": 18591,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s04.m4a"
+          "text": "Greek yogurt or fresh vegetables with hummus are fantastic options for busy people.",
+          "translationJa": "ギリシャヨーグルトや、フムスを添えた新鮮な野菜は忙しい人にとって素晴らしい選択肢です。",
+          "id": "intermediate-2026-11-11-s04",
+          "startMs": 14830,
+          "endMs": 19408,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You should also remember to check your background apps to save more battery power.",
-          "translationJa": "また、バッテリーをさらに節約するためにバックグラウンドアプリを確認することを忘れないでください。",
-          "id": "intermediate-2026-11-10-s05",
-          "startMs": 18991,
-          "endMs": 23105,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s05.m4a"
+          "text": "These combinations help stabilize your blood sugar levels throughout the entire work day.",
+          "translationJa": "これらの組み合わせは、仕事中ずっと血糖値を安定させるのに役立ちます。",
+          "id": "intermediate-2026-11-11-s05",
+          "startMs": 19808,
+          "endMs": 24439,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Besides power, protecting your personal data is another essential part of digital device care.",
-          "translationJa": "電力以外にも、個人データを保護することはデジタル機器ケアのもう一つの重要な部分です。",
-          "id": "intermediate-2026-11-10-s06",
-          "startMs": 23505,
-          "endMs": 28792,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s06.m4a"
+          "text": "It is also essential to pay close attention to your specific portion sizes.",
+          "translationJa": "また、自分の食べる分量に細心の注意を払うことも不可欠です。",
+          "id": "intermediate-2026-11-11-s06",
+          "startMs": 24839,
+          "endMs": 29166,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Always keep a copy of your important documents stored in a secure cloud service.",
-          "translationJa": "重要な書類のコピーは、常に安全なクラウドサービスに保存しておきましょう。",
-          "id": "intermediate-2026-11-10-s07",
-          "startMs": 29192,
-          "endMs": 33618,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s07.m4a"
+          "text": "Even healthy foods can lead to weight gain if consumed in large quantities.",
+          "translationJa": "たとえ健康的な食べ物であっても、大量に摂取すれば体重増加につながる可能性があります。",
+          "id": "intermediate-2026-11-11-s07",
+          "startMs": 29566,
+          "endMs": 33464,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Automatic backups are convenient because they save your files without needing your constant attention.",
-          "translationJa": "自動バックアップは、常に意識しなくてもファイルを保存できるため非常に便利です。",
-          "id": "intermediate-2026-11-10-s08",
-          "startMs": 34018,
-          "endMs": 39269,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s08.m4a"
+          "text": "Try keeping your snacks in small containers to avoid eating directly from bags.",
+          "translationJa": "袋から直接食べるのを避けるために、間食は小さな容器に入れておくようにしましょう。",
+          "id": "intermediate-2026-11-11-s08",
+          "startMs": 33864,
+          "endMs": 38253,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "If you lose your physical device, your precious photos will still remain safe online.",
-          "translationJa": "物理的なデバイスを紛失しても、大切な写真はオンライン上に安全に残ります。",
-          "id": "intermediate-2026-11-10-s09",
-          "startMs": 39669,
-          "endMs": 44496,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s09.m4a"
+          "text": "Mindful eating allows you to enjoy your food while recognizing your body's hunger.",
+          "translationJa": "マインドフルな食事は、体の空腹感に気づきながら食事を楽しむことを可能にします。",
+          "id": "intermediate-2026-11-11-s09",
+          "startMs": 38653,
+          "endMs": 42814,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Following these simple habits ensures that your technology works well whenever you need it.",
-          "translationJa": "これらの簡単な習慣に従うことで、必要なときにいつでもテクノロジーがうまく機能するようになります。",
-          "id": "intermediate-2026-11-10-s10",
-          "startMs": 44896,
-          "endMs": 49472,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s10.m4a"
+          "text": "Listen to your body instead of eating simply because you are feeling bored.",
+          "translationJa": "単に退屈だから食べるのではなく、自分の体の声に耳を傾けてください。",
+          "id": "intermediate-2026-11-11-s10",
+          "startMs": 43214,
+          "endMs": 46875,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Taking care of your devices is a great way to save money and time.",
-          "translationJa": "デバイスを大切に扱うことは、お金と時間を節約する素晴らしい方法です。",
-          "id": "intermediate-2026-11-10-s11",
-          "startMs": 49872,
-          "endMs": 53413,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate-s11.m4a"
+          "text": "By planning ahead, you can make better decisions for your long-term physical health.",
+          "translationJa": "前もって計画を立てることで、長期的な身体の健康のためにより良い決断ができます。",
+          "id": "intermediate-2026-11-11-s11",
+          "startMs": 47275,
+          "endMs": 51714,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Small changes to your snacking habits will certainly lead to much better results.",
+          "translationJa": "間食の習慣を少し変えるだけで、間違いなくずっと良い結果が得られるはずです。",
+          "id": "intermediate-2026-11-11-s12",
+          "startMs": 52114,
+          "endMs": 56481,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "effectively",
-          "meaningJa": "効果的に",
-          "exampleEn": "Work effectively to finish early.",
-          "exampleJa": "早く終わるように効果的に働きましょう。"
+          "word": "underestimate",
+          "meaningJa": "過小評価する",
+          "exampleEn": "Do not underestimate the power of sleep.",
+          "exampleJa": "睡眠の力を過小評価してはいけません。"
         },
         {
-          "word": "performance",
-          "meaningJa": "性能",
-          "exampleEn": "The performance of this laptop is great.",
-          "exampleJa": "このノートパソコンの性能は素晴らしいです。"
+          "word": "processed",
+          "meaningJa": "加工された",
+          "exampleEn": "Avoid processed foods whenever possible.",
+          "exampleJa": "可能な限り加工食品は避けましょう。"
+        },
+        {
+          "word": "stabilize",
+          "meaningJa": "安定させる",
+          "exampleEn": "This medicine helps to stabilize his mood.",
+          "exampleJa": "この薬は彼の気分を安定させるのに役立ちます。"
         },
         {
           "word": "essential",
           "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命に不可欠です。"
+          "exampleEn": "Water is essential for human life.",
+          "exampleJa": "水は人間の生活に不可欠です。"
         },
         {
-          "word": "secure",
-          "meaningJa": "安全な",
-          "exampleEn": "Keep your password secure.",
-          "exampleJa": "パスワードを安全に保管してください。"
-        },
-        {
-          "word": "convenient",
-          "meaningJa": "便利な",
-          "exampleEn": "Online shopping is very convenient.",
-          "exampleJa": "オンラインショッピングはとても便利です。"
+          "word": "mindful",
+          "meaningJa": "意識的な",
+          "exampleEn": "Be mindful of your posture while sitting.",
+          "exampleJa": "座っているときは姿勢を意識してください。"
         }
       ],
-      "id": "intermediate-2026-11-10",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/intermediate.m4a",
-      "durationSeconds": 51
+      "id": "intermediate-2026-11-11",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Device Longevity and Data Security",
+      "title": "Optimizing Nutrition Through Balanced Snacking",
       "cefrLevel": "B2",
-      "summaryJa": "デバイスの寿命を延ばし、デジタル資産を保護するための専門的かつ実践的な戦略。",
+      "summaryJa": "栄養摂取を最適化し、一日を通して安定したパフォーマンスを維持するための間食の考え方。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/battery-and-backups"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Modern smartphones rely on lithium-ion batteries that require careful maintenance to maximize their lifespan.",
-          "translationJa": "現代のスマートフォンは、寿命を最大化するために慎重なメンテナンスが必要なリチウムイオンバッテリーに依存しています。",
-          "id": "advanced-2026-11-10-s01",
+          "text": "Integrating balanced snacks into your daily routine is a key strategy for health.",
+          "translationJa": "バランスのとれた間食を日課に組み込むことは、健康のための重要な戦略です。",
+          "id": "advanced-2026-11-11-s01",
           "startMs": 0,
-          "endMs": 6378,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s01.m4a"
+          "endMs": 4304,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Users should avoid frequent full discharges to prevent unnecessary chemical stress on the internal cells.",
-          "translationJa": "ユーザーは、内部セルへの不必要な化学的ストレスを防ぐために、頻繁な完全放電を避けるべきです。",
-          "id": "advanced-2026-11-10-s02",
-          "startMs": 6778,
-          "endMs": 12610,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s02.m4a"
+          "text": "Many individuals suffer from fatigue due to erratic eating patterns throughout the day.",
+          "translationJa": "多くの人は、一日を通した不規則な食生活が原因で疲労に悩まされています。",
+          "id": "advanced-2026-11-11-s02",
+          "startMs": 4704,
+          "endMs": 8992,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Maintaining a charge level between thirty and eighty percent significantly improves the battery's overall longevity.",
-          "translationJa": "充電レベルを30%から80%の間に維持することは、バッテリーの全体的な寿命を大幅に改善します。",
-          "id": "advanced-2026-11-10-s03",
-          "startMs": 13010,
-          "endMs": 19086,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s03.m4a"
+          "text": "A strategic approach to snacking helps maintain metabolic efficiency and consistent mental focus.",
+          "translationJa": "戦略的な間食のアプローチは、代謝効率と一貫した精神的集中力を維持するのに役立ちます。",
+          "id": "advanced-2026-11-11-s03",
+          "startMs": 9392,
+          "endMs": 15043,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Furthermore, ambient temperature plays a crucial role in preventing long-term degradation of modern electronic components.",
-          "translationJa": "さらに、周囲温度は現代の電子部品の長期的な劣化を防ぐ上で重要な役割を果たします。",
-          "id": "advanced-2026-11-10-s04",
-          "startMs": 19486,
-          "endMs": 26395,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s04.m4a"
+          "text": "Focus on pairing macronutrients to provide your body with lasting and steady energy.",
+          "translationJa": "体に持続的で安定したエネルギーを供給するために、主要栄養素を組み合わせることに注目してください。",
+          "id": "advanced-2026-11-11-s04",
+          "startMs": 15443,
+          "endMs": 20112,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "While hardware care is vital, securing your digital data through regular backups is equally important.",
-          "translationJa": "ハードウェアのケアも不可欠ですが、定期的なバックアップを通じてデジタルデータを保護することも同様に重要です。",
-          "id": "advanced-2026-11-10-s05",
-          "startMs": 26795,
-          "endMs": 32521,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s05.m4a"
+          "text": "Combining healthy fats with complex carbohydrates creates a slower and more sustained release.",
+          "translationJa": "健康的な脂肪と複合炭水化物を組み合わせることで、よりゆっくりと持続的なエネルギー放出が起こります。",
+          "id": "advanced-2026-11-11-s05",
+          "startMs": 20512,
+          "endMs": 25725,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Cloud storage solutions offer a seamless way to synchronize files across multiple devices without effort.",
-          "translationJa": "クラウドストレージソリューションは、複数のデバイス間で手間をかけずにファイルを同期するシームレスな方法を提供します。",
-          "id": "advanced-2026-11-10-s06",
-          "startMs": 32921,
-          "endMs": 38921,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s06.m4a"
+          "text": "For instance, an apple paired with almond butter offers an excellent nutritional profile.",
+          "translationJa": "例えば、リンゴとアーモンドバターの組み合わせは素晴らしい栄養プロファイルを提供します。",
+          "id": "advanced-2026-11-11-s06",
+          "startMs": 26125,
+          "endMs": 31130,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Implementing an automated backup schedule ensures that your most recent work is always safely preserved.",
-          "translationJa": "自動バックアップスケジュールを実装することで、最新の作業が常に安全に保存されるようになります。",
-          "id": "advanced-2026-11-10-s07",
-          "startMs": 39321,
-          "endMs": 44833,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s07.m4a"
+          "text": "The fiber in the fruit slows down digestion while the fats provide satiety.",
+          "translationJa": "果物に含まれる食物繊維は消化を遅らせ、脂肪は満腹感を与えてくれます。",
+          "id": "advanced-2026-11-11-s07",
+          "startMs": 31530,
+          "endMs": 35617,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Encryption adds an extra layer of privacy, protecting sensitive information from potential unauthorized access attempts.",
-          "translationJa": "暗号化はプライバシーの層を追加し、潜在的な不正アクセスから機密情報を保護します。",
-          "id": "advanced-2026-11-10-s08",
-          "startMs": 45233,
-          "endMs": 52312,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s08.m4a"
+          "text": "Portion control remains vital to ensure you do not consume excessive caloric density.",
+          "translationJa": "過剰なカロリー密度を摂取しないようにするために、分量の管理は依然として不可欠です。",
+          "id": "advanced-2026-11-11-s08",
+          "startMs": 36017,
+          "endMs": 40905,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "By adopting these proactive habits, you minimize the risk of losing valuable memories or data.",
-          "translationJa": "これらの積極的な習慣を採用することで、貴重な思い出やデータを失うリスクを最小限に抑えられます。",
-          "id": "advanced-2026-11-10-s09",
-          "startMs": 52712,
-          "endMs": 58115,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s09.m4a"
+          "text": "Pre-portioning snacks into small containers prevents the tendency to overeat during busy periods.",
+          "translationJa": "小さな容器に間食を小分けにしておくことは、忙しい時期の過食を防ぐのに有効です。",
+          "id": "advanced-2026-11-11-s09",
+          "startMs": 41305,
+          "endMs": 46737,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Digital maintenance might seem tedious, but it provides peace of mind in our connected world.",
-          "translationJa": "デジタルメンテナンスは退屈に思えるかもしれませんが、つながった世界で心の平穏をもたらします。",
-          "id": "advanced-2026-11-10-s10",
-          "startMs": 58515,
-          "endMs": 63490,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s10.m4a"
+          "text": "Developing this habit shifts your focus toward quality rather than mere convenience foods.",
+          "translationJa": "この習慣を身につけることは、単なる便利な食べ物よりも質に焦点を当てることにつながります。",
+          "id": "advanced-2026-11-11-s10",
+          "startMs": 47137,
+          "endMs": 51787,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Investing a small amount of time today will save you from major frustrations later on.",
-          "translationJa": "今日少しだけ時間を使うことは、後の大きな不満を避けることにつながります。",
-          "id": "advanced-2026-11-10-s11",
-          "startMs": 63890,
-          "endMs": 68566,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced-s11.m4a"
+          "text": "Ultimately, your dietary choices directly influence your overall productivity and daily well-being.",
+          "translationJa": "最終的に、食事の選択はあなたの全体的な生産性と日々の幸福感に直接影響を与えます。",
+          "id": "advanced-2026-11-11-s11",
+          "startMs": 52187,
+          "endMs": 58021,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Prioritize these simple, nutrient-dense options to support your long-term wellness goals effectively.",
+          "translationJa": "長期的なウェルネス目標を効果的にサポートするために、これらのシンプルで栄養価の高い選択肢を優先しましょう。",
+          "id": "advanced-2026-11-11-s12",
+          "startMs": 58421,
+          "endMs": 64143,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "maximize",
-          "meaningJa": "最大化する",
-          "exampleEn": "We want to maximize our profits.",
-          "exampleJa": "私たちは利益を最大化したいです。"
+          "word": "erratic",
+          "meaningJa": "不規則な",
+          "exampleEn": "His erratic behavior worried his friends.",
+          "exampleJa": "彼の不規則な行動は友人を心配させました。"
         },
         {
-          "word": "lifespan",
-          "meaningJa": "寿命",
-          "exampleEn": "The lifespan of this machine is short.",
-          "exampleJa": "この機械の寿命は短いです。"
+          "word": "metabolic",
+          "meaningJa": "代謝の",
+          "exampleEn": "Regular exercise improves your metabolic rate.",
+          "exampleJa": "定期的な運動は代謝率を向上させます。"
         },
         {
-          "word": "degradation",
-          "meaningJa": "劣化",
-          "exampleEn": "Environmental degradation is a serious issue.",
-          "exampleJa": "環境の劣化は深刻な問題です。"
+          "word": "satiety",
+          "meaningJa": "満腹感",
+          "exampleEn": "High protein foods promote a sense of satiety.",
+          "exampleJa": "高タンパクな食品は満腹感を促進します。"
         },
         {
-          "word": "synchronize",
-          "meaningJa": "同期する",
-          "exampleEn": "Synchronize your data across devices.",
-          "exampleJa": "デバイス間でデータを同期してください。"
+          "word": "caloric",
+          "meaningJa": "カロリーの",
+          "exampleEn": "Be aware of the caloric content in drinks.",
+          "exampleJa": "飲み物のカロリー含有量に注意してください。"
         },
         {
-          "word": "proactive",
-          "meaningJa": "先を見越した",
-          "exampleEn": "Take a proactive approach to problems.",
-          "exampleJa": "問題に対して先を見越したアプローチを取りましょう。"
+          "word": "nutrient-dense",
+          "meaningJa": "栄養価の高い",
+          "exampleEn": "Choose nutrient-dense foods for breakfast.",
+          "exampleJa": "朝食には栄養価の高い食べ物を選びましょう。"
         }
       ],
-      "id": "advanced-2026-11-10",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-10/advanced.m4a",
-      "durationSeconds": 67
+      "id": "advanced-2026-11-11",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced.m4a",
+      "durationSeconds": 62
     }
   ],
-  "topicCategory": "science_technology"
+  "topicCategory": "health_wellness"
 }
