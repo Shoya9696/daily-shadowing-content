@@ -1,452 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-10T19:15:12Z",
-  "lessonDate": "2026-11-11",
+  "generatedAtUtc": "2026-11-11T15:01:14Z",
+  "lessonDate": "2026-11-12",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Healthy Snacks for Daily Energy",
+      "title": "Smart Shopping Habits",
       "cefrLevel": "A2",
-      "summaryJa": "健康的な間食の選び方と、エネルギーを維持するためのヒントについて学びます。",
+      "summaryJa": "賢い買い物の習慣について学び、衝動買いを防ぐための基本的なコツを紹介します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Choosing the right snacks is important for your health every single day.",
-          "translationJa": "毎日、正しい間食を選ぶことは健康にとって重要です。",
-          "id": "beginner-2026-11-11-s01",
+          "text": "Everyone wants to save money when they go shopping for new items.",
+          "translationJa": "新しいアイテムを買い物に行くとき、誰もがお金を節約したいと思っています。",
+          "id": "beginner-2026-11-12-s01",
           "startMs": 0,
-          "endMs": 3481,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s01.m4a"
+          "endMs": 3352,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people feel tired in the afternoon because they eat sugary snacks.",
-          "translationJa": "多くの人は砂糖の多いおやつを食べるため、午後に疲れを感じます。",
-          "id": "beginner-2026-11-11-s02",
-          "startMs": 3881,
-          "endMs": 7879,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s02.m4a"
+          "text": "It is a very good idea to check different stores before buying.",
+          "translationJa": "買う前にいろいろなお店をチェックするのはとても良いアイデアです。",
+          "id": "beginner-2026-11-12-s02",
+          "startMs": 3752,
+          "endMs": 7011,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is much better to choose foods that provide steady energy instead.",
-          "translationJa": "代わりに、安定したエネルギーを供給してくれる食べ物を選ぶ方がずっと良いです。",
-          "id": "beginner-2026-11-11-s03",
-          "startMs": 8279,
-          "endMs": 11805,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s03.m4a"
+          "text": "You can find better deals if you spend time looking around online.",
+          "translationJa": "オンラインで見て回る時間をかければ、より良い取引を見つけることができます。",
+          "id": "beginner-2026-11-12-s03",
+          "startMs": 7411,
+          "endMs": 10910,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Fresh fruits like apples or bananas are always excellent and easy choices.",
-          "translationJa": "リンゴやバナナのような新鮮な果物は、いつでも素晴らしく簡単な選択肢です。",
-          "id": "beginner-2026-11-11-s04",
-          "startMs": 12205,
-          "endMs": 16316,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s04.m4a"
+          "text": "Do not buy something just because it looks nice in the store.",
+          "translationJa": "お店で見た目が良いというだけで何かを買わないでください。",
+          "id": "beginner-2026-11-12-s04",
+          "startMs": 11310,
+          "endMs": 14367,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You can also try eating a small handful of plain raw nuts.",
-          "translationJa": "少量の味付けされていないナッツを一つかみ食べることも試してみてください。",
-          "id": "beginner-2026-11-11-s05",
-          "startMs": 16716,
-          "endMs": 20064,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s05.m4a"
+          "text": "You should ask yourself if you really need this item right now.",
+          "translationJa": "今すぐそのアイテムが必要かどうか、自分に問いかけるべきです。",
+          "id": "beginner-2026-11-12-s05",
+          "startMs": 14767,
+          "endMs": 17848,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "These foods give your body good protein and healthy fats for energy.",
-          "translationJa": "これらの食べ物は、エネルギー源となる良質なタンパク質と健康的な脂肪を体にもたらします。",
-          "id": "beginner-2026-11-11-s06",
-          "startMs": 20464,
-          "endMs": 23818,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s06.m4a"
+          "text": "Sometimes waiting for a few days helps you make a better choice.",
+          "translationJa": "数日間待つことが、より良い選択をする助けになることもあります。",
+          "id": "beginner-2026-11-12-s06",
+          "startMs": 18248,
+          "endMs": 21618,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Please remember to check the portion size before you start eating them.",
-          "translationJa": "食べ始める前に、必ず分量をチェックすることを忘れないでください。",
-          "id": "beginner-2026-11-11-s07",
-          "startMs": 24218,
-          "endMs": 27908,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s07.m4a"
+          "text": "I always compare the price and the quality of the products carefully.",
+          "translationJa": "私はいつも製品の価格と品質を注意深く比較します。",
+          "id": "beginner-2026-11-12-s07",
+          "startMs": 22018,
+          "endMs": 25509,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Eating too much at one time can make you feel very sleepy.",
-          "translationJa": "一度に食べ過ぎると、とても眠くなってしまうことがあります。",
-          "id": "beginner-2026-11-11-s08",
-          "startMs": 28308,
-          "endMs": 31439,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s08.m4a"
+          "text": "Saving money is easy when you follow these simple shopping steps today.",
+          "translationJa": "これらの簡単な買い物のステップに従えば、今日からお金を節約するのは簡単です。",
+          "id": "beginner-2026-11-12-s08",
+          "startMs": 25909,
+          "endMs": 29743,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small and healthy snacks will help you stay active until the evening.",
-          "translationJa": "小さくて健康的なおやつは、あなたが夕方まで元気に過ごす助けになります。",
-          "id": "beginner-2026-11-11-s09",
-          "startMs": 31839,
-          "endMs": 35324,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Try these simple tips to improve your eating habits starting from today.",
-          "translationJa": "今日から食習慣を改善するために、これらのシンプルなヒントを試してみてください。",
-          "id": "beginner-2026-11-11-s10",
-          "startMs": 35724,
-          "endMs": 39370,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner-s10.m4a"
+          "text": "Being a smart shopper helps you keep more money in your wallet.",
+          "translationJa": "賢い買い物客になることで、財布の中により多くのお金を残せます。",
+          "id": "beginner-2026-11-12-s09",
+          "startMs": 30143,
+          "endMs": 33189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "snack",
-          "meaningJa": "間食、おやつ",
-          "exampleEn": "I usually have a healthy snack at three.",
-          "exampleJa": "普段3時におやつを食べます。"
+          "word": "save money",
+          "meaningJa": "節約する",
+          "exampleEn": "I want to save money for a trip.",
+          "exampleJa": "旅行のために節約したいです。"
         },
         {
-          "word": "sugary",
-          "meaningJa": "砂糖の多い",
-          "exampleEn": "Avoid sugary drinks to stay healthy.",
-          "exampleJa": "健康を保つために甘い飲み物は控えましょう。"
+          "word": "compare",
+          "meaningJa": "比較する",
+          "exampleEn": "Compare these two models carefully.",
+          "exampleJa": "これら2つのモデルを慎重に比較してください。"
         },
         {
-          "word": "steady",
-          "meaningJa": "安定した",
-          "exampleEn": "He maintains a steady pace while running.",
-          "exampleJa": "彼は走っている間、安定したペースを保っています。"
+          "word": "deal",
+          "meaningJa": "取引、お得な情報",
+          "exampleEn": "That is a great deal.",
+          "exampleJa": "それはとてもお得ですね。"
         },
         {
-          "word": "portion",
-          "meaningJa": "一人分、分量",
-          "exampleEn": "Control your portion size carefully.",
-          "exampleJa": "分量を注意深く管理してください。"
+          "word": "quality",
+          "meaningJa": "品質",
+          "exampleEn": "High quality is important.",
+          "exampleJa": "高品質であることは重要です。"
         },
         {
-          "word": "active",
-          "meaningJa": "活動的な",
-          "exampleEn": "Staying active is good for your heart.",
-          "exampleJa": "活動的でいることは心臓に良いです。"
+          "word": "wallet",
+          "meaningJa": "財布",
+          "exampleEn": "I left my wallet at home.",
+          "exampleJa": "財布を家に置いてきました。"
         }
       ],
-      "id": "beginner-2026-11-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/beginner.m4a",
-      "durationSeconds": 38
+      "id": "beginner-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner.m4a",
+      "durationSeconds": 32
     },
     {
       "levelGroup": "intermediate",
-      "title": "Smart Strategies for Balanced Snacking",
+      "title": "The Art of Smart Consumption",
       "cefrLevel": "B1",
-      "summaryJa": "間食を賢く取り入れて、一日を通して体調を整えるための戦略を紹介します。",
+      "summaryJa": "賢い消費術として、価値を見極め、衝動買いを避けるための具体的なアプローチを学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many people underestimate the impact of snacking on their daily physical performance levels.",
-          "translationJa": "多くの人は、間食が日々の身体能力に与える影響を過小評価しています。",
-          "id": "intermediate-2026-11-11-s01",
+          "text": "Making smart financial decisions starts with how we approach our daily shopping habits.",
+          "translationJa": "賢い金銭的決断を下すことは、私たちが日々の買い物の習慣にどう取り組むかから始まります。",
+          "id": "intermediate-2026-11-12-s01",
           "startMs": 0,
-          "endMs": 4834,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s01.m4a"
+          "endMs": 4753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Choosing the right types of food can prevent that familiar afternoon energy crash.",
-          "translationJa": "正しい種類の食べ物を選ぶことで、よくある午後のエネルギー切れを防ぐことができます。",
-          "id": "intermediate-2026-11-11-s02",
-          "startMs": 5234,
-          "endMs": 9528,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s02.m4a"
+          "text": "Many people often buy things without checking if other stores offer a better price.",
+          "translationJa": "多くの人は、他のお店がより良い価格を提供しているか確認せずに物を買うことがよくあります。",
+          "id": "intermediate-2026-11-12-s02",
+          "startMs": 5153,
+          "endMs": 9523,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Instead of reaching for processed sweets, look for snacks with fiber and protein.",
-          "translationJa": "加工されたお菓子に手を伸ばす代わりに、食物繊維とタンパク質を含む間食を探しましょう。",
-          "id": "intermediate-2026-11-11-s03",
-          "startMs": 9928,
-          "endMs": 14430,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s03.m4a"
+          "text": "To avoid impulse purchases, you should always take a moment to consider the value.",
+          "translationJa": "衝動買いを避けるために、常に立ち止まって価値を検討するべきです。",
+          "id": "intermediate-2026-11-12-s03",
+          "startMs": 9923,
+          "endMs": 14451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Greek yogurt or fresh vegetables with hummus are fantastic options for busy people.",
-          "translationJa": "ギリシャヨーグルトや、フムスを添えた新鮮な野菜は忙しい人にとって素晴らしい選択肢です。",
-          "id": "intermediate-2026-11-11-s04",
-          "startMs": 14830,
-          "endMs": 19408,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s04.m4a"
+          "text": "It is helpful to compare the features of similar products from different brands carefully.",
+          "translationJa": "異なるブランドの類似製品の機能を注意深く比較することは役立ちます。",
+          "id": "intermediate-2026-11-12-s04",
+          "startMs": 14851,
+          "endMs": 19318,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "These combinations help stabilize your blood sugar levels throughout the entire work day.",
-          "translationJa": "これらの組み合わせは、仕事中ずっと血糖値を安定させるのに役立ちます。",
-          "id": "intermediate-2026-11-11-s05",
-          "startMs": 19808,
-          "endMs": 24439,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s05.m4a"
+          "text": "Sometimes a cheaper item might cost more in the long run due to repairs.",
+          "translationJa": "修理が必要になるため、安いアイテムが長期的には高くつくこともあります。",
+          "id": "intermediate-2026-11-12-s05",
+          "startMs": 19718,
+          "endMs": 23494,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It is also essential to pay close attention to your specific portion sizes.",
-          "translationJa": "また、自分の食べる分量に細心の注意を払うことも不可欠です。",
-          "id": "intermediate-2026-11-11-s06",
-          "startMs": 24839,
-          "endMs": 29166,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s06.m4a"
+          "text": "Always check customer reviews to see if the product meets your personal needs well.",
+          "translationJa": "製品が自分の個人的なニーズを十分に満たしているか、常にカスタマーレビューを確認してください。",
+          "id": "intermediate-2026-11-12-s06",
+          "startMs": 23894,
+          "endMs": 28099,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Even healthy foods can lead to weight gain if consumed in large quantities.",
-          "translationJa": "たとえ健康的な食べ物であっても、大量に摂取すれば体重増加につながる可能性があります。",
-          "id": "intermediate-2026-11-11-s07",
-          "startMs": 29566,
-          "endMs": 33464,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s07.m4a"
+          "text": "If you are not sure about a purchase, try waiting twenty-four hours before deciding.",
+          "translationJa": "もし購入に確信が持てない場合は、決断する前に24時間待ってみてください。",
+          "id": "intermediate-2026-11-12-s07",
+          "startMs": 28499,
+          "endMs": 33233,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Try keeping your snacks in small containers to avoid eating directly from bags.",
-          "translationJa": "袋から直接食べるのを避けるために、間食は小さな容器に入れておくようにしましょう。",
-          "id": "intermediate-2026-11-11-s08",
-          "startMs": 33864,
-          "endMs": 38253,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s08.m4a"
+          "text": "This pause allows you to think if the item is a necessity or luxury.",
+          "translationJa": "この間を置くことで、そのアイテムが必要なものか贅沢品かを考えることができます。",
+          "id": "intermediate-2026-11-12-s08",
+          "startMs": 33633,
+          "endMs": 37161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Mindful eating allows you to enjoy your food while recognizing your body's hunger.",
-          "translationJa": "マインドフルな食事は、体の空腹感に気づきながら食事を楽しむことを可能にします。",
-          "id": "intermediate-2026-11-11-s09",
-          "startMs": 38653,
-          "endMs": 42814,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s09.m4a"
+          "text": "Being patient often leads to much better outcomes for your personal budget over time.",
+          "translationJa": "忍耐強くあることは、時間の経過とともに個人の予算にとってより良い結果をもたらします。",
+          "id": "intermediate-2026-11-12-s09",
+          "startMs": 37561,
+          "endMs": 41966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Listen to your body instead of eating simply because you are feeling bored.",
-          "translationJa": "単に退屈だから食べるのではなく、自分の体の声に耳を傾けてください。",
-          "id": "intermediate-2026-11-11-s10",
-          "startMs": 43214,
-          "endMs": 46875,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s10.m4a"
+          "text": "Practicing these simple steps will help you become a much more conscious consumer daily.",
+          "translationJa": "これらの簡単な手順を練習することは、あなたが毎日、より意識の高い消費者になる助けになります。",
+          "id": "intermediate-2026-11-12-s10",
+          "startMs": 42366,
+          "endMs": 46834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "By planning ahead, you can make better decisions for your long-term physical health.",
-          "translationJa": "前もって計画を立てることで、長期的な身体の健康のためにより良い決断ができます。",
-          "id": "intermediate-2026-11-11-s11",
-          "startMs": 47275,
-          "endMs": 51714,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Small changes to your snacking habits will certainly lead to much better results.",
-          "translationJa": "間食の習慣を少し変えるだけで、間違いなくずっと良い結果が得られるはずです。",
-          "id": "intermediate-2026-11-11-s12",
-          "startMs": 52114,
-          "endMs": 56481,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate-s12.m4a"
+          "text": "Start evaluating your purchases today to improve your financial health for the future years.",
+          "translationJa": "将来のために経済的な健康状態を改善するべく、今日から買い物の評価を始めましょう。",
+          "id": "intermediate-2026-11-12-s11",
+          "startMs": 47234,
+          "endMs": 52170,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "underestimate",
-          "meaningJa": "過小評価する",
-          "exampleEn": "Do not underestimate the power of sleep.",
-          "exampleJa": "睡眠の力を過小評価してはいけません。"
+          "word": "impulse purchase",
+          "meaningJa": "衝動買い",
+          "exampleEn": "Avoid impulse purchases when you are hungry.",
+          "exampleJa": "お腹が空いている時は衝動買いを避けましょう。"
         },
         {
-          "word": "processed",
-          "meaningJa": "加工された",
-          "exampleEn": "Avoid processed foods whenever possible.",
-          "exampleJa": "可能な限り加工食品は避けましょう。"
+          "word": "consider",
+          "meaningJa": "検討する",
+          "exampleEn": "Please consider my offer.",
+          "exampleJa": "私の提案を検討してください。"
         },
         {
-          "word": "stabilize",
-          "meaningJa": "安定させる",
-          "exampleEn": "This medicine helps to stabilize his mood.",
-          "exampleJa": "この薬は彼の気分を安定させるのに役立ちます。"
+          "word": "in the long run",
+          "meaningJa": "長期的には",
+          "exampleEn": "It is cheaper in the long run.",
+          "exampleJa": "長期的にはその方が安上がりです。"
         },
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for human life.",
-          "exampleJa": "水は人間の生活に不可欠です。"
+          "word": "necessity",
+          "meaningJa": "必需品",
+          "exampleEn": "Food is a basic necessity.",
+          "exampleJa": "食料は基本的な必需品です。"
         },
         {
-          "word": "mindful",
+          "word": "conscious",
           "meaningJa": "意識的な",
-          "exampleEn": "Be mindful of your posture while sitting.",
-          "exampleJa": "座っているときは姿勢を意識してください。"
+          "exampleEn": "She is a health-conscious person.",
+          "exampleJa": "彼女は健康意識の高い人です。"
         }
       ],
-      "id": "intermediate-2026-11-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/intermediate.m4a",
-      "durationSeconds": 54
+      "id": "intermediate-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate.m4a",
+      "durationSeconds": 50
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Nutrition Through Balanced Snacking",
+      "title": "Mastering Value-Based Purchasing",
       "cefrLevel": "B2",
-      "summaryJa": "栄養摂取を最適化し、一日を通して安定したパフォーマンスを維持するための間食の考え方。",
+      "summaryJa": "価値に基づいた買い物の極意。価格比較を超えて、長期的視点で賢明な消費を行うための戦略。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/balanced-snacks"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Integrating balanced snacks into your daily routine is a key strategy for health.",
-          "translationJa": "バランスのとれた間食を日課に組み込むことは、健康のための重要な戦略です。",
-          "id": "advanced-2026-11-11-s01",
+          "text": "Effective personal finance management relies heavily on how we evaluate our potential retail purchases.",
+          "translationJa": "効果的な個人財務管理は、潜在的な小売購入を私たちがどう評価するかに大きく依存します。",
+          "id": "advanced-2026-11-12-s01",
           "startMs": 0,
-          "endMs": 4304,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s01.m4a"
+          "endMs": 6045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many individuals suffer from fatigue due to erratic eating patterns throughout the day.",
-          "translationJa": "多くの人は、一日を通した不規則な食生活が原因で疲労に悩まされています。",
-          "id": "advanced-2026-11-11-s02",
-          "startMs": 4704,
-          "endMs": 8992,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s02.m4a"
+          "text": "Rather than focusing solely on the sticker price, consider the total cost of ownership.",
+          "translationJa": "表示価格だけに注目するのではなく、所有にかかる総コストを考慮してください。",
+          "id": "advanced-2026-11-12-s02",
+          "startMs": 6445,
+          "endMs": 11491,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "A strategic approach to snacking helps maintain metabolic efficiency and consistent mental focus.",
-          "translationJa": "戦略的な間食のアプローチは、代謝効率と一貫した精神的集中力を維持するのに役立ちます。",
-          "id": "advanced-2026-11-11-s03",
-          "startMs": 9392,
-          "endMs": 15043,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s03.m4a"
+          "text": "Comparing prices across multiple vendors is a fundamental step toward avoiding unnecessary financial waste.",
+          "translationJa": "複数の業者間で価格を比較することは、不必要な金銭的浪費を避けるための基本的なステップです。",
+          "id": "advanced-2026-11-12-s03",
+          "startMs": 11891,
+          "endMs": 18149,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Focus on pairing macronutrients to provide your body with lasting and steady energy.",
-          "translationJa": "体に持続的で安定したエネルギーを供給するために、主要栄養素を組み合わせることに注目してください。",
-          "id": "advanced-2026-11-11-s04",
-          "startMs": 15443,
-          "endMs": 20112,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s04.m4a"
+          "text": "Impulse buying often stems from a lack of planning or an emotional reaction to sales.",
+          "translationJa": "衝動買いは多くの場合、計画性の欠如やセールに対する感情的な反応から生じます。",
+          "id": "advanced-2026-11-12-s04",
+          "startMs": 18549,
+          "endMs": 23097,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Combining healthy fats with complex carbohydrates creates a slower and more sustained release.",
-          "translationJa": "健康的な脂肪と複合炭水化物を組み合わせることで、よりゆっくりと持続的なエネルギー放出が起こります。",
-          "id": "advanced-2026-11-11-s05",
-          "startMs": 20512,
-          "endMs": 25725,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s05.m4a"
+          "text": "Creating a list before shopping helps maintain focus and prevents you from buying extras.",
+          "translationJa": "買い物前にリストを作成することは、集中力を維持し、余計な物を買うのを防ぐ助けになります。",
+          "id": "advanced-2026-11-12-s05",
+          "startMs": 23497,
+          "endMs": 28360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "For instance, an apple paired with almond butter offers an excellent nutritional profile.",
-          "translationJa": "例えば、リンゴとアーモンドバターの組み合わせは素晴らしい栄養プロファイルを提供します。",
-          "id": "advanced-2026-11-11-s06",
-          "startMs": 26125,
-          "endMs": 31130,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s06.m4a"
+          "text": "Analyze whether the item provides genuine utility or if it is merely a temporary desire.",
+          "translationJa": "そのアイテムが真の有用性をもたらすのか、それとも単なる一時的な欲望に過ぎないのかを分析してください。",
+          "id": "advanced-2026-11-12-s06",
+          "startMs": 28760,
+          "endMs": 33819,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "The fiber in the fruit slows down digestion while the fats provide satiety.",
-          "translationJa": "果物に含まれる食物繊維は消化を遅らせ、脂肪は満腹感を与えてくれます。",
-          "id": "advanced-2026-11-11-s07",
-          "startMs": 31530,
-          "endMs": 35617,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s07.m4a"
+          "text": "High-quality products often provide better value because they last significantly longer than cheaper alternatives.",
+          "translationJa": "高品質な製品はより安価な代替品よりも大幅に長持ちするため、多くの場合、より良い価値を提供します。",
+          "id": "advanced-2026-11-12-s07",
+          "startMs": 34219,
+          "endMs": 40322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Portion control remains vital to ensure you do not consume excessive caloric density.",
-          "translationJa": "過剰なカロリー密度を摂取しないようにするために、分量の管理は依然として不可欠です。",
-          "id": "advanced-2026-11-11-s08",
-          "startMs": 36017,
-          "endMs": 40905,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s08.m4a"
+          "text": "If a purchase is significant, research the brand reputation and read detailed user feedback online.",
+          "translationJa": "もし大きな買い物をするなら、ブランドの評判を調査し、オンラインで詳細なユーザーのフィードバックを読んでください。",
+          "id": "advanced-2026-11-12-s08",
+          "startMs": 40722,
+          "endMs": 46536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Pre-portioning snacks into small containers prevents the tendency to overeat during busy periods.",
-          "translationJa": "小さな容器に間食を小分けにしておくことは、忙しい時期の過食を防ぐのに有効です。",
-          "id": "advanced-2026-11-11-s09",
-          "startMs": 41305,
-          "endMs": 46737,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s09.m4a"
+          "text": "Taking time to reflect allows you to distinguish between genuine needs and fleeting marketing trends.",
+          "translationJa": "熟考する時間を取ることで、真のニーズと一過性のマーケティングトレンドを区別できるようになります。",
+          "id": "advanced-2026-11-12-s09",
+          "startMs": 46936,
+          "endMs": 52230,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Developing this habit shifts your focus toward quality rather than mere convenience foods.",
-          "translationJa": "この習慣を身につけることは、単なる便利な食べ物よりも質に焦点を当てることにつながります。",
-          "id": "advanced-2026-11-11-s10",
-          "startMs": 47137,
-          "endMs": 51787,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s10.m4a"
+          "text": "By adopting a critical mindset, you can protect your savings while acquiring items of value.",
+          "translationJa": "批判的な考え方を取り入れることで、価値のある物を手に入れつつ貯蓄を守ることができます。",
+          "id": "advanced-2026-11-12-s10",
+          "startMs": 52630,
+          "endMs": 58045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Ultimately, your dietary choices directly influence your overall productivity and daily well-being.",
-          "translationJa": "最終的に、食事の選択はあなたの全体的な生産性と日々の幸福感に直接影響を与えます。",
-          "id": "advanced-2026-11-11-s11",
-          "startMs": 52187,
-          "endMs": 58021,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Prioritize these simple, nutrient-dense options to support your long-term wellness goals effectively.",
-          "translationJa": "長期的なウェルネス目標を効果的にサポートするために、これらのシンプルで栄養価の高い選択肢を優先しましょう。",
-          "id": "advanced-2026-11-11-s12",
-          "startMs": 58421,
-          "endMs": 64143,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced-s12.m4a"
+          "text": "Developing these disciplined habits ultimately leads to greater financial freedom and less daily stress.",
+          "translationJa": "これらの規律ある習慣を身につけることは、最終的に大きな経済的自由と日々のストレスの軽減につながります。",
+          "id": "advanced-2026-11-12-s11",
+          "startMs": 58445,
+          "endMs": 63780,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "erratic",
-          "meaningJa": "不規則な",
-          "exampleEn": "His erratic behavior worried his friends.",
-          "exampleJa": "彼の不規則な行動は友人を心配させました。"
+          "word": "management",
+          "meaningJa": "管理",
+          "exampleEn": "Time management is a key skill.",
+          "exampleJa": "時間管理は重要なスキルです。"
         },
         {
-          "word": "metabolic",
-          "meaningJa": "代謝の",
-          "exampleEn": "Regular exercise improves your metabolic rate.",
-          "exampleJa": "定期的な運動は代謝率を向上させます。"
+          "word": "vendor",
+          "meaningJa": "販売業者",
+          "exampleEn": "Compare services from different vendors.",
+          "exampleJa": "異なる業者のサービスを比較してください。"
         },
         {
-          "word": "satiety",
-          "meaningJa": "満腹感",
-          "exampleEn": "High protein foods promote a sense of satiety.",
-          "exampleJa": "高タンパクな食品は満腹感を促進します。"
+          "word": "utility",
+          "meaningJa": "有用性",
+          "exampleEn": "The utility of this tool is high.",
+          "exampleJa": "このツールの有用性は高いです。"
         },
         {
-          "word": "caloric",
-          "meaningJa": "カロリーの",
-          "exampleEn": "Be aware of the caloric content in drinks.",
-          "exampleJa": "飲み物のカロリー含有量に注意してください。"
+          "word": "fleeting",
+          "meaningJa": "一過性の、束の間の",
+          "exampleEn": "It was a fleeting moment of joy.",
+          "exampleJa": "それは束の間の喜びでした。"
         },
         {
-          "word": "nutrient-dense",
-          "meaningJa": "栄養価の高い",
-          "exampleEn": "Choose nutrient-dense foods for breakfast.",
-          "exampleJa": "朝食には栄養価の高い食べ物を選びましょう。"
+          "word": "disciplined",
+          "meaningJa": "規律ある",
+          "exampleEn": "He is very disciplined with his work.",
+          "exampleJa": "彼は仕事に対して非常に規律正しいです。"
         }
       ],
-      "id": "advanced-2026-11-11",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-11/advanced.m4a",
+      "id": "advanced-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced.m4a",
       "durationSeconds": 62
     }
   ],
-  "topicCategory": "health_wellness"
+  "topicCategory": "business_money"
 }

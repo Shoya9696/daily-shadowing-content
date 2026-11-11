@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-11T15:01:14Z",
+  "lessonDate": "2026-11-12",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Smart Shopping Habits",
+      "cefrLevel": "A2",
+      "summaryJa": "賢い買い物の習慣について学び、衝動買いを防ぐための基本的なコツを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Everyone wants to save money when they go shopping for new items.",
+          "translationJa": "新しいアイテムを買い物に行くとき、誰もがお金を節約したいと思っています。",
+          "id": "beginner-2026-11-12-s01",
+          "startMs": 0,
+          "endMs": 3352,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "It is a very good idea to check different stores before buying.",
+          "translationJa": "買う前にいろいろなお店をチェックするのはとても良いアイデアです。",
+          "id": "beginner-2026-11-12-s02",
+          "startMs": 3752,
+          "endMs": 7011,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "You can find better deals if you spend time looking around online.",
+          "translationJa": "オンラインで見て回る時間をかければ、より良い取引を見つけることができます。",
+          "id": "beginner-2026-11-12-s03",
+          "startMs": 7411,
+          "endMs": 10910,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Do not buy something just because it looks nice in the store.",
+          "translationJa": "お店で見た目が良いというだけで何かを買わないでください。",
+          "id": "beginner-2026-11-12-s04",
+          "startMs": 11310,
+          "endMs": 14367,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You should ask yourself if you really need this item right now.",
+          "translationJa": "今すぐそのアイテムが必要かどうか、自分に問いかけるべきです。",
+          "id": "beginner-2026-11-12-s05",
+          "startMs": 14767,
+          "endMs": 17848,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Sometimes waiting for a few days helps you make a better choice.",
+          "translationJa": "数日間待つことが、より良い選択をする助けになることもあります。",
+          "id": "beginner-2026-11-12-s06",
+          "startMs": 18248,
+          "endMs": 21618,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "I always compare the price and the quality of the products carefully.",
+          "translationJa": "私はいつも製品の価格と品質を注意深く比較します。",
+          "id": "beginner-2026-11-12-s07",
+          "startMs": 22018,
+          "endMs": 25509,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Saving money is easy when you follow these simple shopping steps today.",
+          "translationJa": "これらの簡単な買い物のステップに従えば、今日からお金を節約するのは簡単です。",
+          "id": "beginner-2026-11-12-s08",
+          "startMs": 25909,
+          "endMs": 29743,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Being a smart shopper helps you keep more money in your wallet.",
+          "translationJa": "賢い買い物客になることで、財布の中により多くのお金を残せます。",
+          "id": "beginner-2026-11-12-s09",
+          "startMs": 30143,
+          "endMs": 33189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "save money",
+          "meaningJa": "節約する",
+          "exampleEn": "I want to save money for a trip.",
+          "exampleJa": "旅行のために節約したいです。"
+        },
+        {
+          "word": "compare",
+          "meaningJa": "比較する",
+          "exampleEn": "Compare these two models carefully.",
+          "exampleJa": "これら2つのモデルを慎重に比較してください。"
+        },
+        {
+          "word": "deal",
+          "meaningJa": "取引、お得な情報",
+          "exampleEn": "That is a great deal.",
+          "exampleJa": "それはとてもお得ですね。"
+        },
+        {
+          "word": "quality",
+          "meaningJa": "品質",
+          "exampleEn": "High quality is important.",
+          "exampleJa": "高品質であることは重要です。"
+        },
+        {
+          "word": "wallet",
+          "meaningJa": "財布",
+          "exampleEn": "I left my wallet at home.",
+          "exampleJa": "財布を家に置いてきました。"
+        }
+      ],
+      "id": "beginner-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "The Art of Smart Consumption",
+      "cefrLevel": "B1",
+      "summaryJa": "賢い消費術として、価値を見極め、衝動買いを避けるための具体的なアプローチを学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Making smart financial decisions starts with how we approach our daily shopping habits.",
+          "translationJa": "賢い金銭的決断を下すことは、私たちが日々の買い物の習慣にどう取り組むかから始まります。",
+          "id": "intermediate-2026-11-12-s01",
+          "startMs": 0,
+          "endMs": 4753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people often buy things without checking if other stores offer a better price.",
+          "translationJa": "多くの人は、他のお店がより良い価格を提供しているか確認せずに物を買うことがよくあります。",
+          "id": "intermediate-2026-11-12-s02",
+          "startMs": 5153,
+          "endMs": 9523,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "To avoid impulse purchases, you should always take a moment to consider the value.",
+          "translationJa": "衝動買いを避けるために、常に立ち止まって価値を検討するべきです。",
+          "id": "intermediate-2026-11-12-s03",
+          "startMs": 9923,
+          "endMs": 14451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is helpful to compare the features of similar products from different brands carefully.",
+          "translationJa": "異なるブランドの類似製品の機能を注意深く比較することは役立ちます。",
+          "id": "intermediate-2026-11-12-s04",
+          "startMs": 14851,
+          "endMs": 19318,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Sometimes a cheaper item might cost more in the long run due to repairs.",
+          "translationJa": "修理が必要になるため、安いアイテムが長期的には高くつくこともあります。",
+          "id": "intermediate-2026-11-12-s05",
+          "startMs": 19718,
+          "endMs": 23494,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Always check customer reviews to see if the product meets your personal needs well.",
+          "translationJa": "製品が自分の個人的なニーズを十分に満たしているか、常にカスタマーレビューを確認してください。",
+          "id": "intermediate-2026-11-12-s06",
+          "startMs": 23894,
+          "endMs": 28099,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "If you are not sure about a purchase, try waiting twenty-four hours before deciding.",
+          "translationJa": "もし購入に確信が持てない場合は、決断する前に24時間待ってみてください。",
+          "id": "intermediate-2026-11-12-s07",
+          "startMs": 28499,
+          "endMs": 33233,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This pause allows you to think if the item is a necessity or luxury.",
+          "translationJa": "この間を置くことで、そのアイテムが必要なものか贅沢品かを考えることができます。",
+          "id": "intermediate-2026-11-12-s08",
+          "startMs": 33633,
+          "endMs": 37161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Being patient often leads to much better outcomes for your personal budget over time.",
+          "translationJa": "忍耐強くあることは、時間の経過とともに個人の予算にとってより良い結果をもたらします。",
+          "id": "intermediate-2026-11-12-s09",
+          "startMs": 37561,
+          "endMs": 41966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Practicing these simple steps will help you become a much more conscious consumer daily.",
+          "translationJa": "これらの簡単な手順を練習することは、あなたが毎日、より意識の高い消費者になる助けになります。",
+          "id": "intermediate-2026-11-12-s10",
+          "startMs": 42366,
+          "endMs": 46834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start evaluating your purchases today to improve your financial health for the future years.",
+          "translationJa": "将来のために経済的な健康状態を改善するべく、今日から買い物の評価を始めましょう。",
+          "id": "intermediate-2026-11-12-s11",
+          "startMs": 47234,
+          "endMs": 52170,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "impulse purchase",
+          "meaningJa": "衝動買い",
+          "exampleEn": "Avoid impulse purchases when you are hungry.",
+          "exampleJa": "お腹が空いている時は衝動買いを避けましょう。"
+        },
+        {
+          "word": "consider",
+          "meaningJa": "検討する",
+          "exampleEn": "Please consider my offer.",
+          "exampleJa": "私の提案を検討してください。"
+        },
+        {
+          "word": "in the long run",
+          "meaningJa": "長期的には",
+          "exampleEn": "It is cheaper in the long run.",
+          "exampleJa": "長期的にはその方が安上がりです。"
+        },
+        {
+          "word": "necessity",
+          "meaningJa": "必需品",
+          "exampleEn": "Food is a basic necessity.",
+          "exampleJa": "食料は基本的な必需品です。"
+        },
+        {
+          "word": "conscious",
+          "meaningJa": "意識的な",
+          "exampleEn": "She is a health-conscious person.",
+          "exampleJa": "彼女は健康意識の高い人です。"
+        }
+      ],
+      "id": "intermediate-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/intermediate.m4a",
+      "durationSeconds": 50
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering Value-Based Purchasing",
+      "cefrLevel": "B2",
+      "summaryJa": "価値に基づいた買い物の極意。価格比較を超えて、長期的視点で賢明な消費を行うための戦略。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/comparing-prices"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Effective personal finance management relies heavily on how we evaluate our potential retail purchases.",
+          "translationJa": "効果的な個人財務管理は、潜在的な小売購入を私たちがどう評価するかに大きく依存します。",
+          "id": "advanced-2026-11-12-s01",
+          "startMs": 0,
+          "endMs": 6045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Rather than focusing solely on the sticker price, consider the total cost of ownership.",
+          "translationJa": "表示価格だけに注目するのではなく、所有にかかる総コストを考慮してください。",
+          "id": "advanced-2026-11-12-s02",
+          "startMs": 6445,
+          "endMs": 11491,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Comparing prices across multiple vendors is a fundamental step toward avoiding unnecessary financial waste.",
+          "translationJa": "複数の業者間で価格を比較することは、不必要な金銭的浪費を避けるための基本的なステップです。",
+          "id": "advanced-2026-11-12-s03",
+          "startMs": 11891,
+          "endMs": 18149,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Impulse buying often stems from a lack of planning or an emotional reaction to sales.",
+          "translationJa": "衝動買いは多くの場合、計画性の欠如やセールに対する感情的な反応から生じます。",
+          "id": "advanced-2026-11-12-s04",
+          "startMs": 18549,
+          "endMs": 23097,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Creating a list before shopping helps maintain focus and prevents you from buying extras.",
+          "translationJa": "買い物前にリストを作成することは、集中力を維持し、余計な物を買うのを防ぐ助けになります。",
+          "id": "advanced-2026-11-12-s05",
+          "startMs": 23497,
+          "endMs": 28360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Analyze whether the item provides genuine utility or if it is merely a temporary desire.",
+          "translationJa": "そのアイテムが真の有用性をもたらすのか、それとも単なる一時的な欲望に過ぎないのかを分析してください。",
+          "id": "advanced-2026-11-12-s06",
+          "startMs": 28760,
+          "endMs": 33819,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "High-quality products often provide better value because they last significantly longer than cheaper alternatives.",
+          "translationJa": "高品質な製品はより安価な代替品よりも大幅に長持ちするため、多くの場合、より良い価値を提供します。",
+          "id": "advanced-2026-11-12-s07",
+          "startMs": 34219,
+          "endMs": 40322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If a purchase is significant, research the brand reputation and read detailed user feedback online.",
+          "translationJa": "もし大きな買い物をするなら、ブランドの評判を調査し、オンラインで詳細なユーザーのフィードバックを読んでください。",
+          "id": "advanced-2026-11-12-s08",
+          "startMs": 40722,
+          "endMs": 46536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Taking time to reflect allows you to distinguish between genuine needs and fleeting marketing trends.",
+          "translationJa": "熟考する時間を取ることで、真のニーズと一過性のマーケティングトレンドを区別できるようになります。",
+          "id": "advanced-2026-11-12-s09",
+          "startMs": 46936,
+          "endMs": 52230,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By adopting a critical mindset, you can protect your savings while acquiring items of value.",
+          "translationJa": "批判的な考え方を取り入れることで、価値のある物を手に入れつつ貯蓄を守ることができます。",
+          "id": "advanced-2026-11-12-s10",
+          "startMs": 52630,
+          "endMs": 58045,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Developing these disciplined habits ultimately leads to greater financial freedom and less daily stress.",
+          "translationJa": "これらの規律ある習慣を身につけることは、最終的に大きな経済的自由と日々のストレスの軽減につながります。",
+          "id": "advanced-2026-11-12-s11",
+          "startMs": 58445,
+          "endMs": 63780,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "management",
+          "meaningJa": "管理",
+          "exampleEn": "Time management is a key skill.",
+          "exampleJa": "時間管理は重要なスキルです。"
+        },
+        {
+          "word": "vendor",
+          "meaningJa": "販売業者",
+          "exampleEn": "Compare services from different vendors.",
+          "exampleJa": "異なる業者のサービスを比較してください。"
+        },
+        {
+          "word": "utility",
+          "meaningJa": "有用性",
+          "exampleEn": "The utility of this tool is high.",
+          "exampleJa": "このツールの有用性は高いです。"
+        },
+        {
+          "word": "fleeting",
+          "meaningJa": "一過性の、束の間の",
+          "exampleEn": "It was a fleeting moment of joy.",
+          "exampleJa": "それは束の間の喜びでした。"
+        },
+        {
+          "word": "disciplined",
+          "meaningJa": "規律ある",
+          "exampleEn": "He is very disciplined with his work.",
+          "exampleJa": "彼は仕事に対して非常に規律正しいです。"
+        }
+      ],
+      "id": "advanced-2026-11-12",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-12/advanced.m4a",
+      "durationSeconds": 62
+    }
+  ],
+  "topicCategory": "business_money"
+}
