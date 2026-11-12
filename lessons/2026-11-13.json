@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-12T15:01:19Z",
+  "lessonDate": "2026-11-13",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Easy Ways to Save Energy",
+      "cefrLevel": "A2",
+      "summaryJa": "家庭でできる簡単な節電方法について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Saving energy at home is good for your wallet and the planet.",
+          "translationJa": "家庭での節電は、お財布にも地球にも優しいことです。",
+          "id": "beginner-2026-11-13-s01",
+          "startMs": 0,
+          "endMs": 2917,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can start by turning off the lights when you leave rooms.",
+          "translationJa": "部屋を出るときに電気を消すことから始めましょう。",
+          "id": "beginner-2026-11-13-s02",
+          "startMs": 3317,
+          "endMs": 6247,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Unplug your electronic devices when you are not using them every day.",
+          "translationJa": "毎日使わない電子機器はコンセントから抜いておきましょう。",
+          "id": "beginner-2026-11-13-s03",
+          "startMs": 6647,
+          "endMs": 10335,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Try to use natural sunlight during the day instead of bright lamps.",
+          "translationJa": "明るい照明の代わりに、日中は自然の太陽光を使うようにしましょう。",
+          "id": "beginner-2026-11-13-s04",
+          "startMs": 10735,
+          "endMs": 14392,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Cleaning your air conditioner filters helps the machine run much more efficiently.",
+          "translationJa": "エアコンのフィルターを掃除すると、機械がより効率的に動きます。",
+          "id": "beginner-2026-11-13-s05",
+          "startMs": 14792,
+          "endMs": 18877,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You should also wear warm clothes instead of turning up the heat.",
+          "translationJa": "暖房を強くする代わりに、暖かい服を着ることも大切です。",
+          "id": "beginner-2026-11-13-s06",
+          "startMs": 19277,
+          "endMs": 22439,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Closing your heavy curtains at night keeps the cold air out effectively.",
+          "translationJa": "夜に厚手のカーテンを閉めると、冷気を効果的に遮断できます。",
+          "id": "beginner-2026-11-13-s07",
+          "startMs": 22839,
+          "endMs": 26506,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Small changes in your daily habits will make a very big difference.",
+          "translationJa": "日々の習慣の小さな変化が、大きな違いを生むでしょう。",
+          "id": "beginner-2026-11-13-s08",
+          "startMs": 26906,
+          "endMs": 30461,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Let us work together to create a more sustainable home life today.",
+          "translationJa": "今日から一緒により持続可能な家庭生活を作っていきましょう。",
+          "id": "beginner-2026-11-13-s09",
+          "startMs": 30861,
+          "endMs": 34406,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "wallet",
+          "meaningJa": "財布",
+          "exampleEn": "It is good for your wallet.",
+          "exampleJa": "それはお財布に優しいです。"
+        },
+        {
+          "word": "unplug",
+          "meaningJa": "コンセントを抜く",
+          "exampleEn": "Unplug the TV.",
+          "exampleJa": "テレビのコンセントを抜いて。"
+        },
+        {
+          "word": "efficiently",
+          "meaningJa": "効率的に",
+          "exampleEn": "It works efficiently.",
+          "exampleJa": "それは効率的に動きます。"
+        },
+        {
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "We need sustainable habits.",
+          "exampleJa": "持続可能な習慣が必要です。"
+        },
+        {
+          "word": "difference",
+          "meaningJa": "違い",
+          "exampleEn": "It makes a big difference.",
+          "exampleJa": "それは大きな違いを生みます。"
+        }
+      ],
+      "id": "beginner-2026-11-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner.m4a",
+      "durationSeconds": 33
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Practical Habits for Energy Conservation",
+      "cefrLevel": "B1",
+      "summaryJa": "日常生活でエネルギー消費を抑えるための具体的な習慣。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Living in an energy-conscious way is becoming essential for every modern household today.",
+          "translationJa": "エネルギーを意識した生活を送ることは、今日のすべての現代家庭にとって不可欠です。",
+          "id": "intermediate-2026-11-13-s01",
+          "startMs": 0,
+          "endMs": 4625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "One simple method is to switch all your light bulbs to energy-efficient LED models.",
+          "translationJa": "一つの簡単な方法は、すべての電球を省エネ型のLEDモデルに交換することです。",
+          "id": "intermediate-2026-11-13-s02",
+          "startMs": 5025,
+          "endMs": 9520,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "These bulbs use much less electricity while providing the same amount of bright light.",
+          "translationJa": "これらの電球は、同じ量の明るさを提供しながら、消費電力を大幅に抑えられます。",
+          "id": "intermediate-2026-11-13-s03",
+          "startMs": 9920,
+          "endMs": 14284,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You should also check the seals around your windows to prevent heat from escaping.",
+          "translationJa": "また、熱が逃げないように窓周りの密閉状態を確認することも必要です。",
+          "id": "intermediate-2026-11-13-s04",
+          "startMs": 14684,
+          "endMs": 18694,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "If you keep the temperature steady, your heating system will not work as hard.",
+          "translationJa": "室温を一定に保てば、暖房システムが過剰に働くことはありません。",
+          "id": "intermediate-2026-11-13-s05",
+          "startMs": 19094,
+          "endMs": 23143,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Using a programmable thermostat allows you to control usage while you are sleeping soundly.",
+          "translationJa": "プログラム可能なサーモスタットを使えば、寝ている間も使用量を管理できます。",
+          "id": "intermediate-2026-11-13-s06",
+          "startMs": 23543,
+          "endMs": 28412,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Many people forget that appliances consume power even when they are turned off completely.",
+          "translationJa": "多くの人は、家電がオフの状態でも電力を消費していることを忘れがちです。",
+          "id": "intermediate-2026-11-13-s07",
+          "startMs": 28812,
+          "endMs": 33507,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Using a power strip makes it easy to cut electricity to multiple devices instantly.",
+          "translationJa": "電源タップを使えば、複数の機器への電気供給を簡単に遮断できます。",
+          "id": "intermediate-2026-11-13-s08",
+          "startMs": 33907,
+          "endMs": 38764,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "These minor adjustments to your daily routine can significantly reduce your monthly energy bills.",
+          "translationJa": "日々のルーチンに対するこうした小さな調整は、月々の光熱費を大幅に削減します。",
+          "id": "intermediate-2026-11-13-s09",
+          "startMs": 39164,
+          "endMs": 44317,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Taking these steps helps the environment and helps you manage your budget quite well.",
+          "translationJa": "これらの措置をとることは、環境を助け、家計をうまく管理する助けにもなります。",
+          "id": "intermediate-2026-11-13-s10",
+          "startMs": 44717,
+          "endMs": 49105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start implementing these green habits in your house starting from this very evening now.",
+          "translationJa": "今晩からすぐに、自宅でこうした環境に優しい習慣を取り入れ始めましょう。",
+          "id": "intermediate-2026-11-13-s11",
+          "startMs": 49505,
+          "endMs": 53826,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "household",
+          "meaningJa": "世帯",
+          "exampleEn": "Every household should save energy.",
+          "exampleJa": "すべての家庭が節電すべきです。"
+        },
+        {
+          "word": "prevent",
+          "meaningJa": "防ぐ",
+          "exampleEn": "Prevent heat from escaping.",
+          "exampleJa": "熱が逃げるのを防ぎます。"
+        },
+        {
+          "word": "appliances",
+          "meaningJa": "家電製品",
+          "exampleEn": "Turn off your appliances.",
+          "exampleJa": "家電の電源を切ってください。"
+        },
+        {
+          "word": "significantly",
+          "meaningJa": "著しく",
+          "exampleEn": "Costs dropped significantly.",
+          "exampleJa": "費用が大幅に下がりました。"
+        }
+      ],
+      "id": "intermediate-2026-11-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate.m4a",
+      "durationSeconds": 52
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Home Energy Efficiency",
+      "cefrLevel": "B2",
+      "summaryJa": "家庭のエネルギー効率を最大化するための高度な視点。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Achieving energy efficiency at home requires a combination of smart technology and mindful behavior.",
+          "translationJa": "家庭でエネルギー効率を達成するには、スマート技術と意識的な行動の組み合わせが必要です。",
+          "id": "advanced-2026-11-13-s01",
+          "startMs": 0,
+          "endMs": 5732,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Modern homeowners can optimize their energy usage by monitoring their consumption patterns very closely.",
+          "translationJa": "現代の住宅所有者は、消費パターンを詳細に監視することでエネルギー使用を最適化できます。",
+          "id": "advanced-2026-11-13-s02",
+          "startMs": 6132,
+          "endMs": 11814,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Installing smart sensors allows you to automate lighting and heating based on room occupancy.",
+          "translationJa": "スマートセンサーを設置すれば、部屋の在室状況に応じて照明や暖房を自動化できます。",
+          "id": "advanced-2026-11-13-s03",
+          "startMs": 12214,
+          "endMs": 17122,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Improving home insulation is perhaps the most effective way to maintain a stable temperature.",
+          "translationJa": "家の断熱性を向上させることが、安定した室温を保つための最も効果的な方法でしょう。",
+          "id": "advanced-2026-11-13-s04",
+          "startMs": 17522,
+          "endMs": 22441,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Proper insulation ensures that your cooling and heating systems operate at their peak performance.",
+          "translationJa": "適切な断熱は、冷暖房システムが最高のパフォーマンスで動作することを確実にします。",
+          "id": "advanced-2026-11-13-s05",
+          "startMs": 22841,
+          "endMs": 27878,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You might also consider upgrading to high-efficiency appliances to reduce your overall carbon footprint.",
+          "translationJa": "全体的な二酸化炭素排出量を減らすために、高効率な家電への買い替えを検討しても良いでしょう。",
+          "id": "advanced-2026-11-13-s06",
+          "startMs": 28278,
+          "endMs": 33971,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Small, consistent habits often yield better long-term results than occasional large-scale infrastructure changes alone.",
+          "translationJa": "小さく一貫した習慣は、時折行う大規模なインフラ変更よりも、長期的に良い結果を生みます。",
+          "id": "advanced-2026-11-13-s07",
+          "startMs": 34371,
+          "endMs": 41049,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Be aware of the phantom energy draw caused by devices left in standby mode daily.",
+          "translationJa": "毎日スタンバイモードのままにされたデバイスが引き起こす、待機電力の消費に注意してください。",
+          "id": "advanced-2026-11-13-s08",
+          "startMs": 41449,
+          "endMs": 45924,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Educating your family members about these practices creates a collective commitment to environmental responsibility.",
+          "translationJa": "家族にこうした習慣を教えることで、環境責任に対する集団的なコミットメントが生まれます。",
+          "id": "advanced-2026-11-13-s09",
+          "startMs": 46324,
+          "endMs": 52741,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "By taking control of your domestic energy consumption, you contribute to a more sustainable future.",
+          "translationJa": "家庭のエネルギー消費をコントロールすることで、より持続可能な未来に貢献できます。",
+          "id": "advanced-2026-11-13-s10",
+          "startMs": 53141,
+          "endMs": 58753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Make energy-conscious living a core part of your daily lifestyle starting from right now.",
+          "translationJa": "今この瞬間から、エネルギーを意識した生活を日々のライフスタイルの中心に据えましょう。",
+          "id": "advanced-2026-11-13-s11",
+          "startMs": 59153,
+          "endMs": 63743,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "Optimize your energy usage.",
+          "exampleJa": "エネルギー使用を最適化してください。"
+        },
+        {
+          "word": "insulation",
+          "meaningJa": "断熱",
+          "exampleEn": "Good insulation saves money.",
+          "exampleJa": "優れた断熱はお金を節約します。"
+        },
+        {
+          "word": "carbon footprint",
+          "meaningJa": "二酸化炭素排出量",
+          "exampleEn": "Reduce your carbon footprint.",
+          "exampleJa": "CO2排出量を減らしましょう。"
+        },
+        {
+          "word": "phantom energy",
+          "meaningJa": "待機電力",
+          "exampleEn": "Avoid phantom energy usage.",
+          "exampleJa": "待機電力の消費を避けましょう。"
+        },
+        {
+          "word": "collective",
+          "meaningJa": "集団の",
+          "exampleEn": "It is a collective effort.",
+          "exampleJa": "それは集団的な努力です。"
+        }
+      ],
+      "id": "advanced-2026-11-13",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced.m4a",
+      "durationSeconds": 62
+    }
+  ],
+  "topicCategory": "environment_society"
+}
