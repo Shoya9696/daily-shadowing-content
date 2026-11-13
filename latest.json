@@ -1,245 +1,251 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-12T15:01:19Z",
-  "lessonDate": "2026-11-13",
+  "generatedAtUtc": "2026-11-13T15:06:27Z",
+  "lessonDate": "2026-11-14",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Easy Ways to Save Energy",
+      "title": "Giving Friendly Feedback",
       "cefrLevel": "A2",
-      "summaryJa": "家庭でできる簡単な節電方法について学びます。",
+      "summaryJa": "相手を尊重しながら、優しく建設的なアドバイスを伝える方法についてのレッスンです。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Saving energy at home is good for your wallet and the planet.",
-          "translationJa": "家庭での節電は、お財布にも地球にも優しいことです。",
-          "id": "beginner-2026-11-13-s01",
+          "text": "Giving feedback to friends can be difficult for many people sometimes.",
+          "translationJa": "友人にフィードバックを与えることは、時々多くの人にとって難しいことです。",
+          "id": "beginner-2026-11-14-s01",
           "startMs": 0,
-          "endMs": 2917,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s01.m4a"
+          "endMs": 3823,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can start by turning off the lights when you leave rooms.",
-          "translationJa": "部屋を出るときに電気を消すことから始めましょう。",
-          "id": "beginner-2026-11-13-s02",
-          "startMs": 3317,
-          "endMs": 6247,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s02.m4a"
+          "text": "You want to be honest but also very kind to them.",
+          "translationJa": "正直でありたいけれど、同時に相手にはとても親切でありたいですよね。",
+          "id": "beginner-2026-11-14-s02",
+          "startMs": 4223,
+          "endMs": 6932,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Unplug your electronic devices when you are not using them every day.",
-          "translationJa": "毎日使わない電子機器はコンセントから抜いておきましょう。",
-          "id": "beginner-2026-11-13-s03",
-          "startMs": 6647,
-          "endMs": 10335,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s03.m4a"
+          "text": "The best way is to focus on specific actions instead of personality.",
+          "translationJa": "最善の方法は、性格ではなく具体的な行動に焦点を当てることです。",
+          "id": "beginner-2026-11-14-s03",
+          "startMs": 7332,
+          "endMs": 11268,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Try to use natural sunlight during the day instead of bright lamps.",
-          "translationJa": "明るい照明の代わりに、日中は自然の太陽光を使うようにしましょう。",
-          "id": "beginner-2026-11-13-s04",
-          "startMs": 10735,
-          "endMs": 14392,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s04.m4a"
+          "text": "Try to start your conversation with a positive comment about them.",
+          "translationJa": "会話を相手へのポジティブなコメントから始めるようにしましょう。",
+          "id": "beginner-2026-11-14-s04",
+          "startMs": 11668,
+          "endMs": 15337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Cleaning your air conditioner filters helps the machine run much more efficiently.",
-          "translationJa": "エアコンのフィルターを掃除すると、機械がより効率的に動きます。",
-          "id": "beginner-2026-11-13-s05",
-          "startMs": 14792,
-          "endMs": 18877,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s05.m4a"
+          "text": "This makes the other person feel safe and ready to listen.",
+          "translationJa": "そうすることで相手は安心し、話を聞く準備ができます。",
+          "id": "beginner-2026-11-14-s05",
+          "startMs": 15737,
+          "endMs": 18754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You should also wear warm clothes instead of turning up the heat.",
-          "translationJa": "暖房を強くする代わりに、暖かい服を着ることも大切です。",
-          "id": "beginner-2026-11-13-s06",
-          "startMs": 19277,
-          "endMs": 22439,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s06.m4a"
+          "text": "Use phrases like I feel when you do this specific thing.",
+          "translationJa": "「あなたがこれをした時、私はこう感じた」のようなフレーズを使いましょう。",
+          "id": "beginner-2026-11-14-s06",
+          "startMs": 19154,
+          "endMs": 22200,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Closing your heavy curtains at night keeps the cold air out effectively.",
-          "translationJa": "夜に厚手のカーテンを閉めると、冷気を効果的に遮断できます。",
-          "id": "beginner-2026-11-13-s07",
-          "startMs": 22839,
-          "endMs": 26506,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s07.m4a"
+          "text": "Avoid using words like always or never during your important talk.",
+          "translationJa": "大切な話の最中に「いつも」や「決して～ない」という言葉を使うのは避けましょう。",
+          "id": "beginner-2026-11-14-s07",
+          "startMs": 22600,
+          "endMs": 26126,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Small changes in your daily habits will make a very big difference.",
-          "translationJa": "日々の習慣の小さな変化が、大きな違いを生むでしょう。",
-          "id": "beginner-2026-11-13-s08",
-          "startMs": 26906,
-          "endMs": 30461,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s08.m4a"
+          "text": "Listen carefully to their side of the story after you speak.",
+          "translationJa": "あなたが話した後は、相手側の言い分にも注意深く耳を傾けてください。",
+          "id": "beginner-2026-11-14-s08",
+          "startMs": 26526,
+          "endMs": 29700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Let us work together to create a more sustainable home life today.",
-          "translationJa": "今日から一緒により持続可能な家庭生活を作っていきましょう。",
-          "id": "beginner-2026-11-13-s09",
-          "startMs": 30861,
-          "endMs": 34406,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner-s09.m4a"
+          "text": "Good communication helps to build a stronger relationship with your friends.",
+          "translationJa": "良いコミュニケーションは、友人とのより強い関係を築く助けになります。",
+          "id": "beginner-2026-11-14-s09",
+          "startMs": 30100,
+          "endMs": 33970,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "wallet",
-          "meaningJa": "財布",
-          "exampleEn": "It is good for your wallet.",
-          "exampleJa": "それはお財布に優しいです。"
+          "word": "feedback",
+          "meaningJa": "意見、フィードバック",
+          "exampleEn": "Thank you for your feedback.",
+          "exampleJa": "フィードバックをありがとうございます。"
         },
         {
-          "word": "unplug",
-          "meaningJa": "コンセントを抜く",
-          "exampleEn": "Unplug the TV.",
-          "exampleJa": "テレビのコンセントを抜いて。"
+          "word": "honest",
+          "meaningJa": "正直な",
+          "exampleEn": "Please be honest with me.",
+          "exampleJa": "私に正直でいてください。"
         },
         {
-          "word": "efficiently",
-          "meaningJa": "効率的に",
-          "exampleEn": "It works efficiently.",
-          "exampleJa": "それは効率的に動きます。"
+          "word": "specific",
+          "meaningJa": "具体的な",
+          "exampleEn": "Can you be more specific?",
+          "exampleJa": "もっと具体的に言ってもらえますか？"
         },
         {
-          "word": "sustainable",
-          "meaningJa": "持続可能な",
-          "exampleEn": "We need sustainable habits.",
-          "exampleJa": "持続可能な習慣が必要です。"
+          "word": "positive",
+          "meaningJa": "前向きな",
+          "exampleEn": "Keep a positive attitude.",
+          "exampleJa": "前向きな姿勢を保ってください。"
         },
         {
-          "word": "difference",
-          "meaningJa": "違い",
-          "exampleEn": "It makes a big difference.",
-          "exampleJa": "それは大きな違いを生みます。"
+          "word": "relationship",
+          "meaningJa": "関係",
+          "exampleEn": "They have a good relationship.",
+          "exampleJa": "彼らは良い関係を築いています。"
         }
       ],
-      "id": "beginner-2026-11-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/beginner.m4a",
-      "durationSeconds": 33
+      "id": "beginner-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner.m4a",
+      "durationSeconds": 32
     },
     {
       "levelGroup": "intermediate",
-      "title": "Practical Habits for Energy Conservation",
+      "title": "Giving Friendly Feedback",
       "cefrLevel": "B1",
-      "summaryJa": "日常生活でエネルギー消費を抑えるための具体的な習慣。",
+      "summaryJa": "相手との関係を大切にしながら、建設的なフィードバックを伝えるための実践的なテクニック。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Living in an energy-conscious way is becoming essential for every modern household today.",
-          "translationJa": "エネルギーを意識した生活を送ることは、今日のすべての現代家庭にとって不可欠です。",
-          "id": "intermediate-2026-11-13-s01",
+          "text": "Offering constructive feedback is an essential skill for maintaining healthy personal relationships.",
+          "translationJa": "建設的なフィードバックを提供することは、健全な人間関係を維持するために不可欠なスキルです。",
+          "id": "intermediate-2026-11-14-s01",
           "startMs": 0,
-          "endMs": 4625,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s01.m4a"
+          "endMs": 5297,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "One simple method is to switch all your light bulbs to energy-efficient LED models.",
-          "translationJa": "一つの簡単な方法は、すべての電球を省エネ型のLEDモデルに交換することです。",
-          "id": "intermediate-2026-11-13-s02",
-          "startMs": 5025,
-          "endMs": 9520,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s02.m4a"
+          "text": "Many people worry that their honest opinions might hurt someone else's feelings deeply.",
+          "translationJa": "多くの人は、自分の率直な意見が相手の感情を深く傷つけてしまうのではないかと心配します。",
+          "id": "intermediate-2026-11-14-s02",
+          "startMs": 5697,
+          "endMs": 10136,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "These bulbs use much less electricity while providing the same amount of bright light.",
-          "translationJa": "これらの電球は、同じ量の明るさを提供しながら、消費電力を大幅に抑えられます。",
-          "id": "intermediate-2026-11-13-s03",
-          "startMs": 9920,
-          "endMs": 14284,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s03.m4a"
+          "text": "However, avoiding important conversations often creates more distance between you and your friends.",
+          "translationJa": "しかし、重要な会話を避けることは、多くの場合、あなたと友人の間にさらなる距離を生みます。",
+          "id": "intermediate-2026-11-14-s03",
+          "startMs": 10536,
+          "endMs": 15966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You should also check the seals around your windows to prevent heat from escaping.",
-          "translationJa": "また、熱が逃げないように窓周りの密閉状態を確認することも必要です。",
-          "id": "intermediate-2026-11-13-s04",
-          "startMs": 14684,
-          "endMs": 18694,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s04.m4a"
+          "text": "The key is to frame your suggestions around shared goals rather than personal blame.",
+          "translationJa": "重要なのは、個人的な非難ではなく、共有された目標を中心に提案を組み立てることです。",
+          "id": "intermediate-2026-11-14-s04",
+          "startMs": 16366,
+          "endMs": 20546,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "If you keep the temperature steady, your heating system will not work as hard.",
-          "translationJa": "室温を一定に保てば、暖房システムが過剰に働くことはありません。",
-          "id": "intermediate-2026-11-13-s05",
-          "startMs": 19094,
-          "endMs": 23143,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s05.m4a"
+          "text": "Start by highlighting something you genuinely appreciate about their recent efforts or behavior.",
+          "translationJa": "相手の最近の努力や行動について、心から感謝している点を強調することから始めましょう。",
+          "id": "intermediate-2026-11-14-s05",
+          "startMs": 20946,
+          "endMs": 25987,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Using a programmable thermostat allows you to control usage while you are sleeping soundly.",
-          "translationJa": "プログラム可能なサーモスタットを使えば、寝ている間も使用量を管理できます。",
-          "id": "intermediate-2026-11-13-s06",
-          "startMs": 23543,
-          "endMs": 28412,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s06.m4a"
+          "text": "When you address a concern, describe the specific situation clearly without using generalizations.",
+          "translationJa": "懸念を伝えるときは、一般化せずに、具体的な状況を明確に説明してください。",
+          "id": "intermediate-2026-11-14-s06",
+          "startMs": 26387,
+          "endMs": 32124,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Many people forget that appliances consume power even when they are turned off completely.",
-          "translationJa": "多くの人は、家電がオフの状態でも電力を消費していることを忘れがちです。",
-          "id": "intermediate-2026-11-13-s07",
-          "startMs": 28812,
-          "endMs": 33507,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s07.m4a"
+          "text": "Using I statements helps you take ownership of your feelings instead of accusing others.",
+          "translationJa": "「私は」という主語を使うことは、相手を責めるのではなく、自分の感情に責任を持つ助けになります。",
+          "id": "intermediate-2026-11-14-s07",
+          "startMs": 32524,
+          "endMs": 36975,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Using a power strip makes it easy to cut electricity to multiple devices instantly.",
-          "translationJa": "電源タップを使えば、複数の機器への電気供給を簡単に遮断できます。",
-          "id": "intermediate-2026-11-13-s08",
-          "startMs": 33907,
-          "endMs": 38764,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s08.m4a"
+          "text": "This approach reduces defensiveness and encourages a more open and productive dialogue between you.",
+          "translationJa": "このアプローチは、防御的な姿勢を減らし、より開かれた生産的な対話を促進します。",
+          "id": "intermediate-2026-11-14-s08",
+          "startMs": 37375,
+          "endMs": 42633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "These minor adjustments to your daily routine can significantly reduce your monthly energy bills.",
-          "translationJa": "日々のルーチンに対するこうした小さな調整は、月々の光熱費を大幅に削減します。",
-          "id": "intermediate-2026-11-13-s09",
-          "startMs": 39164,
-          "endMs": 44317,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s09.m4a"
+          "text": "Always invite the other person to share their perspective after you finish your point.",
+          "translationJa": "自分の意見を言い終えたら、必ず相手にも視点を共有するように促しましょう。",
+          "id": "intermediate-2026-11-14-s09",
+          "startMs": 43033,
+          "endMs": 47227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Taking these steps helps the environment and helps you manage your budget quite well.",
-          "translationJa": "これらの措置をとることは、環境を助け、家計をうまく管理する助けにもなります。",
-          "id": "intermediate-2026-11-13-s10",
-          "startMs": 44717,
-          "endMs": 49105,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s10.m4a"
+          "text": "Mutual respect turns difficult feedback into an opportunity for growth and better understanding.",
+          "translationJa": "相互の尊重があれば、難しいフィードバックも成長と理解を深める機会に変わります。",
+          "id": "intermediate-2026-11-14-s10",
+          "startMs": 47627,
+          "endMs": 52856,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Start implementing these green habits in your house starting from this very evening now.",
-          "translationJa": "今晩からすぐに、自宅でこうした環境に優しい習慣を取り入れ始めましょう。",
-          "id": "intermediate-2026-11-13-s11",
-          "startMs": 49505,
-          "endMs": 53826,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate-s11.m4a"
+          "text": "Practicing these simple techniques will significantly improve your communication style over time.",
+          "translationJa": "これらの簡単なテクニックを練習することで、あなたのコミュニケーションスタイルは時間をかけて大きく向上します。",
+          "id": "intermediate-2026-11-14-s11",
+          "startMs": 53256,
+          "endMs": 58537,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
+        {
+          "word": "constructive",
+          "meaningJa": "建設的な",
+          "exampleEn": "She gave me some constructive advice.",
+          "exampleJa": "彼女は私に建設的なアドバイスをくれました。"
+        },
         {
           "word": "essential",
           "meaningJa": "不可欠な",
@@ -247,179 +253,182 @@
           "exampleJa": "水は生命に不可欠です。"
         },
         {
-          "word": "household",
-          "meaningJa": "世帯",
-          "exampleEn": "Every household should save energy.",
-          "exampleJa": "すべての家庭が節電すべきです。"
+          "word": "generalization",
+          "meaningJa": "一般化",
+          "exampleEn": "Avoid generalizations when talking.",
+          "exampleJa": "話すときは一般化を避けなさい。"
         },
         {
-          "word": "prevent",
-          "meaningJa": "防ぐ",
-          "exampleEn": "Prevent heat from escaping.",
-          "exampleJa": "熱が逃げるのを防ぎます。"
+          "word": "defensiveness",
+          "meaningJa": "防御的であること",
+          "exampleEn": "His defensiveness made it hard to talk.",
+          "exampleJa": "彼の防御的な態度が会話を難しくしました。"
         },
         {
-          "word": "appliances",
-          "meaningJa": "家電製品",
-          "exampleEn": "Turn off your appliances.",
-          "exampleJa": "家電の電源を切ってください。"
-        },
-        {
-          "word": "significantly",
-          "meaningJa": "著しく",
-          "exampleEn": "Costs dropped significantly.",
-          "exampleJa": "費用が大幅に下がりました。"
+          "word": "perspective",
+          "meaningJa": "視点",
+          "exampleEn": "Try to see it from my perspective.",
+          "exampleJa": "私の視点からそれを見てみて。"
         }
       ],
-      "id": "intermediate-2026-11-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/intermediate.m4a",
-      "durationSeconds": 52
+      "id": "intermediate-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate.m4a",
+      "durationSeconds": 57
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Home Energy Efficiency",
+      "title": "The Art of Constructive Feedback",
       "cefrLevel": "B2",
-      "summaryJa": "家庭のエネルギー効率を最大化するための高度な視点。",
+      "summaryJa": "建設的なフィードバックを優しく伝えるための実践的なテクニックと心構えについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/energy-at-home"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Achieving energy efficiency at home requires a combination of smart technology and mindful behavior.",
-          "translationJa": "家庭でエネルギー効率を達成するには、スマート技術と意識的な行動の組み合わせが必要です。",
-          "id": "advanced-2026-11-13-s01",
+          "text": "Offering feedback to colleagues requires a delicate balance of honesty and emotional intelligence.",
+          "translationJa": "同僚にフィードバックを提供するには、誠実さと感情的知性の繊細なバランスが求められます。",
+          "id": "advanced-2026-11-14-s01",
           "startMs": 0,
-          "endMs": 5732,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s01.m4a"
+          "endMs": 5227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Modern homeowners can optimize their energy usage by monitoring their consumption patterns very closely.",
-          "translationJa": "現代の住宅所有者は、消費パターンを詳細に監視することでエネルギー使用を最適化できます。",
-          "id": "advanced-2026-11-13-s02",
-          "startMs": 6132,
-          "endMs": 11814,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s02.m4a"
+          "text": "Always begin by highlighting specific positive contributions before addressing areas that need improvement.",
+          "translationJa": "改善が必要な点に触れる前に、まずは具体的な貢献を称えることから常に始めましょう。",
+          "id": "advanced-2026-11-14-s02",
+          "startMs": 5627,
+          "endMs": 11435,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Installing smart sensors allows you to automate lighting and heating based on room occupancy.",
-          "translationJa": "スマートセンサーを設置すれば、部屋の在室状況に応じて照明や暖房を自動化できます。",
-          "id": "advanced-2026-11-13-s03",
-          "startMs": 12214,
-          "endMs": 17122,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s03.m4a"
+          "text": "Avoid using judgmental language that might cause the other person to become defensive immediately.",
+          "translationJa": "相手がすぐに防御的になってしまうような、批判的な言葉遣いは避けるようにしてください。",
+          "id": "advanced-2026-11-14-s03",
+          "startMs": 11835,
+          "endMs": 16952,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Improving home insulation is perhaps the most effective way to maintain a stable temperature.",
-          "translationJa": "家の断熱性を向上させることが、安定した室温を保つための最も効果的な方法でしょう。",
-          "id": "advanced-2026-11-13-s04",
-          "startMs": 17522,
-          "endMs": 22441,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s04.m4a"
+          "text": "Focus your comments strictly on observable behaviors rather than making assumptions about their character.",
+          "translationJa": "相手の性格について決めつけるのではなく、観察可能な行動にのみコメントを集中させましょう。",
+          "id": "advanced-2026-11-14-s04",
+          "startMs": 17352,
+          "endMs": 22891,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Proper insulation ensures that your cooling and heating systems operate at their peak performance.",
-          "translationJa": "適切な断熱は、冷暖房システムが最高のパフォーマンスで動作することを確実にします。",
-          "id": "advanced-2026-11-13-s05",
-          "startMs": 22841,
-          "endMs": 27878,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s05.m4a"
+          "text": "Use 'I' statements to express how certain actions impact your own workflow and productivity.",
+          "translationJa": "特定の行動が自分のワークフローや生産性にどう影響するかを伝えるために、「私は」という主語を使いましょう。",
+          "id": "advanced-2026-11-14-s05",
+          "startMs": 23291,
+          "endMs": 28241,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You might also consider upgrading to high-efficiency appliances to reduce your overall carbon footprint.",
-          "translationJa": "全体的な二酸化炭素排出量を減らすために、高効率な家電への買い替えを検討しても良いでしょう。",
-          "id": "advanced-2026-11-13-s06",
-          "startMs": 28278,
-          "endMs": 33971,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s06.m4a"
+          "text": "This approach reduces interpersonal tension and fosters a more collaborative working environment for everyone.",
+          "translationJa": "このアプローチは対人関係の緊張を和らげ、全員にとってより協力的な職場環境を促進します。",
+          "id": "advanced-2026-11-14-s06",
+          "startMs": 28641,
+          "endMs": 34502,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Small, consistent habits often yield better long-term results than occasional large-scale infrastructure changes alone.",
-          "translationJa": "小さく一貫した習慣は、時折行う大規模なインフラ変更よりも、長期的に良い結果を生みます。",
-          "id": "advanced-2026-11-13-s07",
-          "startMs": 34371,
-          "endMs": 41049,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s07.m4a"
+          "text": "Listen carefully to their perspective to ensure that you fully understand their unique situation.",
+          "translationJa": "相手のユニークな状況を完全に理解するために、彼らの視点に注意深く耳を傾けてください。",
+          "id": "advanced-2026-11-14-s07",
+          "startMs": 34902,
+          "endMs": 39875,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Be aware of the phantom energy draw caused by devices left in standby mode daily.",
-          "translationJa": "毎日スタンバイモードのままにされたデバイスが引き起こす、待機電力の消費に注意してください。",
-          "id": "advanced-2026-11-13-s08",
-          "startMs": 41449,
-          "endMs": 45924,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s08.m4a"
+          "text": "Collaborate on a clear action plan that helps them achieve better results moving forward.",
+          "translationJa": "今後より良い結果を出せるよう、明確な行動計画について一緒に考えましょう。",
+          "id": "advanced-2026-11-14-s08",
+          "startMs": 40275,
+          "endMs": 44791,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Educating your family members about these practices creates a collective commitment to environmental responsibility.",
-          "translationJa": "家族にこうした習慣を教えることで、環境責任に対する集団的なコミットメントが生まれます。",
-          "id": "advanced-2026-11-13-s09",
-          "startMs": 46324,
-          "endMs": 52741,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s09.m4a"
+          "text": "Check in periodically to offer support and celebrate the progress they have made recently.",
+          "translationJa": "定期的に確認を行い、サポートを提供し、最近の進歩を一緒に祝いましょう。",
+          "id": "advanced-2026-11-14-s09",
+          "startMs": 45191,
+          "endMs": 49879,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "By taking control of your domestic energy consumption, you contribute to a more sustainable future.",
-          "translationJa": "家庭のエネルギー消費をコントロールすることで、より持続可能な未来に貢献できます。",
-          "id": "advanced-2026-11-13-s10",
-          "startMs": 53141,
-          "endMs": 58753,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s10.m4a"
+          "text": "Kindness does not mean avoiding difficult conversations but rather approaching them with genuine care.",
+          "translationJa": "親切であるということは、難しい会話を避けることではなく、心からの配慮を持って向き合うことです。",
+          "id": "advanced-2026-11-14-s10",
+          "startMs": 50279,
+          "endMs": 55687,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Make energy-conscious living a core part of your daily lifestyle starting from right now.",
-          "translationJa": "今この瞬間から、エネルギーを意識した生活を日々のライフスタイルの中心に据えましょう。",
-          "id": "advanced-2026-11-13-s11",
-          "startMs": 59153,
-          "endMs": 63743,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced-s11.m4a"
+          "text": "Effective communication builds trust and strengthens professional relationships over the long term period.",
+          "translationJa": "効果的なコミュニケーションは信頼を築き、長期的には専門的な関係を強化するものです。",
+          "id": "advanced-2026-11-14-s11",
+          "startMs": 56087,
+          "endMs": 61668,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Mastering these subtle skills will make you a more respected and valuable team leader.",
+          "translationJa": "これらの繊細なスキルを習得することで、あなたはより尊敬され、価値のあるチームリーダーになれるでしょう。",
+          "id": "advanced-2026-11-14-s12",
+          "startMs": 62068,
+          "endMs": 66194,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "optimize",
-          "meaningJa": "最適化する",
-          "exampleEn": "Optimize your energy usage.",
-          "exampleJa": "エネルギー使用を最適化してください。"
+          "word": "Emotional intelligence",
+          "meaningJa": "心の知能指数（EQ）",
+          "exampleEn": "Emotional intelligence is key to managing workplace conflict.",
+          "exampleJa": "心の知能指数は職場の対立を管理するための鍵です。"
         },
         {
-          "word": "insulation",
-          "meaningJa": "断熱",
-          "exampleEn": "Good insulation saves money.",
-          "exampleJa": "優れた断熱はお金を節約します。"
+          "word": "Defensive",
+          "meaningJa": "防御的な、自己防衛的な",
+          "exampleEn": "Try not to get defensive when receiving constructive criticism.",
+          "exampleJa": "建設的な批判を受けたときは、防御的にならないようにしましょう。"
         },
         {
-          "word": "carbon footprint",
-          "meaningJa": "二酸化炭素排出量",
-          "exampleEn": "Reduce your carbon footprint.",
-          "exampleJa": "CO2排出量を減らしましょう。"
+          "word": "Observable",
+          "meaningJa": "観察可能な",
+          "exampleEn": "Focus on observable facts instead of feelings.",
+          "exampleJa": "感情ではなく、観察可能な事実に集中してください。"
         },
         {
-          "word": "phantom energy",
-          "meaningJa": "待機電力",
-          "exampleEn": "Avoid phantom energy usage.",
-          "exampleJa": "待機電力の消費を避けましょう。"
+          "word": "Collaborative",
+          "meaningJa": "協力的な",
+          "exampleEn": "A collaborative team environment leads to better innovation.",
+          "exampleJa": "協力的なチーム環境は、より良いイノベーションにつながります。"
         },
         {
-          "word": "collective",
-          "meaningJa": "集団の",
-          "exampleEn": "It is a collective effort.",
-          "exampleJa": "それは集団的な努力です。"
+          "word": "Foster",
+          "meaningJa": "促進する、育む",
+          "exampleEn": "We want to foster a culture of open communication.",
+          "exampleJa": "私たちはオープンなコミュニケーションの文化を育みたいと考えています。"
         }
       ],
-      "id": "advanced-2026-11-13",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-13/advanced.m4a",
-      "durationSeconds": 62
+      "id": "advanced-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced.m4a",
+      "durationSeconds": 64
     }
   ],
-  "topicCategory": "environment_society"
+  "topicCategory": "communication_relationships"
 }

@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-12T15:01:19Z",
-  "latestLessonDate": "2026-11-13",
+  "generatedAtUtc": "2026-11-13T15:06:27Z",
+  "latestLessonDate": "2026-11-14",
   "days": [
+    {
+      "lessonDate": "2026-11-14",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-14.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Giving Friendly Feedback",
+          "durationSeconds": 32,
+          "summaryJa": "相手を尊重しながら、優しく建設的なアドバイスを伝える方法についてのレッスンです。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Giving Friendly Feedback",
+          "durationSeconds": 57,
+          "summaryJa": "相手との関係を大切にしながら、建設的なフィードバックを伝えるための実践的なテクニック。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Constructive Feedback",
+          "durationSeconds": 64,
+          "summaryJa": "建設的なフィードバックを優しく伝えるための実践的なテクニックと心構えについて学びます。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-11-13",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-13.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-10-14",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-14.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Helping Our Local Park",
-          "durationSeconds": 36,
-          "summaryJa": "地域の公園をきれいにするボランティア活動への参加について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Taking Care of Our Shared Spaces",
-          "durationSeconds": 51,
-          "summaryJa": "地域の清掃活動を通じて、共有スペースを維持することの意義について考えます。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Benefits of Community Engagement",
-          "durationSeconds": 68,
-          "summaryJa": "環境保全とコミュニティ形成という二つの側面から、地域活動の重要性を考察します。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }

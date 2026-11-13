@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-13T15:06:27Z",
+  "lessonDate": "2026-11-14",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Giving Friendly Feedback",
+      "cefrLevel": "A2",
+      "summaryJa": "相手を尊重しながら、優しく建設的なアドバイスを伝える方法についてのレッスンです。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Giving feedback to friends can be difficult for many people sometimes.",
+          "translationJa": "友人にフィードバックを与えることは、時々多くの人にとって難しいことです。",
+          "id": "beginner-2026-11-14-s01",
+          "startMs": 0,
+          "endMs": 3823,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You want to be honest but also very kind to them.",
+          "translationJa": "正直でありたいけれど、同時に相手にはとても親切でありたいですよね。",
+          "id": "beginner-2026-11-14-s02",
+          "startMs": 4223,
+          "endMs": 6932,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The best way is to focus on specific actions instead of personality.",
+          "translationJa": "最善の方法は、性格ではなく具体的な行動に焦点を当てることです。",
+          "id": "beginner-2026-11-14-s03",
+          "startMs": 7332,
+          "endMs": 11268,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Try to start your conversation with a positive comment about them.",
+          "translationJa": "会話を相手へのポジティブなコメントから始めるようにしましょう。",
+          "id": "beginner-2026-11-14-s04",
+          "startMs": 11668,
+          "endMs": 15337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "This makes the other person feel safe and ready to listen.",
+          "translationJa": "そうすることで相手は安心し、話を聞く準備ができます。",
+          "id": "beginner-2026-11-14-s05",
+          "startMs": 15737,
+          "endMs": 18754,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Use phrases like I feel when you do this specific thing.",
+          "translationJa": "「あなたがこれをした時、私はこう感じた」のようなフレーズを使いましょう。",
+          "id": "beginner-2026-11-14-s06",
+          "startMs": 19154,
+          "endMs": 22200,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Avoid using words like always or never during your important talk.",
+          "translationJa": "大切な話の最中に「いつも」や「決して～ない」という言葉を使うのは避けましょう。",
+          "id": "beginner-2026-11-14-s07",
+          "startMs": 22600,
+          "endMs": 26126,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Listen carefully to their side of the story after you speak.",
+          "translationJa": "あなたが話した後は、相手側の言い分にも注意深く耳を傾けてください。",
+          "id": "beginner-2026-11-14-s08",
+          "startMs": 26526,
+          "endMs": 29700,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Good communication helps to build a stronger relationship with your friends.",
+          "translationJa": "良いコミュニケーションは、友人とのより強い関係を築く助けになります。",
+          "id": "beginner-2026-11-14-s09",
+          "startMs": 30100,
+          "endMs": 33970,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "feedback",
+          "meaningJa": "意見、フィードバック",
+          "exampleEn": "Thank you for your feedback.",
+          "exampleJa": "フィードバックをありがとうございます。"
+        },
+        {
+          "word": "honest",
+          "meaningJa": "正直な",
+          "exampleEn": "Please be honest with me.",
+          "exampleJa": "私に正直でいてください。"
+        },
+        {
+          "word": "specific",
+          "meaningJa": "具体的な",
+          "exampleEn": "Can you be more specific?",
+          "exampleJa": "もっと具体的に言ってもらえますか？"
+        },
+        {
+          "word": "positive",
+          "meaningJa": "前向きな",
+          "exampleEn": "Keep a positive attitude.",
+          "exampleJa": "前向きな姿勢を保ってください。"
+        },
+        {
+          "word": "relationship",
+          "meaningJa": "関係",
+          "exampleEn": "They have a good relationship.",
+          "exampleJa": "彼らは良い関係を築いています。"
+        }
+      ],
+      "id": "beginner-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Giving Friendly Feedback",
+      "cefrLevel": "B1",
+      "summaryJa": "相手との関係を大切にしながら、建設的なフィードバックを伝えるための実践的なテクニック。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Offering constructive feedback is an essential skill for maintaining healthy personal relationships.",
+          "translationJa": "建設的なフィードバックを提供することは、健全な人間関係を維持するために不可欠なスキルです。",
+          "id": "intermediate-2026-11-14-s01",
+          "startMs": 0,
+          "endMs": 5297,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people worry that their honest opinions might hurt someone else's feelings deeply.",
+          "translationJa": "多くの人は、自分の率直な意見が相手の感情を深く傷つけてしまうのではないかと心配します。",
+          "id": "intermediate-2026-11-14-s02",
+          "startMs": 5697,
+          "endMs": 10136,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "However, avoiding important conversations often creates more distance between you and your friends.",
+          "translationJa": "しかし、重要な会話を避けることは、多くの場合、あなたと友人の間にさらなる距離を生みます。",
+          "id": "intermediate-2026-11-14-s03",
+          "startMs": 10536,
+          "endMs": 15966,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "The key is to frame your suggestions around shared goals rather than personal blame.",
+          "translationJa": "重要なのは、個人的な非難ではなく、共有された目標を中心に提案を組み立てることです。",
+          "id": "intermediate-2026-11-14-s04",
+          "startMs": 16366,
+          "endMs": 20546,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Start by highlighting something you genuinely appreciate about their recent efforts or behavior.",
+          "translationJa": "相手の最近の努力や行動について、心から感謝している点を強調することから始めましょう。",
+          "id": "intermediate-2026-11-14-s05",
+          "startMs": 20946,
+          "endMs": 25987,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "When you address a concern, describe the specific situation clearly without using generalizations.",
+          "translationJa": "懸念を伝えるときは、一般化せずに、具体的な状況を明確に説明してください。",
+          "id": "intermediate-2026-11-14-s06",
+          "startMs": 26387,
+          "endMs": 32124,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Using I statements helps you take ownership of your feelings instead of accusing others.",
+          "translationJa": "「私は」という主語を使うことは、相手を責めるのではなく、自分の感情に責任を持つ助けになります。",
+          "id": "intermediate-2026-11-14-s07",
+          "startMs": 32524,
+          "endMs": 36975,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This approach reduces defensiveness and encourages a more open and productive dialogue between you.",
+          "translationJa": "このアプローチは、防御的な姿勢を減らし、より開かれた生産的な対話を促進します。",
+          "id": "intermediate-2026-11-14-s08",
+          "startMs": 37375,
+          "endMs": 42633,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Always invite the other person to share their perspective after you finish your point.",
+          "translationJa": "自分の意見を言い終えたら、必ず相手にも視点を共有するように促しましょう。",
+          "id": "intermediate-2026-11-14-s09",
+          "startMs": 43033,
+          "endMs": 47227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Mutual respect turns difficult feedback into an opportunity for growth and better understanding.",
+          "translationJa": "相互の尊重があれば、難しいフィードバックも成長と理解を深める機会に変わります。",
+          "id": "intermediate-2026-11-14-s10",
+          "startMs": 47627,
+          "endMs": 52856,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Practicing these simple techniques will significantly improve your communication style over time.",
+          "translationJa": "これらの簡単なテクニックを練習することで、あなたのコミュニケーションスタイルは時間をかけて大きく向上します。",
+          "id": "intermediate-2026-11-14-s11",
+          "startMs": 53256,
+          "endMs": 58537,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "constructive",
+          "meaningJa": "建設的な",
+          "exampleEn": "She gave me some constructive advice.",
+          "exampleJa": "彼女は私に建設的なアドバイスをくれました。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命に不可欠です。"
+        },
+        {
+          "word": "generalization",
+          "meaningJa": "一般化",
+          "exampleEn": "Avoid generalizations when talking.",
+          "exampleJa": "話すときは一般化を避けなさい。"
+        },
+        {
+          "word": "defensiveness",
+          "meaningJa": "防御的であること",
+          "exampleEn": "His defensiveness made it hard to talk.",
+          "exampleJa": "彼の防御的な態度が会話を難しくしました。"
+        },
+        {
+          "word": "perspective",
+          "meaningJa": "視点",
+          "exampleEn": "Try to see it from my perspective.",
+          "exampleJa": "私の視点からそれを見てみて。"
+        }
+      ],
+      "id": "intermediate-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate.m4a",
+      "durationSeconds": 57
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Art of Constructive Feedback",
+      "cefrLevel": "B2",
+      "summaryJa": "建設的なフィードバックを優しく伝えるための実践的なテクニックと心構えについて学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Offering feedback to colleagues requires a delicate balance of honesty and emotional intelligence.",
+          "translationJa": "同僚にフィードバックを提供するには、誠実さと感情的知性の繊細なバランスが求められます。",
+          "id": "advanced-2026-11-14-s01",
+          "startMs": 0,
+          "endMs": 5227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Always begin by highlighting specific positive contributions before addressing areas that need improvement.",
+          "translationJa": "改善が必要な点に触れる前に、まずは具体的な貢献を称えることから常に始めましょう。",
+          "id": "advanced-2026-11-14-s02",
+          "startMs": 5627,
+          "endMs": 11435,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Avoid using judgmental language that might cause the other person to become defensive immediately.",
+          "translationJa": "相手がすぐに防御的になってしまうような、批判的な言葉遣いは避けるようにしてください。",
+          "id": "advanced-2026-11-14-s03",
+          "startMs": 11835,
+          "endMs": 16952,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Focus your comments strictly on observable behaviors rather than making assumptions about their character.",
+          "translationJa": "相手の性格について決めつけるのではなく、観察可能な行動にのみコメントを集中させましょう。",
+          "id": "advanced-2026-11-14-s04",
+          "startMs": 17352,
+          "endMs": 22891,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Use 'I' statements to express how certain actions impact your own workflow and productivity.",
+          "translationJa": "特定の行動が自分のワークフローや生産性にどう影響するかを伝えるために、「私は」という主語を使いましょう。",
+          "id": "advanced-2026-11-14-s05",
+          "startMs": 23291,
+          "endMs": 28241,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "This approach reduces interpersonal tension and fosters a more collaborative working environment for everyone.",
+          "translationJa": "このアプローチは対人関係の緊張を和らげ、全員にとってより協力的な職場環境を促進します。",
+          "id": "advanced-2026-11-14-s06",
+          "startMs": 28641,
+          "endMs": 34502,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Listen carefully to their perspective to ensure that you fully understand their unique situation.",
+          "translationJa": "相手のユニークな状況を完全に理解するために、彼らの視点に注意深く耳を傾けてください。",
+          "id": "advanced-2026-11-14-s07",
+          "startMs": 34902,
+          "endMs": 39875,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Collaborate on a clear action plan that helps them achieve better results moving forward.",
+          "translationJa": "今後より良い結果を出せるよう、明確な行動計画について一緒に考えましょう。",
+          "id": "advanced-2026-11-14-s08",
+          "startMs": 40275,
+          "endMs": 44791,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Check in periodically to offer support and celebrate the progress they have made recently.",
+          "translationJa": "定期的に確認を行い、サポートを提供し、最近の進歩を一緒に祝いましょう。",
+          "id": "advanced-2026-11-14-s09",
+          "startMs": 45191,
+          "endMs": 49879,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Kindness does not mean avoiding difficult conversations but rather approaching them with genuine care.",
+          "translationJa": "親切であるということは、難しい会話を避けることではなく、心からの配慮を持って向き合うことです。",
+          "id": "advanced-2026-11-14-s10",
+          "startMs": 50279,
+          "endMs": 55687,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Effective communication builds trust and strengthens professional relationships over the long term period.",
+          "translationJa": "効果的なコミュニケーションは信頼を築き、長期的には専門的な関係を強化するものです。",
+          "id": "advanced-2026-11-14-s11",
+          "startMs": 56087,
+          "endMs": 61668,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Mastering these subtle skills will make you a more respected and valuable team leader.",
+          "translationJa": "これらの繊細なスキルを習得することで、あなたはより尊敬され、価値のあるチームリーダーになれるでしょう。",
+          "id": "advanced-2026-11-14-s12",
+          "startMs": 62068,
+          "endMs": 66194,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "Emotional intelligence",
+          "meaningJa": "心の知能指数（EQ）",
+          "exampleEn": "Emotional intelligence is key to managing workplace conflict.",
+          "exampleJa": "心の知能指数は職場の対立を管理するための鍵です。"
+        },
+        {
+          "word": "Defensive",
+          "meaningJa": "防御的な、自己防衛的な",
+          "exampleEn": "Try not to get defensive when receiving constructive criticism.",
+          "exampleJa": "建設的な批判を受けたときは、防御的にならないようにしましょう。"
+        },
+        {
+          "word": "Observable",
+          "meaningJa": "観察可能な",
+          "exampleEn": "Focus on observable facts instead of feelings.",
+          "exampleJa": "感情ではなく、観察可能な事実に集中してください。"
+        },
+        {
+          "word": "Collaborative",
+          "meaningJa": "協力的な",
+          "exampleEn": "A collaborative team environment leads to better innovation.",
+          "exampleJa": "協力的なチーム環境は、より良いイノベーションにつながります。"
+        },
+        {
+          "word": "Foster",
+          "meaningJa": "促進する、育む",
+          "exampleEn": "We want to foster a culture of open communication.",
+          "exampleJa": "私たちはオープンなコミュニケーションの文化を育みたいと考えています。"
+        }
+      ],
+      "id": "advanced-2026-11-14",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced.m4a",
+      "durationSeconds": 64
+    }
+  ],
+  "topicCategory": "communication_relationships"
+}
