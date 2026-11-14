@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-14T15:01:29Z",
+  "lessonDate": "2026-11-15",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "A Global Technology Problem",
+      "cefrLevel": "A2",
+      "summaryJa": "Microsoftの大規模なシステム障害が世界中で発生し、多くの公共サービスに影響が出ています。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A major computer problem is currently affecting many people around the entire world.",
+          "translationJa": "現在、世界中の多くの人々に影響を与える大きなコンピュータの問題が発生しています。",
+          "id": "beginner-2026-11-15-s01",
+          "startMs": 0,
+          "endMs": 4571,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many important services like local schools and police forces are having big issues.",
+          "translationJa": "地元の学校や警察などの多くの重要なサービスが大きな問題を抱えています。",
+          "id": "beginner-2026-11-15-s02",
+          "startMs": 4971,
+          "endMs": 9538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The national health service in the country is also dealing with these technical difficulties.",
+          "translationJa": "国内の国民保健サービスも、これらの技術的な困難に対処しています。",
+          "id": "beginner-2026-11-15-s03",
+          "startMs": 9938,
+          "endMs": 14640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Experts say that a problem with Microsoft software started this very large global event.",
+          "translationJa": "専門家は、マイクロソフトのソフトウェアの問題がこの非常に大きな世界的出来事を引き起こしたと言っています。",
+          "id": "beginner-2026-11-15-s04",
+          "startMs": 15040,
+          "endMs": 19971,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "However, most major airports are still working normally for all their daily flight schedules.",
+          "translationJa": "しかし、ほとんどの主要空港は、毎日のフライトスケジュール通りに正常に機能しています。",
+          "id": "beginner-2026-11-15-s05",
+          "startMs": 20371,
+          "endMs": 25476,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Important intelligence services remain safe and are not affected by this sudden computer crash.",
+          "translationJa": "重要な諜報機関は安全であり、今回の突然のコンピュータ障害の影響を受けていません。",
+          "id": "beginner-2026-11-15-s06",
+          "startMs": 25876,
+          "endMs": 31039,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "The government is working hard to understand how bad the situation is right now.",
+          "translationJa": "政府は、現在どれほど状況が深刻であるかを理解するために懸命に取り組んでいます。",
+          "id": "beginner-2026-11-15-s07",
+          "startMs": 31439,
+          "endMs": 35607,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "They are checking all public systems to find a solution for the broken software.",
+          "translationJa": "彼らは壊れたソフトウェアの解決策を見つけるために、すべての公共システムをチェックしています。",
+          "id": "beginner-2026-11-15-s08",
+          "startMs": 36007,
+          "endMs": 40220,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "People should wait for more news updates while technicians fix these complicated computer errors.",
+          "translationJa": "技術者がこれらの複雑なコンピュータエラーを修正している間、人々はさらなるニュースを待つべきです。",
+          "id": "beginner-2026-11-15-s09",
+          "startMs": 40620,
+          "endMs": 45738,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "affect",
+          "meaningJa": "影響を及ぼす",
+          "exampleEn": "The rain affected our plans.",
+          "exampleJa": "雨が私たちの計画に影響した。"
+        },
+        {
+          "word": "technical",
+          "meaningJa": "技術的な",
+          "exampleEn": "There is a technical problem.",
+          "exampleJa": "技術的な問題があります。"
+        },
+        {
+          "word": "global",
+          "meaningJa": "世界的な",
+          "exampleEn": "It is a global issue.",
+          "exampleJa": "それは世界的な問題です。"
+        },
+        {
+          "word": "solution",
+          "meaningJa": "解決策",
+          "exampleEn": "We need a quick solution.",
+          "exampleJa": "私たちは素早い解決策が必要です。"
+        },
+        {
+          "word": "situation",
+          "meaningJa": "状況",
+          "exampleEn": "The situation is changing.",
+          "exampleJa": "状況が変化しています。"
+        }
+      ],
+      "id": "beginner-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner.m4a",
+      "durationSeconds": 44
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Understanding the Microsoft System Outage",
+      "cefrLevel": "B1",
+      "summaryJa": "世界的なシステム障害が公共機関に与えた影響と、現在の状況について解説します。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A massive technical outage has disrupted computer systems across the globe today.",
+          "translationJa": "今日、大規模なシステム障害が世界中のコンピューターシステムを混乱させています。",
+          "id": "intermediate-2026-11-15-s01",
+          "startMs": 0,
+          "endMs": 4548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many essential services including hospitals and police forces are facing serious operational challenges.",
+          "translationJa": "病院や警察を含む多くの不可欠なサービスが、深刻な運営上の課題に直面しています。",
+          "id": "intermediate-2026-11-15-s02",
+          "startMs": 4948,
+          "endMs": 10989,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Staff members at the NHS have been unable to access important patient records.",
+          "translationJa": "NHSのスタッフは、重要な患者の記録にアクセスできなくなっています。",
+          "id": "intermediate-2026-11-15-s03",
+          "startMs": 11389,
+          "endMs": 16151,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Educational institutions have reported that their internal networks are currently not functioning correctly.",
+          "translationJa": "教育機関は、内部ネットワークが現在正しく機能していないと報告しました。",
+          "id": "intermediate-2026-11-15-s04",
+          "startMs": 16551,
+          "endMs": 22144,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Fortunately, major international airports have managed to continue their daily flight operations smoothly.",
+          "translationJa": "幸いなことに、主要な国際空港は日々の運航を順調に継続できています。",
+          "id": "intermediate-2026-11-15-s05",
+          "startMs": 22544,
+          "endMs": 28536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Intelligence agencies also appear to be unaffected by this widespread software update error.",
+          "translationJa": "情報機関も、この広範囲にわたるソフトウェア更新エラーの影響を受けていないようです。",
+          "id": "intermediate-2026-11-15-s06",
+          "startMs": 28936,
+          "endMs": 34192,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Government officials are currently working to assess the full scale of this disruption.",
+          "translationJa": "政府当局者は現在、この混乱の全容を評価するために取り組んでいます。",
+          "id": "intermediate-2026-11-15-s07",
+          "startMs": 34592,
+          "endMs": 38926,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Experts are trying to identify the root cause of the sudden system failure.",
+          "translationJa": "専門家たちは、突然のシステム障害の根本的な原因を特定しようとしています。",
+          "id": "intermediate-2026-11-15-s08",
+          "startMs": 39326,
+          "endMs": 43456,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "The public is being advised to stay patient while technicians fix the software.",
+          "translationJa": "技術者がソフトウェアを修復する間、一般市民には辛抱強く待つよう助言されています。",
+          "id": "intermediate-2026-11-15-s09",
+          "startMs": 43856,
+          "endMs": 48141,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Communication remains difficult as many online platforms are still offline at this moment.",
+          "translationJa": "多くのオンラインプラットフォームが現在もオフラインであるため、通信は困難なままです。",
+          "id": "intermediate-2026-11-15-s10",
+          "startMs": 48541,
+          "endMs": 53614,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "We expect that most services will recover as the day progresses further forward.",
+          "translationJa": "一日が進むにつれて、ほとんどのサービスが回復すると予想しています。",
+          "id": "intermediate-2026-11-15-s11",
+          "startMs": 54014,
+          "endMs": 58324,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "disrupted",
+          "meaningJa": "混乱させた",
+          "exampleEn": "The strike disrupted train services.",
+          "exampleJa": "ストライキが鉄道サービスを混乱させた。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命にとって不可欠です。"
+        },
+        {
+          "word": "operational",
+          "meaningJa": "運営上の",
+          "exampleEn": "There are operational issues to address.",
+          "exampleJa": "対処すべき運営上の問題があります。"
+        },
+        {
+          "word": "widespread",
+          "meaningJa": "広範囲にわたる",
+          "exampleEn": "The news caused widespread panic.",
+          "exampleJa": "そのニュースは広範囲にわたるパニックを引き起こした。"
+        },
+        {
+          "word": "assess",
+          "meaningJa": "評価する、査定する",
+          "exampleEn": "We need to assess the situation.",
+          "exampleJa": "私たちは状況を評価する必要があります。"
+        }
+      ],
+      "id": "intermediate-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate.m4a",
+      "durationSeconds": 56
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Global Infrastructure Impacted by Software Failure",
+      "cefrLevel": "B2",
+      "summaryJa": "世界的なシステム障害が社会インフラに与えた影響と、政府の対応を分析します。",
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "A global software failure has triggered significant disruptions across various critical public sectors today.",
+          "translationJa": "世界的なソフトウェア障害が、今日、さまざまな重要な公共部門に重大な混乱を引き起こしました。",
+          "id": "advanced-2026-11-15-s01",
+          "startMs": 0,
+          "endMs": 6231,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "The impact has been particularly noticeable within healthcare services and local police force operations.",
+          "translationJa": "その影響は、医療サービスや地元の警察業務において特に顕著に見られます。",
+          "id": "advanced-2026-11-15-s02",
+          "startMs": 6631,
+          "endMs": 12411,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The NHS reported that clinicians could not access vital digital records during the outage.",
+          "translationJa": "NHSは、障害の間、医師たちが重要なデジタル記録にアクセスできなかったと報告しました。",
+          "id": "advanced-2026-11-15-s03",
+          "startMs": 12811,
+          "endMs": 17813,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Schools across the region have experienced unexpected technical difficulties with their core computer networks.",
+          "translationJa": "地域中の学校が、基幹コンピューターネットワークで予期せぬ技術的困難を経験しました。",
+          "id": "advanced-2026-11-15-s04",
+          "startMs": 18213,
+          "endMs": 24252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Despite these challenges, major airports have maintained normal flight schedules without any significant delays.",
+          "translationJa": "これらの課題にもかかわらず、主要な空港は大きな遅延もなく通常の運航スケジュールを維持しました。",
+          "id": "advanced-2026-11-15-s05",
+          "startMs": 24652,
+          "endMs": 30904,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Intelligence services remain fully operational and appear unaffected by this widespread technical software error.",
+          "translationJa": "情報機関は完全に稼働しており、この広範囲にわたる技術的なソフトウェアエラーの影響を受けていないようです。",
+          "id": "advanced-2026-11-15-s06",
+          "startMs": 31304,
+          "endMs": 37547,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Government departments are currently evaluating the total scale of the disruption to public infrastructure.",
+          "translationJa": "政府部門は現在、公共インフラに対する混乱の全体的な規模を評価しています。",
+          "id": "advanced-2026-11-15-s07",
+          "startMs": 37947,
+          "endMs": 43582,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Technical experts are working urgently to identify the specific root cause of this failure.",
+          "translationJa": "技術専門家たちは、この障害の具体的な根本原因を特定するために緊急で取り組んでいます。",
+          "id": "advanced-2026-11-15-s08",
+          "startMs": 43982,
+          "endMs": 49032,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Authorities have requested that the public remain patient while restoration efforts are being conducted.",
+          "translationJa": "当局は、復旧作業が行われている間、一般市民に辛抱強く待つよう要請しました。",
+          "id": "advanced-2026-11-15-s09",
+          "startMs": 49432,
+          "endMs": 54734,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "The stability of digital systems remains a primary concern for governments in our era.",
+          "translationJa": "デジタルシステムの安定性は、現代の政府にとって主要な懸念事項であり続けています。",
+          "id": "advanced-2026-11-15-s10",
+          "startMs": 55134,
+          "endMs": 59697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Service recovery is expected to be gradual as systems are brought back online carefully.",
+          "translationJa": "システムが慎重にオンラインに戻されるため、サービスの回復は徐々に行われると予想されます。",
+          "id": "advanced-2026-11-15-s11",
+          "startMs": 60097,
+          "endMs": 64964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Constant monitoring is in place to prevent further complications during the ongoing restoration phase.",
+          "translationJa": "進行中の復旧段階において、さらなる合併症を防ぐために常時監視が行われています。",
+          "id": "advanced-2026-11-15-s12",
+          "startMs": 65364,
+          "endMs": 71053,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "triggered",
+          "meaningJa": "引き起こした",
+          "exampleEn": "The event triggered a response.",
+          "exampleJa": "その出来事が反応を引き起こした。"
+        },
+        {
+          "word": "critical",
+          "meaningJa": "重要な、危機的な",
+          "exampleEn": "This is a critical moment.",
+          "exampleJa": "今は重要な局面です。"
+        },
+        {
+          "word": "clinicians",
+          "meaningJa": "臨床医",
+          "exampleEn": "Clinicians need accurate patient data.",
+          "exampleJa": "臨床医には正確な患者データが必要です。"
+        },
+        {
+          "word": "restoration",
+          "meaningJa": "復旧、修復",
+          "exampleEn": "The restoration of power is a priority.",
+          "exampleJa": "電力の復旧が優先事項です。"
+        },
+        {
+          "word": "complications",
+          "meaningJa": "合併症、複雑な問題",
+          "exampleEn": "There were no complications during surgery.",
+          "exampleJa": "手術中に合併症はありませんでした。"
+        }
+      ],
+      "id": "advanced-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced.m4a",
+      "durationSeconds": 69
+    }
+  ],
+  "topicCategory": "news"
+}

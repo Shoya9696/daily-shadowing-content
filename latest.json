@@ -1,434 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-13T15:06:27Z",
-  "lessonDate": "2026-11-14",
+  "generatedAtUtc": "2026-11-14T15:01:29Z",
+  "lessonDate": "2026-11-15",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Giving Friendly Feedback",
+      "title": "A Global Technology Problem",
       "cefrLevel": "A2",
-      "summaryJa": "相手を尊重しながら、優しく建設的なアドバイスを伝える方法についてのレッスンです。",
+      "summaryJa": "Microsoftの大規模なシステム障害が世界中で発生し、多くの公共サービスに影響が出ています。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Giving feedback to friends can be difficult for many people sometimes.",
-          "translationJa": "友人にフィードバックを与えることは、時々多くの人にとって難しいことです。",
-          "id": "beginner-2026-11-14-s01",
+          "text": "A major computer problem is currently affecting many people around the entire world.",
+          "translationJa": "現在、世界中の多くの人々に影響を与える大きなコンピュータの問題が発生しています。",
+          "id": "beginner-2026-11-15-s01",
           "startMs": 0,
-          "endMs": 3823,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s01.m4a"
+          "endMs": 4571,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You want to be honest but also very kind to them.",
-          "translationJa": "正直でありたいけれど、同時に相手にはとても親切でありたいですよね。",
-          "id": "beginner-2026-11-14-s02",
-          "startMs": 4223,
-          "endMs": 6932,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s02.m4a"
+          "text": "Many important services like local schools and police forces are having big issues.",
+          "translationJa": "地元の学校や警察などの多くの重要なサービスが大きな問題を抱えています。",
+          "id": "beginner-2026-11-15-s02",
+          "startMs": 4971,
+          "endMs": 9538,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The best way is to focus on specific actions instead of personality.",
-          "translationJa": "最善の方法は、性格ではなく具体的な行動に焦点を当てることです。",
-          "id": "beginner-2026-11-14-s03",
-          "startMs": 7332,
-          "endMs": 11268,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s03.m4a"
+          "text": "The national health service in the country is also dealing with these technical difficulties.",
+          "translationJa": "国内の国民保健サービスも、これらの技術的な困難に対処しています。",
+          "id": "beginner-2026-11-15-s03",
+          "startMs": 9938,
+          "endMs": 14640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Try to start your conversation with a positive comment about them.",
-          "translationJa": "会話を相手へのポジティブなコメントから始めるようにしましょう。",
-          "id": "beginner-2026-11-14-s04",
-          "startMs": 11668,
-          "endMs": 15337,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s04.m4a"
+          "text": "Experts say that a problem with Microsoft software started this very large global event.",
+          "translationJa": "専門家は、マイクロソフトのソフトウェアの問題がこの非常に大きな世界的出来事を引き起こしたと言っています。",
+          "id": "beginner-2026-11-15-s04",
+          "startMs": 15040,
+          "endMs": 19971,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "This makes the other person feel safe and ready to listen.",
-          "translationJa": "そうすることで相手は安心し、話を聞く準備ができます。",
-          "id": "beginner-2026-11-14-s05",
-          "startMs": 15737,
-          "endMs": 18754,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s05.m4a"
+          "text": "However, most major airports are still working normally for all their daily flight schedules.",
+          "translationJa": "しかし、ほとんどの主要空港は、毎日のフライトスケジュール通りに正常に機能しています。",
+          "id": "beginner-2026-11-15-s05",
+          "startMs": 20371,
+          "endMs": 25476,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Use phrases like I feel when you do this specific thing.",
-          "translationJa": "「あなたがこれをした時、私はこう感じた」のようなフレーズを使いましょう。",
-          "id": "beginner-2026-11-14-s06",
-          "startMs": 19154,
-          "endMs": 22200,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s06.m4a"
+          "text": "Important intelligence services remain safe and are not affected by this sudden computer crash.",
+          "translationJa": "重要な諜報機関は安全であり、今回の突然のコンピュータ障害の影響を受けていません。",
+          "id": "beginner-2026-11-15-s06",
+          "startMs": 25876,
+          "endMs": 31039,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Avoid using words like always or never during your important talk.",
-          "translationJa": "大切な話の最中に「いつも」や「決して～ない」という言葉を使うのは避けましょう。",
-          "id": "beginner-2026-11-14-s07",
-          "startMs": 22600,
-          "endMs": 26126,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s07.m4a"
+          "text": "The government is working hard to understand how bad the situation is right now.",
+          "translationJa": "政府は、現在どれほど状況が深刻であるかを理解するために懸命に取り組んでいます。",
+          "id": "beginner-2026-11-15-s07",
+          "startMs": 31439,
+          "endMs": 35607,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Listen carefully to their side of the story after you speak.",
-          "translationJa": "あなたが話した後は、相手側の言い分にも注意深く耳を傾けてください。",
-          "id": "beginner-2026-11-14-s08",
-          "startMs": 26526,
-          "endMs": 29700,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s08.m4a"
+          "text": "They are checking all public systems to find a solution for the broken software.",
+          "translationJa": "彼らは壊れたソフトウェアの解決策を見つけるために、すべての公共システムをチェックしています。",
+          "id": "beginner-2026-11-15-s08",
+          "startMs": 36007,
+          "endMs": 40220,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Good communication helps to build a stronger relationship with your friends.",
-          "translationJa": "良いコミュニケーションは、友人とのより強い関係を築く助けになります。",
-          "id": "beginner-2026-11-14-s09",
-          "startMs": 30100,
-          "endMs": 33970,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner-s09.m4a"
+          "text": "People should wait for more news updates while technicians fix these complicated computer errors.",
+          "translationJa": "技術者がこれらの複雑なコンピュータエラーを修正している間、人々はさらなるニュースを待つべきです。",
+          "id": "beginner-2026-11-15-s09",
+          "startMs": 40620,
+          "endMs": 45738,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "feedback",
-          "meaningJa": "意見、フィードバック",
-          "exampleEn": "Thank you for your feedback.",
-          "exampleJa": "フィードバックをありがとうございます。"
+          "word": "affect",
+          "meaningJa": "影響を及ぼす",
+          "exampleEn": "The rain affected our plans.",
+          "exampleJa": "雨が私たちの計画に影響した。"
         },
         {
-          "word": "honest",
-          "meaningJa": "正直な",
-          "exampleEn": "Please be honest with me.",
-          "exampleJa": "私に正直でいてください。"
+          "word": "technical",
+          "meaningJa": "技術的な",
+          "exampleEn": "There is a technical problem.",
+          "exampleJa": "技術的な問題があります。"
         },
         {
-          "word": "specific",
-          "meaningJa": "具体的な",
-          "exampleEn": "Can you be more specific?",
-          "exampleJa": "もっと具体的に言ってもらえますか？"
+          "word": "global",
+          "meaningJa": "世界的な",
+          "exampleEn": "It is a global issue.",
+          "exampleJa": "それは世界的な問題です。"
         },
         {
-          "word": "positive",
-          "meaningJa": "前向きな",
-          "exampleEn": "Keep a positive attitude.",
-          "exampleJa": "前向きな姿勢を保ってください。"
+          "word": "solution",
+          "meaningJa": "解決策",
+          "exampleEn": "We need a quick solution.",
+          "exampleJa": "私たちは素早い解決策が必要です。"
         },
         {
-          "word": "relationship",
-          "meaningJa": "関係",
-          "exampleEn": "They have a good relationship.",
-          "exampleJa": "彼らは良い関係を築いています。"
+          "word": "situation",
+          "meaningJa": "状況",
+          "exampleEn": "The situation is changing.",
+          "exampleJa": "状況が変化しています。"
         }
       ],
-      "id": "beginner-2026-11-14",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/beginner.m4a",
-      "durationSeconds": 32
+      "id": "beginner-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner.m4a",
+      "durationSeconds": 44
     },
     {
       "levelGroup": "intermediate",
-      "title": "Giving Friendly Feedback",
+      "title": "Understanding the Microsoft System Outage",
       "cefrLevel": "B1",
-      "summaryJa": "相手との関係を大切にしながら、建設的なフィードバックを伝えるための実践的なテクニック。",
+      "summaryJa": "世界的なシステム障害が公共機関に与えた影響と、現在の状況について解説します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Offering constructive feedback is an essential skill for maintaining healthy personal relationships.",
-          "translationJa": "建設的なフィードバックを提供することは、健全な人間関係を維持するために不可欠なスキルです。",
-          "id": "intermediate-2026-11-14-s01",
+          "text": "A massive technical outage has disrupted computer systems across the globe today.",
+          "translationJa": "今日、大規模なシステム障害が世界中のコンピューターシステムを混乱させています。",
+          "id": "intermediate-2026-11-15-s01",
           "startMs": 0,
-          "endMs": 5297,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s01.m4a"
+          "endMs": 4548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people worry that their honest opinions might hurt someone else's feelings deeply.",
-          "translationJa": "多くの人は、自分の率直な意見が相手の感情を深く傷つけてしまうのではないかと心配します。",
-          "id": "intermediate-2026-11-14-s02",
-          "startMs": 5697,
-          "endMs": 10136,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s02.m4a"
+          "text": "Many essential services including hospitals and police forces are facing serious operational challenges.",
+          "translationJa": "病院や警察を含む多くの不可欠なサービスが、深刻な運営上の課題に直面しています。",
+          "id": "intermediate-2026-11-15-s02",
+          "startMs": 4948,
+          "endMs": 10989,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "However, avoiding important conversations often creates more distance between you and your friends.",
-          "translationJa": "しかし、重要な会話を避けることは、多くの場合、あなたと友人の間にさらなる距離を生みます。",
-          "id": "intermediate-2026-11-14-s03",
-          "startMs": 10536,
-          "endMs": 15966,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s03.m4a"
+          "text": "Staff members at the NHS have been unable to access important patient records.",
+          "translationJa": "NHSのスタッフは、重要な患者の記録にアクセスできなくなっています。",
+          "id": "intermediate-2026-11-15-s03",
+          "startMs": 11389,
+          "endMs": 16151,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "The key is to frame your suggestions around shared goals rather than personal blame.",
-          "translationJa": "重要なのは、個人的な非難ではなく、共有された目標を中心に提案を組み立てることです。",
-          "id": "intermediate-2026-11-14-s04",
-          "startMs": 16366,
-          "endMs": 20546,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s04.m4a"
+          "text": "Educational institutions have reported that their internal networks are currently not functioning correctly.",
+          "translationJa": "教育機関は、内部ネットワークが現在正しく機能していないと報告しました。",
+          "id": "intermediate-2026-11-15-s04",
+          "startMs": 16551,
+          "endMs": 22144,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Start by highlighting something you genuinely appreciate about their recent efforts or behavior.",
-          "translationJa": "相手の最近の努力や行動について、心から感謝している点を強調することから始めましょう。",
-          "id": "intermediate-2026-11-14-s05",
-          "startMs": 20946,
-          "endMs": 25987,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s05.m4a"
+          "text": "Fortunately, major international airports have managed to continue their daily flight operations smoothly.",
+          "translationJa": "幸いなことに、主要な国際空港は日々の運航を順調に継続できています。",
+          "id": "intermediate-2026-11-15-s05",
+          "startMs": 22544,
+          "endMs": 28536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "When you address a concern, describe the specific situation clearly without using generalizations.",
-          "translationJa": "懸念を伝えるときは、一般化せずに、具体的な状況を明確に説明してください。",
-          "id": "intermediate-2026-11-14-s06",
-          "startMs": 26387,
-          "endMs": 32124,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s06.m4a"
+          "text": "Intelligence agencies also appear to be unaffected by this widespread software update error.",
+          "translationJa": "情報機関も、この広範囲にわたるソフトウェア更新エラーの影響を受けていないようです。",
+          "id": "intermediate-2026-11-15-s06",
+          "startMs": 28936,
+          "endMs": 34192,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Using I statements helps you take ownership of your feelings instead of accusing others.",
-          "translationJa": "「私は」という主語を使うことは、相手を責めるのではなく、自分の感情に責任を持つ助けになります。",
-          "id": "intermediate-2026-11-14-s07",
-          "startMs": 32524,
-          "endMs": 36975,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s07.m4a"
+          "text": "Government officials are currently working to assess the full scale of this disruption.",
+          "translationJa": "政府当局者は現在、この混乱の全容を評価するために取り組んでいます。",
+          "id": "intermediate-2026-11-15-s07",
+          "startMs": 34592,
+          "endMs": 38926,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "This approach reduces defensiveness and encourages a more open and productive dialogue between you.",
-          "translationJa": "このアプローチは、防御的な姿勢を減らし、より開かれた生産的な対話を促進します。",
-          "id": "intermediate-2026-11-14-s08",
-          "startMs": 37375,
-          "endMs": 42633,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s08.m4a"
+          "text": "Experts are trying to identify the root cause of the sudden system failure.",
+          "translationJa": "専門家たちは、突然のシステム障害の根本的な原因を特定しようとしています。",
+          "id": "intermediate-2026-11-15-s08",
+          "startMs": 39326,
+          "endMs": 43456,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Always invite the other person to share their perspective after you finish your point.",
-          "translationJa": "自分の意見を言い終えたら、必ず相手にも視点を共有するように促しましょう。",
-          "id": "intermediate-2026-11-14-s09",
-          "startMs": 43033,
-          "endMs": 47227,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s09.m4a"
+          "text": "The public is being advised to stay patient while technicians fix the software.",
+          "translationJa": "技術者がソフトウェアを修復する間、一般市民には辛抱強く待つよう助言されています。",
+          "id": "intermediate-2026-11-15-s09",
+          "startMs": 43856,
+          "endMs": 48141,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Mutual respect turns difficult feedback into an opportunity for growth and better understanding.",
-          "translationJa": "相互の尊重があれば、難しいフィードバックも成長と理解を深める機会に変わります。",
-          "id": "intermediate-2026-11-14-s10",
-          "startMs": 47627,
-          "endMs": 52856,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s10.m4a"
+          "text": "Communication remains difficult as many online platforms are still offline at this moment.",
+          "translationJa": "多くのオンラインプラットフォームが現在もオフラインであるため、通信は困難なままです。",
+          "id": "intermediate-2026-11-15-s10",
+          "startMs": 48541,
+          "endMs": 53614,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Practicing these simple techniques will significantly improve your communication style over time.",
-          "translationJa": "これらの簡単なテクニックを練習することで、あなたのコミュニケーションスタイルは時間をかけて大きく向上します。",
-          "id": "intermediate-2026-11-14-s11",
-          "startMs": 53256,
-          "endMs": 58537,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate-s11.m4a"
+          "text": "We expect that most services will recover as the day progresses further forward.",
+          "translationJa": "一日が進むにつれて、ほとんどのサービスが回復すると予想しています。",
+          "id": "intermediate-2026-11-15-s11",
+          "startMs": 54014,
+          "endMs": 58324,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "constructive",
-          "meaningJa": "建設的な",
-          "exampleEn": "She gave me some constructive advice.",
-          "exampleJa": "彼女は私に建設的なアドバイスをくれました。"
+          "word": "disrupted",
+          "meaningJa": "混乱させた",
+          "exampleEn": "The strike disrupted train services.",
+          "exampleJa": "ストライキが鉄道サービスを混乱させた。"
         },
         {
           "word": "essential",
           "meaningJa": "不可欠な",
           "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命に不可欠です。"
+          "exampleJa": "水は生命にとって不可欠です。"
         },
         {
-          "word": "generalization",
-          "meaningJa": "一般化",
-          "exampleEn": "Avoid generalizations when talking.",
-          "exampleJa": "話すときは一般化を避けなさい。"
+          "word": "operational",
+          "meaningJa": "運営上の",
+          "exampleEn": "There are operational issues to address.",
+          "exampleJa": "対処すべき運営上の問題があります。"
         },
         {
-          "word": "defensiveness",
-          "meaningJa": "防御的であること",
-          "exampleEn": "His defensiveness made it hard to talk.",
-          "exampleJa": "彼の防御的な態度が会話を難しくしました。"
+          "word": "widespread",
+          "meaningJa": "広範囲にわたる",
+          "exampleEn": "The news caused widespread panic.",
+          "exampleJa": "そのニュースは広範囲にわたるパニックを引き起こした。"
         },
         {
-          "word": "perspective",
-          "meaningJa": "視点",
-          "exampleEn": "Try to see it from my perspective.",
-          "exampleJa": "私の視点からそれを見てみて。"
+          "word": "assess",
+          "meaningJa": "評価する、査定する",
+          "exampleEn": "We need to assess the situation.",
+          "exampleJa": "私たちは状況を評価する必要があります。"
         }
       ],
-      "id": "intermediate-2026-11-14",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/intermediate.m4a",
-      "durationSeconds": 57
+      "id": "intermediate-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate.m4a",
+      "durationSeconds": 56
     },
     {
       "levelGroup": "advanced",
-      "title": "The Art of Constructive Feedback",
+      "title": "Global Infrastructure Impacted by Software Failure",
       "cefrLevel": "B2",
-      "summaryJa": "建設的なフィードバックを優しく伝えるための実践的なテクニックと心構えについて学びます。",
+      "summaryJa": "世界的なシステム障害が社会インフラに与えた影響と、政府の対応を分析します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/friendly-feedback"
+        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Offering feedback to colleagues requires a delicate balance of honesty and emotional intelligence.",
-          "translationJa": "同僚にフィードバックを提供するには、誠実さと感情的知性の繊細なバランスが求められます。",
-          "id": "advanced-2026-11-14-s01",
+          "text": "A global software failure has triggered significant disruptions across various critical public sectors today.",
+          "translationJa": "世界的なソフトウェア障害が、今日、さまざまな重要な公共部門に重大な混乱を引き起こしました。",
+          "id": "advanced-2026-11-15-s01",
           "startMs": 0,
-          "endMs": 5227,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s01.m4a"
+          "endMs": 6231,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Always begin by highlighting specific positive contributions before addressing areas that need improvement.",
-          "translationJa": "改善が必要な点に触れる前に、まずは具体的な貢献を称えることから常に始めましょう。",
-          "id": "advanced-2026-11-14-s02",
-          "startMs": 5627,
-          "endMs": 11435,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s02.m4a"
+          "text": "The impact has been particularly noticeable within healthcare services and local police force operations.",
+          "translationJa": "その影響は、医療サービスや地元の警察業務において特に顕著に見られます。",
+          "id": "advanced-2026-11-15-s02",
+          "startMs": 6631,
+          "endMs": 12411,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Avoid using judgmental language that might cause the other person to become defensive immediately.",
-          "translationJa": "相手がすぐに防御的になってしまうような、批判的な言葉遣いは避けるようにしてください。",
-          "id": "advanced-2026-11-14-s03",
-          "startMs": 11835,
-          "endMs": 16952,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s03.m4a"
+          "text": "The NHS reported that clinicians could not access vital digital records during the outage.",
+          "translationJa": "NHSは、障害の間、医師たちが重要なデジタル記録にアクセスできなかったと報告しました。",
+          "id": "advanced-2026-11-15-s03",
+          "startMs": 12811,
+          "endMs": 17813,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Focus your comments strictly on observable behaviors rather than making assumptions about their character.",
-          "translationJa": "相手の性格について決めつけるのではなく、観察可能な行動にのみコメントを集中させましょう。",
-          "id": "advanced-2026-11-14-s04",
-          "startMs": 17352,
-          "endMs": 22891,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s04.m4a"
+          "text": "Schools across the region have experienced unexpected technical difficulties with their core computer networks.",
+          "translationJa": "地域中の学校が、基幹コンピューターネットワークで予期せぬ技術的困難を経験しました。",
+          "id": "advanced-2026-11-15-s04",
+          "startMs": 18213,
+          "endMs": 24252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Use 'I' statements to express how certain actions impact your own workflow and productivity.",
-          "translationJa": "特定の行動が自分のワークフローや生産性にどう影響するかを伝えるために、「私は」という主語を使いましょう。",
-          "id": "advanced-2026-11-14-s05",
-          "startMs": 23291,
-          "endMs": 28241,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s05.m4a"
+          "text": "Despite these challenges, major airports have maintained normal flight schedules without any significant delays.",
+          "translationJa": "これらの課題にもかかわらず、主要な空港は大きな遅延もなく通常の運航スケジュールを維持しました。",
+          "id": "advanced-2026-11-15-s05",
+          "startMs": 24652,
+          "endMs": 30904,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "This approach reduces interpersonal tension and fosters a more collaborative working environment for everyone.",
-          "translationJa": "このアプローチは対人関係の緊張を和らげ、全員にとってより協力的な職場環境を促進します。",
-          "id": "advanced-2026-11-14-s06",
-          "startMs": 28641,
-          "endMs": 34502,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s06.m4a"
+          "text": "Intelligence services remain fully operational and appear unaffected by this widespread technical software error.",
+          "translationJa": "情報機関は完全に稼働しており、この広範囲にわたる技術的なソフトウェアエラーの影響を受けていないようです。",
+          "id": "advanced-2026-11-15-s06",
+          "startMs": 31304,
+          "endMs": 37547,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Listen carefully to their perspective to ensure that you fully understand their unique situation.",
-          "translationJa": "相手のユニークな状況を完全に理解するために、彼らの視点に注意深く耳を傾けてください。",
-          "id": "advanced-2026-11-14-s07",
-          "startMs": 34902,
-          "endMs": 39875,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s07.m4a"
+          "text": "Government departments are currently evaluating the total scale of the disruption to public infrastructure.",
+          "translationJa": "政府部門は現在、公共インフラに対する混乱の全体的な規模を評価しています。",
+          "id": "advanced-2026-11-15-s07",
+          "startMs": 37947,
+          "endMs": 43582,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Collaborate on a clear action plan that helps them achieve better results moving forward.",
-          "translationJa": "今後より良い結果を出せるよう、明確な行動計画について一緒に考えましょう。",
-          "id": "advanced-2026-11-14-s08",
-          "startMs": 40275,
-          "endMs": 44791,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s08.m4a"
+          "text": "Technical experts are working urgently to identify the specific root cause of this failure.",
+          "translationJa": "技術専門家たちは、この障害の具体的な根本原因を特定するために緊急で取り組んでいます。",
+          "id": "advanced-2026-11-15-s08",
+          "startMs": 43982,
+          "endMs": 49032,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Check in periodically to offer support and celebrate the progress they have made recently.",
-          "translationJa": "定期的に確認を行い、サポートを提供し、最近の進歩を一緒に祝いましょう。",
-          "id": "advanced-2026-11-14-s09",
-          "startMs": 45191,
-          "endMs": 49879,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s09.m4a"
+          "text": "Authorities have requested that the public remain patient while restoration efforts are being conducted.",
+          "translationJa": "当局は、復旧作業が行われている間、一般市民に辛抱強く待つよう要請しました。",
+          "id": "advanced-2026-11-15-s09",
+          "startMs": 49432,
+          "endMs": 54734,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Kindness does not mean avoiding difficult conversations but rather approaching them with genuine care.",
-          "translationJa": "親切であるということは、難しい会話を避けることではなく、心からの配慮を持って向き合うことです。",
-          "id": "advanced-2026-11-14-s10",
-          "startMs": 50279,
-          "endMs": 55687,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s10.m4a"
+          "text": "The stability of digital systems remains a primary concern for governments in our era.",
+          "translationJa": "デジタルシステムの安定性は、現代の政府にとって主要な懸念事項であり続けています。",
+          "id": "advanced-2026-11-15-s10",
+          "startMs": 55134,
+          "endMs": 59697,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Effective communication builds trust and strengthens professional relationships over the long term period.",
-          "translationJa": "効果的なコミュニケーションは信頼を築き、長期的には専門的な関係を強化するものです。",
-          "id": "advanced-2026-11-14-s11",
-          "startMs": 56087,
-          "endMs": 61668,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s11.m4a"
+          "text": "Service recovery is expected to be gradual as systems are brought back online carefully.",
+          "translationJa": "システムが慎重にオンラインに戻されるため、サービスの回復は徐々に行われると予想されます。",
+          "id": "advanced-2026-11-15-s11",
+          "startMs": 60097,
+          "endMs": 64964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Mastering these subtle skills will make you a more respected and valuable team leader.",
-          "translationJa": "これらの繊細なスキルを習得することで、あなたはより尊敬され、価値のあるチームリーダーになれるでしょう。",
-          "id": "advanced-2026-11-14-s12",
-          "startMs": 62068,
-          "endMs": 66194,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced-s12.m4a"
+          "text": "Constant monitoring is in place to prevent further complications during the ongoing restoration phase.",
+          "translationJa": "進行中の復旧段階において、さらなる合併症を防ぐために常時監視が行われています。",
+          "id": "advanced-2026-11-15-s12",
+          "startMs": 65364,
+          "endMs": 71053,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "Emotional intelligence",
-          "meaningJa": "心の知能指数（EQ）",
-          "exampleEn": "Emotional intelligence is key to managing workplace conflict.",
-          "exampleJa": "心の知能指数は職場の対立を管理するための鍵です。"
+          "word": "triggered",
+          "meaningJa": "引き起こした",
+          "exampleEn": "The event triggered a response.",
+          "exampleJa": "その出来事が反応を引き起こした。"
         },
         {
-          "word": "Defensive",
-          "meaningJa": "防御的な、自己防衛的な",
-          "exampleEn": "Try not to get defensive when receiving constructive criticism.",
-          "exampleJa": "建設的な批判を受けたときは、防御的にならないようにしましょう。"
+          "word": "critical",
+          "meaningJa": "重要な、危機的な",
+          "exampleEn": "This is a critical moment.",
+          "exampleJa": "今は重要な局面です。"
         },
         {
-          "word": "Observable",
-          "meaningJa": "観察可能な",
-          "exampleEn": "Focus on observable facts instead of feelings.",
-          "exampleJa": "感情ではなく、観察可能な事実に集中してください。"
+          "word": "clinicians",
+          "meaningJa": "臨床医",
+          "exampleEn": "Clinicians need accurate patient data.",
+          "exampleJa": "臨床医には正確な患者データが必要です。"
         },
         {
-          "word": "Collaborative",
-          "meaningJa": "協力的な",
-          "exampleEn": "A collaborative team environment leads to better innovation.",
-          "exampleJa": "協力的なチーム環境は、より良いイノベーションにつながります。"
+          "word": "restoration",
+          "meaningJa": "復旧、修復",
+          "exampleEn": "The restoration of power is a priority.",
+          "exampleJa": "電力の復旧が優先事項です。"
         },
         {
-          "word": "Foster",
-          "meaningJa": "促進する、育む",
-          "exampleEn": "We want to foster a culture of open communication.",
-          "exampleJa": "私たちはオープンなコミュニケーションの文化を育みたいと考えています。"
+          "word": "complications",
+          "meaningJa": "合併症、複雑な問題",
+          "exampleEn": "There were no complications during surgery.",
+          "exampleJa": "手術中に合併症はありませんでした。"
         }
       ],
-      "id": "advanced-2026-11-14",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-14/advanced.m4a",
-      "durationSeconds": 64
+      "id": "advanced-2026-11-15",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced.m4a",
+      "durationSeconds": 69
     }
   ],
-  "topicCategory": "communication_relationships"
+  "topicCategory": "news"
 }

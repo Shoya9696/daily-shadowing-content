@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-13T15:06:27Z",
-  "latestLessonDate": "2026-11-14",
+  "generatedAtUtc": "2026-11-14T15:01:29Z",
+  "latestLessonDate": "2026-11-15",
   "days": [
+    {
+      "lessonDate": "2026-11-15",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-15.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "A Global Technology Problem",
+          "durationSeconds": 44,
+          "summaryJa": "Microsoftの大規模なシステム障害が世界中で発生し、多くの公共サービスに影響が出ています。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Understanding the Microsoft System Outage",
+          "durationSeconds": 56,
+          "summaryJa": "世界的なシステム障害が公共機関に与えた影響と、現在の状況について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Global Infrastructure Impacted by Software Failure",
+          "durationSeconds": 69,
+          "summaryJa": "世界的なシステム障害が社会インフラに与えた影響と、政府の対応を分析します。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-11-14",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-14.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-10-15",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-15.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting a Friendly Conversation",
-          "durationSeconds": 32,
-          "summaryJa": "自然なスモールトークの始め方と、会話を続けるための簡単なコツを学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Keeping the Conversation Flowing",
-          "durationSeconds": 56,
-          "summaryJa": "会話をスムーズに続け、相手との距離を縮めるためのテクニックを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering the Art of Small Talk",
-          "durationSeconds": 72,
-          "summaryJa": "高度な対人スキルとして、場の空気を読み、相手との関係を深化させるスモールトークの極意を解説します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
