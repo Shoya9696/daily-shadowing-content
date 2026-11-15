@@ -1,434 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-14T15:01:29Z",
-  "lessonDate": "2026-11-15",
+  "generatedAtUtc": "2026-11-15T15:01:14Z",
+  "lessonDate": "2026-11-16",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "A Global Technology Problem",
+      "title": "Easy Meal Planning for Busy Days",
       "cefrLevel": "A2",
-      "summaryJa": "Microsoftの大規模なシステム障害が世界中で発生し、多くの公共サービスに影響が出ています。",
+      "summaryJa": "忙しい週のための簡単な食事計画の立て方について学びます。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A major computer problem is currently affecting many people around the entire world.",
-          "translationJa": "現在、世界中の多くの人々に影響を与える大きなコンピュータの問題が発生しています。",
-          "id": "beginner-2026-11-15-s01",
+          "text": "Planning your meals for the week saves a lot of time every day.",
+          "translationJa": "週の食事を計画することは、毎日多くの時間を節約することにつながります。",
+          "id": "beginner-2026-11-16-s01",
           "startMs": 0,
-          "endMs": 4571,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s01.m4a"
+          "endMs": 3005,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many important services like local schools and police forces are having big issues.",
-          "translationJa": "地元の学校や警察などの多くの重要なサービスが大きな問題を抱えています。",
-          "id": "beginner-2026-11-15-s02",
-          "startMs": 4971,
-          "endMs": 9538,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s02.m4a"
+          "text": "First, you should check your kitchen to see what food you have.",
+          "translationJa": "まず、キッチンを確認して、どんな食べ物があるかチェックしましょう。",
+          "id": "beginner-2026-11-16-s02",
+          "startMs": 3405,
+          "endMs": 6599,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The national health service in the country is also dealing with these technical difficulties.",
-          "translationJa": "国内の国民保健サービスも、これらの技術的な困難に対処しています。",
-          "id": "beginner-2026-11-15-s03",
-          "startMs": 9938,
-          "endMs": 14640,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s03.m4a"
+          "text": "Next, write down a list of simple recipes you like to cook often.",
+          "translationJa": "次に、よく作る簡単なレシピのリストを書き出してみましょう。",
+          "id": "beginner-2026-11-16-s03",
+          "startMs": 6999,
+          "endMs": 10895,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Experts say that a problem with Microsoft software started this very large global event.",
-          "translationJa": "専門家は、マイクロソフトのソフトウェアの問題がこの非常に大きな世界的出来事を引き起こしたと言っています。",
-          "id": "beginner-2026-11-15-s04",
-          "startMs": 15040,
-          "endMs": 19971,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s04.m4a"
+          "text": "It is helpful to choose ingredients that you can use for many meals.",
+          "translationJa": "多くの食事に使える食材を選ぶととても便利です。",
+          "id": "beginner-2026-11-16-s04",
+          "startMs": 11295,
+          "endMs": 14740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "However, most major airports are still working normally for all their daily flight schedules.",
-          "translationJa": "しかし、ほとんどの主要空港は、毎日のフライトスケジュール通りに正常に機能しています。",
-          "id": "beginner-2026-11-15-s05",
-          "startMs": 20371,
-          "endMs": 25476,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s05.m4a"
+          "text": "Go to the grocery store with your list to buy only what needed.",
+          "translationJa": "リストを持ってスーパーに行き、必要なものだけを買いましょう。",
+          "id": "beginner-2026-11-16-s05",
+          "startMs": 15140,
+          "endMs": 18221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Important intelligence services remain safe and are not affected by this sudden computer crash.",
-          "translationJa": "重要な諜報機関は安全であり、今回の突然のコンピュータ障害の影響を受けていません。",
-          "id": "beginner-2026-11-15-s06",
-          "startMs": 25876,
-          "endMs": 31039,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s06.m4a"
+          "text": "You can wash and cut your vegetables as soon as you get home.",
+          "translationJa": "家に帰ったらすぐに野菜を洗ったり切ったりすることができます。",
+          "id": "beginner-2026-11-16-s06",
+          "startMs": 18621,
+          "endMs": 21655,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "The government is working hard to understand how bad the situation is right now.",
-          "translationJa": "政府は、現在どれほど状況が深刻であるかを理解するために懸命に取り組んでいます。",
-          "id": "beginner-2026-11-15-s07",
-          "startMs": 31439,
-          "endMs": 35607,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s07.m4a"
+          "text": "This makes cooking dinner much faster after a long day at work.",
+          "translationJa": "こうすると、仕事で長い一日を終えた後の夕食作りがずっと楽になります。",
+          "id": "beginner-2026-11-16-s07",
+          "startMs": 22055,
+          "endMs": 25455,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "They are checking all public systems to find a solution for the broken software.",
-          "translationJa": "彼らは壊れたソフトウェアの解決策を見つけるために、すべての公共システムをチェックしています。",
-          "id": "beginner-2026-11-15-s08",
-          "startMs": 36007,
-          "endMs": 40220,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s08.m4a"
+          "text": "Having a plan helps you eat healthy food even when you are busy.",
+          "translationJa": "計画を立てておくと、忙しい時でも健康的な食事ができます。",
+          "id": "beginner-2026-11-16-s08",
+          "startMs": 25855,
+          "endMs": 29067,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "People should wait for more news updates while technicians fix these complicated computer errors.",
-          "translationJa": "技術者がこれらの複雑なコンピュータエラーを修正している間、人々はさらなるニュースを待つべきです。",
-          "id": "beginner-2026-11-15-s09",
-          "startMs": 40620,
-          "endMs": 45738,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner-s09.m4a"
+          "text": "Start your meal planning today to enjoy your relaxing evenings at home.",
+          "translationJa": "今日から食事計画を始めて、家でのリラックスした夜を楽しみましょう。",
+          "id": "beginner-2026-11-16-s09",
+          "startMs": 29467,
+          "endMs": 33266,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "affect",
-          "meaningJa": "影響を及ぼす",
-          "exampleEn": "The rain affected our plans.",
-          "exampleJa": "雨が私たちの計画に影響した。"
+          "word": "plan",
+          "meaningJa": "計画する",
+          "exampleEn": "I plan my meals on Sunday.",
+          "exampleJa": "日曜日に食事の計画を立てます。"
         },
         {
-          "word": "technical",
-          "meaningJa": "技術的な",
-          "exampleEn": "There is a technical problem.",
-          "exampleJa": "技術的な問題があります。"
+          "word": "recipe",
+          "meaningJa": "レシピ",
+          "exampleEn": "This is a simple recipe.",
+          "exampleJa": "これは簡単なレシピです。"
         },
         {
-          "word": "global",
-          "meaningJa": "世界的な",
-          "exampleEn": "It is a global issue.",
-          "exampleJa": "それは世界的な問題です。"
+          "word": "ingredient",
+          "meaningJa": "食材",
+          "exampleEn": "Buy fresh ingredients.",
+          "exampleJa": "新鮮な食材を買いましょう。"
         },
         {
-          "word": "solution",
-          "meaningJa": "解決策",
-          "exampleEn": "We need a quick solution.",
-          "exampleJa": "私たちは素早い解決策が必要です。"
+          "word": "grocery store",
+          "meaningJa": "食料品店",
+          "exampleEn": "I go to the grocery store.",
+          "exampleJa": "食料品店に行きます。"
         },
         {
-          "word": "situation",
-          "meaningJa": "状況",
-          "exampleEn": "The situation is changing.",
-          "exampleJa": "状況が変化しています。"
+          "word": "healthy",
+          "meaningJa": "健康的な",
+          "exampleEn": "Eat healthy food.",
+          "exampleJa": "健康的な食事をしましょう。"
         }
       ],
-      "id": "beginner-2026-11-15",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/beginner.m4a",
-      "durationSeconds": 44
+      "id": "beginner-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner.m4a",
+      "durationSeconds": 32
     },
     {
       "levelGroup": "intermediate",
-      "title": "Understanding the Microsoft System Outage",
+      "title": "Mastering Weekly Meal Preparation",
       "cefrLevel": "B1",
-      "summaryJa": "世界的なシステム障害が公共機関に与えた影響と、現在の状況について解説します。",
+      "summaryJa": "忙しい平日を乗り切るための効率的な食事準備のコツを紹介します。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A massive technical outage has disrupted computer systems across the globe today.",
-          "translationJa": "今日、大規模なシステム障害が世界中のコンピューターシステムを混乱させています。",
-          "id": "intermediate-2026-11-15-s01",
+          "text": "Preparing meals in advance is a great way to reduce stress during a busy week.",
+          "translationJa": "事前に食事を準備することは、忙しい週のストレスを減らす素晴らしい方法です。",
+          "id": "intermediate-2026-11-16-s01",
           "startMs": 0,
-          "endMs": 4548,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s01.m4a"
+          "endMs": 4154,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many essential services including hospitals and police forces are facing serious operational challenges.",
-          "translationJa": "病院や警察を含む多くの不可欠なサービスが、深刻な運営上の課題に直面しています。",
-          "id": "intermediate-2026-11-15-s02",
-          "startMs": 4948,
-          "endMs": 10989,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s02.m4a"
+          "text": "Many people find that they save money by avoiding last minute takeout orders every evening.",
+          "translationJa": "多くの人は、毎晩ぎりぎりになってテイクアウトを注文するのを避けることでお金を節約できると気づいています。",
+          "id": "intermediate-2026-11-16-s02",
+          "startMs": 4554,
+          "endMs": 9307,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Staff members at the NHS have been unable to access important patient records.",
-          "translationJa": "NHSのスタッフは、重要な患者の記録にアクセスできなくなっています。",
-          "id": "intermediate-2026-11-15-s03",
-          "startMs": 11389,
-          "endMs": 16151,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s03.m4a"
+          "text": "The key is to create a weekly menu that relies on similar ingredients for every dish.",
+          "translationJa": "秘訣は、すべての料理に似たような食材を使う週ごとのメニューを作成することです。",
+          "id": "intermediate-2026-11-16-s03",
+          "startMs": 9707,
+          "endMs": 14282,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Educational institutions have reported that their internal networks are currently not functioning correctly.",
-          "translationJa": "教育機関は、内部ネットワークが現在正しく機能していないと報告しました。",
-          "id": "intermediate-2026-11-15-s04",
-          "startMs": 16551,
-          "endMs": 22144,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s04.m4a"
+          "text": "You can start by looking for healthy recipes that do not require many complex cooking steps.",
+          "translationJa": "複雑な調理工程を必要としない健康的なレシピを探すことから始めましょう。",
+          "id": "intermediate-2026-11-16-s04",
+          "startMs": 14682,
+          "endMs": 19969,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Fortunately, major international airports have managed to continue their daily flight operations smoothly.",
-          "translationJa": "幸いなことに、主要な国際空港は日々の運航を順調に継続できています。",
-          "id": "intermediate-2026-11-15-s05",
-          "startMs": 22544,
-          "endMs": 28536,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s05.m4a"
+          "text": "Once you have your menu, make a detailed shopping list to avoid buying unnecessary items.",
+          "translationJa": "メニューが決まったら、不要なものを買わないように詳細な買い物リストを作りましょう。",
+          "id": "intermediate-2026-11-16-s05",
+          "startMs": 20369,
+          "endMs": 25561,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Intelligence agencies also appear to be unaffected by this widespread software update error.",
-          "translationJa": "情報機関も、この広範囲にわたるソフトウェア更新エラーの影響を受けていないようです。",
-          "id": "intermediate-2026-11-15-s06",
-          "startMs": 28936,
-          "endMs": 34192,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s06.m4a"
+          "text": "Buying in bulk can be efficient, but only if you have a plan to use everything.",
+          "translationJa": "まとめ買いは効率的ですが、すべてを使い切る計画がある場合に限ります。",
+          "id": "intermediate-2026-11-16-s06",
+          "startMs": 25961,
+          "endMs": 30087,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Government officials are currently working to assess the full scale of this disruption.",
-          "translationJa": "政府当局者は現在、この混乱の全容を評価するために取り組んでいます。",
-          "id": "intermediate-2026-11-15-s07",
-          "startMs": 34592,
-          "endMs": 38926,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s07.m4a"
+          "text": "Setting aside two hours on Sunday for food preparation can transform your entire working week.",
+          "translationJa": "日曜日に食事準備のために2時間を確保することで、仕事の週全体を変えることができます。",
+          "id": "intermediate-2026-11-16-s07",
+          "startMs": 30487,
+          "endMs": 35807,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Experts are trying to identify the root cause of the sudden system failure.",
-          "translationJa": "専門家たちは、突然のシステム障害の根本的な原因を特定しようとしています。",
-          "id": "intermediate-2026-11-15-s08",
-          "startMs": 39326,
-          "endMs": 43456,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s08.m4a"
+          "text": "You might choose to wash all vegetables or cook a large batch of grains beforehand.",
+          "translationJa": "野菜をすべて洗ったり、穀物をまとめて炊いておいたりすることを選ぶかもしれません。",
+          "id": "intermediate-2026-11-16-s08",
+          "startMs": 36207,
+          "endMs": 40472,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "The public is being advised to stay patient while technicians fix the software.",
-          "translationJa": "技術者がソフトウェアを修復する間、一般市民には辛抱強く待つよう助言されています。",
-          "id": "intermediate-2026-11-15-s09",
-          "startMs": 43856,
-          "endMs": 48141,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s09.m4a"
+          "text": "Having ready components in the fridge makes assembling a quick dinner feel like a breeze.",
+          "translationJa": "冷蔵庫に準備済みの材料があると、手早く夕食を組み立てるのがとても簡単に感じられます。",
+          "id": "intermediate-2026-11-16-s09",
+          "startMs": 40872,
+          "endMs": 45210,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Communication remains difficult as many online platforms are still offline at this moment.",
-          "translationJa": "多くのオンラインプラットフォームが現在もオフラインであるため、通信は困難なままです。",
-          "id": "intermediate-2026-11-15-s10",
-          "startMs": 48541,
-          "endMs": 53614,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s10.m4a"
+          "text": "Consistency is important, so try to keep your routine simple until it becomes a habit.",
+          "translationJa": "継続することが重要なので、習慣になるまではルーチンをシンプルに保つようにしてください。",
+          "id": "intermediate-2026-11-16-s10",
+          "startMs": 45610,
+          "endMs": 50846,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "We expect that most services will recover as the day progresses further forward.",
-          "translationJa": "一日が進むにつれて、ほとんどのサービスが回復すると予想しています。",
-          "id": "intermediate-2026-11-15-s11",
-          "startMs": 54014,
-          "endMs": 58324,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate-s11.m4a"
+          "text": "With a bit of practice, you will find that you have more free time every night.",
+          "translationJa": "少し練習すれば、毎晩もっと自由な時間を持てるようになることに気づくでしょう。",
+          "id": "intermediate-2026-11-16-s11",
+          "startMs": 51246,
+          "endMs": 55184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "disrupted",
-          "meaningJa": "混乱させた",
-          "exampleEn": "The strike disrupted train services.",
-          "exampleJa": "ストライキが鉄道サービスを混乱させた。"
+          "word": "in advance",
+          "meaningJa": "事前に",
+          "exampleEn": "I prepared the file in advance.",
+          "exampleJa": "事前にファイルを準備しました。"
         },
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命にとって不可欠です。"
+          "word": "reduce",
+          "meaningJa": "減らす",
+          "exampleEn": "We should reduce waste.",
+          "exampleJa": "無駄を減らすべきです。"
         },
         {
-          "word": "operational",
-          "meaningJa": "運営上の",
-          "exampleEn": "There are operational issues to address.",
-          "exampleJa": "対処すべき運営上の問題があります。"
+          "word": "rely on",
+          "meaningJa": "～に頼る",
+          "exampleEn": "I rely on this app.",
+          "exampleJa": "このアプリを頼りにしています。"
         },
         {
-          "word": "widespread",
-          "meaningJa": "広範囲にわたる",
-          "exampleEn": "The news caused widespread panic.",
-          "exampleJa": "そのニュースは広範囲にわたるパニックを引き起こした。"
+          "word": "bulk",
+          "meaningJa": "大量",
+          "exampleEn": "Buying in bulk is cheaper.",
+          "exampleJa": "まとめ買いは安いです。"
         },
         {
-          "word": "assess",
-          "meaningJa": "評価する、査定する",
-          "exampleEn": "We need to assess the situation.",
-          "exampleJa": "私たちは状況を評価する必要があります。"
+          "word": "consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is the key to success.",
+          "exampleJa": "継続こそが成功の鍵です。"
         }
       ],
-      "id": "intermediate-2026-11-15",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/intermediate.m4a",
-      "durationSeconds": 56
+      "id": "intermediate-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate.m4a",
+      "durationSeconds": 53
     },
     {
       "levelGroup": "advanced",
-      "title": "Global Infrastructure Impacted by Software Failure",
+      "title": "Optimizing Your Weekly Food Strategy",
       "cefrLevel": "B2",
-      "summaryJa": "世界的なシステム障害が社会インフラに与えた影響と、政府の対応を分析します。",
+      "summaryJa": "食事の準備を戦略的に行い、時間と健康を最適化するための高度なヒント。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "A global software failure has triggered significant disruptions across various critical public sectors today.",
-          "translationJa": "世界的なソフトウェア障害が、今日、さまざまな重要な公共部門に重大な混乱を引き起こしました。",
-          "id": "advanced-2026-11-15-s01",
+          "text": "Efficient meal planning is a powerful tool for maintaining a healthy and productive lifestyle.",
+          "translationJa": "効率的な食事計画は、健康的で生産的な生活を維持するための強力なツールです。",
+          "id": "advanced-2026-11-16-s01",
           "startMs": 0,
-          "endMs": 6231,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s01.m4a"
+          "endMs": 4942,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "The impact has been particularly noticeable within healthcare services and local police force operations.",
-          "translationJa": "その影響は、医療サービスや地元の警察業務において特に顕著に見られます。",
-          "id": "advanced-2026-11-15-s02",
-          "startMs": 6631,
-          "endMs": 12411,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s02.m4a"
+          "text": "Rather than cooking daily, many professionals prefer batch cooking to save precious evening hours.",
+          "translationJa": "毎日料理するよりも、多くの専門家は貴重な夜の時間を節約するために作り置きを好みます。",
+          "id": "advanced-2026-11-16-s02",
+          "startMs": 5342,
+          "endMs": 10748,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The NHS reported that clinicians could not access vital digital records during the outage.",
-          "translationJa": "NHSは、障害の間、医師たちが重要なデジタル記録にアクセスできなかったと報告しました。",
-          "id": "advanced-2026-11-15-s03",
-          "startMs": 12811,
-          "endMs": 17813,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s03.m4a"
+          "text": "Start by auditing your weekly schedule to identify which nights require the fastest cooking times.",
+          "translationJa": "週のスケジュールを精査し、どの夜が最も素早い調理時間を必要とするか特定することから始めます。",
+          "id": "advanced-2026-11-16-s03",
+          "startMs": 11148,
+          "endMs": 16758,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Schools across the region have experienced unexpected technical difficulties with their core computer networks.",
-          "translationJa": "地域中の学校が、基幹コンピューターネットワークで予期せぬ技術的困難を経験しました。",
-          "id": "advanced-2026-11-15-s04",
-          "startMs": 18213,
-          "endMs": 24252,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s04.m4a"
+          "text": "Select versatile proteins and vegetables that can be combined in various ways throughout the week.",
+          "translationJa": "週を通して様々な方法で組み合わせることができる、用途の広いタンパク質や野菜を選びましょう。",
+          "id": "advanced-2026-11-16-s04",
+          "startMs": 17158,
+          "endMs": 21921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Despite these challenges, major airports have maintained normal flight schedules without any significant delays.",
-          "translationJa": "これらの課題にもかかわらず、主要な空港は大きな遅延もなく通常の運航スケジュールを維持しました。",
-          "id": "advanced-2026-11-15-s05",
-          "startMs": 24652,
-          "endMs": 30904,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s05.m4a"
+          "text": "Store your ingredients in clear containers to easily see what needs to be used first.",
+          "translationJa": "何から使うべきか簡単にわかるように、透明な容器に食材を保管してください。",
+          "id": "advanced-2026-11-16-s05",
+          "startMs": 22321,
+          "endMs": 26909,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Intelligence services remain fully operational and appear unaffected by this widespread technical software error.",
-          "translationJa": "情報機関は完全に稼働しており、この広範囲にわたる技術的なソフトウェアエラーの影響を受けていないようです。",
-          "id": "advanced-2026-11-15-s06",
-          "startMs": 31304,
-          "endMs": 37547,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s06.m4a"
+          "text": "Implementing a basic theme for each day can significantly reduce your daily decision fatigue.",
+          "translationJa": "曜日ごとに基本的なテーマを導入すると、日々の決断疲れを大幅に軽減できます。",
+          "id": "advanced-2026-11-16-s06",
+          "startMs": 27309,
+          "endMs": 32345,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Government departments are currently evaluating the total scale of the disruption to public infrastructure.",
-          "translationJa": "政府部門は現在、公共インフラに対する混乱の全体的な規模を評価しています。",
-          "id": "advanced-2026-11-15-s07",
-          "startMs": 37947,
-          "endMs": 43582,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s07.m4a"
+          "text": "For instance, designate one evening for a hearty soup and another for a quick stir-fry.",
+          "translationJa": "例えば、ある晩はボリュームたっぷりのスープ、別の晩は手早い炒め物と決めておきます。",
+          "id": "advanced-2026-11-16-s07",
+          "startMs": 32745,
+          "endMs": 37437,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Technical experts are working urgently to identify the specific root cause of this failure.",
-          "translationJa": "技術専門家たちは、この障害の具体的な根本原因を特定するために緊急で取り組んでいます。",
-          "id": "advanced-2026-11-15-s08",
-          "startMs": 43982,
-          "endMs": 49032,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s08.m4a"
+          "text": "Do not overlook the importance of having a few emergency meals in your freezer ready.",
+          "translationJa": "冷凍庫に非常用の食事をいくつか常備しておくことの重要性を見落とさないでください。",
+          "id": "advanced-2026-11-16-s08",
+          "startMs": 37837,
+          "endMs": 42252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Authorities have requested that the public remain patient while restoration efforts are being conducted.",
-          "translationJa": "当局は、復旧作業が行われている間、一般市民に辛抱強く待つよう要請しました。",
-          "id": "advanced-2026-11-15-s09",
-          "startMs": 49432,
-          "endMs": 54734,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s09.m4a"
+          "text": "This simple safeguard prevents the temptation of ordering unhealthy food when plans suddenly change.",
+          "translationJa": "この単純な備えが、予定が急に変わったときに不健康な食べ物を注文したくなる誘惑を防ぎます。",
+          "id": "advanced-2026-11-16-s09",
+          "startMs": 42652,
+          "endMs": 47933,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "The stability of digital systems remains a primary concern for governments in our era.",
-          "translationJa": "デジタルシステムの安定性は、現代の政府にとって主要な懸念事項であり続けています。",
-          "id": "advanced-2026-11-15-s10",
-          "startMs": 55134,
-          "endMs": 59697,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s10.m4a"
+          "text": "Refine your process over time by tracking which meals you enjoy and which feel tedious.",
+          "translationJa": "どの食事を楽しめて、どれが面倒に感じるかを追跡し、時間をかけてプロセスを洗練させましょう。",
+          "id": "advanced-2026-11-16-s10",
+          "startMs": 48333,
+          "endMs": 53100,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Service recovery is expected to be gradual as systems are brought back online carefully.",
-          "translationJa": "システムが慎重にオンラインに戻されるため、サービスの回復は徐々に行われると予想されます。",
-          "id": "advanced-2026-11-15-s11",
-          "startMs": 60097,
-          "endMs": 64964,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Constant monitoring is in place to prevent further complications during the ongoing restoration phase.",
-          "translationJa": "進行中の復旧段階において、さらなる合併症を防ぐために常時監視が行われています。",
-          "id": "advanced-2026-11-15-s12",
-          "startMs": 65364,
-          "endMs": 71053,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced-s12.m4a"
+          "text": "Ultimately, a well-organized kitchen leads to better nutrition and a much calmer daily routine.",
+          "translationJa": "最終的に、整頓されたキッチンはより良い栄養と、より穏やかな日々のルーチンをもたらします。",
+          "id": "advanced-2026-11-16-s11",
+          "startMs": 53500,
+          "endMs": 58824,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "triggered",
-          "meaningJa": "引き起こした",
-          "exampleEn": "The event triggered a response.",
-          "exampleJa": "その出来事が反応を引き起こした。"
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "We must optimize our time.",
+          "exampleJa": "時間を最適化しなければなりません。"
         },
         {
-          "word": "critical",
-          "meaningJa": "重要な、危機的な",
-          "exampleEn": "This is a critical moment.",
-          "exampleJa": "今は重要な局面です。"
+          "word": "versatile",
+          "meaningJa": "多用途の",
+          "exampleEn": "This tool is very versatile.",
+          "exampleJa": "この道具はとても多用途です。"
         },
         {
-          "word": "clinicians",
-          "meaningJa": "臨床医",
-          "exampleEn": "Clinicians need accurate patient data.",
-          "exampleJa": "臨床医には正確な患者データが必要です。"
+          "word": "fatigue",
+          "meaningJa": "疲労",
+          "exampleEn": "Decision fatigue is common.",
+          "exampleJa": "決断疲れはよくあることです。"
         },
         {
-          "word": "restoration",
-          "meaningJa": "復旧、修復",
-          "exampleEn": "The restoration of power is a priority.",
-          "exampleJa": "電力の復旧が優先事項です。"
+          "word": "designate",
+          "meaningJa": "指定する",
+          "exampleEn": "Designate a place for keys.",
+          "exampleJa": "鍵の置き場所を指定してください。"
         },
         {
-          "word": "complications",
-          "meaningJa": "合併症、複雑な問題",
-          "exampleEn": "There were no complications during surgery.",
-          "exampleJa": "手術中に合併症はありませんでした。"
+          "word": "tedious",
+          "meaningJa": "退屈な、面倒な",
+          "exampleEn": "The work was quite tedious.",
+          "exampleJa": "その仕事はかなり面倒でした。"
         }
       ],
-      "id": "advanced-2026-11-15",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-15/advanced.m4a",
-      "durationSeconds": 69
+      "id": "advanced-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced.m4a",
+      "durationSeconds": 57
     }
   ],
-  "topicCategory": "news"
+  "topicCategory": "everyday_life"
 }

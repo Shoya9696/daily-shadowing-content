@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-15T15:01:14Z",
+  "lessonDate": "2026-11-16",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Easy Meal Planning for Busy Days",
+      "cefrLevel": "A2",
+      "summaryJa": "忙しい週のための簡単な食事計画の立て方について学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Planning your meals for the week saves a lot of time every day.",
+          "translationJa": "週の食事を計画することは、毎日多くの時間を節約することにつながります。",
+          "id": "beginner-2026-11-16-s01",
+          "startMs": 0,
+          "endMs": 3005,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should check your kitchen to see what food you have.",
+          "translationJa": "まず、キッチンを確認して、どんな食べ物があるかチェックしましょう。",
+          "id": "beginner-2026-11-16-s02",
+          "startMs": 3405,
+          "endMs": 6599,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Next, write down a list of simple recipes you like to cook often.",
+          "translationJa": "次に、よく作る簡単なレシピのリストを書き出してみましょう。",
+          "id": "beginner-2026-11-16-s03",
+          "startMs": 6999,
+          "endMs": 10895,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "It is helpful to choose ingredients that you can use for many meals.",
+          "translationJa": "多くの食事に使える食材を選ぶととても便利です。",
+          "id": "beginner-2026-11-16-s04",
+          "startMs": 11295,
+          "endMs": 14740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Go to the grocery store with your list to buy only what needed.",
+          "translationJa": "リストを持ってスーパーに行き、必要なものだけを買いましょう。",
+          "id": "beginner-2026-11-16-s05",
+          "startMs": 15140,
+          "endMs": 18221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You can wash and cut your vegetables as soon as you get home.",
+          "translationJa": "家に帰ったらすぐに野菜を洗ったり切ったりすることができます。",
+          "id": "beginner-2026-11-16-s06",
+          "startMs": 18621,
+          "endMs": 21655,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "This makes cooking dinner much faster after a long day at work.",
+          "translationJa": "こうすると、仕事で長い一日を終えた後の夕食作りがずっと楽になります。",
+          "id": "beginner-2026-11-16-s07",
+          "startMs": 22055,
+          "endMs": 25455,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Having a plan helps you eat healthy food even when you are busy.",
+          "translationJa": "計画を立てておくと、忙しい時でも健康的な食事ができます。",
+          "id": "beginner-2026-11-16-s08",
+          "startMs": 25855,
+          "endMs": 29067,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Start your meal planning today to enjoy your relaxing evenings at home.",
+          "translationJa": "今日から食事計画を始めて、家でのリラックスした夜を楽しみましょう。",
+          "id": "beginner-2026-11-16-s09",
+          "startMs": 29467,
+          "endMs": 33266,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "plan",
+          "meaningJa": "計画する",
+          "exampleEn": "I plan my meals on Sunday.",
+          "exampleJa": "日曜日に食事の計画を立てます。"
+        },
+        {
+          "word": "recipe",
+          "meaningJa": "レシピ",
+          "exampleEn": "This is a simple recipe.",
+          "exampleJa": "これは簡単なレシピです。"
+        },
+        {
+          "word": "ingredient",
+          "meaningJa": "食材",
+          "exampleEn": "Buy fresh ingredients.",
+          "exampleJa": "新鮮な食材を買いましょう。"
+        },
+        {
+          "word": "grocery store",
+          "meaningJa": "食料品店",
+          "exampleEn": "I go to the grocery store.",
+          "exampleJa": "食料品店に行きます。"
+        },
+        {
+          "word": "healthy",
+          "meaningJa": "健康的な",
+          "exampleEn": "Eat healthy food.",
+          "exampleJa": "健康的な食事をしましょう。"
+        }
+      ],
+      "id": "beginner-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner.m4a",
+      "durationSeconds": 32
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Weekly Meal Preparation",
+      "cefrLevel": "B1",
+      "summaryJa": "忙しい平日を乗り切るための効率的な食事準備のコツを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Preparing meals in advance is a great way to reduce stress during a busy week.",
+          "translationJa": "事前に食事を準備することは、忙しい週のストレスを減らす素晴らしい方法です。",
+          "id": "intermediate-2026-11-16-s01",
+          "startMs": 0,
+          "endMs": 4154,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many people find that they save money by avoiding last minute takeout orders every evening.",
+          "translationJa": "多くの人は、毎晩ぎりぎりになってテイクアウトを注文するのを避けることでお金を節約できると気づいています。",
+          "id": "intermediate-2026-11-16-s02",
+          "startMs": 4554,
+          "endMs": 9307,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The key is to create a weekly menu that relies on similar ingredients for every dish.",
+          "translationJa": "秘訣は、すべての料理に似たような食材を使う週ごとのメニューを作成することです。",
+          "id": "intermediate-2026-11-16-s03",
+          "startMs": 9707,
+          "endMs": 14282,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "You can start by looking for healthy recipes that do not require many complex cooking steps.",
+          "translationJa": "複雑な調理工程を必要としない健康的なレシピを探すことから始めましょう。",
+          "id": "intermediate-2026-11-16-s04",
+          "startMs": 14682,
+          "endMs": 19969,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Once you have your menu, make a detailed shopping list to avoid buying unnecessary items.",
+          "translationJa": "メニューが決まったら、不要なものを買わないように詳細な買い物リストを作りましょう。",
+          "id": "intermediate-2026-11-16-s05",
+          "startMs": 20369,
+          "endMs": 25561,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Buying in bulk can be efficient, but only if you have a plan to use everything.",
+          "translationJa": "まとめ買いは効率的ですが、すべてを使い切る計画がある場合に限ります。",
+          "id": "intermediate-2026-11-16-s06",
+          "startMs": 25961,
+          "endMs": 30087,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Setting aside two hours on Sunday for food preparation can transform your entire working week.",
+          "translationJa": "日曜日に食事準備のために2時間を確保することで、仕事の週全体を変えることができます。",
+          "id": "intermediate-2026-11-16-s07",
+          "startMs": 30487,
+          "endMs": 35807,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You might choose to wash all vegetables or cook a large batch of grains beforehand.",
+          "translationJa": "野菜をすべて洗ったり、穀物をまとめて炊いておいたりすることを選ぶかもしれません。",
+          "id": "intermediate-2026-11-16-s08",
+          "startMs": 36207,
+          "endMs": 40472,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Having ready components in the fridge makes assembling a quick dinner feel like a breeze.",
+          "translationJa": "冷蔵庫に準備済みの材料があると、手早く夕食を組み立てるのがとても簡単に感じられます。",
+          "id": "intermediate-2026-11-16-s09",
+          "startMs": 40872,
+          "endMs": 45210,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consistency is important, so try to keep your routine simple until it becomes a habit.",
+          "translationJa": "継続することが重要なので、習慣になるまではルーチンをシンプルに保つようにしてください。",
+          "id": "intermediate-2026-11-16-s10",
+          "startMs": 45610,
+          "endMs": 50846,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "With a bit of practice, you will find that you have more free time every night.",
+          "translationJa": "少し練習すれば、毎晩もっと自由な時間を持てるようになることに気づくでしょう。",
+          "id": "intermediate-2026-11-16-s11",
+          "startMs": 51246,
+          "endMs": 55184,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "in advance",
+          "meaningJa": "事前に",
+          "exampleEn": "I prepared the file in advance.",
+          "exampleJa": "事前にファイルを準備しました。"
+        },
+        {
+          "word": "reduce",
+          "meaningJa": "減らす",
+          "exampleEn": "We should reduce waste.",
+          "exampleJa": "無駄を減らすべきです。"
+        },
+        {
+          "word": "rely on",
+          "meaningJa": "～に頼る",
+          "exampleEn": "I rely on this app.",
+          "exampleJa": "このアプリを頼りにしています。"
+        },
+        {
+          "word": "bulk",
+          "meaningJa": "大量",
+          "exampleEn": "Buying in bulk is cheaper.",
+          "exampleJa": "まとめ買いは安いです。"
+        },
+        {
+          "word": "consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is the key to success.",
+          "exampleJa": "継続こそが成功の鍵です。"
+        }
+      ],
+      "id": "intermediate-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate.m4a",
+      "durationSeconds": 53
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Optimizing Your Weekly Food Strategy",
+      "cefrLevel": "B2",
+      "summaryJa": "食事の準備を戦略的に行い、時間と健康を最適化するための高度なヒント。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Efficient meal planning is a powerful tool for maintaining a healthy and productive lifestyle.",
+          "translationJa": "効率的な食事計画は、健康的で生産的な生活を維持するための強力なツールです。",
+          "id": "advanced-2026-11-16-s01",
+          "startMs": 0,
+          "endMs": 4942,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Rather than cooking daily, many professionals prefer batch cooking to save precious evening hours.",
+          "translationJa": "毎日料理するよりも、多くの専門家は貴重な夜の時間を節約するために作り置きを好みます。",
+          "id": "advanced-2026-11-16-s02",
+          "startMs": 5342,
+          "endMs": 10748,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Start by auditing your weekly schedule to identify which nights require the fastest cooking times.",
+          "translationJa": "週のスケジュールを精査し、どの夜が最も素早い調理時間を必要とするか特定することから始めます。",
+          "id": "advanced-2026-11-16-s03",
+          "startMs": 11148,
+          "endMs": 16758,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Select versatile proteins and vegetables that can be combined in various ways throughout the week.",
+          "translationJa": "週を通して様々な方法で組み合わせることができる、用途の広いタンパク質や野菜を選びましょう。",
+          "id": "advanced-2026-11-16-s04",
+          "startMs": 17158,
+          "endMs": 21921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Store your ingredients in clear containers to easily see what needs to be used first.",
+          "translationJa": "何から使うべきか簡単にわかるように、透明な容器に食材を保管してください。",
+          "id": "advanced-2026-11-16-s05",
+          "startMs": 22321,
+          "endMs": 26909,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Implementing a basic theme for each day can significantly reduce your daily decision fatigue.",
+          "translationJa": "曜日ごとに基本的なテーマを導入すると、日々の決断疲れを大幅に軽減できます。",
+          "id": "advanced-2026-11-16-s06",
+          "startMs": 27309,
+          "endMs": 32345,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "For instance, designate one evening for a hearty soup and another for a quick stir-fry.",
+          "translationJa": "例えば、ある晩はボリュームたっぷりのスープ、別の晩は手早い炒め物と決めておきます。",
+          "id": "advanced-2026-11-16-s07",
+          "startMs": 32745,
+          "endMs": 37437,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Do not overlook the importance of having a few emergency meals in your freezer ready.",
+          "translationJa": "冷凍庫に非常用の食事をいくつか常備しておくことの重要性を見落とさないでください。",
+          "id": "advanced-2026-11-16-s08",
+          "startMs": 37837,
+          "endMs": 42252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "This simple safeguard prevents the temptation of ordering unhealthy food when plans suddenly change.",
+          "translationJa": "この単純な備えが、予定が急に変わったときに不健康な食べ物を注文したくなる誘惑を防ぎます。",
+          "id": "advanced-2026-11-16-s09",
+          "startMs": 42652,
+          "endMs": 47933,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Refine your process over time by tracking which meals you enjoy and which feel tedious.",
+          "translationJa": "どの食事を楽しめて、どれが面倒に感じるかを追跡し、時間をかけてプロセスを洗練させましょう。",
+          "id": "advanced-2026-11-16-s10",
+          "startMs": 48333,
+          "endMs": 53100,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, a well-organized kitchen leads to better nutrition and a much calmer daily routine.",
+          "translationJa": "最終的に、整頓されたキッチンはより良い栄養と、より穏やかな日々のルーチンをもたらします。",
+          "id": "advanced-2026-11-16-s11",
+          "startMs": 53500,
+          "endMs": 58824,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "optimize",
+          "meaningJa": "最適化する",
+          "exampleEn": "We must optimize our time.",
+          "exampleJa": "時間を最適化しなければなりません。"
+        },
+        {
+          "word": "versatile",
+          "meaningJa": "多用途の",
+          "exampleEn": "This tool is very versatile.",
+          "exampleJa": "この道具はとても多用途です。"
+        },
+        {
+          "word": "fatigue",
+          "meaningJa": "疲労",
+          "exampleEn": "Decision fatigue is common.",
+          "exampleJa": "決断疲れはよくあることです。"
+        },
+        {
+          "word": "designate",
+          "meaningJa": "指定する",
+          "exampleEn": "Designate a place for keys.",
+          "exampleJa": "鍵の置き場所を指定してください。"
+        },
+        {
+          "word": "tedious",
+          "meaningJa": "退屈な、面倒な",
+          "exampleEn": "The work was quite tedious.",
+          "exampleJa": "その仕事はかなり面倒でした。"
+        }
+      ],
+      "id": "advanced-2026-11-16",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced.m4a",
+      "durationSeconds": 57
+    }
+  ],
+  "topicCategory": "everyday_life"
+}

@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-14T15:01:29Z",
-  "latestLessonDate": "2026-11-15",
+  "generatedAtUtc": "2026-11-15T15:01:14Z",
+  "latestLessonDate": "2026-11-16",
   "days": [
+    {
+      "lessonDate": "2026-11-16",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-16.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Easy Meal Planning for Busy Days",
+          "durationSeconds": 32,
+          "summaryJa": "忙しい週のための簡単な食事計画の立て方について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Weekly Meal Preparation",
+          "durationSeconds": 53,
+          "summaryJa": "忙しい平日を乗り切るための効率的な食事準備のコツを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Your Weekly Food Strategy",
+          "durationSeconds": 57,
+          "summaryJa": "食事の準備を戦略的に行い、時間と健康を最適化するための高度なヒント。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-11-15",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-15.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-10-16",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-16.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "New Hospital Ward Guidelines",
-          "durationSeconds": 34,
-          "summaryJa": "NHSイングランドが発表した、病院の病棟利用に関する新しいガイドラインについての説明。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Changes to NHS Hospital Ward Policies",
-          "durationSeconds": 53,
-          "summaryJa": "NHSイングランドによる、生物学的な性に基づく病棟利用の新しいガイドラインについて。"
-        },
-        {
-          "level": "advanced",
-          "title": "NHS England Updates Ward Admission Protocols",
-          "durationSeconds": 66,
-          "summaryJa": "NHSイングランドによる、生物学的な性に基づく病室割り当てに関する新しいガイダンスの要点。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }
