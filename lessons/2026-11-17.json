@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-16T15:01:28Z",
+  "lessonDate": "2026-11-17",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Asking for Feedback on a Draft",
+      "cefrLevel": "A2",
+      "summaryJa": "ドラフトへのフィードバックを依頼し、改善するための実用的なアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "I have finished the first draft of our new project report today.",
+          "translationJa": "新しいプロジェクトレポートの初稿を今日書き終えました。",
+          "id": "beginner-2026-11-17-s01",
+          "startMs": 0,
+          "endMs": 3340,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Could you please take a look at it when you have time?",
+          "translationJa": "お時間があるときに見ていただけますでしょうか？",
+          "id": "beginner-2026-11-17-s02",
+          "startMs": 3740,
+          "endMs": 6223,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "I want to make sure the main points are clear to everyone.",
+          "translationJa": "要点が誰にでも明確であることを確認したいのです。",
+          "id": "beginner-2026-11-17-s03",
+          "startMs": 6623,
+          "endMs": 9626,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Please feel free to leave comments directly on the shared document file.",
+          "translationJa": "共有ドキュメントファイルに直接コメントを残してください。",
+          "id": "beginner-2026-11-17-s04",
+          "startMs": 10026,
+          "endMs": 13960,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "I am particularly worried about the section regarding our budget plan details.",
+          "translationJa": "特に予算計画の詳細に関するセクションが少し心配です。",
+          "id": "beginner-2026-11-17-s05",
+          "startMs": 14360,
+          "endMs": 18629,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Do you think the tone of this writing is professional enough now?",
+          "translationJa": "今の文章のトーンは十分プロフェッショナルだと思いますか？",
+          "id": "beginner-2026-11-17-s06",
+          "startMs": 19029,
+          "endMs": 22260,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Your honest feedback will help me improve this document very much indeed.",
+          "translationJa": "あなたの率直なフィードバックがこの文書の改善に大いに役立ちます。",
+          "id": "beginner-2026-11-17-s07",
+          "startMs": 22660,
+          "endMs": 26495,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "I am planning to send the final version by next Friday afternoon.",
+          "translationJa": "来週の金曜日の午後までに最終版を送る予定です。",
+          "id": "beginner-2026-11-17-s08",
+          "startMs": 26895,
+          "endMs": 30479,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Thank you very much for helping me with this important work task.",
+          "translationJa": "この重要な仕事を手伝ってくれて本当にありがとうございます。",
+          "id": "beginner-2026-11-17-s09",
+          "startMs": 30879,
+          "endMs": 34271,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "draft",
+          "meaningJa": "草案、下書き",
+          "exampleEn": "This is just a rough draft.",
+          "exampleJa": "これは単なる下書きです。"
+        },
+        {
+          "word": "feedback",
+          "meaningJa": "フィードバック、意見",
+          "exampleEn": "I appreciate your feedback.",
+          "exampleJa": "あなたの意見に感謝します。"
+        },
+        {
+          "word": "professional",
+          "meaningJa": "専門的な、プロらしい",
+          "exampleEn": "Keep the tone professional.",
+          "exampleJa": "トーンをプロらしく保ってください。"
+        },
+        {
+          "word": "section",
+          "meaningJa": "セクション、部分",
+          "exampleEn": "Read this section carefully.",
+          "exampleJa": "このセクションを注意深く読んでください。"
+        },
+        {
+          "word": "document",
+          "meaningJa": "文書、書類",
+          "exampleEn": "Please sign the document.",
+          "exampleJa": "書類に署名してください。"
+        }
+      ],
+      "id": "beginner-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner.m4a",
+      "durationSeconds": 33
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Effective Ways to Request Feedback",
+      "cefrLevel": "B1",
+      "summaryJa": "同僚から質の高いフィードバックを得るための効果的な依頼方法とコミュニケーションのコツ。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "When you ask for feedback, it is important to be very specific about your needs.",
+          "translationJa": "フィードバックを求めるときは、自分のニーズについて非常に具体的に伝えることが重要です。",
+          "id": "intermediate-2026-11-17-s01",
+          "startMs": 0,
+          "endMs": 4495,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Instead of asking if the document is okay, try asking for comments on specific areas.",
+          "translationJa": "「この文書で大丈夫か」と尋ねる代わりに、特定の箇所についてコメントを求めてみてください。",
+          "id": "intermediate-2026-11-17-s02",
+          "startMs": 4895,
+          "endMs": 10198,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "For example, you could ask if the logic in the introduction is easy to follow.",
+          "translationJa": "例えば、導入部の論理が理解しやすいかどうかを尋ねてみるのも良いでしょう。",
+          "id": "intermediate-2026-11-17-s03",
+          "startMs": 10598,
+          "endMs": 14907,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Providing context helps your colleagues understand why you wrote the document in a certain way.",
+          "translationJa": "背景を説明することで、同僚はなぜあなたがそのように書いたのかを理解しやすくなります。",
+          "id": "intermediate-2026-11-17-s04",
+          "startMs": 15307,
+          "endMs": 20251,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Mention the target audience so that the reader can evaluate the style and the tone.",
+          "translationJa": "ターゲットとなる読者を伝えて、読み手がスタイルやトーンを評価できるようにしましょう。",
+          "id": "intermediate-2026-11-17-s05",
+          "startMs": 20651,
+          "endMs": 24777,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you are working on a long report, ask for feedback on one chapter at once.",
+          "translationJa": "長いレポートに取り組んでいる場合は、一度に一つの章についてフィードバックを求めてください。",
+          "id": "intermediate-2026-11-17-s06",
+          "startMs": 25177,
+          "endMs": 29644,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "This makes it much easier for the reviewer to focus and provide high quality advice.",
+          "translationJa": "そうすれば、レビュアーは集中しやすく、質の高いアドバイスを提供できます。",
+          "id": "intermediate-2026-11-17-s07",
+          "startMs": 30044,
+          "endMs": 34640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Always set a clear deadline so that the reviewer knows when you need the input.",
+          "translationJa": "いつまでに意見が必要かをレビュアーが知るために、常に明確な期限を設定しましょう。",
+          "id": "intermediate-2026-11-17-s08",
+          "startMs": 35040,
+          "endMs": 38920,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Showing appreciation for their time is also essential for maintaining a positive working relationship today.",
+          "translationJa": "彼らの時間に感謝を示すことは、今日良好な仕事関係を維持するためにも不可欠です。",
+          "id": "intermediate-2026-11-17-s09",
+          "startMs": 39320,
+          "endMs": 45088,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Good communication builds trust and leads to much better results for the entire project team.",
+          "translationJa": "優れたコミュニケーションは信頼を築き、プロジェクトチーム全体にとってより良い結果をもたらします。",
+          "id": "intermediate-2026-11-17-s10",
+          "startMs": 45488,
+          "endMs": 50449,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Start practicing these small habits to improve your daily productivity and your team collaboration skills.",
+          "translationJa": "日々の生産性とチームのコラボレーションスキルを向上させるために、これらの小さな習慣を実践し始めましょう。",
+          "id": "intermediate-2026-11-17-s11",
+          "startMs": 50849,
+          "endMs": 56436,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "specific",
+          "meaningJa": "具体的な",
+          "exampleEn": "Please be more specific.",
+          "exampleJa": "もっと具体的にしてください。"
+        },
+        {
+          "word": "logic",
+          "meaningJa": "論理",
+          "exampleEn": "The logic is sound.",
+          "exampleJa": "その論理は妥当です。"
+        },
+        {
+          "word": "context",
+          "meaningJa": "背景、文脈",
+          "exampleEn": "Give me some context.",
+          "exampleJa": "背景を教えてください。"
+        },
+        {
+          "word": "reviewer",
+          "meaningJa": "査読者、レビューする人",
+          "exampleEn": "Ask the reviewer for help.",
+          "exampleJa": "レビュアーに助けを求めてください。"
+        },
+        {
+          "word": "collaboration",
+          "meaningJa": "協力、共同作業",
+          "exampleEn": "Great team collaboration.",
+          "exampleJa": "素晴らしいチームの協力関係です。"
+        }
+      ],
+      "id": "intermediate-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Mastering the Art of Constructive Feedback",
+      "cefrLevel": "B2",
+      "summaryJa": "建設的なフィードバックを依頼し、業務効率を最大化するためのプロフェッショナルなアプローチ。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Requesting feedback effectively is a core skill for maintaining high productivity in professional environments.",
+          "translationJa": "効果的にフィードバックを依頼することは、職場環境で高い生産性を維持するための核となるスキルです。",
+          "id": "advanced-2026-11-17-s01",
+          "startMs": 0,
+          "endMs": 6079,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Do not simply send a document and hope for the best without providing clear guidance.",
+          "translationJa": "明確な指針を示さずに、ただ文書を送って「うまくいくことを願う」ようなことは避けましょう。",
+          "id": "advanced-2026-11-17-s02",
+          "startMs": 6479,
+          "endMs": 11034,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Instead, articulate the specific questions you have regarding the structure, clarity, or the data presented.",
+          "translationJa": "代わりに、構成、明瞭さ、あるいは提示されたデータに関して、具体的な疑問を明確に伝えてください。",
+          "id": "advanced-2026-11-17-s03",
+          "startMs": 11434,
+          "endMs": 18002,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "When you identify the exact areas of concern, you respect your colleague's time and effort.",
+          "translationJa": "懸念点を正確に特定することで、同僚の時間と労力に敬意を払うことができます。",
+          "id": "advanced-2026-11-17-s04",
+          "startMs": 18402,
+          "endMs": 23559,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Consider suggesting a brief meeting if the document requires complex explanations or deep analytical insight.",
+          "translationJa": "文書が複雑な説明や深い分析的洞察を必要とする場合は、短い打ち合わせを提案することも検討してください。",
+          "id": "advanced-2026-11-17-s05",
+          "startMs": 23959,
+          "endMs": 30112,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "This allows for immediate clarification and prevents unnecessary back and forth via endless email threads.",
+          "translationJa": "これにより即座に明確化が可能となり、終わりのないメールのやり取りによる無駄を防ぐことができます。",
+          "id": "advanced-2026-11-17-s06",
+          "startMs": 30512,
+          "endMs": 36431,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Be prepared to receive critical feedback and view it as a valuable opportunity for improvement.",
+          "translationJa": "批判的なフィードバックを受ける準備をして、それを改善のための貴重な機会と捉えてください。",
+          "id": "advanced-2026-11-17-s07",
+          "startMs": 36831,
+          "endMs": 41816,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Avoid becoming defensive because the primary goal is to refine the final output together successfully.",
+          "translationJa": "最終的な成果物を一緒に成功させることが第一の目的なので、防御的になることは避けましょう。",
+          "id": "advanced-2026-11-17-s08",
+          "startMs": 42216,
+          "endMs": 47855,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "A culture of open feedback fosters innovation and helps teams grow stronger over the long term.",
+          "translationJa": "オープンなフィードバックの文化はイノベーションを促進し、チームが長期的に成長する助けとなります。",
+          "id": "advanced-2026-11-17-s09",
+          "startMs": 48255,
+          "endMs": 53418,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Always acknowledge the input you receive and implement changes that add real value to your work.",
+          "translationJa": "受け取った意見を常に認め、仕事に真の価値を加えるような変更を適用してください。",
+          "id": "advanced-2026-11-17-s10",
+          "startMs": 53818,
+          "endMs": 58627,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By mastering this process, you will streamline your workflow and produce results of higher quality.",
+          "translationJa": "このプロセスを習得することで、ワークフローを効率化し、より質の高い成果を生み出せるようになります。",
+          "id": "advanced-2026-11-17-s11",
+          "startMs": 59027,
+          "endMs": 64360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Consistent communication is the foundation of excellence in any collaborative business project today.",
+          "translationJa": "一貫したコミュニケーションこそが、今日のあらゆる共同ビジネスプロジェクトにおける卓越性の基盤です。",
+          "id": "advanced-2026-11-17-s12",
+          "startMs": 64760,
+          "endMs": 70158,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "articulate",
+          "meaningJa": "明確に述べる",
+          "exampleEn": "Can you articulate your concerns?",
+          "exampleJa": "懸念を明確に述べていただけますか？"
+        },
+        {
+          "word": "analytical",
+          "meaningJa": "分析的な",
+          "exampleEn": "We need analytical skills.",
+          "exampleJa": "分析的なスキルが必要です。"
+        },
+        {
+          "word": "defensive",
+          "meaningJa": "防御的な",
+          "exampleEn": "Do not get defensive.",
+          "exampleJa": "防御的にならないでください。"
+        },
+        {
+          "word": "foster",
+          "meaningJa": "促進する、育む",
+          "exampleEn": "Foster a good environment.",
+          "exampleJa": "良い環境を育んでください。"
+        },
+        {
+          "word": "streamline",
+          "meaningJa": "効率化する",
+          "exampleEn": "We must streamline the process.",
+          "exampleJa": "プロセスを効率化しなければなりません。"
+        }
+      ],
+      "id": "advanced-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced.m4a",
+      "durationSeconds": 68
+    }
+  ],
+  "topicCategory": "work_productivity"
+}

@@ -1,425 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-15T15:01:14Z",
-  "lessonDate": "2026-11-16",
+  "generatedAtUtc": "2026-11-16T15:01:28Z",
+  "lessonDate": "2026-11-17",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Easy Meal Planning for Busy Days",
+      "title": "Asking for Feedback on a Draft",
       "cefrLevel": "A2",
-      "summaryJa": "忙しい週のための簡単な食事計画の立て方について学びます。",
+      "summaryJa": "ドラフトへのフィードバックを依頼し、改善するための実用的なアドバイス。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Planning your meals for the week saves a lot of time every day.",
-          "translationJa": "週の食事を計画することは、毎日多くの時間を節約することにつながります。",
-          "id": "beginner-2026-11-16-s01",
+          "text": "I have finished the first draft of our new project report today.",
+          "translationJa": "新しいプロジェクトレポートの初稿を今日書き終えました。",
+          "id": "beginner-2026-11-17-s01",
           "startMs": 0,
-          "endMs": 3005,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s01.m4a"
+          "endMs": 3340,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "First, you should check your kitchen to see what food you have.",
-          "translationJa": "まず、キッチンを確認して、どんな食べ物があるかチェックしましょう。",
-          "id": "beginner-2026-11-16-s02",
-          "startMs": 3405,
-          "endMs": 6599,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s02.m4a"
+          "text": "Could you please take a look at it when you have time?",
+          "translationJa": "お時間があるときに見ていただけますでしょうか？",
+          "id": "beginner-2026-11-17-s02",
+          "startMs": 3740,
+          "endMs": 6223,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Next, write down a list of simple recipes you like to cook often.",
-          "translationJa": "次に、よく作る簡単なレシピのリストを書き出してみましょう。",
-          "id": "beginner-2026-11-16-s03",
-          "startMs": 6999,
-          "endMs": 10895,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s03.m4a"
+          "text": "I want to make sure the main points are clear to everyone.",
+          "translationJa": "要点が誰にでも明確であることを確認したいのです。",
+          "id": "beginner-2026-11-17-s03",
+          "startMs": 6623,
+          "endMs": 9626,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is helpful to choose ingredients that you can use for many meals.",
-          "translationJa": "多くの食事に使える食材を選ぶととても便利です。",
-          "id": "beginner-2026-11-16-s04",
-          "startMs": 11295,
-          "endMs": 14740,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s04.m4a"
+          "text": "Please feel free to leave comments directly on the shared document file.",
+          "translationJa": "共有ドキュメントファイルに直接コメントを残してください。",
+          "id": "beginner-2026-11-17-s04",
+          "startMs": 10026,
+          "endMs": 13960,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Go to the grocery store with your list to buy only what needed.",
-          "translationJa": "リストを持ってスーパーに行き、必要なものだけを買いましょう。",
-          "id": "beginner-2026-11-16-s05",
-          "startMs": 15140,
-          "endMs": 18221,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s05.m4a"
+          "text": "I am particularly worried about the section regarding our budget plan details.",
+          "translationJa": "特に予算計画の詳細に関するセクションが少し心配です。",
+          "id": "beginner-2026-11-17-s05",
+          "startMs": 14360,
+          "endMs": 18629,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You can wash and cut your vegetables as soon as you get home.",
-          "translationJa": "家に帰ったらすぐに野菜を洗ったり切ったりすることができます。",
-          "id": "beginner-2026-11-16-s06",
-          "startMs": 18621,
-          "endMs": 21655,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s06.m4a"
+          "text": "Do you think the tone of this writing is professional enough now?",
+          "translationJa": "今の文章のトーンは十分プロフェッショナルだと思いますか？",
+          "id": "beginner-2026-11-17-s06",
+          "startMs": 19029,
+          "endMs": 22260,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "This makes cooking dinner much faster after a long day at work.",
-          "translationJa": "こうすると、仕事で長い一日を終えた後の夕食作りがずっと楽になります。",
-          "id": "beginner-2026-11-16-s07",
-          "startMs": 22055,
-          "endMs": 25455,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s07.m4a"
+          "text": "Your honest feedback will help me improve this document very much indeed.",
+          "translationJa": "あなたの率直なフィードバックがこの文書の改善に大いに役立ちます。",
+          "id": "beginner-2026-11-17-s07",
+          "startMs": 22660,
+          "endMs": 26495,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Having a plan helps you eat healthy food even when you are busy.",
-          "translationJa": "計画を立てておくと、忙しい時でも健康的な食事ができます。",
-          "id": "beginner-2026-11-16-s08",
-          "startMs": 25855,
-          "endMs": 29067,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s08.m4a"
+          "text": "I am planning to send the final version by next Friday afternoon.",
+          "translationJa": "来週の金曜日の午後までに最終版を送る予定です。",
+          "id": "beginner-2026-11-17-s08",
+          "startMs": 26895,
+          "endMs": 30479,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Start your meal planning today to enjoy your relaxing evenings at home.",
-          "translationJa": "今日から食事計画を始めて、家でのリラックスした夜を楽しみましょう。",
-          "id": "beginner-2026-11-16-s09",
-          "startMs": 29467,
-          "endMs": 33266,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner-s09.m4a"
+          "text": "Thank you very much for helping me with this important work task.",
+          "translationJa": "この重要な仕事を手伝ってくれて本当にありがとうございます。",
+          "id": "beginner-2026-11-17-s09",
+          "startMs": 30879,
+          "endMs": 34271,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "plan",
-          "meaningJa": "計画する",
-          "exampleEn": "I plan my meals on Sunday.",
-          "exampleJa": "日曜日に食事の計画を立てます。"
+          "word": "draft",
+          "meaningJa": "草案、下書き",
+          "exampleEn": "This is just a rough draft.",
+          "exampleJa": "これは単なる下書きです。"
         },
         {
-          "word": "recipe",
-          "meaningJa": "レシピ",
-          "exampleEn": "This is a simple recipe.",
-          "exampleJa": "これは簡単なレシピです。"
+          "word": "feedback",
+          "meaningJa": "フィードバック、意見",
+          "exampleEn": "I appreciate your feedback.",
+          "exampleJa": "あなたの意見に感謝します。"
         },
         {
-          "word": "ingredient",
-          "meaningJa": "食材",
-          "exampleEn": "Buy fresh ingredients.",
-          "exampleJa": "新鮮な食材を買いましょう。"
+          "word": "professional",
+          "meaningJa": "専門的な、プロらしい",
+          "exampleEn": "Keep the tone professional.",
+          "exampleJa": "トーンをプロらしく保ってください。"
         },
         {
-          "word": "grocery store",
-          "meaningJa": "食料品店",
-          "exampleEn": "I go to the grocery store.",
-          "exampleJa": "食料品店に行きます。"
+          "word": "section",
+          "meaningJa": "セクション、部分",
+          "exampleEn": "Read this section carefully.",
+          "exampleJa": "このセクションを注意深く読んでください。"
         },
         {
-          "word": "healthy",
-          "meaningJa": "健康的な",
-          "exampleEn": "Eat healthy food.",
-          "exampleJa": "健康的な食事をしましょう。"
+          "word": "document",
+          "meaningJa": "文書、書類",
+          "exampleEn": "Please sign the document.",
+          "exampleJa": "書類に署名してください。"
         }
       ],
-      "id": "beginner-2026-11-16",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/beginner.m4a",
-      "durationSeconds": 32
+      "id": "beginner-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/beginner.m4a",
+      "durationSeconds": 33
     },
     {
       "levelGroup": "intermediate",
-      "title": "Mastering Weekly Meal Preparation",
+      "title": "Effective Ways to Request Feedback",
       "cefrLevel": "B1",
-      "summaryJa": "忙しい平日を乗り切るための効率的な食事準備のコツを紹介します。",
+      "summaryJa": "同僚から質の高いフィードバックを得るための効果的な依頼方法とコミュニケーションのコツ。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Preparing meals in advance is a great way to reduce stress during a busy week.",
-          "translationJa": "事前に食事を準備することは、忙しい週のストレスを減らす素晴らしい方法です。",
-          "id": "intermediate-2026-11-16-s01",
+          "text": "When you ask for feedback, it is important to be very specific about your needs.",
+          "translationJa": "フィードバックを求めるときは、自分のニーズについて非常に具体的に伝えることが重要です。",
+          "id": "intermediate-2026-11-17-s01",
           "startMs": 0,
-          "endMs": 4154,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s01.m4a"
+          "endMs": 4495,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many people find that they save money by avoiding last minute takeout orders every evening.",
-          "translationJa": "多くの人は、毎晩ぎりぎりになってテイクアウトを注文するのを避けることでお金を節約できると気づいています。",
-          "id": "intermediate-2026-11-16-s02",
-          "startMs": 4554,
-          "endMs": 9307,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s02.m4a"
+          "text": "Instead of asking if the document is okay, try asking for comments on specific areas.",
+          "translationJa": "「この文書で大丈夫か」と尋ねる代わりに、特定の箇所についてコメントを求めてみてください。",
+          "id": "intermediate-2026-11-17-s02",
+          "startMs": 4895,
+          "endMs": 10198,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The key is to create a weekly menu that relies on similar ingredients for every dish.",
-          "translationJa": "秘訣は、すべての料理に似たような食材を使う週ごとのメニューを作成することです。",
-          "id": "intermediate-2026-11-16-s03",
-          "startMs": 9707,
-          "endMs": 14282,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s03.m4a"
+          "text": "For example, you could ask if the logic in the introduction is easy to follow.",
+          "translationJa": "例えば、導入部の論理が理解しやすいかどうかを尋ねてみるのも良いでしょう。",
+          "id": "intermediate-2026-11-17-s03",
+          "startMs": 10598,
+          "endMs": 14907,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You can start by looking for healthy recipes that do not require many complex cooking steps.",
-          "translationJa": "複雑な調理工程を必要としない健康的なレシピを探すことから始めましょう。",
-          "id": "intermediate-2026-11-16-s04",
-          "startMs": 14682,
-          "endMs": 19969,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s04.m4a"
+          "text": "Providing context helps your colleagues understand why you wrote the document in a certain way.",
+          "translationJa": "背景を説明することで、同僚はなぜあなたがそのように書いたのかを理解しやすくなります。",
+          "id": "intermediate-2026-11-17-s04",
+          "startMs": 15307,
+          "endMs": 20251,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Once you have your menu, make a detailed shopping list to avoid buying unnecessary items.",
-          "translationJa": "メニューが決まったら、不要なものを買わないように詳細な買い物リストを作りましょう。",
-          "id": "intermediate-2026-11-16-s05",
-          "startMs": 20369,
-          "endMs": 25561,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s05.m4a"
+          "text": "Mention the target audience so that the reader can evaluate the style and the tone.",
+          "translationJa": "ターゲットとなる読者を伝えて、読み手がスタイルやトーンを評価できるようにしましょう。",
+          "id": "intermediate-2026-11-17-s05",
+          "startMs": 20651,
+          "endMs": 24777,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Buying in bulk can be efficient, but only if you have a plan to use everything.",
-          "translationJa": "まとめ買いは効率的ですが、すべてを使い切る計画がある場合に限ります。",
-          "id": "intermediate-2026-11-16-s06",
-          "startMs": 25961,
-          "endMs": 30087,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s06.m4a"
+          "text": "If you are working on a long report, ask for feedback on one chapter at once.",
+          "translationJa": "長いレポートに取り組んでいる場合は、一度に一つの章についてフィードバックを求めてください。",
+          "id": "intermediate-2026-11-17-s06",
+          "startMs": 25177,
+          "endMs": 29644,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Setting aside two hours on Sunday for food preparation can transform your entire working week.",
-          "translationJa": "日曜日に食事準備のために2時間を確保することで、仕事の週全体を変えることができます。",
-          "id": "intermediate-2026-11-16-s07",
-          "startMs": 30487,
-          "endMs": 35807,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s07.m4a"
+          "text": "This makes it much easier for the reviewer to focus and provide high quality advice.",
+          "translationJa": "そうすれば、レビュアーは集中しやすく、質の高いアドバイスを提供できます。",
+          "id": "intermediate-2026-11-17-s07",
+          "startMs": 30044,
+          "endMs": 34640,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "You might choose to wash all vegetables or cook a large batch of grains beforehand.",
-          "translationJa": "野菜をすべて洗ったり、穀物をまとめて炊いておいたりすることを選ぶかもしれません。",
-          "id": "intermediate-2026-11-16-s08",
-          "startMs": 36207,
-          "endMs": 40472,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s08.m4a"
+          "text": "Always set a clear deadline so that the reviewer knows when you need the input.",
+          "translationJa": "いつまでに意見が必要かをレビュアーが知るために、常に明確な期限を設定しましょう。",
+          "id": "intermediate-2026-11-17-s08",
+          "startMs": 35040,
+          "endMs": 38920,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Having ready components in the fridge makes assembling a quick dinner feel like a breeze.",
-          "translationJa": "冷蔵庫に準備済みの材料があると、手早く夕食を組み立てるのがとても簡単に感じられます。",
-          "id": "intermediate-2026-11-16-s09",
-          "startMs": 40872,
-          "endMs": 45210,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s09.m4a"
+          "text": "Showing appreciation for their time is also essential for maintaining a positive working relationship today.",
+          "translationJa": "彼らの時間に感謝を示すことは、今日良好な仕事関係を維持するためにも不可欠です。",
+          "id": "intermediate-2026-11-17-s09",
+          "startMs": 39320,
+          "endMs": 45088,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Consistency is important, so try to keep your routine simple until it becomes a habit.",
-          "translationJa": "継続することが重要なので、習慣になるまではルーチンをシンプルに保つようにしてください。",
-          "id": "intermediate-2026-11-16-s10",
-          "startMs": 45610,
-          "endMs": 50846,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s10.m4a"
+          "text": "Good communication builds trust and leads to much better results for the entire project team.",
+          "translationJa": "優れたコミュニケーションは信頼を築き、プロジェクトチーム全体にとってより良い結果をもたらします。",
+          "id": "intermediate-2026-11-17-s10",
+          "startMs": 45488,
+          "endMs": 50449,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "With a bit of practice, you will find that you have more free time every night.",
-          "translationJa": "少し練習すれば、毎晩もっと自由な時間を持てるようになることに気づくでしょう。",
-          "id": "intermediate-2026-11-16-s11",
-          "startMs": 51246,
-          "endMs": 55184,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate-s11.m4a"
+          "text": "Start practicing these small habits to improve your daily productivity and your team collaboration skills.",
+          "translationJa": "日々の生産性とチームのコラボレーションスキルを向上させるために、これらの小さな習慣を実践し始めましょう。",
+          "id": "intermediate-2026-11-17-s11",
+          "startMs": 50849,
+          "endMs": 56436,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "in advance",
-          "meaningJa": "事前に",
-          "exampleEn": "I prepared the file in advance.",
-          "exampleJa": "事前にファイルを準備しました。"
+          "word": "specific",
+          "meaningJa": "具体的な",
+          "exampleEn": "Please be more specific.",
+          "exampleJa": "もっと具体的にしてください。"
         },
         {
-          "word": "reduce",
-          "meaningJa": "減らす",
-          "exampleEn": "We should reduce waste.",
-          "exampleJa": "無駄を減らすべきです。"
+          "word": "logic",
+          "meaningJa": "論理",
+          "exampleEn": "The logic is sound.",
+          "exampleJa": "その論理は妥当です。"
         },
         {
-          "word": "rely on",
-          "meaningJa": "～に頼る",
-          "exampleEn": "I rely on this app.",
-          "exampleJa": "このアプリを頼りにしています。"
+          "word": "context",
+          "meaningJa": "背景、文脈",
+          "exampleEn": "Give me some context.",
+          "exampleJa": "背景を教えてください。"
         },
         {
-          "word": "bulk",
-          "meaningJa": "大量",
-          "exampleEn": "Buying in bulk is cheaper.",
-          "exampleJa": "まとめ買いは安いです。"
+          "word": "reviewer",
+          "meaningJa": "査読者、レビューする人",
+          "exampleEn": "Ask the reviewer for help.",
+          "exampleJa": "レビュアーに助けを求めてください。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性、継続",
-          "exampleEn": "Consistency is the key to success.",
-          "exampleJa": "継続こそが成功の鍵です。"
+          "word": "collaboration",
+          "meaningJa": "協力、共同作業",
+          "exampleEn": "Great team collaboration.",
+          "exampleJa": "素晴らしいチームの協力関係です。"
         }
       ],
-      "id": "intermediate-2026-11-16",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/intermediate.m4a",
-      "durationSeconds": 53
+      "id": "intermediate-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "Optimizing Your Weekly Food Strategy",
+      "title": "Mastering the Art of Constructive Feedback",
       "cefrLevel": "B2",
-      "summaryJa": "食事の準備を戦略的に行い、時間と健康を最適化するための高度なヒント。",
+      "summaryJa": "建設的なフィードバックを依頼し、業務効率を最大化するためのプロフェッショナルなアプローチ。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/meal-planning"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/asking-for-feedback"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Efficient meal planning is a powerful tool for maintaining a healthy and productive lifestyle.",
-          "translationJa": "効率的な食事計画は、健康的で生産的な生活を維持するための強力なツールです。",
-          "id": "advanced-2026-11-16-s01",
+          "text": "Requesting feedback effectively is a core skill for maintaining high productivity in professional environments.",
+          "translationJa": "効果的にフィードバックを依頼することは、職場環境で高い生産性を維持するための核となるスキルです。",
+          "id": "advanced-2026-11-17-s01",
           "startMs": 0,
-          "endMs": 4942,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s01.m4a"
+          "endMs": 6079,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Rather than cooking daily, many professionals prefer batch cooking to save precious evening hours.",
-          "translationJa": "毎日料理するよりも、多くの専門家は貴重な夜の時間を節約するために作り置きを好みます。",
-          "id": "advanced-2026-11-16-s02",
-          "startMs": 5342,
-          "endMs": 10748,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s02.m4a"
+          "text": "Do not simply send a document and hope for the best without providing clear guidance.",
+          "translationJa": "明確な指針を示さずに、ただ文書を送って「うまくいくことを願う」ようなことは避けましょう。",
+          "id": "advanced-2026-11-17-s02",
+          "startMs": 6479,
+          "endMs": 11034,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Start by auditing your weekly schedule to identify which nights require the fastest cooking times.",
-          "translationJa": "週のスケジュールを精査し、どの夜が最も素早い調理時間を必要とするか特定することから始めます。",
-          "id": "advanced-2026-11-16-s03",
-          "startMs": 11148,
-          "endMs": 16758,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s03.m4a"
+          "text": "Instead, articulate the specific questions you have regarding the structure, clarity, or the data presented.",
+          "translationJa": "代わりに、構成、明瞭さ、あるいは提示されたデータに関して、具体的な疑問を明確に伝えてください。",
+          "id": "advanced-2026-11-17-s03",
+          "startMs": 11434,
+          "endMs": 18002,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Select versatile proteins and vegetables that can be combined in various ways throughout the week.",
-          "translationJa": "週を通して様々な方法で組み合わせることができる、用途の広いタンパク質や野菜を選びましょう。",
-          "id": "advanced-2026-11-16-s04",
-          "startMs": 17158,
-          "endMs": 21921,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s04.m4a"
+          "text": "When you identify the exact areas of concern, you respect your colleague's time and effort.",
+          "translationJa": "懸念点を正確に特定することで、同僚の時間と労力に敬意を払うことができます。",
+          "id": "advanced-2026-11-17-s04",
+          "startMs": 18402,
+          "endMs": 23559,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Store your ingredients in clear containers to easily see what needs to be used first.",
-          "translationJa": "何から使うべきか簡単にわかるように、透明な容器に食材を保管してください。",
-          "id": "advanced-2026-11-16-s05",
-          "startMs": 22321,
-          "endMs": 26909,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s05.m4a"
+          "text": "Consider suggesting a brief meeting if the document requires complex explanations or deep analytical insight.",
+          "translationJa": "文書が複雑な説明や深い分析的洞察を必要とする場合は、短い打ち合わせを提案することも検討してください。",
+          "id": "advanced-2026-11-17-s05",
+          "startMs": 23959,
+          "endMs": 30112,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Implementing a basic theme for each day can significantly reduce your daily decision fatigue.",
-          "translationJa": "曜日ごとに基本的なテーマを導入すると、日々の決断疲れを大幅に軽減できます。",
-          "id": "advanced-2026-11-16-s06",
-          "startMs": 27309,
-          "endMs": 32345,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s06.m4a"
+          "text": "This allows for immediate clarification and prevents unnecessary back and forth via endless email threads.",
+          "translationJa": "これにより即座に明確化が可能となり、終わりのないメールのやり取りによる無駄を防ぐことができます。",
+          "id": "advanced-2026-11-17-s06",
+          "startMs": 30512,
+          "endMs": 36431,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "For instance, designate one evening for a hearty soup and another for a quick stir-fry.",
-          "translationJa": "例えば、ある晩はボリュームたっぷりのスープ、別の晩は手早い炒め物と決めておきます。",
-          "id": "advanced-2026-11-16-s07",
-          "startMs": 32745,
-          "endMs": 37437,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s07.m4a"
+          "text": "Be prepared to receive critical feedback and view it as a valuable opportunity for improvement.",
+          "translationJa": "批判的なフィードバックを受ける準備をして、それを改善のための貴重な機会と捉えてください。",
+          "id": "advanced-2026-11-17-s07",
+          "startMs": 36831,
+          "endMs": 41816,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Do not overlook the importance of having a few emergency meals in your freezer ready.",
-          "translationJa": "冷凍庫に非常用の食事をいくつか常備しておくことの重要性を見落とさないでください。",
-          "id": "advanced-2026-11-16-s08",
-          "startMs": 37837,
-          "endMs": 42252,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s08.m4a"
+          "text": "Avoid becoming defensive because the primary goal is to refine the final output together successfully.",
+          "translationJa": "最終的な成果物を一緒に成功させることが第一の目的なので、防御的になることは避けましょう。",
+          "id": "advanced-2026-11-17-s08",
+          "startMs": 42216,
+          "endMs": 47855,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "This simple safeguard prevents the temptation of ordering unhealthy food when plans suddenly change.",
-          "translationJa": "この単純な備えが、予定が急に変わったときに不健康な食べ物を注文したくなる誘惑を防ぎます。",
-          "id": "advanced-2026-11-16-s09",
-          "startMs": 42652,
-          "endMs": 47933,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s09.m4a"
+          "text": "A culture of open feedback fosters innovation and helps teams grow stronger over the long term.",
+          "translationJa": "オープンなフィードバックの文化はイノベーションを促進し、チームが長期的に成長する助けとなります。",
+          "id": "advanced-2026-11-17-s09",
+          "startMs": 48255,
+          "endMs": 53418,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Refine your process over time by tracking which meals you enjoy and which feel tedious.",
-          "translationJa": "どの食事を楽しめて、どれが面倒に感じるかを追跡し、時間をかけてプロセスを洗練させましょう。",
-          "id": "advanced-2026-11-16-s10",
-          "startMs": 48333,
-          "endMs": 53100,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s10.m4a"
+          "text": "Always acknowledge the input you receive and implement changes that add real value to your work.",
+          "translationJa": "受け取った意見を常に認め、仕事に真の価値を加えるような変更を適用してください。",
+          "id": "advanced-2026-11-17-s10",
+          "startMs": 53818,
+          "endMs": 58627,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Ultimately, a well-organized kitchen leads to better nutrition and a much calmer daily routine.",
-          "translationJa": "最終的に、整頓されたキッチンはより良い栄養と、より穏やかな日々のルーチンをもたらします。",
-          "id": "advanced-2026-11-16-s11",
-          "startMs": 53500,
-          "endMs": 58824,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced-s11.m4a"
+          "text": "By mastering this process, you will streamline your workflow and produce results of higher quality.",
+          "translationJa": "このプロセスを習得することで、ワークフローを効率化し、より質の高い成果を生み出せるようになります。",
+          "id": "advanced-2026-11-17-s11",
+          "startMs": 59027,
+          "endMs": 64360,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Consistent communication is the foundation of excellence in any collaborative business project today.",
+          "translationJa": "一貫したコミュニケーションこそが、今日のあらゆる共同ビジネスプロジェクトにおける卓越性の基盤です。",
+          "id": "advanced-2026-11-17-s12",
+          "startMs": 64760,
+          "endMs": 70158,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "optimize",
-          "meaningJa": "最適化する",
-          "exampleEn": "We must optimize our time.",
-          "exampleJa": "時間を最適化しなければなりません。"
+          "word": "articulate",
+          "meaningJa": "明確に述べる",
+          "exampleEn": "Can you articulate your concerns?",
+          "exampleJa": "懸念を明確に述べていただけますか？"
         },
         {
-          "word": "versatile",
-          "meaningJa": "多用途の",
-          "exampleEn": "This tool is very versatile.",
-          "exampleJa": "この道具はとても多用途です。"
+          "word": "analytical",
+          "meaningJa": "分析的な",
+          "exampleEn": "We need analytical skills.",
+          "exampleJa": "分析的なスキルが必要です。"
         },
         {
-          "word": "fatigue",
-          "meaningJa": "疲労",
-          "exampleEn": "Decision fatigue is common.",
-          "exampleJa": "決断疲れはよくあることです。"
+          "word": "defensive",
+          "meaningJa": "防御的な",
+          "exampleEn": "Do not get defensive.",
+          "exampleJa": "防御的にならないでください。"
         },
         {
-          "word": "designate",
-          "meaningJa": "指定する",
-          "exampleEn": "Designate a place for keys.",
-          "exampleJa": "鍵の置き場所を指定してください。"
+          "word": "foster",
+          "meaningJa": "促進する、育む",
+          "exampleEn": "Foster a good environment.",
+          "exampleJa": "良い環境を育んでください。"
         },
         {
-          "word": "tedious",
-          "meaningJa": "退屈な、面倒な",
-          "exampleEn": "The work was quite tedious.",
-          "exampleJa": "その仕事はかなり面倒でした。"
+          "word": "streamline",
+          "meaningJa": "効率化する",
+          "exampleEn": "We must streamline the process.",
+          "exampleJa": "プロセスを効率化しなければなりません。"
         }
       ],
-      "id": "advanced-2026-11-16",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-16/advanced.m4a",
-      "durationSeconds": 57
+      "id": "advanced-2026-11-17",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-17/advanced.m4a",
+      "durationSeconds": 68
     }
   ],
-  "topicCategory": "everyday_life"
+  "topicCategory": "work_productivity"
 }

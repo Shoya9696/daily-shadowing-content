@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-15T15:01:14Z",
-  "latestLessonDate": "2026-11-16",
+  "generatedAtUtc": "2026-11-16T15:01:28Z",
+  "latestLessonDate": "2026-11-17",
   "days": [
+    {
+      "lessonDate": "2026-11-17",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-17.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Asking for Feedback on a Draft",
+          "durationSeconds": 33,
+          "summaryJa": "ドラフトへのフィードバックを依頼し、改善するための実用的なアドバイス。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Effective Ways to Request Feedback",
+          "durationSeconds": 54,
+          "summaryJa": "同僚から質の高いフィードバックを得るための効果的な依頼方法とコミュニケーションのコツ。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Art of Constructive Feedback",
+          "durationSeconds": 68,
+          "summaryJa": "建設的なフィードバックを依頼し、業務効率を最大化するためのプロフェッショナルなアプローチ。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-11-16",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-16.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-10-17",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-17.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Tips for Better Weekend Errands",
-          "durationSeconds": 27,
-          "summaryJa": "週末の用事を効率よく済ませるためのヒントと計画の立て方。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Weekend Workflow",
-          "durationSeconds": 47,
-          "summaryJa": "週末の用事をスムーズにこなすための効率的なワークフローと計画術。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Weekend Routine",
-          "durationSeconds": 58,
-          "summaryJa": "週末のルーチンを最適化し、時間を有効活用するための高度な計画メソッド。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
