@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-16T15:01:28Z",
-  "latestLessonDate": "2026-11-17",
+  "generatedAtUtc": "2026-11-17T15:01:22Z",
+  "latestLessonDate": "2026-11-18",
   "days": [
+    {
+      "lessonDate": "2026-11-18",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-18.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Navigating Public Transport",
+          "durationSeconds": 33,
+          "summaryJa": "新しい場所で公共交通機関を上手に利用するための基本的なコツを学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Mastering Local Transit Systems",
+          "durationSeconds": 54,
+          "summaryJa": "公共交通機関をスムーズに利用するためのコツと準備について解説します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Navigating Urban Transit Like a Local",
+          "durationSeconds": 68,
+          "summaryJa": "公共交通機関をより効率的に利用し、旅を快適にするための高度なヒントを紹介します。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-11-17",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-17.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -704,32 +730,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-10-18",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-18.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 25,
-          "summaryJa": "会議を円滑に始めるための挨拶や目的の伝え方を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 48,
-          "summaryJa": "会議を円滑に始め、参加者の集中力を高めるためのフレーズを学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Starting a Meeting Clearly",
-          "durationSeconds": 57,
-          "summaryJa": "会議の冒頭で目的を明確にし、効率的な議論を導くための高度な表現を学びます。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }

@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-17T15:01:22Z",
+  "lessonDate": "2026-11-18",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Navigating Public Transport",
+      "cefrLevel": "A2",
+      "summaryJa": "新しい場所で公共交通機関を上手に利用するための基本的なコツを学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Traveling to a new city is always an exciting adventure for everyone.",
+          "translationJa": "新しい街へ旅行するのは、誰にとっても常にワクワクする冒険です。",
+          "id": "beginner-2026-11-18-s01",
+          "startMs": 0,
+          "endMs": 3785,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, using public transport can be difficult for many new visitors today.",
+          "translationJa": "しかし、今日では多くの新しい訪問者にとって公共交通機関を使うのは難しいことがあります。",
+          "id": "beginner-2026-11-18-s02",
+          "startMs": 4185,
+          "endMs": 8756,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "First, you should always check the local map at the train station.",
+          "translationJa": "まず、駅にある現地の地図を必ず確認するようにしましょう。",
+          "id": "beginner-2026-11-18-s03",
+          "startMs": 9156,
+          "endMs": 12838,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Most stations have helpful information desks if you need some quick help.",
+          "translationJa": "もしすぐに助けが必要な場合は、ほとんどの駅に親切な案内所があります。",
+          "id": "beginner-2026-11-18-s04",
+          "startMs": 13238,
+          "endMs": 17108,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can buy a travel card to pay for your bus or train.",
+          "translationJa": "バスや電車の運賃を支払うために、トラベルカードを購入することができます。",
+          "id": "beginner-2026-11-18-s05",
+          "startMs": 17508,
+          "endMs": 20403,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Make sure to check the color of your train line on signs.",
+          "translationJa": "標識で電車の路線の色を確認することを忘れないでください。",
+          "id": "beginner-2026-11-18-s06",
+          "startMs": 20803,
+          "endMs": 23907,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Listen carefully to the announcements for your next stop on the way.",
+          "translationJa": "移動中は次の停車駅のアナウンスを注意深く聞いてください。",
+          "id": "beginner-2026-11-18-s07",
+          "startMs": 24307,
+          "endMs": 27852,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "It is a good idea to keep your ticket until you leave.",
+          "translationJa": "駅を出るまでは切符を大切に持っておくのが良い考えです。",
+          "id": "beginner-2026-11-18-s08",
+          "startMs": 28252,
+          "endMs": 30908,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Public transport is a great way to see the city like locals.",
+          "translationJa": "公共交通機関は、地元の人々のように街を見て回る素晴らしい方法です。",
+          "id": "beginner-2026-11-18-s09",
+          "startMs": 31308,
+          "endMs": 34593,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "adventure",
+          "meaningJa": "冒険",
+          "exampleEn": "Our trip was a great adventure.",
+          "exampleJa": "私たちの旅行は素晴らしい冒険でした。"
+        },
+        {
+          "word": "visitor",
+          "meaningJa": "訪問者",
+          "exampleEn": "Many visitors come to this city.",
+          "exampleJa": "多くの訪問者がこの街に来ます。"
+        },
+        {
+          "word": "station",
+          "meaningJa": "駅",
+          "exampleEn": "Where is the nearest train station?",
+          "exampleJa": "最寄りの駅はどこですか？"
+        },
+        {
+          "word": "announcement",
+          "meaningJa": "アナウンス",
+          "exampleEn": "Did you hear the announcement?",
+          "exampleJa": "アナウンスを聞きましたか？"
+        },
+        {
+          "word": "local",
+          "meaningJa": "地元の",
+          "exampleEn": "I like to talk to local people.",
+          "exampleJa": "私は地元の人々と話すのが好きです。"
+        }
+      ],
+      "id": "beginner-2026-11-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner.m4a",
+      "durationSeconds": 33
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Mastering Local Transit Systems",
+      "cefrLevel": "B1",
+      "summaryJa": "公共交通機関をスムーズに利用するためのコツと準備について解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Navigating a complex public transport system is a common challenge for many international travelers.",
+          "translationJa": "複雑な公共交通機関を使いこなすことは、多くの海外旅行者にとって共通の課題です。",
+          "id": "intermediate-2026-11-18-s01",
+          "startMs": 0,
+          "endMs": 5730,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Before you leave your hotel, it is smart to check the route on your phone.",
+          "translationJa": "ホテルを出る前に、スマートフォンでルートを確認しておくのが賢明です。",
+          "id": "intermediate-2026-11-18-s02",
+          "startMs": 6130,
+          "endMs": 9826,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many cities now offer convenient mobile apps that show real-time train or bus schedules.",
+          "translationJa": "多くの都市では、電車やバスのリアルタイムの時刻表を表示する便利なアプリを提供しています。",
+          "id": "intermediate-2026-11-18-s03",
+          "startMs": 10226,
+          "endMs": 15037,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "If you plan to travel often, buying a rechargeable transit card is a great idea.",
+          "translationJa": "頻繁に移動する予定があるなら、チャージ式の交通系ICカードを買うのが良い考えです。",
+          "id": "intermediate-2026-11-18-s04",
+          "startMs": 15437,
+          "endMs": 20113,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "These cards save you time because you do not need to buy individual paper tickets.",
+          "translationJa": "これらのカードがあれば、個別に紙の切符を買う必要がないので時間を節約できます。",
+          "id": "intermediate-2026-11-18-s05",
+          "startMs": 20513,
+          "endMs": 24911,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Always look for signs that indicate the direction of the train or the bus route.",
+          "translationJa": "常に電車やバス路線の方向を示す標識を探すようにしてください。",
+          "id": "intermediate-2026-11-18-s06",
+          "startMs": 25311,
+          "endMs": 29133,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Sometimes the station layout can be confusing, so follow the color-coded lines on floors.",
+          "translationJa": "駅の構造がわかりにくいこともあるので、床の色分けされた線に従ってください。",
+          "id": "intermediate-2026-11-18-s07",
+          "startMs": 29533,
+          "endMs": 34934,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "If you accidentally board the wrong train, stay calm and get off at the next.",
+          "translationJa": "もし間違った電車に乗ってしまっても、落ち着いて次の駅で降りましょう。",
+          "id": "intermediate-2026-11-18-s08",
+          "startMs": 35334,
+          "endMs": 39476,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Most transit staff can speak basic English and are willing to assist lost tourists daily.",
+          "translationJa": "ほとんどの交通機関の職員は基本的な英語が話せ、迷った観光客を喜んで手助けしてくれます。",
+          "id": "intermediate-2026-11-18-s09",
+          "startMs": 39876,
+          "endMs": 44710,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "With a little preparation, you can move around any new city with complete confidence today.",
+          "translationJa": "少しの準備があれば、どんな新しい街でも今日から完全に自信を持って移動できます。",
+          "id": "intermediate-2026-11-18-s10",
+          "startMs": 45110,
+          "endMs": 50128,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Public transport is often the best way to experience the local lifestyle and culture deeply.",
+          "translationJa": "公共交通機関は、地元の生活様式や文化を深く体験するための最良の方法であることが多いです。",
+          "id": "intermediate-2026-11-18-s11",
+          "startMs": 50528,
+          "endMs": 55520,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "rechargeable",
+          "meaningJa": "再充電可能な",
+          "exampleEn": "I use a rechargeable travel card.",
+          "exampleJa": "私はチャージ式の交通カードを使っています。"
+        },
+        {
+          "word": "convenient",
+          "meaningJa": "便利な",
+          "exampleEn": "Public transport is very convenient.",
+          "exampleJa": "公共交通機関はとても便利です。"
+        },
+        {
+          "word": "schedule",
+          "meaningJa": "時刻表、スケジュール",
+          "exampleEn": "Check the bus schedule online.",
+          "exampleJa": "オンラインでバスの時刻表を確認して。"
+        },
+        {
+          "word": "accidentally",
+          "meaningJa": "誤って",
+          "exampleEn": "I accidentally got off at the wrong stop.",
+          "exampleJa": "間違ったバス停でうっかり降りてしまいました。"
+        },
+        {
+          "word": "confidence",
+          "meaningJa": "自信",
+          "exampleEn": "She speaks with great confidence.",
+          "exampleJa": "彼女はとても自信を持って話します。"
+        }
+      ],
+      "id": "intermediate-2026-11-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate.m4a",
+      "durationSeconds": 54
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Navigating Urban Transit Like a Local",
+      "cefrLevel": "B2",
+      "summaryJa": "公共交通機関をより効率的に利用し、旅を快適にするための高度なヒントを紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Successfully navigating a new city's transit network requires both preparation and a flexible mindset.",
+          "translationJa": "新しい都市の交通網をうまく使いこなすには、準備と柔軟な考え方の両方が必要です。",
+          "id": "advanced-2026-11-18-s01",
+          "startMs": 0,
+          "endMs": 6086,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Experienced travelers often research the local transport etiquette before they arrive at their destination.",
+          "translationJa": "経験豊富な旅行者は、目的地に到着する前に現地の交通マナーをよく調べておきます。",
+          "id": "advanced-2026-11-18-s02",
+          "startMs": 6486,
+          "endMs": 12079,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "For instance, knowing whether to stand on the left or right side is quite important.",
+          "translationJa": "例えば、エスカレーターで左側に立つべきか右側に立つべきかを知ることは非常に重要です。",
+          "id": "advanced-2026-11-18-s03",
+          "startMs": 12479,
+          "endMs": 16950,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Digital maps provide excellent guidance, but you should always remain aware of your surroundings.",
+          "translationJa": "デジタルマップは素晴らしい案内を提供しますが、常に周囲の状況に注意を払うべきです。",
+          "id": "advanced-2026-11-18-s04",
+          "startMs": 17350,
+          "endMs": 22487,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "During peak commuting hours, trains can become extremely crowded, so plan your trips accordingly.",
+          "translationJa": "通勤ラッシュの時間帯は電車が非常に混雑するため、それに応じて移動を計画しましょう。",
+          "id": "advanced-2026-11-18-s05",
+          "startMs": 22887,
+          "endMs": 28664,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Consider avoiding these busy periods if you are carrying large suitcases or heavy travel bags.",
+          "translationJa": "大きなスーツケースや重い旅行カバンを持っている場合は、こうした混雑時間を避けることを検討してください。",
+          "id": "advanced-2026-11-18-s06",
+          "startMs": 29064,
+          "endMs": 34346,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Many modern transit systems now accept contactless payments directly through your smartphone or bank card.",
+          "translationJa": "最近の多くの交通システムでは、スマートフォンや銀行カードによる非接触決済が利用可能です。",
+          "id": "advanced-2026-11-18-s07",
+          "startMs": 34746,
+          "endMs": 40648,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "This feature eliminates the need for physical tickets and simplifies your daily travel process significantly.",
+          "translationJa": "この機能があれば物理的な切符が不要になり、日々の移動プロセスが大幅に簡素化されます。",
+          "id": "advanced-2026-11-18-s08",
+          "startMs": 41048,
+          "endMs": 46863,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "If you encounter unexpected delays, check local social media feeds for the latest service updates.",
+          "translationJa": "予期せぬ遅延が発生した場合は、地元のSNSフィードで最新の運行情報を確認してください。",
+          "id": "advanced-2026-11-18-s09",
+          "startMs": 47263,
+          "endMs": 53007,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Most importantly, observe how local commuters behave to blend in with the surrounding crowd easily.",
+          "translationJa": "何より、地元の通勤客の振る舞いを観察して、周囲の群衆に自然に溶け込むようにしましょう。",
+          "id": "advanced-2026-11-18-s10",
+          "startMs": 53407,
+          "endMs": 58740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Mastering these small details will transform your travel experience into something much more seamless.",
+          "translationJa": "こうした細部を習得すれば、あなたの旅行体験ははるかにスムーズなものへと変わるでしょう。",
+          "id": "advanced-2026-11-18-s11",
+          "startMs": 59140,
+          "endMs": 64543,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Enjoy the freedom that comes with knowing exactly how to navigate any public transit network.",
+          "translationJa": "公共交通網の利用方法を知っていることで得られる自由を、存分に楽しんでください。",
+          "id": "advanced-2026-11-18-s12",
+          "startMs": 64943,
+          "endMs": 70036,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "etiquette",
+          "meaningJa": "マナー、礼儀",
+          "exampleEn": "Learn the local transport etiquette.",
+          "exampleJa": "現地の交通マナーを学びましょう。"
+        },
+        {
+          "word": "contactless",
+          "meaningJa": "非接触の",
+          "exampleEn": "I use contactless payment for the train.",
+          "exampleJa": "電車には非接触決済を使っています。"
+        },
+        {
+          "word": "seamless",
+          "meaningJa": "継ぎ目のない、スムーズな",
+          "exampleEn": "The transition was completely seamless.",
+          "exampleJa": "移行は完全にスムーズでした。"
+        },
+        {
+          "word": "commuter",
+          "meaningJa": "通勤・通学者",
+          "exampleEn": "The train is full of commuters.",
+          "exampleJa": "電車は通勤客でいっぱいです。"
+        },
+        {
+          "word": "blend in",
+          "meaningJa": "溶け込む",
+          "exampleEn": "He tries to blend in with the locals.",
+          "exampleJa": "彼は地元の人々に溶け込もうとしています。"
+        }
+      ],
+      "id": "advanced-2026-11-18",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced.m4a",
+      "durationSeconds": 68
+    }
+  ],
+  "topicCategory": "travel_culture"
+}
