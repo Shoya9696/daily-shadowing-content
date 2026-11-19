@@ -1,434 +1,452 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-17T15:01:22Z",
-  "lessonDate": "2026-11-18",
+  "generatedAtUtc": "2026-11-19T15:01:50Z",
+  "lessonDate": "2026-11-20",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Navigating Public Transport",
+      "title": "Building a Daily Walking Habit",
       "cefrLevel": "A2",
-      "summaryJa": "新しい場所で公共交通機関を上手に利用するための基本的なコツを学びます。",
+      "summaryJa": "忙しい日々の中でも、快適な靴を履いて少しずつ歩く習慣を身につけるための実践的なアドバイス。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Traveling to a new city is always an exciting adventure for everyone.",
-          "translationJa": "新しい街へ旅行するのは、誰にとっても常にワクワクする冒険です。",
-          "id": "beginner-2026-11-18-s01",
+          "text": "Walking is a very simple way to improve your overall physical health.",
+          "translationJa": "ウォーキングは全体的な健康を改善するための非常にシンプルな方法です。",
+          "id": "beginner-2026-11-20-s01",
           "startMs": 0,
-          "endMs": 3785,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s01.m4a"
+          "endMs": 3694,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "However, using public transport can be difficult for many new visitors today.",
-          "translationJa": "しかし、今日では多くの新しい訪問者にとって公共交通機関を使うのは難しいことがあります。",
-          "id": "beginner-2026-11-18-s02",
-          "startMs": 4185,
-          "endMs": 8756,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s02.m4a"
+          "text": "You do not need special equipment to start your daily walking routine.",
+          "translationJa": "毎日のウォーキングを始めるのに特別な道具は必要ありません。",
+          "id": "beginner-2026-11-20-s02",
+          "startMs": 4094,
+          "endMs": 7848,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "First, you should always check the local map at the train station.",
-          "translationJa": "まず、駅にある現地の地図を必ず確認するようにしましょう。",
-          "id": "beginner-2026-11-18-s03",
-          "startMs": 9156,
-          "endMs": 12838,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s03.m4a"
+          "text": "The most important item you need is a pair of comfortable shoes.",
+          "translationJa": "必要な中で最も重要なアイテムは、履き心地の良い靴です。",
+          "id": "beginner-2026-11-20-s03",
+          "startMs": 8248,
+          "endMs": 11488,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Most stations have helpful information desks if you need some quick help.",
-          "translationJa": "もしすぐに助けが必要な場合は、ほとんどの駅に親切な案内所があります。",
-          "id": "beginner-2026-11-18-s04",
-          "startMs": 13238,
-          "endMs": 17108,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s04.m4a"
+          "text": "Good shoes will help you avoid foot pain during your long walks.",
+          "translationJa": "良い靴は長いウォーキング中の足の痛みを避けるのに役立ちます。",
+          "id": "beginner-2026-11-20-s04",
+          "startMs": 11888,
+          "endMs": 14980,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You can buy a travel card to pay for your bus or train.",
-          "translationJa": "バスや電車の運賃を支払うために、トラベルカードを購入することができます。",
-          "id": "beginner-2026-11-18-s05",
-          "startMs": 17508,
-          "endMs": 20403,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s05.m4a"
+          "text": "Try to find a short time for walking during your busy day.",
+          "translationJa": "忙しい一日の間に、ウォーキングのための短い時間を見つけてみてください。",
+          "id": "beginner-2026-11-20-s05",
+          "startMs": 15380,
+          "endMs": 18480,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Make sure to check the color of your train line on signs.",
-          "translationJa": "標識で電車の路線の色を確認することを忘れないでください。",
-          "id": "beginner-2026-11-18-s06",
-          "startMs": 20803,
-          "endMs": 23907,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s06.m4a"
+          "text": "Even a ten minute walk can make you feel much better today.",
+          "translationJa": "たった10分のウォーキングでも、今日はずっと気分が良くなるはずです。",
+          "id": "beginner-2026-11-20-s06",
+          "startMs": 18880,
+          "endMs": 21965,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Listen carefully to the announcements for your next stop on the way.",
-          "translationJa": "移動中は次の停車駅のアナウンスを注意深く聞いてください。",
-          "id": "beginner-2026-11-18-s07",
-          "startMs": 24307,
-          "endMs": 27852,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s07.m4a"
+          "text": "You can walk around your office or near your house after dinner.",
+          "translationJa": "夕食後にオフィスの周りや家の近くを歩くことができます。",
+          "id": "beginner-2026-11-20-s07",
+          "startMs": 22365,
+          "endMs": 25353,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is a good idea to keep your ticket until you leave.",
-          "translationJa": "駅を出るまでは切符を大切に持っておくのが良い考えです。",
-          "id": "beginner-2026-11-18-s08",
-          "startMs": 28252,
-          "endMs": 30908,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s08.m4a"
+          "text": "Enjoy the fresh air and look at the beautiful trees outside carefully.",
+          "translationJa": "新鮮な空気を楽しみ、外の美しい木々をよく見てください。",
+          "id": "beginner-2026-11-20-s08",
+          "startMs": 25753,
+          "endMs": 29302,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Public transport is a great way to see the city like locals.",
-          "translationJa": "公共交通機関は、地元の人々のように街を見て回る素晴らしい方法です。",
-          "id": "beginner-2026-11-18-s09",
-          "startMs": 31308,
-          "endMs": 34593,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner-s09.m4a"
+          "text": "Small habits will lead to a very healthy life in the future.",
+          "translationJa": "小さな習慣が将来の非常に健康的な生活につながります。",
+          "id": "beginner-2026-11-20-s09",
+          "startMs": 29702,
+          "endMs": 32839,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Start your new walking habit today and see how you feel now.",
+          "translationJa": "今日から新しいウォーキング習慣を始めて、今の気分を確かめてみてください。",
+          "id": "beginner-2026-11-20-s10",
+          "startMs": 33239,
+          "endMs": 36480,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "adventure",
-          "meaningJa": "冒険",
-          "exampleEn": "Our trip was a great adventure.",
-          "exampleJa": "私たちの旅行は素晴らしい冒険でした。"
+          "word": "routine",
+          "meaningJa": "日課、習慣",
+          "exampleEn": "My morning routine includes a short walk.",
+          "exampleJa": "私の朝の日課には短い散歩が含まれています。"
         },
         {
-          "word": "visitor",
-          "meaningJa": "訪問者",
-          "exampleEn": "Many visitors come to this city.",
-          "exampleJa": "多くの訪問者がこの街に来ます。"
+          "word": "comfortable",
+          "meaningJa": "快適な",
+          "exampleEn": "These shoes are very comfortable.",
+          "exampleJa": "この靴はとても快適です。"
         },
         {
-          "word": "station",
-          "meaningJa": "駅",
-          "exampleEn": "Where is the nearest train station?",
-          "exampleJa": "最寄りの駅はどこですか？"
+          "word": "avoid",
+          "meaningJa": "避ける",
+          "exampleEn": "I try to avoid junk food.",
+          "exampleJa": "私はジャンクフードを避けるようにしています。"
         },
         {
-          "word": "announcement",
-          "meaningJa": "アナウンス",
-          "exampleEn": "Did you hear the announcement?",
-          "exampleJa": "アナウンスを聞きましたか？"
+          "word": "physical",
+          "meaningJa": "身体の",
+          "exampleEn": "Walking is good for physical health.",
+          "exampleJa": "ウォーキングは身体の健康に良いです。"
         },
         {
-          "word": "local",
-          "meaningJa": "地元の",
-          "exampleEn": "I like to talk to local people.",
-          "exampleJa": "私は地元の人々と話すのが好きです。"
+          "word": "habit",
+          "meaningJa": "習慣",
+          "exampleEn": "It is a good habit to wake up early.",
+          "exampleJa": "早起きは良い習慣です。"
         }
       ],
-      "id": "beginner-2026-11-18",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/beginner.m4a",
-      "durationSeconds": 33
+      "id": "beginner-2026-11-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner.m4a",
+      "durationSeconds": 35
     },
     {
       "levelGroup": "intermediate",
-      "title": "Mastering Local Transit Systems",
+      "title": "Building a Daily Walking Habit",
       "cefrLevel": "B1",
-      "summaryJa": "公共交通機関をスムーズに利用するためのコツと準備について解説します。",
+      "summaryJa": "忙しい毎日の中で、歩くことを習慣化し、健康を維持するための具体的な工夫と心構え。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Navigating a complex public transport system is a common challenge for many international travelers.",
-          "translationJa": "複雑な公共交通機関を使いこなすことは、多くの海外旅行者にとって共通の課題です。",
-          "id": "intermediate-2026-11-18-s01",
+          "text": "Many people want to improve their fitness but often struggle to find enough time.",
+          "translationJa": "多くの人が体力を向上させたいと思っていますが、十分な時間を見つけるのに苦労しています。",
+          "id": "intermediate-2026-11-20-s01",
           "startMs": 0,
-          "endMs": 5730,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s01.m4a"
+          "endMs": 4242,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Before you leave your hotel, it is smart to check the route on your phone.",
-          "translationJa": "ホテルを出る前に、スマートフォンでルートを確認しておくのが賢明です。",
-          "id": "intermediate-2026-11-18-s02",
-          "startMs": 6130,
-          "endMs": 9826,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s02.m4a"
+          "text": "Walking is one of the most accessible forms of exercise for people of all ages.",
+          "translationJa": "ウォーキングはあらゆる年齢の人にとって、最も取り組みやすい運動の一つです。",
+          "id": "intermediate-2026-11-20-s02",
+          "startMs": 4642,
+          "endMs": 9091,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Many cities now offer convenient mobile apps that show real-time train or bus schedules.",
-          "translationJa": "多くの都市では、電車やバスのリアルタイムの時刻表を表示する便利なアプリを提供しています。",
-          "id": "intermediate-2026-11-18-s03",
-          "startMs": 10226,
-          "endMs": 15037,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s03.m4a"
+          "text": "The secret to success is choosing a pair of high quality and comfortable walking shoes.",
+          "translationJa": "成功の秘訣は、高品質で快適なウォーキングシューズを選ぶことです。",
+          "id": "intermediate-2026-11-20-s03",
+          "startMs": 9491,
+          "endMs": 13973,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "If you plan to travel often, buying a rechargeable transit card is a great idea.",
-          "translationJa": "頻繁に移動する予定があるなら、チャージ式の交通系ICカードを買うのが良い考えです。",
-          "id": "intermediate-2026-11-18-s04",
-          "startMs": 15437,
-          "endMs": 20113,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s04.m4a"
+          "text": "If your feet feel good, you will be much more likely to walk more often.",
+          "translationJa": "足の調子が良ければ、より頻繁に歩こうという気持ちになるはずです。",
+          "id": "intermediate-2026-11-20-s04",
+          "startMs": 14373,
+          "endMs": 18143,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "These cards save you time because you do not need to buy individual paper tickets.",
-          "translationJa": "これらのカードがあれば、個別に紙の切符を買う必要がないので時間を節約できます。",
-          "id": "intermediate-2026-11-18-s05",
-          "startMs": 20513,
-          "endMs": 24911,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s05.m4a"
+          "text": "You do not need to walk for hours to see the health benefits of exercise.",
+          "translationJa": "運動の健康効果を得るために、何時間も歩く必要はありません。",
+          "id": "intermediate-2026-11-20-s05",
+          "startMs": 18543,
+          "endMs": 22460,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Always look for signs that indicate the direction of the train or the bus route.",
-          "translationJa": "常に電車やバス路線の方向を示す標識を探すようにしてください。",
-          "id": "intermediate-2026-11-18-s06",
-          "startMs": 25311,
-          "endMs": 29133,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s06.m4a"
+          "text": "Try incorporating short walks into your daily schedule whenever you have a small break.",
+          "translationJa": "ちょっとした休憩があるときはいつでも、毎日のスケジュールに短い散歩を取り入れてみてください。",
+          "id": "intermediate-2026-11-20-s06",
+          "startMs": 22860,
+          "endMs": 27260,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Sometimes the station layout can be confusing, so follow the color-coded lines on floors.",
-          "translationJa": "駅の構造がわかりにくいこともあるので、床の色分けされた線に従ってください。",
-          "id": "intermediate-2026-11-18-s07",
-          "startMs": 29533,
-          "endMs": 34934,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s07.m4a"
+          "text": "For example, you could walk to the grocery store instead of driving your own car.",
+          "translationJa": "例えば、車を運転する代わりに食料品店まで歩いていくことができます。",
+          "id": "intermediate-2026-11-20-s07",
+          "startMs": 27660,
+          "endMs": 32027,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "If you accidentally board the wrong train, stay calm and get off at the next.",
-          "translationJa": "もし間違った電車に乗ってしまっても、落ち着いて次の駅で降りましょう。",
-          "id": "intermediate-2026-11-18-s08",
-          "startMs": 35334,
-          "endMs": 39476,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s08.m4a"
+          "text": "Taking the stairs instead of using the elevator is another effective way to stay active.",
+          "translationJa": "エレベーターの代わりに階段を使うことも、活動的に過ごすための効果的な方法です。",
+          "id": "intermediate-2026-11-20-s08",
+          "startMs": 32427,
+          "endMs": 36990,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Most transit staff can speak basic English and are willing to assist lost tourists daily.",
-          "translationJa": "ほとんどの交通機関の職員は基本的な英語が話せ、迷った観光客を喜んで手助けしてくれます。",
-          "id": "intermediate-2026-11-18-s09",
-          "startMs": 39876,
-          "endMs": 44710,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s09.m4a"
+          "text": "Consistency is far more important than the intensity of your exercise during the first month.",
+          "translationJa": "最初の1ヶ月間は、運動の強度よりも継続することの方がはるかに重要です。",
+          "id": "intermediate-2026-11-20-s09",
+          "startMs": 37390,
+          "endMs": 42405,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "With a little preparation, you can move around any new city with complete confidence today.",
-          "translationJa": "少しの準備があれば、どんな新しい街でも今日から完全に自信を持って移動できます。",
-          "id": "intermediate-2026-11-18-s10",
-          "startMs": 45110,
-          "endMs": 50128,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s10.m4a"
+          "text": "Listen to your body and increase your walking distance at a very steady and slow pace.",
+          "translationJa": "体に耳を傾け、非常に着実でゆっくりとしたペースで歩く距離を増やしましょう。",
+          "id": "intermediate-2026-11-20-s10",
+          "startMs": 42805,
+          "endMs": 47186,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Public transport is often the best way to experience the local lifestyle and culture deeply.",
-          "translationJa": "公共交通機関は、地元の生活様式や文化を深く体験するための最良の方法であることが多いです。",
-          "id": "intermediate-2026-11-18-s11",
-          "startMs": 50528,
-          "endMs": 55520,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate-s11.m4a"
-        }
-      ],
-      "vocabulary": [
-        {
-          "word": "rechargeable",
-          "meaningJa": "再充電可能な",
-          "exampleEn": "I use a rechargeable travel card.",
-          "exampleJa": "私はチャージ式の交通カードを使っています。"
-        },
-        {
-          "word": "convenient",
-          "meaningJa": "便利な",
-          "exampleEn": "Public transport is very convenient.",
-          "exampleJa": "公共交通機関はとても便利です。"
-        },
-        {
-          "word": "schedule",
-          "meaningJa": "時刻表、スケジュール",
-          "exampleEn": "Check the bus schedule online.",
-          "exampleJa": "オンラインでバスの時刻表を確認して。"
-        },
-        {
-          "word": "accidentally",
-          "meaningJa": "誤って",
-          "exampleEn": "I accidentally got off at the wrong stop.",
-          "exampleJa": "間違ったバス停でうっかり降りてしまいました。"
-        },
-        {
-          "word": "confidence",
-          "meaningJa": "自信",
-          "exampleEn": "She speaks with great confidence.",
-          "exampleJa": "彼女はとても自信を持って話します。"
-        }
-      ],
-      "id": "intermediate-2026-11-18",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/intermediate.m4a",
-      "durationSeconds": 54
-    },
-    {
-      "levelGroup": "advanced",
-      "title": "Navigating Urban Transit Like a Local",
-      "cefrLevel": "B2",
-      "summaryJa": "公共交通機関をより効率的に利用し、旅を快適にするための高度なヒントを紹介します。",
-      "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/using-public-transport"
-      ],
-      "sentences": [
-        {
-          "index": 0,
-          "text": "Successfully navigating a new city's transit network requires both preparation and a flexible mindset.",
-          "translationJa": "新しい都市の交通網をうまく使いこなすには、準備と柔軟な考え方の両方が必要です。",
-          "id": "advanced-2026-11-18-s01",
-          "startMs": 0,
-          "endMs": 6086,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s01.m4a"
-        },
-        {
-          "index": 1,
-          "text": "Experienced travelers often research the local transport etiquette before they arrive at their destination.",
-          "translationJa": "経験豊富な旅行者は、目的地に到着する前に現地の交通マナーをよく調べておきます。",
-          "id": "advanced-2026-11-18-s02",
-          "startMs": 6486,
-          "endMs": 12079,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s02.m4a"
-        },
-        {
-          "index": 2,
-          "text": "For instance, knowing whether to stand on the left or right side is quite important.",
-          "translationJa": "例えば、エスカレーターで左側に立つべきか右側に立つべきかを知ることは非常に重要です。",
-          "id": "advanced-2026-11-18-s03",
-          "startMs": 12479,
-          "endMs": 16950,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s03.m4a"
-        },
-        {
-          "index": 3,
-          "text": "Digital maps provide excellent guidance, but you should always remain aware of your surroundings.",
-          "translationJa": "デジタルマップは素晴らしい案内を提供しますが、常に周囲の状況に注意を払うべきです。",
-          "id": "advanced-2026-11-18-s04",
-          "startMs": 17350,
-          "endMs": 22487,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s04.m4a"
-        },
-        {
-          "index": 4,
-          "text": "During peak commuting hours, trains can become extremely crowded, so plan your trips accordingly.",
-          "translationJa": "通勤ラッシュの時間帯は電車が非常に混雑するため、それに応じて移動を計画しましょう。",
-          "id": "advanced-2026-11-18-s05",
-          "startMs": 22887,
-          "endMs": 28664,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s05.m4a"
-        },
-        {
-          "index": 5,
-          "text": "Consider avoiding these busy periods if you are carrying large suitcases or heavy travel bags.",
-          "translationJa": "大きなスーツケースや重い旅行カバンを持っている場合は、こうした混雑時間を避けることを検討してください。",
-          "id": "advanced-2026-11-18-s06",
-          "startMs": 29064,
-          "endMs": 34346,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s06.m4a"
-        },
-        {
-          "index": 6,
-          "text": "Many modern transit systems now accept contactless payments directly through your smartphone or bank card.",
-          "translationJa": "最近の多くの交通システムでは、スマートフォンや銀行カードによる非接触決済が利用可能です。",
-          "id": "advanced-2026-11-18-s07",
-          "startMs": 34746,
-          "endMs": 40648,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s07.m4a"
-        },
-        {
-          "index": 7,
-          "text": "This feature eliminates the need for physical tickets and simplifies your daily travel process significantly.",
-          "translationJa": "この機能があれば物理的な切符が不要になり、日々の移動プロセスが大幅に簡素化されます。",
-          "id": "advanced-2026-11-18-s08",
-          "startMs": 41048,
-          "endMs": 46863,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "If you encounter unexpected delays, check local social media feeds for the latest service updates.",
-          "translationJa": "予期せぬ遅延が発生した場合は、地元のSNSフィードで最新の運行情報を確認してください。",
-          "id": "advanced-2026-11-18-s09",
-          "startMs": 47263,
-          "endMs": 53007,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Most importantly, observe how local commuters behave to blend in with the surrounding crowd easily.",
-          "translationJa": "何より、地元の通勤客の振る舞いを観察して、周囲の群衆に自然に溶け込むようにしましょう。",
-          "id": "advanced-2026-11-18-s10",
-          "startMs": 53407,
-          "endMs": 58740,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s10.m4a"
-        },
-        {
-          "index": 10,
-          "text": "Mastering these small details will transform your travel experience into something much more seamless.",
-          "translationJa": "こうした細部を習得すれば、あなたの旅行体験ははるかにスムーズなものへと変わるでしょう。",
-          "id": "advanced-2026-11-18-s11",
-          "startMs": 59140,
-          "endMs": 64543,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s11.m4a"
+          "text": "Once you feel confident, you can challenge yourself to explore new routes around your city.",
+          "translationJa": "自信がついたら、街の新しいルートを探索することに挑戦してみましょう。",
+          "id": "intermediate-2026-11-20-s11",
+          "startMs": 47586,
+          "endMs": 52337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Enjoy the freedom that comes with knowing exactly how to navigate any public transit network.",
-          "translationJa": "公共交通網の利用方法を知っていることで得られる自由を、存分に楽しんでください。",
-          "id": "advanced-2026-11-18-s12",
-          "startMs": 64943,
-          "endMs": 70036,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced-s12.m4a"
+          "text": "Starting small will help you build a sustainable habit that lasts for many years ahead.",
+          "translationJa": "小さく始めることで、今後何年も続く持続可能な習慣を築くことができます。",
+          "id": "intermediate-2026-11-20-s12",
+          "startMs": 52737,
+          "endMs": 57116,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "etiquette",
-          "meaningJa": "マナー、礼儀",
-          "exampleEn": "Learn the local transport etiquette.",
-          "exampleJa": "現地の交通マナーを学びましょう。"
+          "word": "accessible",
+          "meaningJa": "利用しやすい、取り組みやすい",
+          "exampleEn": "Public parks are accessible to everyone.",
+          "exampleJa": "公園は誰でも利用しやすいです。"
         },
         {
-          "word": "contactless",
-          "meaningJa": "非接触の",
-          "exampleEn": "I use contactless payment for the train.",
-          "exampleJa": "電車には非接触決済を使っています。"
+          "word": "incorporate",
+          "meaningJa": "取り入れる",
+          "exampleEn": "I incorporate exercise into my daily life.",
+          "exampleJa": "私は運動を日常生活に取り入れています。"
         },
         {
-          "word": "seamless",
-          "meaningJa": "継ぎ目のない、スムーズな",
-          "exampleEn": "The transition was completely seamless.",
-          "exampleJa": "移行は完全にスムーズでした。"
+          "word": "consistency",
+          "meaningJa": "一貫性、継続",
+          "exampleEn": "Consistency is key to learning a language.",
+          "exampleJa": "継続は言語学習の鍵です。"
         },
         {
-          "word": "commuter",
-          "meaningJa": "通勤・通学者",
-          "exampleEn": "The train is full of commuters.",
-          "exampleJa": "電車は通勤客でいっぱいです。"
+          "word": "intensity",
+          "meaningJa": "強度",
+          "exampleEn": "The intensity of the workout was high.",
+          "exampleJa": "そのワークアウトの強度は高かったです。"
         },
         {
-          "word": "blend in",
-          "meaningJa": "溶け込む",
-          "exampleEn": "He tries to blend in with the locals.",
-          "exampleJa": "彼は地元の人々に溶け込もうとしています。"
+          "word": "sustainable",
+          "meaningJa": "持続可能な",
+          "exampleEn": "We need a sustainable plan for our health.",
+          "exampleJa": "私たちは健康のために持続可能な計画が必要です。"
         }
       ],
-      "id": "advanced-2026-11-18",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-18/advanced.m4a",
-      "durationSeconds": 68
+      "id": "intermediate-2026-11-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate.m4a",
+      "durationSeconds": 55
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Building a Daily Walking Habit",
+      "cefrLevel": "B2",
+      "summaryJa": "歩く習慣を定着させるための戦略的アプローチと、ライフスタイルへの統合に関する考察。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Establishing a consistent walking habit is a highly effective way to enhance physical well-being.",
+          "translationJa": "一貫したウォーキング習慣を確立することは、身体的健康を向上させる非常に効果的な方法です。",
+          "id": "advanced-2026-11-20-s01",
+          "startMs": 0,
+          "endMs": 5233,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many individuals overlook the simplicity of walking as a primary tool for maintaining personal health.",
+          "translationJa": "多くの人は、個人の健康を維持するための主要なツールとして、ウォーキングのシンプルさを見落としています。",
+          "id": "advanced-2026-11-20-s02",
+          "startMs": 5633,
+          "endMs": 11164,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The foundation of this habit begins with selecting footwear that provides adequate arch and heel support.",
+          "translationJa": "この習慣の基礎は、適切な土踏まずやかかとのサポートを提供する靴を選ぶことから始まります。",
+          "id": "advanced-2026-11-20-s03",
+          "startMs": 11564,
+          "endMs": 16835,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Proper equipment minimizes the risk of injury and ensures that you remain comfortable throughout your walk.",
+          "translationJa": "適切な装備は怪我のリスクを最小限に抑え、歩行中ずっと快適さを保つことを保証します。",
+          "id": "advanced-2026-11-20-s04",
+          "startMs": 17235,
+          "endMs": 22620,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Integrating movement into a busy schedule requires a shift in perspective rather than extra time.",
+          "translationJa": "忙しいスケジュールに運動を取り入れるには、追加の時間よりも視点の転換が必要です。",
+          "id": "advanced-2026-11-20-s05",
+          "startMs": 23020,
+          "endMs": 28265,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You might consider walking during phone calls or choosing a longer route to your destination.",
+          "translationJa": "電話中の歩行や、目的地までの長めのルートを選ぶことを検討してみてください。",
+          "id": "advanced-2026-11-20-s06",
+          "startMs": 28665,
+          "endMs": 33209,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "These small adjustments accumulate over time and significantly improve your cardiovascular health and mental clarity.",
+          "translationJa": "これらの小さな調整は時間の経過とともに積み重なり、心血管の健康と精神的な明晰さを大幅に向上させます。",
+          "id": "advanced-2026-11-20-s07",
+          "startMs": 33609,
+          "endMs": 40004,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "It is essential to track your progress to maintain motivation during the initial stages of change.",
+          "translationJa": "変化の初期段階においてモチベーションを維持するためには、進捗状況を記録することが不可欠です。",
+          "id": "advanced-2026-11-20-s08",
+          "startMs": 40404,
+          "endMs": 45625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Setting realistic goals helps you avoid the common trap of setting expectations that are too high.",
+          "translationJa": "現実的な目標を設定することは、高すぎる期待という一般的な罠を避けるのに役立ちます。",
+          "id": "advanced-2026-11-20-s09",
+          "startMs": 46025,
+          "endMs": 51345,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Remember that the objective is to build a lifestyle, not just to complete a short challenge.",
+          "translationJa": "目的は単なる短い挑戦を完了することではなく、ライフスタイルを構築することだと忘れないでください。",
+          "id": "advanced-2026-11-20-s10",
+          "startMs": 51745,
+          "endMs": 56721,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By prioritizing consistency over speed, you create a foundation for long-term health and vitality today.",
+          "translationJa": "速度よりも一貫性を優先させることで、今日、長期的な健康と活力の基盤を築くことができます。",
+          "id": "advanced-2026-11-20-s11",
+          "startMs": 57121,
+          "endMs": 63499,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Embrace the process of walking as a vital opportunity to reconnect with your environment and self.",
+          "translationJa": "環境や自分自身と再接続するための重要な機会として、ウォーキングのプロセスを楽しみましょう。",
+          "id": "advanced-2026-11-20-s12",
+          "startMs": 63899,
+          "endMs": 69306,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "well-being",
+          "meaningJa": "幸福、健康",
+          "exampleEn": "Exercise is important for your overall well-being.",
+          "exampleJa": "運動は全体的な健康にとって重要です。"
+        },
+        {
+          "word": "adequate",
+          "meaningJa": "適切な、十分な",
+          "exampleEn": "The shoes provide adequate support.",
+          "exampleJa": "その靴は適切なサポートを提供します。"
+        },
+        {
+          "word": "accumulate",
+          "meaningJa": "蓄積する",
+          "exampleEn": "Small savings accumulate over time.",
+          "exampleJa": "小さな貯金は時間の経過とともに蓄積されます。"
+        },
+        {
+          "word": "vital",
+          "meaningJa": "不可欠な、非常に重要な",
+          "exampleEn": "Water is vital for life.",
+          "exampleJa": "水は生命にとって不可欠です。"
+        },
+        {
+          "word": "perspective",
+          "meaningJa": "視点、考え方",
+          "exampleEn": "You need a new perspective on this issue.",
+          "exampleJa": "あなたはこの問題について新しい視点が必要です。"
+        }
+      ],
+      "id": "advanced-2026-11-20",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced.m4a",
+      "durationSeconds": 67
     }
   ],
-  "topicCategory": "travel_culture"
+  "topicCategory": "health_wellness"
 }

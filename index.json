@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-17T15:01:22Z",
-  "latestLessonDate": "2026-11-18",
+  "generatedAtUtc": "2026-11-19T15:01:50Z",
+  "latestLessonDate": "2026-11-20",
   "days": [
+    {
+      "lessonDate": "2026-11-20",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-20.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 35,
+          "summaryJa": "忙しい日々の中でも、快適な靴を履いて少しずつ歩く習慣を身につけるための実践的なアドバイス。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 55,
+          "summaryJa": "忙しい毎日の中で、歩くことを習慣化し、健康を維持するための具体的な工夫と心構え。"
+        },
+        {
+          "level": "advanced",
+          "title": "Building a Daily Walking Habit",
+          "durationSeconds": 67,
+          "summaryJa": "歩く習慣を定着させるための戦略的アプローチと、ライフスタイルへの統合に関する考察。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-11-18",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-18.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,58 +704,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-10-20",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-20.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Smart Home Journey",
-          "durationSeconds": 31,
-          "summaryJa": "スマートホームの基本である音声アシスタントやタイマー設定について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Making Life Easier with Smart Home Tools",
-          "durationSeconds": 50,
-          "summaryJa": "音声アシスタントを活用して、毎日の家事を効率化する方法について解説します。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Evolution of Modern Smart Home Living",
-          "durationSeconds": 62,
-          "summaryJa": "スマートホーム技術の進化と、それが生活の質をどのように向上させるかを探ります。"
-        }
-      ],
-      "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-10-19",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-19.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Respectful Travel Habits",
-          "durationSeconds": 34,
-          "summaryJa": "旅行中に役立つ基本的な挨拶やマナーについての学習。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Cultural Awareness for Travelers",
-          "durationSeconds": 51,
-          "summaryJa": "旅行先で文化の違いを理解し、尊重するための実践的なアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "Navigating Cultural Nuances",
-          "durationSeconds": 61,
-          "summaryJa": "異文化の中で円滑に交流し、敬意を持って振る舞うための洗練されたアプローチ。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }
