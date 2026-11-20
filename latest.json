@@ -1,452 +1,426 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-19T15:01:50Z",
-  "lessonDate": "2026-11-20",
+  "generatedAtUtc": "2026-11-20T15:01:32Z",
+  "lessonDate": "2026-11-21",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Building a Daily Walking Habit",
+      "title": "Starting Your Savings Journey",
       "cefrLevel": "A2",
-      "summaryJa": "忙しい日々の中でも、快適な靴を履いて少しずつ歩く習慣を身につけるための実践的なアドバイス。",
+      "summaryJa": "貯蓄を始めるための第一歩として、目標設定と小さな習慣作りについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Walking is a very simple way to improve your overall physical health.",
-          "translationJa": "ウォーキングは全体的な健康を改善するための非常にシンプルな方法です。",
-          "id": "beginner-2026-11-20-s01",
+          "text": "Saving money is a great way to feel more secure every day.",
+          "translationJa": "お金を貯めることは、毎日をより安心感を持って過ごすための素晴らしい方法です。",
+          "id": "beginner-2026-11-21-s01",
           "startMs": 0,
-          "endMs": 3694,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s01.m4a"
+          "endMs": 3114,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You do not need special equipment to start your daily walking routine.",
-          "translationJa": "毎日のウォーキングを始めるのに特別な道具は必要ありません。",
-          "id": "beginner-2026-11-20-s02",
-          "startMs": 4094,
-          "endMs": 7848,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s02.m4a"
+          "text": "First, you should choose a small goal for your future savings.",
+          "translationJa": "まずは、将来の貯蓄のために小さな目標を選びましょう。",
+          "id": "beginner-2026-11-21-s02",
+          "startMs": 3514,
+          "endMs": 6975,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The most important item you need is a pair of comfortable shoes.",
-          "translationJa": "必要な中で最も重要なアイテムは、履き心地の良い靴です。",
-          "id": "beginner-2026-11-20-s03",
-          "startMs": 8248,
-          "endMs": 11488,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s03.m4a"
+          "text": "Think about something you really want to buy or do soon.",
+          "translationJa": "すぐに買いたいものや、やりたいことについて考えてみてください。",
+          "id": "beginner-2026-11-21-s03",
+          "startMs": 7375,
+          "endMs": 10267,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Good shoes will help you avoid foot pain during your long walks.",
-          "translationJa": "良い靴は長いウォーキング中の足の痛みを避けるのに役立ちます。",
-          "id": "beginner-2026-11-20-s04",
-          "startMs": 11888,
-          "endMs": 14980,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s04.m4a"
+          "text": "You do not need to save a large amount of money.",
+          "translationJa": "大金を貯める必要はありません。",
+          "id": "beginner-2026-11-21-s04",
+          "startMs": 10667,
+          "endMs": 13109,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Try to find a short time for walking during your busy day.",
-          "translationJa": "忙しい一日の間に、ウォーキングのための短い時間を見つけてみてください。",
-          "id": "beginner-2026-11-20-s05",
-          "startMs": 15380,
-          "endMs": 18480,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s05.m4a"
+          "text": "Even putting away a few dollars each week makes a difference.",
+          "translationJa": "毎週数ドルずつ貯金するだけでも、大きな違いが生まれます。",
+          "id": "beginner-2026-11-21-s05",
+          "startMs": 13509,
+          "endMs": 16745,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Even a ten minute walk can make you feel much better today.",
-          "translationJa": "たった10分のウォーキングでも、今日はずっと気分が良くなるはずです。",
-          "id": "beginner-2026-11-20-s06",
-          "startMs": 18880,
-          "endMs": 21965,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s06.m4a"
+          "text": "Make sure to keep your savings in a separate bank account.",
+          "translationJa": "貯金は別の銀行口座に入れておくようにしましょう。",
+          "id": "beginner-2026-11-21-s06",
+          "startMs": 17145,
+          "endMs": 20168,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "You can walk around your office or near your house after dinner.",
-          "translationJa": "夕食後にオフィスの周りや家の近くを歩くことができます。",
-          "id": "beginner-2026-11-20-s07",
-          "startMs": 22365,
-          "endMs": 25353,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s07.m4a"
+          "text": "Check your progress at the end of every single month now.",
+          "translationJa": "毎月末には、必ず進捗状況を確認するようにしてください。",
+          "id": "beginner-2026-11-21-s07",
+          "startMs": 20568,
+          "endMs": 23434,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Enjoy the fresh air and look at the beautiful trees outside carefully.",
-          "translationJa": "新鮮な空気を楽しみ、外の美しい木々をよく見てください。",
-          "id": "beginner-2026-11-20-s08",
-          "startMs": 25753,
-          "endMs": 29302,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s08.m4a"
+          "text": "Small habits will help you build a strong financial future today.",
+          "translationJa": "小さな習慣が、今日の強固な経済的未来を築く助けとなります。",
+          "id": "beginner-2026-11-21-s08",
+          "startMs": 23834,
+          "endMs": 27400,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Small habits will lead to a very healthy life in the future.",
-          "translationJa": "小さな習慣が将来の非常に健康的な生活につながります。",
-          "id": "beginner-2026-11-20-s09",
-          "startMs": 29702,
-          "endMs": 32839,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Start your new walking habit today and see how you feel now.",
-          "translationJa": "今日から新しいウォーキング習慣を始めて、今の気分を確かめてみてください。",
-          "id": "beginner-2026-11-20-s10",
-          "startMs": 33239,
-          "endMs": 36480,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner-s10.m4a"
+          "text": "You can always increase your savings goal as you get better.",
+          "translationJa": "慣れてきたら、いつでも貯蓄目標を増やすことができます。",
+          "id": "beginner-2026-11-21-s09",
+          "startMs": 27800,
+          "endMs": 30649,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "routine",
-          "meaningJa": "日課、習慣",
-          "exampleEn": "My morning routine includes a short walk.",
-          "exampleJa": "私の朝の日課には短い散歩が含まれています。"
+          "word": "secure",
+          "meaningJa": "安心な、安全な",
+          "exampleEn": "I feel secure with some savings.",
+          "exampleJa": "貯金があると安心です。"
         },
         {
-          "word": "comfortable",
-          "meaningJa": "快適な",
-          "exampleEn": "These shoes are very comfortable.",
-          "exampleJa": "この靴はとても快適です。"
+          "word": "amount",
+          "meaningJa": "金額、量",
+          "exampleEn": "The amount is small.",
+          "exampleJa": "金額は少ないです。"
         },
         {
-          "word": "avoid",
-          "meaningJa": "避ける",
-          "exampleEn": "I try to avoid junk food.",
-          "exampleJa": "私はジャンクフードを避けるようにしています。"
+          "word": "separate",
+          "meaningJa": "分ける、別の",
+          "exampleEn": "Keep them in a separate place.",
+          "exampleJa": "それらを別の場所に保管してください。"
         },
         {
-          "word": "physical",
-          "meaningJa": "身体の",
-          "exampleEn": "Walking is good for physical health.",
-          "exampleJa": "ウォーキングは身体の健康に良いです。"
+          "index": 3,
+          "word": "progress",
+          "meaningJa": "進捗、前進",
+          "exampleEn": "Check your progress daily.",
+          "exampleJa": "毎日進捗を確認してください。"
         },
         {
           "word": "habit",
           "meaningJa": "習慣",
-          "exampleEn": "It is a good habit to wake up early.",
-          "exampleJa": "早起きは良い習慣です。"
+          "exampleEn": "It is a good habit.",
+          "exampleJa": "それは良い習慣です。"
         }
       ],
-      "id": "beginner-2026-11-20",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/beginner.m4a",
-      "durationSeconds": 35
+      "id": "beginner-2026-11-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/beginner.m4a",
+      "durationSeconds": 29
     },
     {
       "levelGroup": "intermediate",
-      "title": "Building a Daily Walking Habit",
+      "title": "Building a Sustainable Savings Plan",
       "cefrLevel": "B1",
-      "summaryJa": "忙しい毎日の中で、歩くことを習慣化し、健康を維持するための具体的な工夫と心構え。",
+      "summaryJa": "無理のない貯蓄計画を立て、それを継続して達成するためのコツを紹介します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many people want to improve their fitness but often struggle to find enough time.",
-          "translationJa": "多くの人が体力を向上させたいと思っていますが、十分な時間を見つけるのに苦労しています。",
-          "id": "intermediate-2026-11-20-s01",
+          "text": "Setting a clear savings goal is the most effective way to manage your personal finances.",
+          "translationJa": "明確な貯蓄目標を設定することは、個人の家計を管理する最も効果的な方法です。",
+          "id": "intermediate-2026-11-21-s01",
           "startMs": 0,
-          "endMs": 4242,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s01.m4a"
+          "endMs": 4728,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Walking is one of the most accessible forms of exercise for people of all ages.",
-          "translationJa": "ウォーキングはあらゆる年齢の人にとって、最も取り組みやすい運動の一つです。",
-          "id": "intermediate-2026-11-20-s02",
-          "startMs": 4642,
-          "endMs": 9091,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s02.m4a"
+          "text": "Many people struggle because they try to save too much money at the very beginning.",
+          "translationJa": "多くの人は、最初からあまりに多くのお金を貯めようとして苦労してしまいます。",
+          "id": "intermediate-2026-11-21-s02",
+          "startMs": 5128,
+          "endMs": 9323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The secret to success is choosing a pair of high quality and comfortable walking shoes.",
-          "translationJa": "成功の秘訣は、高品質で快適なウォーキングシューズを選ぶことです。",
-          "id": "intermediate-2026-11-20-s03",
-          "startMs": 9491,
-          "endMs": 13973,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s03.m4a"
+          "text": "It is much better to start with a realistic amount that fits your current lifestyle.",
+          "translationJa": "現在のライフスタイルに合った現実的な金額から始めるほうがずっと良いのです。",
+          "id": "intermediate-2026-11-21-s03",
+          "startMs": 9723,
+          "endMs": 14027,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "If your feet feel good, you will be much more likely to walk more often.",
-          "translationJa": "足の調子が良ければ、より頻繁に歩こうという気持ちになるはずです。",
-          "id": "intermediate-2026-11-20-s04",
-          "startMs": 14373,
-          "endMs": 18143,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s04.m4a"
+          "text": "You should track your daily expenses to see where your money goes each single month.",
+          "translationJa": "毎月どこにお金が消えているのかを知るために、日々の支出を記録すべきです。",
+          "id": "intermediate-2026-11-21-s04",
+          "startMs": 14427,
+          "endMs": 18669,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You do not need to walk for hours to see the health benefits of exercise.",
-          "translationJa": "運動の健康効果を得るために、何時間も歩く必要はありません。",
-          "id": "intermediate-2026-11-20-s05",
-          "startMs": 18543,
-          "endMs": 22460,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s05.m4a"
+          "text": "Once you know your spending patterns, you can identify areas where you might save more.",
+          "translationJa": "支出の傾向がわかれば、もっと節約できる可能性がある分野を特定できます。",
+          "id": "intermediate-2026-11-21-s05",
+          "startMs": 19069,
+          "endMs": 23831,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Try incorporating short walks into your daily schedule whenever you have a small break.",
-          "translationJa": "ちょっとした休憩があるときはいつでも、毎日のスケジュールに短い散歩を取り入れてみてください。",
-          "id": "intermediate-2026-11-20-s06",
-          "startMs": 22860,
-          "endMs": 27260,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s06.m4a"
+          "text": "Automating your savings transfers is a great strategy to ensure you remain very consistent indeed.",
+          "translationJa": "貯蓄の振込を自動化することは、一貫性を保つための素晴らしい戦略です。",
+          "id": "intermediate-2026-11-21-s06",
+          "startMs": 24231,
+          "endMs": 29609,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "For example, you could walk to the grocery store instead of driving your own car.",
-          "translationJa": "例えば、車を運転する代わりに食料品店まで歩いていくことができます。",
-          "id": "intermediate-2026-11-20-s07",
-          "startMs": 27660,
-          "endMs": 32027,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s07.m4a"
+          "text": "If you automate the process, you will not have to worry about forgetting to save.",
+          "translationJa": "プロセスを自動化すれば、貯金を忘れることを心配する必要がなくなります。",
+          "id": "intermediate-2026-11-21-s07",
+          "startMs": 30009,
+          "endMs": 34174,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Taking the stairs instead of using the elevator is another effective way to stay active.",
-          "translationJa": "エレベーターの代わりに階段を使うことも、活動的に過ごすための効果的な方法です。",
-          "id": "intermediate-2026-11-20-s08",
-          "startMs": 32427,
-          "endMs": 36990,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s08.m4a"
+          "text": "Celebrate your small achievements along the way to keep yourself motivated for the long term.",
+          "translationJa": "長期的なモチベーションを維持するために、過程での小さな達成を自分でお祝いしましょう。",
+          "id": "intermediate-2026-11-21-s08",
+          "startMs": 34574,
+          "endMs": 39395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Consistency is far more important than the intensity of your exercise during the first month.",
-          "translationJa": "最初の1ヶ月間は、運動の強度よりも継続することの方がはるかに重要です。",
-          "id": "intermediate-2026-11-20-s09",
-          "startMs": 37390,
-          "endMs": 42405,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s09.m4a"
+          "text": "Remember that consistency is far more important than the speed of your financial growth today.",
+          "translationJa": "経済的な成長のスピードよりも、継続することの方がはるかに重要であることを忘れないでください。",
+          "id": "intermediate-2026-11-21-s09",
+          "startMs": 39795,
+          "endMs": 44562,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Listen to your body and increase your walking distance at a very steady and slow pace.",
-          "translationJa": "体に耳を傾け、非常に着実でゆっくりとしたペースで歩く距離を増やしましょう。",
-          "id": "intermediate-2026-11-20-s10",
-          "startMs": 42805,
-          "endMs": 47186,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s10.m4a"
+          "text": "Take your time to build these habits, and you will see great results very soon.",
+          "translationJa": "時間をかけてこれらの習慣を身につければ、すぐに素晴らしい結果が見えてくるはずです。",
+          "id": "intermediate-2026-11-21-s10",
+          "startMs": 44962,
+          "endMs": 49142,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Once you feel confident, you can challenge yourself to explore new routes around your city.",
-          "translationJa": "自信がついたら、街の新しいルートを探索することに挑戦してみましょう。",
-          "id": "intermediate-2026-11-20-s11",
-          "startMs": 47586,
-          "endMs": 52337,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Starting small will help you build a sustainable habit that lasts for many years ahead.",
-          "translationJa": "小さく始めることで、今後何年も続く持続可能な習慣を築くことができます。",
-          "id": "intermediate-2026-11-20-s12",
-          "startMs": 52737,
-          "endMs": 57116,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate-s12.m4a"
+          "text": "Your future self will definitely thank you for the efforts you are making right now.",
+          "translationJa": "未来の自分は、あなたが今行っている努力に対してきっと感謝するでしょう。",
+          "id": "intermediate-2026-11-21-s11",
+          "startMs": 49542,
+          "endMs": 53598,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "accessible",
-          "meaningJa": "利用しやすい、取り組みやすい",
-          "exampleEn": "Public parks are accessible to everyone.",
-          "exampleJa": "公園は誰でも利用しやすいです。"
+          "word": "effective",
+          "meaningJa": "効果的な",
+          "exampleEn": "This is an effective plan.",
+          "exampleJa": "これは効果的な計画です。"
         },
         {
-          "word": "incorporate",
-          "meaningJa": "取り入れる",
-          "exampleEn": "I incorporate exercise into my daily life.",
-          "exampleJa": "私は運動を日常生活に取り入れています。"
+          "word": "realistic",
+          "meaningJa": "現実的な",
+          "exampleEn": "Set a realistic goal.",
+          "exampleJa": "現実的な目標を設定してください。"
         },
         {
-          "word": "consistency",
-          "meaningJa": "一貫性、継続",
-          "exampleEn": "Consistency is key to learning a language.",
-          "exampleJa": "継続は言語学習の鍵です。"
+          "word": "expenses",
+          "meaningJa": "支出、経費",
+          "exampleEn": "Reduce your monthly expenses.",
+          "exampleJa": "毎月の支出を減らしましょう。"
         },
         {
-          "word": "intensity",
-          "meaningJa": "強度",
-          "exampleEn": "The intensity of the workout was high.",
-          "exampleJa": "そのワークアウトの強度は高かったです。"
+          "word": "consistent",
+          "meaningJa": "一貫した、安定した",
+          "exampleEn": "Stay consistent with your work.",
+          "exampleJa": "仕事で一貫性を保ちましょう。"
         },
         {
-          "word": "sustainable",
-          "meaningJa": "持続可能な",
-          "exampleEn": "We need a sustainable plan for our health.",
-          "exampleJa": "私たちは健康のために持続可能な計画が必要です。"
+          "word": "motivated",
+          "meaningJa": "モチベーションが高い",
+          "exampleEn": "Stay motivated every day.",
+          "exampleJa": "毎日モチベーションを維持しましょう。"
         }
       ],
-      "id": "intermediate-2026-11-20",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/intermediate.m4a",
-      "durationSeconds": 55
+      "id": "intermediate-2026-11-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/intermediate.m4a",
+      "durationSeconds": 52
     },
     {
       "levelGroup": "advanced",
-      "title": "Building a Daily Walking Habit",
+      "title": "Strategic Approaches to Personal Savings",
       "cefrLevel": "B2",
-      "summaryJa": "歩く習慣を定着させるための戦略的アプローチと、ライフスタイルへの統合に関する考察。",
+      "summaryJa": "貯蓄を成功させるための戦略的なアプローチと、財務的なマインドセットについて解説します。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/daily-walking-habit"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/business_money/first-savings-goal"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Establishing a consistent walking habit is a highly effective way to enhance physical well-being.",
-          "translationJa": "一貫したウォーキング習慣を確立することは、身体的健康を向上させる非常に効果的な方法です。",
-          "id": "advanced-2026-11-20-s01",
+          "text": "Developing a robust savings strategy requires both discipline and a clear understanding of your priorities.",
+          "translationJa": "強固な貯蓄戦略を立てるには、規律と優先順位の明確な理解の両方が必要です。",
+          "id": "advanced-2026-11-21-s01",
           "startMs": 0,
-          "endMs": 5233,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s01.m4a"
+          "endMs": 5846,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many individuals overlook the simplicity of walking as a primary tool for maintaining personal health.",
-          "translationJa": "多くの人は、個人の健康を維持するための主要なツールとして、ウォーキングのシンプルさを見落としています。",
-          "id": "advanced-2026-11-20-s02",
-          "startMs": 5633,
-          "endMs": 11164,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s02.m4a"
+          "text": "Begin by analyzing your current income and fixed costs to determine a sustainable monthly contribution.",
+          "translationJa": "まず現在の収入と固定費を分析し、持続可能な毎月の貯蓄額を決定しましょう。",
+          "id": "advanced-2026-11-21-s02",
+          "startMs": 6246,
+          "endMs": 11939,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "The foundation of this habit begins with selecting footwear that provides adequate arch and heel support.",
-          "translationJa": "この習慣の基礎は、適切な土踏まずやかかとのサポートを提供する靴を選ぶことから始まります。",
-          "id": "advanced-2026-11-20-s03",
-          "startMs": 11564,
-          "endMs": 16835,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s03.m4a"
+          "text": "Many experts suggest that you treat your savings as a non-negotiable expense in your budget.",
+          "translationJa": "多くの専門家は、貯蓄を予算における必須の支出として扱うよう提案しています。",
+          "id": "advanced-2026-11-21-s03",
+          "startMs": 12339,
+          "endMs": 17173,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Proper equipment minimizes the risk of injury and ensures that you remain comfortable throughout your walk.",
-          "translationJa": "適切な装備は怪我のリスクを最小限に抑え、歩行中ずっと快適さを保つことを保証します。",
-          "id": "advanced-2026-11-20-s04",
-          "startMs": 17235,
-          "endMs": 22620,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s04.m4a"
+          "text": "By prioritizing savings at the beginning of the month, you avoid the temptation to overspend later.",
+          "translationJa": "月の初めに貯蓄を優先することで、後で使いすぎてしまう誘惑を避けることができます。",
+          "id": "advanced-2026-11-21-s04",
+          "startMs": 17573,
+          "endMs": 23138,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Integrating movement into a busy schedule requires a shift in perspective rather than extra time.",
-          "translationJa": "忙しいスケジュールに運動を取り入れるには、追加の時間よりも視点の転換が必要です。",
-          "id": "advanced-2026-11-20-s05",
-          "startMs": 23020,
-          "endMs": 28265,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s05.m4a"
+          "text": "Reviewing your financial goals periodically allows you to adjust based on changes in your life.",
+          "translationJa": "定期的に財務目標を見直すことで、人生の変化に合わせて調整することが可能になります。",
+          "id": "advanced-2026-11-21-s05",
+          "startMs": 23538,
+          "endMs": 28480,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You might consider walking during phone calls or choosing a longer route to your destination.",
-          "translationJa": "電話中の歩行や、目的地までの長めのルートを選ぶことを検討してみてください。",
-          "id": "advanced-2026-11-20-s06",
-          "startMs": 28665,
-          "endMs": 33209,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s06.m4a"
+          "text": "It is also helpful to diversify your savings into different accounts for specific short-term needs.",
+          "translationJa": "短期的な特定のニーズのために、貯蓄を異なる口座に分散させることも役立ちます。",
+          "id": "advanced-2026-11-21-s06",
+          "startMs": 28880,
+          "endMs": 34160,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "These small adjustments accumulate over time and significantly improve your cardiovascular health and mental clarity.",
-          "translationJa": "これらの小さな調整は時間の経過とともに積み重なり、心血管の健康と精神的な明晰さを大幅に向上させます。",
-          "id": "advanced-2026-11-20-s07",
-          "startMs": 33609,
-          "endMs": 40004,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s07.m4a"
+          "text": "This method helps you visualize your progress toward distinct objectives like travel or emergency funds.",
+          "translationJa": "この方法は、旅行や緊急資金といった個別の目標に対する進捗を可視化するのに役立ちます。",
+          "id": "advanced-2026-11-21-s07",
+          "startMs": 34560,
+          "endMs": 40189,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is essential to track your progress to maintain motivation during the initial stages of change.",
-          "translationJa": "変化の初期段階においてモチベーションを維持するためには、進捗状況を記録することが不可欠です。",
-          "id": "advanced-2026-11-20-s08",
-          "startMs": 40404,
-          "endMs": 45625,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s08.m4a"
+          "text": "Do not be discouraged if your progress seems slow during the initial stages of the process.",
+          "translationJa": "プロセスの初期段階で進捗が遅いように感じても、決して落胆しないでください。",
+          "id": "advanced-2026-11-21-s08",
+          "startMs": 40589,
+          "endMs": 45376,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Setting realistic goals helps you avoid the common trap of setting expectations that are too high.",
-          "translationJa": "現実的な目標を設定することは、高すぎる期待という一般的な罠を避けるのに役立ちます。",
-          "id": "advanced-2026-11-20-s09",
-          "startMs": 46025,
-          "endMs": 51345,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s09.m4a"
+          "text": "Compound interest works best when you remain patient and allow your money to grow over time.",
+          "translationJa": "複利は、忍耐強く時間をかけてお金を成長させる場合に最も効果を発揮します。",
+          "id": "advanced-2026-11-21-s09",
+          "startMs": 45776,
+          "endMs": 50490,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Remember that the objective is to build a lifestyle, not just to complete a short challenge.",
-          "translationJa": "目的は単なる短い挑戦を完了することではなく、ライフスタイルを構築することだと忘れないでください。",
-          "id": "advanced-2026-11-20-s10",
-          "startMs": 51745,
-          "endMs": 56721,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s10.m4a"
+          "text": "Focusing on long-term stability will provide you with much greater peace of mind eventually.",
+          "translationJa": "長期的な安定に焦点を当てることで、最終的にはより大きな心の平安が得られるでしょう。",
+          "id": "advanced-2026-11-21-s10",
+          "startMs": 50890,
+          "endMs": 55710,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "By prioritizing consistency over speed, you create a foundation for long-term health and vitality today.",
-          "translationJa": "速度よりも一貫性を優先させることで、今日、長期的な健康と活力の基盤を築くことができます。",
-          "id": "advanced-2026-11-20-s11",
-          "startMs": 57121,
-          "endMs": 63499,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Embrace the process of walking as a vital opportunity to reconnect with your environment and self.",
-          "translationJa": "環境や自分自身と再接続するための重要な機会として、ウォーキングのプロセスを楽しみましょう。",
-          "id": "advanced-2026-11-20-s12",
-          "startMs": 63899,
-          "endMs": 69306,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced-s12.m4a"
+          "text": "Small, calculated steps today are the building blocks of your future financial independence and security.",
+          "translationJa": "今日の計算された小さな一歩が、将来の経済的自立と安定を築く土台となります。",
+          "id": "advanced-2026-11-21-s11",
+          "startMs": 56110,
+          "endMs": 62056,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "well-being",
-          "meaningJa": "幸福、健康",
-          "exampleEn": "Exercise is important for your overall well-being.",
-          "exampleJa": "運動は全体的な健康にとって重要です。"
+          "word": "robust",
+          "meaningJa": "強固な、頑丈な",
+          "exampleEn": "We need a robust strategy.",
+          "exampleJa": "私たちは強固な戦略が必要です。"
         },
         {
-          "word": "adequate",
-          "meaningJa": "適切な、十分な",
-          "exampleEn": "The shoes provide adequate support.",
-          "exampleJa": "その靴は適切なサポートを提供します。"
+          "word": "discipline",
+          "meaningJa": "規律、訓練",
+          "exampleEn": "It takes discipline to save.",
+          "exampleJa": "貯蓄には規律が必要です。"
         },
         {
-          "word": "accumulate",
-          "meaningJa": "蓄積する",
-          "exampleEn": "Small savings accumulate over time.",
-          "exampleJa": "小さな貯金は時間の経過とともに蓄積されます。"
+          "word": "non-negotiable",
+          "meaningJa": "交渉の余地がない、必須の",
+          "exampleEn": "This is a non-negotiable rule.",
+          "exampleJa": "これは必須のルールです。"
         },
         {
-          "word": "vital",
-          "meaningJa": "不可欠な、非常に重要な",
-          "exampleEn": "Water is vital for life.",
-          "exampleJa": "水は生命にとって不可欠です。"
+          "word": "periodically",
+          "meaningJa": "定期的に",
+          "exampleEn": "Check your progress periodically.",
+          "exampleJa": "定期的に進捗を確認してください。"
         },
         {
-          "word": "perspective",
-          "meaningJa": "視点、考え方",
-          "exampleEn": "You need a new perspective on this issue.",
-          "exampleJa": "あなたはこの問題について新しい視点が必要です。"
+          "word": "compound interest",
+          "meaningJa": "複利",
+          "exampleEn": "Understand how compound interest works.",
+          "exampleJa": "複利の仕組みを理解しましょう。"
         }
       ],
-      "id": "advanced-2026-11-20",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-20/advanced.m4a",
-      "durationSeconds": 67
+      "id": "advanced-2026-11-21",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-21/advanced.m4a",
+      "durationSeconds": 60
     }
   ],
-  "topicCategory": "health_wellness"
+  "topicCategory": "business_money"
 }

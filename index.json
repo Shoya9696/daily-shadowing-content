@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-19T15:01:50Z",
-  "latestLessonDate": "2026-11-20",
+  "generatedAtUtc": "2026-11-20T15:01:32Z",
+  "latestLessonDate": "2026-11-21",
   "days": [
+    {
+      "lessonDate": "2026-11-21",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-21.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Starting Your Savings Journey",
+          "durationSeconds": 29,
+          "summaryJa": "貯蓄を始めるための第一歩として、目標設定と小さな習慣作りについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Sustainable Savings Plan",
+          "durationSeconds": 52,
+          "summaryJa": "無理のない貯蓄計画を立て、それを継続して達成するためのコツを紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategic Approaches to Personal Savings",
+          "durationSeconds": 60,
+          "summaryJa": "貯蓄を成功させるための戦略的なアプローチと、財務的なマインドセットについて解説します。"
+        }
+      ],
+      "topicCategory": "business_money"
+    },
     {
       "lessonDate": "2026-11-20",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-20.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "business_money"
-    },
-    {
-      "lessonDate": "2026-10-21",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-21.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Staying Hydrated at Your Desk",
-          "durationSeconds": 33,
-          "summaryJa": "仕事中に水分補給を忘れないための簡単な習慣と、疲れを感じる前の対策について解説します。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Effective Hydration Strategies for Professionals",
-          "durationSeconds": 57,
-          "summaryJa": "忙しい職場環境で効率的に水分補給を行い、生産性を維持するための具体的な戦略を学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Wellness Through Mindful Hydration",
-          "durationSeconds": 64,
-          "summaryJa": "マインドフルな水分補給を通じて、職場でのパフォーマンスを最適化し、健康を維持するための高度なアプローチを解説します。"
-        }
-      ],
-      "topicCategory": "health_wellness"
     }
   ]
 }
