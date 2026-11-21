@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-20T15:01:32Z",
-  "latestLessonDate": "2026-11-21",
+  "generatedAtUtc": "2026-11-21T15:01:17Z",
+  "latestLessonDate": "2026-11-22",
   "days": [
+    {
+      "lessonDate": "2026-11-22",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-22.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Helping Our Neighborhood",
+          "durationSeconds": 36,
+          "summaryJa": "地元の清掃活動に参加することの重要性と、コミュニティでの協力について学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Building a Better Neighborhood Together",
+          "durationSeconds": 54,
+          "summaryJa": "地域清掃活動を通じて、近隣住民との絆を深め、環境を維持する意義を考えます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Cultivating Community Through Environmental Stewardship",
+          "durationSeconds": 74,
+          "summaryJa": "環境管理を通じたコミュニティ形成の重要性と、市民参加型活動が社会にもたらす影響について考察します。"
+        }
+      ],
+      "topicCategory": "environment_society"
+    },
     {
       "lessonDate": "2026-11-21",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-21.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "environment_society"
-    },
-    {
-      "lessonDate": "2026-10-22",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-22.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Split a Restaurant Bill",
-          "durationSeconds": 33,
-          "summaryJa": "レストランでの会計を友達と公平に分けるための基本的な英語表現。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Managing Group Expenses Fairly",
-          "durationSeconds": 53,
-          "summaryJa": "グループでの食事や旅行の際に、トラブルなく公平に費用を分担するためのアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Art of Equitable Bill Splitting",
-          "durationSeconds": 68,
-          "summaryJa": "グループの会食における公平な会計処理と、人間関係を良好に保つためのマナー。"
-        }
-      ],
-      "topicCategory": "business_money"
     }
   ]
 }
