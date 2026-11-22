@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-21T15:01:17Z",
-  "latestLessonDate": "2026-11-22",
+  "generatedAtUtc": "2026-11-22T15:01:13Z",
+  "latestLessonDate": "2026-11-23",
   "days": [
+    {
+      "lessonDate": "2026-11-23",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-23.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Checking on a Friend",
+          "durationSeconds": 38,
+          "summaryJa": "友人への思いやりのある声のかけ方と、相手の話を聞くことの大切さについて学びます。"
+        },
+        {
+          "level": "intermediate",
+          "title": "The Art of Listening",
+          "durationSeconds": 60,
+          "summaryJa": "友人関係において、相手の話に耳を傾け、共感を示すためのコミュニケーションスキルについて学びます。"
+        },
+        {
+          "level": "advanced",
+          "title": "Cultivating Deep Friendships",
+          "durationSeconds": 64,
+          "summaryJa": "深い友情を維持するために必要な、能動的なリスニングと感情的なサポートの重要性について考察します。"
+        }
+      ],
+      "topicCategory": "communication_relationships"
+    },
     {
       "lessonDate": "2026-11-22",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-22.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "communication_relationships"
-    },
-    {
-      "lessonDate": "2026-10-23",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-23.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Understanding How to Recycle at Home",
-          "durationSeconds": 36,
-          "summaryJa": "家庭でのゴミの分別方法とリサイクルについて学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Practical Tips for Better Household Recycling",
-          "durationSeconds": 57,
-          "summaryJa": "家庭でのリサイクル効率を高めるための実践的なヒント。"
-        },
-        {
-          "level": "advanced",
-          "title": "Adopting an Eco-Friendly Mindset",
-          "durationSeconds": 68,
-          "summaryJa": "環境に配慮した考え方を持ち、ゴミを減らす工夫について学びます。"
-        }
-      ],
-      "topicCategory": "environment_society"
     }
   ]
 }

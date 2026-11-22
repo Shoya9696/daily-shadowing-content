@@ -1,0 +1,454 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-22T15:01:13Z",
+  "lessonDate": "2026-11-23",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Checking on a Friend",
+      "cefrLevel": "A2",
+      "summaryJa": "友人への思いやりのある声のかけ方と、相手の話を聞くことの大切さについて学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "It is important to check on your friends when they seem busy lately.",
+          "translationJa": "最近忙しそうな友人の様子を気にかけることは大切です。",
+          "id": "beginner-2026-11-23-s01",
+          "startMs": 0,
+          "endMs": 3143,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can send a simple message to ask how they are doing today.",
+          "translationJa": "彼らが今日どう過ごしているか尋ねる簡単なメッセージを送ることができます。",
+          "id": "beginner-2026-11-23-s02",
+          "startMs": 3543,
+          "endMs": 6810,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Start by saying that you were thinking about them during your busy day.",
+          "translationJa": "忙しい一日の間に彼らのことを考えていたと伝えることから始めましょう。",
+          "id": "beginner-2026-11-23-s03",
+          "startMs": 7210,
+          "endMs": 10660,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "A short note shows that you truly care about your close friend's happiness.",
+          "translationJa": "短いメモは、親しい友人の幸せを心から大切に思っていることを示します。",
+          "id": "beginner-2026-11-23-s04",
+          "startMs": 11060,
+          "endMs": 14900,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Do not worry if they do not reply to your message right away now.",
+          "translationJa": "もし彼らがすぐに返信をくれなくても心配しないでください。",
+          "id": "beginner-2026-11-23-s05",
+          "startMs": 15300,
+          "endMs": 18705,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "They might be resting or focusing on their work at this exact moment.",
+          "translationJa": "彼らは今この瞬間、休んでいるか仕事に集中しているかもしれません。",
+          "id": "beginner-2026-11-23-s06",
+          "startMs": 19105,
+          "endMs": 22505,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "When they answer, listen carefully to what they want to share with you.",
+          "translationJa": "彼らが返事をくれたら、彼らがあなたと共有したい内容を注意深く聞いてください。",
+          "id": "beginner-2026-11-23-s07",
+          "startMs": 22905,
+          "endMs": 26448,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Showing that you are a good listener will make your friendship much stronger.",
+          "translationJa": "聞き上手であることを示すと、友情はさらに深まります。",
+          "id": "beginner-2026-11-23-s08",
+          "startMs": 26848,
+          "endMs": 30468,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Kind words can really brighten someone's day when they are feeling very tired.",
+          "translationJa": "優しい言葉は、とても疲れている誰かの一日を明るくすることができます。",
+          "id": "beginner-2026-11-23-s09",
+          "startMs": 30868,
+          "endMs": 34964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Always remember that small gestures make a big difference in our daily lives.",
+          "translationJa": "ちょっとした気遣いが私たちの日常生活に大きな違いをもたらすことを忘れないでください。",
+          "id": "beginner-2026-11-23-s10",
+          "startMs": 35364,
+          "endMs": 39337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s10.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "check on",
+          "meaningJa": "～の様子を確認する",
+          "exampleEn": "I will check on my friend later.",
+          "exampleJa": "後で友人の様子を見に行きます。"
+        },
+        {
+          "word": "truly",
+          "meaningJa": "心から",
+          "exampleEn": "I am truly happy for you.",
+          "exampleJa": "心から嬉しく思います。"
+        },
+        {
+          "word": "gesture",
+          "meaningJa": "身振り、意思表示",
+          "exampleEn": "It was a kind gesture.",
+          "exampleJa": "それは親切な振る舞いでした。"
+        },
+        {
+          "index": 3,
+          "word": "brighten",
+          "meaningJa": "明るくする",
+          "exampleEn": "Your smile brightens my day.",
+          "exampleJa": "あなたの笑顔で一日が明るくなります。"
+        },
+        {
+          "index": 4,
+          "word": "careful",
+          "meaningJa": "注意深い",
+          "exampleEn": "Please be careful with that glass.",
+          "exampleJa": "そのグラスには気をつけてください。"
+        }
+      ],
+      "id": "beginner-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner.m4a",
+      "durationSeconds": 38
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "The Art of Listening",
+      "cefrLevel": "B1",
+      "summaryJa": "友人関係において、相手の話に耳を傾け、共感を示すためのコミュニケーションスキルについて学びます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Building a strong connection with friends often starts with simply asking how they are doing.",
+          "translationJa": "友人との強い絆を築くことは、単に彼らがどうしているか尋ねることから始まることが多いです。",
+          "id": "intermediate-2026-11-23-s01",
+          "startMs": 0,
+          "endMs": 4544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "However, the most important part of this process is truly listening to their honest responses.",
+          "translationJa": "しかし、この過程で最も重要なのは、彼らの正直な返答に心から耳を傾けることです。",
+          "id": "intermediate-2026-11-23-s02",
+          "startMs": 4944,
+          "endMs": 10177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many people focus on what to say next instead of paying attention to the speaker.",
+          "translationJa": "多くの人は、話し手に注意を払う代わりに、次に何を言うべきかに集中してしまいます。",
+          "id": "intermediate-2026-11-23-s03",
+          "startMs": 10577,
+          "endMs": 14912,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "To be a better friend, you should try to put away your phone during conversations.",
+          "translationJa": "より良い友人になるためには、会話中はスマートフォンを片付けるよう努めるべきです。",
+          "id": "intermediate-2026-11-23-s04",
+          "startMs": 15312,
+          "endMs": 19666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Maintain gentle eye contact to show that you are fully present in the current moment.",
+          "translationJa": "今この瞬間に完全に集中していることを示すために、穏やかなアイコンタクトを保ちましょう。",
+          "id": "intermediate-2026-11-23-s05",
+          "startMs": 20066,
+          "endMs": 24331,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If they seem distressed, offer your support without immediately trying to solve their personal problems.",
+          "translationJa": "もし彼らが悩んでいるようなら、すぐに個人的な問題を解決しようとせずに、サポートを申し出てください。",
+          "id": "intermediate-2026-11-23-s06",
+          "startMs": 24731,
+          "endMs": 30208,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Sometimes people just want someone to acknowledge their feelings without any judgment or quick advice.",
+          "translationJa": "時として、人は批判や即座のアドバイスなしに、自分の感情を認めてくれる誰かを求めています。",
+          "id": "intermediate-2026-11-23-s07",
+          "startMs": 30608,
+          "endMs": 35963,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "You can ask open-ended questions like how they feel about a specific situation at work.",
+          "translationJa": "仕事での特定の状況についてどう感じているかなど、答えが一つに決まらない質問をしてみましょう。",
+          "id": "intermediate-2026-11-23-s08",
+          "startMs": 36363,
+          "endMs": 41162,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Showing genuine interest in their life helps them feel valued and much more comfortable sharing.",
+          "translationJa": "彼らの生活に心からの関心を示すことは、彼らが大切にされていると感じ、話しやすくなる助けとなります。",
+          "id": "intermediate-2026-11-23-s09",
+          "startMs": 41562,
+          "endMs": 46343,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Patience is a vital ingredient in any healthy relationship that you want to keep long-term.",
+          "translationJa": "忍耐は、長期的に維持したい健全な関係において欠かせない要素です。",
+          "id": "intermediate-2026-11-23-s10",
+          "startMs": 46743,
+          "endMs": 51512,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "By practicing these simple steps, you will become a reliable person that others trust deeply.",
+          "translationJa": "これらの簡単なステップを実践することで、あなたは他人が深く信頼できる頼もしい人になるでしょう。",
+          "id": "intermediate-2026-11-23-s11",
+          "startMs": 51912,
+          "endMs": 56943,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Remember that quality time is always better than just talking about superficial things every day.",
+          "translationJa": "毎日表面的な話をするよりも、質の高い時間を過ごすほうが常に良いことを覚えておいてください。",
+          "id": "intermediate-2026-11-23-s12",
+          "startMs": 57343,
+          "endMs": 62459,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "connection",
+          "meaningJa": "つながり",
+          "exampleEn": "We have a strong connection.",
+          "exampleJa": "私たちは強いつながりがあります。"
+        },
+        {
+          "word": "distressed",
+          "meaningJa": "悩んでいる",
+          "exampleEn": "She looked quite distressed.",
+          "exampleJa": "彼女はかなり悩んでいる様子でした。"
+        },
+        {
+          "word": "acknowledge",
+          "meaningJa": "認める",
+          "exampleEn": "He acknowledged his mistake.",
+          "exampleJa": "彼は自分の間違いを認めました。"
+        },
+        {
+          "word": "genuine",
+          "meaningJa": "心からの",
+          "exampleEn": "She showed genuine concern.",
+          "exampleJa": "彼女は心からの懸念を示しました。"
+        },
+        {
+          "word": "vital",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Communication is vital for teams.",
+          "exampleJa": "チームにはコミュニケーションが不可欠です。"
+        }
+      ],
+      "id": "intermediate-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate.m4a",
+      "durationSeconds": 60
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Cultivating Deep Friendships",
+      "cefrLevel": "B2",
+      "summaryJa": "深い友情を維持するために必要な、能動的なリスニングと感情的なサポートの重要性について考察します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining deep friendships requires more than just occasional casual greetings and light social interaction.",
+          "translationJa": "深い友情を維持するには、時折の何気ない挨拶や軽い交流以上のものが必要です。",
+          "id": "advanced-2026-11-23-s01",
+          "startMs": 0,
+          "endMs": 5891,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "When you check on a friend, your intention should be to create a safe space.",
+          "translationJa": "友人の様子を伺うとき、あなたの意図は安全な空間を作り出すことであるべきです。",
+          "id": "advanced-2026-11-23-s02",
+          "startMs": 6291,
+          "endMs": 10356,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is essential to move beyond surface-level chatter and invite them to share their experiences.",
+          "translationJa": "表面的なおしゃべりを超えて、彼らの経験を共有してもらうよう促すことが不可欠です。",
+          "id": "advanced-2026-11-23-s03",
+          "startMs": 10756,
+          "endMs": 15710,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Active listening involves observing not just their words but also their tone and body language.",
+          "translationJa": "能動的な傾聴とは、彼らの言葉だけでなく、口調やボディランゲージも観察することを含みます。",
+          "id": "advanced-2026-11-23-s04",
+          "startMs": 16110,
+          "endMs": 21029,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Often, what remains unsaid provides the most significant insight into their current emotional well-being.",
+          "translationJa": "多くの場合、語られないことこそが、彼らの現在の精神的な健康状態への最も重要な洞察を与えてくれます。",
+          "id": "advanced-2026-11-23-s05",
+          "startMs": 21429,
+          "endMs": 26981,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Resist the urge to jump into problem-solving mode before fully understanding the context of their story.",
+          "translationJa": "彼らの話の背景を十分に理解する前に、問題解決モードに飛び込みたいという衝動を抑えてください。",
+          "id": "advanced-2026-11-23-s06",
+          "startMs": 27381,
+          "endMs": 32845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Empathy is about validating their feelings, even if you do not agree with their perspective.",
+          "translationJa": "共感とは、たとえ相手の視点に同意できなくても、彼らの感情を肯定することです。",
+          "id": "advanced-2026-11-23-s07",
+          "startMs": 33245,
+          "endMs": 38013,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "By offering a listening ear, you allow them to process their own thoughts more clearly.",
+          "translationJa": "耳を傾けることで、彼らが自分自身の考えをより明確に整理できるよう手助けできます。",
+          "id": "advanced-2026-11-23-s08",
+          "startMs": 38413,
+          "endMs": 42887,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Regular check-ins demonstrate that you value the relationship beyond convenience or shared activities alone.",
+          "translationJa": "定期的な連絡は、利便性や単なる共通の活動を超えて、あなたがその関係を大切にしていることを示します。",
+          "id": "advanced-2026-11-23-s09",
+          "startMs": 43287,
+          "endMs": 49087,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Building such trust takes considerable time and consistent effort from both sides of the friendship.",
+          "translationJa": "そのような信頼を築くには、友情の両側からかなりの時間と一貫した努力が必要です。",
+          "id": "advanced-2026-11-23-s10",
+          "startMs": 49487,
+          "endMs": 54542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, being present is the greatest gift you can offer to your closest companions daily.",
+          "translationJa": "結局のところ、そばにいることは、あなたが親しい仲間に毎日提供できる最大の贈り物です。",
+          "id": "advanced-2026-11-23-s11",
+          "startMs": 54942,
+          "endMs": 60022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "True friendship thrives when both individuals feel heard, respected, and genuinely cared for over time.",
+          "translationJa": "真の友情は、双方が時間をかけて話を聞いてもらい、尊重され、心から大切にされていると感じるときに育まれます。",
+          "id": "advanced-2026-11-23-s12",
+          "startMs": 60422,
+          "endMs": 66332,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "occasional",
+          "meaningJa": "時折の",
+          "exampleEn": "We have occasional meetings.",
+          "exampleJa": "時々打ち合わせをします。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Trust is essential for success.",
+          "exampleJa": "成功には信頼が不可欠です。"
+        },
+        {
+          "word": "insight",
+          "meaningJa": "洞察",
+          "exampleEn": "He provided deep insight.",
+          "exampleJa": "彼は深い洞察を提供しました。"
+        },
+        {
+          "word": "empathy",
+          "meaningJa": "共感",
+          "exampleEn": "She has great empathy.",
+          "exampleJa": "彼女は素晴らしい共感力を持っています。"
+        },
+        {
+          "word": "thrive",
+          "meaningJa": "繁栄する、成長する",
+          "exampleEn": "Plants thrive in sunlight.",
+          "exampleJa": "植物は日光の下でよく育ちます。"
+        }
+      ],
+      "id": "advanced-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced.m4a",
+      "durationSeconds": 64
+    }
+  ],
+  "topicCategory": "communication_relationships"
+}

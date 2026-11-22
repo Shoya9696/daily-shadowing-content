@@ -1,434 +1,454 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-21T15:01:17Z",
-  "lessonDate": "2026-11-22",
+  "generatedAtUtc": "2026-11-22T15:01:13Z",
+  "lessonDate": "2026-11-23",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Helping Our Neighborhood",
+      "title": "Checking on a Friend",
       "cefrLevel": "A2",
-      "summaryJa": "地元の清掃活動に参加することの重要性と、コミュニティでの協力について学びます。",
+      "summaryJa": "友人への思いやりのある声のかけ方と、相手の話を聞くことの大切さについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "I decided to join our local park cleanup event this past Saturday morning.",
-          "translationJa": "先週の土曜日の朝、地元の公園の清掃イベントに参加することにしました。",
-          "id": "beginner-2026-11-22-s01",
+          "text": "It is important to check on your friends when they seem busy lately.",
+          "translationJa": "最近忙しそうな友人の様子を気にかけることは大切です。",
+          "id": "beginner-2026-11-23-s01",
           "startMs": 0,
-          "endMs": 4164,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s01.m4a"
+          "endMs": 3143,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many neighbors gathered together to pick up trash and pull out annoying weeds.",
-          "translationJa": "近所の人たちがたくさん集まって、ゴミを拾ったり雑草を抜いたりしました。",
-          "id": "beginner-2026-11-22-s02",
-          "startMs": 4564,
-          "endMs": 8376,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s02.m4a"
+          "text": "You can send a simple message to ask how they are doing today.",
+          "translationJa": "彼らが今日どう過ごしているか尋ねる簡単なメッセージを送ることができます。",
+          "id": "beginner-2026-11-23-s02",
+          "startMs": 3543,
+          "endMs": 6810,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "We wore comfortable clothes and brought some thick gloves for the dirty work.",
-          "translationJa": "私たちは動きやすい服を着て、汚れる作業のために厚手の手袋を持参しました。",
-          "id": "beginner-2026-11-22-s03",
-          "startMs": 8776,
-          "endMs": 12192,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s03.m4a"
+          "text": "Start by saying that you were thinking about them during your busy day.",
+          "translationJa": "忙しい一日の間に彼らのことを考えていたと伝えることから始めましょう。",
+          "id": "beginner-2026-11-23-s03",
+          "startMs": 7210,
+          "endMs": 10660,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It feels very good to see the park looking clean and beautiful again.",
-          "translationJa": "公園が再びきれいで美しくなったのを見るのはとても気持ちが良いです。",
-          "id": "beginner-2026-11-22-s04",
-          "startMs": 12592,
-          "endMs": 16118,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s04.m4a"
+          "text": "A short note shows that you truly care about your close friend's happiness.",
+          "translationJa": "短いメモは、親しい友人の幸せを心から大切に思っていることを示します。",
+          "id": "beginner-2026-11-23-s04",
+          "startMs": 11060,
+          "endMs": 14900,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "We worked in small teams to cover every corner of the large playground.",
-          "translationJa": "私たちは広い遊び場の隅々まで担当するために、小さなチームに分かれて作業しました。",
-          "id": "beginner-2026-11-22-s05",
-          "startMs": 16518,
-          "endMs": 20236,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s05.m4a"
+          "text": "Do not worry if they do not reply to your message right away now.",
+          "translationJa": "もし彼らがすぐに返信をくれなくても心配しないでください。",
+          "id": "beginner-2026-11-23-s05",
+          "startMs": 15300,
+          "endMs": 18705,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "The children helped by collecting small plastic bottles near the walking paths today.",
-          "translationJa": "子供たちは今日、遊歩道の近くで小さなペットボトルを集めて手伝ってくれました。",
-          "id": "beginner-2026-11-22-s06",
-          "startMs": 20636,
-          "endMs": 25106,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s06.m4a"
+          "text": "They might be resting or focusing on their work at this exact moment.",
+          "translationJa": "彼らは今この瞬間、休んでいるか仕事に集中しているかもしれません。",
+          "id": "beginner-2026-11-23-s06",
+          "startMs": 19105,
+          "endMs": 22505,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "After the work finished, we shared some hot tea and talked about life.",
-          "translationJa": "作業が終わった後、私たちは温かいお茶を飲みながら人生について語り合いました。",
-          "id": "beginner-2026-11-22-s07",
-          "startMs": 25506,
-          "endMs": 29287,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s07.m4a"
+          "text": "When they answer, listen carefully to what they want to share with you.",
+          "translationJa": "彼らが返事をくれたら、彼らがあなたと共有したい内容を注意深く聞いてください。",
+          "id": "beginner-2026-11-23-s07",
+          "startMs": 22905,
+          "endMs": 26448,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Working together makes our community a much happier place for everyone to live.",
-          "translationJa": "協力して活動することは、私たちの地域を誰もが住みやすい幸せな場所にします。",
-          "id": "beginner-2026-11-22-s08",
-          "startMs": 29687,
-          "endMs": 33718,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s08.m4a"
+          "text": "Showing that you are a good listener will make your friendship much stronger.",
+          "translationJa": "聞き上手であることを示すと、友情はさらに深まります。",
+          "id": "beginner-2026-11-23-s08",
+          "startMs": 26848,
+          "endMs": 30468,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "I really look forward to joining the next cleanup event with my friends.",
-          "translationJa": "次回の清掃イベントに友達と一緒に参加することをとても楽しみにしています。",
-          "id": "beginner-2026-11-22-s09",
-          "startMs": 34118,
-          "endMs": 37876,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner-s09.m4a"
+          "text": "Kind words can really brighten someone's day when they are feeling very tired.",
+          "translationJa": "優しい言葉は、とても疲れている誰かの一日を明るくすることができます。",
+          "id": "beginner-2026-11-23-s09",
+          "startMs": 30868,
+          "endMs": 34964,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Always remember that small gestures make a big difference in our daily lives.",
+          "translationJa": "ちょっとした気遣いが私たちの日常生活に大きな違いをもたらすことを忘れないでください。",
+          "id": "beginner-2026-11-23-s10",
+          "startMs": 35364,
+          "endMs": 39337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "cleanup",
-          "meaningJa": "清掃",
-          "exampleEn": "We organized a beach cleanup.",
-          "exampleJa": "ビーチの清掃活動を企画しました。"
+          "word": "check on",
+          "meaningJa": "～の様子を確認する",
+          "exampleEn": "I will check on my friend later.",
+          "exampleJa": "後で友人の様子を見に行きます。"
         },
         {
-          "word": "gather",
-          "meaningJa": "集まる",
-          "exampleEn": "The family gathered for dinner.",
-          "exampleJa": "家族が夕食のために集まりました。"
+          "word": "truly",
+          "meaningJa": "心から",
+          "exampleEn": "I am truly happy for you.",
+          "exampleJa": "心から嬉しく思います。"
         },
         {
-          "word": "weed",
-          "meaningJa": "雑草",
-          "exampleEn": "I spent an hour pulling weeds.",
-          "exampleJa": "1時間かけて雑草を抜きました。"
+          "word": "gesture",
+          "meaningJa": "身振り、意思表示",
+          "exampleEn": "It was a kind gesture.",
+          "exampleJa": "それは親切な振る舞いでした。"
         },
         {
-          "word": "community",
-          "meaningJa": "地域社会",
-          "exampleEn": "It is a quiet community.",
-          "exampleJa": "そこは静かな地域です。"
+          "index": 3,
+          "word": "brighten",
+          "meaningJa": "明るくする",
+          "exampleEn": "Your smile brightens my day.",
+          "exampleJa": "あなたの笑顔で一日が明るくなります。"
         },
         {
-          "word": "look forward to",
-          "meaningJa": "楽しみにする",
-          "exampleEn": "I look forward to meeting you.",
-          "exampleJa": "お会いできるのを楽しみにしています。"
+          "index": 4,
+          "word": "careful",
+          "meaningJa": "注意深い",
+          "exampleEn": "Please be careful with that glass.",
+          "exampleJa": "そのグラスには気をつけてください。"
         }
       ],
-      "id": "beginner-2026-11-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/beginner.m4a",
-      "durationSeconds": 36
+      "id": "beginner-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner.m4a",
+      "durationSeconds": 38
     },
     {
       "levelGroup": "intermediate",
-      "title": "Building a Better Neighborhood Together",
+      "title": "The Art of Listening",
       "cefrLevel": "B1",
-      "summaryJa": "地域清掃活動を通じて、近隣住民との絆を深め、環境を維持する意義を考えます。",
+      "summaryJa": "友人関係において、相手の話に耳を傾け、共感を示すためのコミュニケーションスキルについて学びます。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Taking part in a community cleanup is a wonderful way to improve your local area.",
-          "translationJa": "地域清掃活動に参加することは、地元を改善するための素晴らしい方法です。",
-          "id": "intermediate-2026-11-22-s01",
+          "text": "Building a strong connection with friends often starts with simply asking how they are doing.",
+          "translationJa": "友人との強い絆を築くことは、単に彼らがどうしているか尋ねることから始まることが多いです。",
+          "id": "intermediate-2026-11-23-s01",
           "startMs": 0,
-          "endMs": 4423,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s01.m4a"
+          "endMs": 4544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "When people come together for a shared goal, they create a stronger sense of belonging.",
-          "translationJa": "人々が共通の目的のために集まるとき、強い帰属意識が生まれます。",
-          "id": "intermediate-2026-11-22-s02",
-          "startMs": 4823,
-          "endMs": 9399,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s02.m4a"
+          "text": "However, the most important part of this process is truly listening to their honest responses.",
+          "translationJa": "しかし、この過程で最も重要なのは、彼らの正直な返答に心から耳を傾けることです。",
+          "id": "intermediate-2026-11-23-s02",
+          "startMs": 4944,
+          "endMs": 10177,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "You do not need special skills to help keep your neighborhood clean and safe today.",
-          "translationJa": "今日、近所を清潔で安全に保つために特別なスキルは必要ありません。",
-          "id": "intermediate-2026-11-22-s03",
-          "startMs": 9799,
-          "endMs": 13936,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s03.m4a"
+          "text": "Many people focus on what to say next instead of paying attention to the speaker.",
+          "translationJa": "多くの人は、話し手に注意を払う代わりに、次に何を言うべきかに集中してしまいます。",
+          "id": "intermediate-2026-11-23-s03",
+          "startMs": 10577,
+          "endMs": 14912,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Simply picking up litter while walking your dog makes a significant difference over time.",
-          "translationJa": "犬の散歩中にゴミを拾うだけで、時間が経てば大きな違いが生まれます。",
-          "id": "intermediate-2026-11-22-s04",
-          "startMs": 14336,
-          "endMs": 18913,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s04.m4a"
+          "text": "To be a better friend, you should try to put away your phone during conversations.",
+          "translationJa": "より良い友人になるためには、会話中はスマートフォンを片付けるよう努めるべきです。",
+          "id": "intermediate-2026-11-23-s04",
+          "startMs": 15312,
+          "endMs": 19666,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Organized events allow residents to meet neighbors they might not see during busy weekdays.",
-          "translationJa": "組織されたイベントは、忙しい平日に会えない隣人たちと出会う機会になります。",
-          "id": "intermediate-2026-11-22-s05",
-          "startMs": 19313,
-          "endMs": 23971,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s05.m4a"
+          "text": "Maintain gentle eye contact to show that you are fully present in the current moment.",
+          "translationJa": "今この瞬間に完全に集中していることを示すために、穏やかなアイコンタクトを保ちましょう。",
+          "id": "intermediate-2026-11-23-s05",
+          "startMs": 20066,
+          "endMs": 24331,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "We often take our public spaces for granted until they start looking untidy or neglected.",
-          "translationJa": "私たちは公共の場所が汚れたり放置されたりするまで、それを当たり前だと思い込みがちです。",
-          "id": "intermediate-2026-11-22-s06",
-          "startMs": 24371,
-          "endMs": 29273,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s06.m4a"
+          "text": "If they seem distressed, offer your support without immediately trying to solve their personal problems.",
+          "translationJa": "もし彼らが悩んでいるようなら、すぐに個人的な問題を解決しようとせずに、サポートを申し出てください。",
+          "id": "intermediate-2026-11-23-s06",
+          "startMs": 24731,
+          "endMs": 30208,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "By contributing just a few hours monthly, you help maintain the beauty of the park.",
-          "translationJa": "毎月数時間だけ貢献することで、公園の美しさを維持する助けになります。",
-          "id": "intermediate-2026-11-22-s07",
-          "startMs": 29673,
-          "endMs": 34275,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s07.m4a"
+          "text": "Sometimes people just want someone to acknowledge their feelings without any judgment or quick advice.",
+          "translationJa": "時として、人は批判や即座のアドバイスなしに、自分の感情を認めてくれる誰かを求めています。",
+          "id": "intermediate-2026-11-23-s07",
+          "startMs": 30608,
+          "endMs": 35963,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "It is also a great opportunity to teach children about taking responsibility for the environment.",
-          "translationJa": "子供たちに環境への責任を持つことについて教える絶好の機会でもあります。",
-          "id": "intermediate-2026-11-22-s08",
-          "startMs": 34675,
-          "endMs": 40082,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s08.m4a"
+          "text": "You can ask open-ended questions like how they feel about a specific situation at work.",
+          "translationJa": "仕事での特定の状況についてどう感じているかなど、答えが一つに決まらない質問をしてみましょう。",
+          "id": "intermediate-2026-11-23-s08",
+          "startMs": 36363,
+          "endMs": 41162,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Working outdoors is refreshing and provides a break from staring at digital screens all day.",
-          "translationJa": "屋外での作業は気分転換になり、一日中デジタル画面を見つめる生活から離れることができます。",
-          "id": "intermediate-2026-11-22-s09",
-          "startMs": 40482,
-          "endMs": 45198,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s09.m4a"
+          "text": "Showing genuine interest in their life helps them feel valued and much more comfortable sharing.",
+          "translationJa": "彼らの生活に心からの関心を示すことは、彼らが大切にされていると感じ、話しやすくなる助けとなります。",
+          "id": "intermediate-2026-11-23-s09",
+          "startMs": 41562,
+          "endMs": 46343,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Ultimately, a cleaner neighborhood leads to a more positive and friendly environment for everyone involved.",
-          "translationJa": "最終的に、より清潔な近所は、関わるすべての人にとってより前向きで友好的な環境につながります。",
-          "id": "intermediate-2026-11-22-s10",
-          "startMs": 45598,
-          "endMs": 51305,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s10.m4a"
+          "text": "Patience is a vital ingredient in any healthy relationship that you want to keep long-term.",
+          "translationJa": "忍耐は、長期的に維持したい健全な関係において欠かせない要素です。",
+          "id": "intermediate-2026-11-23-s10",
+          "startMs": 46743,
+          "endMs": 51512,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Consider joining your next local event to meet your neighbors and make a real impact.",
-          "translationJa": "近所の人と出会い、実際に良い影響を与えるために、次回の地域のイベントへの参加を検討してください。",
-          "id": "intermediate-2026-11-22-s11",
-          "startMs": 51705,
-          "endMs": 55942,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate-s11.m4a"
-        }
-      ],
-      "vocabulary": [
-        {
-          "word": "belonging",
-          "meaningJa": "帰属意識",
-          "exampleEn": "I feel a sense of belonging here.",
-          "exampleJa": "ここに居場所があると感じます。"
-        },
-        {
-          "word": "litter",
-          "meaningJa": "ゴミ",
-          "exampleEn": "Please do not drop litter.",
-          "exampleJa": "ゴミを捨てないでください。"
-        },
-        {
-          "word": "resident",
-          "meaningJa": "住民",
-          "exampleEn": "The residents are very kind.",
-          "exampleJa": "住民たちはとても親切です。"
-        },
-        {
-          "word": "neglected",
-          "meaningJa": "放置された",
-          "exampleEn": "The garden was neglected for years.",
-          "exampleJa": "その庭は何年も放置されていました。"
-        },
-        {
-          "word": "contributing",
-          "meaningJa": "貢献する",
-          "exampleEn": "She is contributing to the project.",
-          "exampleJa": "彼女はそのプロジェクトに貢献しています。"
-        }
-      ],
-      "id": "intermediate-2026-11-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/intermediate.m4a",
-      "durationSeconds": 54
-    },
-    {
-      "levelGroup": "advanced",
-      "title": "Cultivating Community Through Environmental Stewardship",
-      "cefrLevel": "B2",
-      "summaryJa": "環境管理を通じたコミュニティ形成の重要性と、市民参加型活動が社会にもたらす影響について考察します。",
-      "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/environment_society/community-cleanup"
-      ],
-      "sentences": [
-        {
-          "index": 0,
-          "text": "Participating in community cleanup initiatives fosters a deeper connection to one's immediate local environment.",
-          "translationJa": "地域清掃の取り組みに参加することは、自分の住む環境との深い結びつきを育みます。",
-          "id": "advanced-2026-11-22-s01",
-          "startMs": 0,
-          "endMs": 6199,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s01.m4a"
-        },
-        {
-          "index": 1,
-          "text": "These volunteer efforts serve as a catalyst for building stronger social ties among diverse residents.",
-          "translationJa": "これらのボランティア活動は、多様な住民の間に強い社会的な絆を築くための触媒となります。",
-          "id": "advanced-2026-11-22-s02",
-          "startMs": 6599,
-          "endMs": 11973,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s02.m4a"
-        },
-        {
-          "index": 2,
-          "text": "Active maintenance of shared public spaces discourages vandalism and promotes a culture of mutual respect.",
-          "translationJa": "共有の公共スペースを積極的に維持することは、破壊行為を抑止し、相互尊重の文化を促進します。",
-          "id": "advanced-2026-11-22-s03",
-          "startMs": 12373,
-          "endMs": 18418,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s03.m4a"
-        },
-        {
-          "index": 3,
-          "text": "Many people find that working toward a common goal creates a sense of collective ownership.",
-          "translationJa": "多くの人は、共通の目標に向かって努力することが、集団としての当事者意識を生むことに気づきます。",
-          "id": "advanced-2026-11-22-s04",
-          "startMs": 18818,
-          "endMs": 23397,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s04.m4a"
-        },
-        {
-          "index": 4,
-          "text": "When we take initiative to clean our streets, we set a standard for our entire neighborhood.",
-          "translationJa": "私たちが率先して通りを清掃するとき、私たちは地域全体の基準を確立することになります。",
-          "id": "advanced-2026-11-22-s05",
-          "startMs": 23797,
-          "endMs": 28710,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s05.m4a"
-        },
-        {
-          "index": 5,
-          "text": "This practice effectively transforms passive bystanders into active participants in sustainable urban living and development.",
-          "translationJa": "この習慣は、受動的な傍観者を、持続可能な都市生活と発展における能動的な参加者へと変えます。",
-          "id": "advanced-2026-11-22-s06",
-          "startMs": 29110,
-          "endMs": 36109,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s06.m4a"
-        },
-        {
-          "index": 6,
-          "text": "Engaging in manual labor outdoors offers a necessary respite from our increasingly digital and sedentary lifestyles.",
-          "translationJa": "屋外での肉体労働に従事することは、デジタル化が進み座りがちになった現代の生活からの必要な休息となります。",
-          "id": "advanced-2026-11-22-s07",
-          "startMs": 36509,
-          "endMs": 43274,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s07.m4a"
-        },
-        {
-          "index": 7,
-          "text": "Furthermore, these events provide valuable educational moments for children to learn about environmental social responsibility.",
-          "translationJa": "さらに、こうしたイベントは、子供たちが環境的な社会的責任について学ぶ貴重な教育の瞬間を提供します。",
-          "id": "advanced-2026-11-22-s08",
-          "startMs": 43674,
-          "endMs": 51001,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s08.m4a"
-        },
-        {
-          "index": 8,
-          "text": "A well-maintained park enhances the overall quality of life for every single person in town.",
-          "translationJa": "手入れの行き届いた公園は、町に住むすべての人々の生活の質を向上させます。",
-          "id": "advanced-2026-11-22-s09",
-          "startMs": 51401,
-          "endMs": 56553,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "Small, consistent actions by individual citizens can eventually lead to significant improvements in public health standards.",
-          "translationJa": "個々の市民による小さな一貫した行動は、やがて公衆衛生基準の著しい改善につながる可能性があります。",
-          "id": "advanced-2026-11-22-s10",
-          "startMs": 56953,
-          "endMs": 64095,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s10.m4a"
-        },
-        {
-          "index": 10,
-          "text": "Ultimately, stewardship of our local surroundings is essential for creating a vibrant and resilient community structure.",
-          "translationJa": "結局のところ、身近な環境を大切にすることは、活気に満ちた強靭な地域構造を作るために不可欠なのです。",
-          "id": "advanced-2026-11-22-s11",
-          "startMs": 64495,
-          "endMs": 71038,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s11.m4a"
+          "text": "By practicing these simple steps, you will become a reliable person that others trust deeply.",
+          "translationJa": "これらの簡単なステップを実践することで、あなたは他人が深く信頼できる頼もしい人になるでしょう。",
+          "id": "intermediate-2026-11-23-s11",
+          "startMs": 51912,
+          "endMs": 56943,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Consider how your presence at a local event might positively influence the future of your area.",
-          "translationJa": "地域のイベントへのあなたの参加が、どのように地域の未来に良い影響を与えるか考えてみてください。",
-          "id": "advanced-2026-11-22-s12",
-          "startMs": 71438,
-          "endMs": 76360,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced-s12.m4a"
+          "text": "Remember that quality time is always better than just talking about superficial things every day.",
+          "translationJa": "毎日表面的な話をするよりも、質の高い時間を過ごすほうが常に良いことを覚えておいてください。",
+          "id": "intermediate-2026-11-23-s12",
+          "startMs": 57343,
+          "endMs": 62459,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "stewardship",
-          "meaningJa": "管理、責任ある管理",
-          "exampleEn": "Environmental stewardship is vital.",
-          "exampleJa": "環境の責任ある管理は不可欠です。"
+          "word": "connection",
+          "meaningJa": "つながり",
+          "exampleEn": "We have a strong connection.",
+          "exampleJa": "私たちは強いつながりがあります。"
         },
         {
-          "word": "catalyst",
-          "meaningJa": "触媒、変化のきっかけ",
-          "exampleEn": "The meeting was a catalyst for change.",
-          "exampleJa": "その会議は変化のきっかけでした。"
+          "word": "distressed",
+          "meaningJa": "悩んでいる",
+          "exampleEn": "She looked quite distressed.",
+          "exampleJa": "彼女はかなり悩んでいる様子でした。"
         },
         {
-          "word": "resilient",
-          "meaningJa": "回復力のある、強靭な",
-          "exampleEn": "We need a more resilient economy.",
-          "exampleJa": "私たちはより強靭な経済が必要です。"
+          "word": "acknowledge",
+          "meaningJa": "認める",
+          "exampleEn": "He acknowledged his mistake.",
+          "exampleJa": "彼は自分の間違いを認めました。"
         },
         {
-          "word": "bystander",
-          "meaningJa": "傍観者",
-          "exampleEn": "The innocent bystander was hurt.",
-          "exampleJa": "罪のない傍観者が怪我をしました。"
+          "word": "genuine",
+          "meaningJa": "心からの",
+          "exampleEn": "She showed genuine concern.",
+          "exampleJa": "彼女は心からの懸念を示しました。"
         },
         {
-          "word": "sedentary",
-          "meaningJa": "座りがちな",
-          "exampleEn": "A sedentary job is not healthy.",
-          "exampleJa": "座りっぱなしの仕事は健康的ではありません。"
+          "word": "vital",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Communication is vital for teams.",
+          "exampleJa": "チームにはコミュニケーションが不可欠です。"
         }
       ],
-      "id": "advanced-2026-11-22",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-22/advanced.m4a",
-      "durationSeconds": 74
+      "id": "intermediate-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate.m4a",
+      "durationSeconds": 60
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "Cultivating Deep Friendships",
+      "cefrLevel": "B2",
+      "summaryJa": "深い友情を維持するために必要な、能動的なリスニングと感情的なサポートの重要性について考察します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Maintaining deep friendships requires more than just occasional casual greetings and light social interaction.",
+          "translationJa": "深い友情を維持するには、時折の何気ない挨拶や軽い交流以上のものが必要です。",
+          "id": "advanced-2026-11-23-s01",
+          "startMs": 0,
+          "endMs": 5891,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "When you check on a friend, your intention should be to create a safe space.",
+          "translationJa": "友人の様子を伺うとき、あなたの意図は安全な空間を作り出すことであるべきです。",
+          "id": "advanced-2026-11-23-s02",
+          "startMs": 6291,
+          "endMs": 10356,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is essential to move beyond surface-level chatter and invite them to share their experiences.",
+          "translationJa": "表面的なおしゃべりを超えて、彼らの経験を共有してもらうよう促すことが不可欠です。",
+          "id": "advanced-2026-11-23-s03",
+          "startMs": 10756,
+          "endMs": 15710,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Active listening involves observing not just their words but also their tone and body language.",
+          "translationJa": "能動的な傾聴とは、彼らの言葉だけでなく、口調やボディランゲージも観察することを含みます。",
+          "id": "advanced-2026-11-23-s04",
+          "startMs": 16110,
+          "endMs": 21029,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Often, what remains unsaid provides the most significant insight into their current emotional well-being.",
+          "translationJa": "多くの場合、語られないことこそが、彼らの現在の精神的な健康状態への最も重要な洞察を与えてくれます。",
+          "id": "advanced-2026-11-23-s05",
+          "startMs": 21429,
+          "endMs": 26981,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Resist the urge to jump into problem-solving mode before fully understanding the context of their story.",
+          "translationJa": "彼らの話の背景を十分に理解する前に、問題解決モードに飛び込みたいという衝動を抑えてください。",
+          "id": "advanced-2026-11-23-s06",
+          "startMs": 27381,
+          "endMs": 32845,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Empathy is about validating their feelings, even if you do not agree with their perspective.",
+          "translationJa": "共感とは、たとえ相手の視点に同意できなくても、彼らの感情を肯定することです。",
+          "id": "advanced-2026-11-23-s07",
+          "startMs": 33245,
+          "endMs": 38013,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "By offering a listening ear, you allow them to process their own thoughts more clearly.",
+          "translationJa": "耳を傾けることで、彼らが自分自身の考えをより明確に整理できるよう手助けできます。",
+          "id": "advanced-2026-11-23-s08",
+          "startMs": 38413,
+          "endMs": 42887,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Regular check-ins demonstrate that you value the relationship beyond convenience or shared activities alone.",
+          "translationJa": "定期的な連絡は、利便性や単なる共通の活動を超えて、あなたがその関係を大切にしていることを示します。",
+          "id": "advanced-2026-11-23-s09",
+          "startMs": 43287,
+          "endMs": 49087,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Building such trust takes considerable time and consistent effort from both sides of the friendship.",
+          "translationJa": "そのような信頼を築くには、友情の両側からかなりの時間と一貫した努力が必要です。",
+          "id": "advanced-2026-11-23-s10",
+          "startMs": 49487,
+          "endMs": 54542,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, being present is the greatest gift you can offer to your closest companions daily.",
+          "translationJa": "結局のところ、そばにいることは、あなたが親しい仲間に毎日提供できる最大の贈り物です。",
+          "id": "advanced-2026-11-23-s11",
+          "startMs": 54942,
+          "endMs": 60022,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "True friendship thrives when both individuals feel heard, respected, and genuinely cared for over time.",
+          "translationJa": "真の友情は、双方が時間をかけて話を聞いてもらい、尊重され、心から大切にされていると感じるときに育まれます。",
+          "id": "advanced-2026-11-23-s12",
+          "startMs": 60422,
+          "endMs": 66332,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "occasional",
+          "meaningJa": "時折の",
+          "exampleEn": "We have occasional meetings.",
+          "exampleJa": "時々打ち合わせをします。"
+        },
+        {
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Trust is essential for success.",
+          "exampleJa": "成功には信頼が不可欠です。"
+        },
+        {
+          "word": "insight",
+          "meaningJa": "洞察",
+          "exampleEn": "He provided deep insight.",
+          "exampleJa": "彼は深い洞察を提供しました。"
+        },
+        {
+          "word": "empathy",
+          "meaningJa": "共感",
+          "exampleEn": "She has great empathy.",
+          "exampleJa": "彼女は素晴らしい共感力を持っています。"
+        },
+        {
+          "word": "thrive",
+          "meaningJa": "繁栄する、成長する",
+          "exampleEn": "Plants thrive in sunlight.",
+          "exampleJa": "植物は日光の下でよく育ちます。"
+        }
+      ],
+      "id": "advanced-2026-11-23",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced.m4a",
+      "durationSeconds": 64
     }
   ],
-  "topicCategory": "environment_society"
+  "topicCategory": "communication_relationships"
 }
