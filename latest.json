@@ -1,454 +1,452 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-22T15:01:13Z",
-  "lessonDate": "2026-11-23",
+  "generatedAtUtc": "2026-11-23T23:18:32Z",
+  "lessonDate": "2026-11-24",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Checking on a Friend",
+      "title": "AI Technology in Healthcare",
       "cefrLevel": "A2",
-      "summaryJa": "友人への思いやりのある声のかけ方と、相手の話を聞くことの大切さについて学びます。",
+      "summaryJa": "NHSはAIを使って乳がん検診をより早く行うための新しい試験を開始しました。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "It is important to check on your friends when they seem busy lately.",
-          "translationJa": "最近忙しそうな友人の様子を気にかけることは大切です。",
-          "id": "beginner-2026-11-23-s01",
+          "text": "The NHS is starting a new project for breast cancer screening today.",
+          "translationJa": "NHSは今日、乳がん検診のための新しいプロジェクトを開始します。",
+          "id": "beginner-2026-11-24-s01",
           "startMs": 0,
-          "endMs": 3143,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s01.m4a"
+          "endMs": 3911,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can send a simple message to ask how they are doing today.",
-          "translationJa": "彼らが今日どう過ごしているか尋ねる簡単なメッセージを送ることができます。",
-          "id": "beginner-2026-11-23-s02",
-          "startMs": 3543,
-          "endMs": 6810,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s02.m4a"
+          "text": "They want to see if artificial intelligence can help detect cancer early.",
+          "translationJa": "彼らはAIががんを早期に発見する助けになるかを知りたがっています。",
+          "id": "beginner-2026-11-24-s02",
+          "startMs": 4311,
+          "endMs": 8257,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Start by saying that you were thinking about them during your busy day.",
-          "translationJa": "忙しい一日の間に彼らのことを考えていたと伝えることから始めましょう。",
-          "id": "beginner-2026-11-23-s03",
-          "startMs": 7210,
-          "endMs": 10660,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s03.m4a"
+          "text": "Doctors hope that this new technology will make the process much faster.",
+          "translationJa": "医師たちはこの新しい技術によってプロセスがずっと早くなることを期待しています。",
+          "id": "beginner-2026-11-24-s03",
+          "startMs": 8657,
+          "endMs": 12565,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "A short note shows that you truly care about your close friend's happiness.",
-          "translationJa": "短いメモは、親しい友人の幸せを心から大切に思っていることを示します。",
-          "id": "beginner-2026-11-23-s04",
-          "startMs": 11060,
-          "endMs": 14900,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s04.m4a"
+          "text": "AI can look at many medical images in a very short time.",
+          "translationJa": "AIは非常に短い時間で多くの医療画像を調べることができます。",
+          "id": "beginner-2026-11-24-s04",
+          "startMs": 12965,
+          "endMs": 16294,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Do not worry if they do not reply to your message right away now.",
-          "translationJa": "もし彼らがすぐに返信をくれなくても心配しないでください。",
-          "id": "beginner-2026-11-23-s05",
-          "startMs": 15300,
-          "endMs": 18705,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s05.m4a"
+          "text": "This trial is the largest one in the world for this technology.",
+          "translationJa": "この試験はこの技術において世界最大規模のものです。",
+          "id": "beginner-2026-11-24-s05",
+          "startMs": 16694,
+          "endMs": 19908,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "They might be resting or focusing on their work at this exact moment.",
-          "translationJa": "彼らは今この瞬間、休んでいるか仕事に集中しているかもしれません。",
-          "id": "beginner-2026-11-23-s06",
-          "startMs": 19105,
-          "endMs": 22505,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s06.m4a"
+          "text": "It will help reduce the pressure on many busy doctors and nurses.",
+          "translationJa": "それは多くの多忙な医師や看護師の負担を減らす助けとなるでしょう。",
+          "id": "beginner-2026-11-24-s06",
+          "startMs": 20308,
+          "endMs": 23753,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "When they answer, listen carefully to what they want to share with you.",
-          "translationJa": "彼らが返事をくれたら、彼らがあなたと共有したい内容を注意深く聞いてください。",
-          "id": "beginner-2026-11-23-s07",
-          "startMs": 22905,
-          "endMs": 26448,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s07.m4a"
+          "text": "Patients will receive their results much sooner than they do right now.",
+          "translationJa": "患者は現在よりもずっと早く結果を受け取れるようになります。",
+          "id": "beginner-2026-11-24-s07",
+          "startMs": 24153,
+          "endMs": 27517,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Showing that you are a good listener will make your friendship much stronger.",
-          "translationJa": "聞き上手であることを示すと、友情はさらに深まります。",
-          "id": "beginner-2026-11-23-s08",
-          "startMs": 26848,
-          "endMs": 30468,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s08.m4a"
+          "text": "Early detection is very important for successful treatment of the disease.",
+          "translationJa": "早期発見は病気の治療を成功させるために非常に重要です。",
+          "id": "beginner-2026-11-24-s08",
+          "startMs": 27917,
+          "endMs": 31834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Kind words can really brighten someone's day when they are feeling very tired.",
-          "translationJa": "優しい言葉は、とても疲れている誰かの一日を明るくすることができます。",
-          "id": "beginner-2026-11-23-s09",
-          "startMs": 30868,
-          "endMs": 34964,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s09.m4a"
+          "text": "Experts believe that AI will change the future of modern medical care.",
+          "translationJa": "専門家はAIが現代医療の未来を変えると信じています。",
+          "id": "beginner-2026-11-24-s09",
+          "startMs": 32234,
+          "endMs": 35946,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Always remember that small gestures make a big difference in our daily lives.",
-          "translationJa": "ちょっとした気遣いが私たちの日常生活に大きな違いをもたらすことを忘れないでください。",
-          "id": "beginner-2026-11-23-s10",
-          "startMs": 35364,
-          "endMs": 39337,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner-s10.m4a"
+          "text": "We look forward to seeing the results of this important new study.",
+          "translationJa": "私たちはこの重要な新しい研究の結果を見ることを楽しみにしています。",
+          "id": "beginner-2026-11-24-s10",
+          "startMs": 36346,
+          "endMs": 39622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s10.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "check on",
-          "meaningJa": "～の様子を確認する",
-          "exampleEn": "I will check on my friend later.",
-          "exampleJa": "後で友人の様子を見に行きます。"
+          "word": "screening",
+          "meaningJa": "検診",
+          "exampleEn": "The hospital offers regular health screening.",
+          "exampleJa": "その病院は定期的な健康診断を提供しています。"
         },
         {
-          "word": "truly",
-          "meaningJa": "心から",
-          "exampleEn": "I am truly happy for you.",
-          "exampleJa": "心から嬉しく思います。"
+          "word": "artificial intelligence",
+          "meaningJa": "人工知能",
+          "exampleEn": "Artificial intelligence is changing many industries.",
+          "exampleJa": "人工知能は多くの産業を変えています。"
         },
         {
-          "word": "gesture",
-          "meaningJa": "身振り、意思表示",
-          "exampleEn": "It was a kind gesture.",
-          "exampleJa": "それは親切な振る舞いでした。"
+          "word": "detect",
+          "meaningJa": "見つける、検出する",
+          "exampleEn": "The machine can detect small changes in temperature.",
+          "exampleJa": "その機械は温度のわずかな変化を検出できます。"
         },
         {
-          "index": 3,
-          "word": "brighten",
-          "meaningJa": "明るくする",
-          "exampleEn": "Your smile brightens my day.",
-          "exampleJa": "あなたの笑顔で一日が明るくなります。"
+          "word": "trial",
+          "meaningJa": "試験",
+          "exampleEn": "The drug is currently in a clinical trial.",
+          "exampleJa": "その薬は現在臨床試験中です。"
         },
         {
-          "index": 4,
-          "word": "careful",
-          "meaningJa": "注意深い",
-          "exampleEn": "Please be careful with that glass.",
-          "exampleJa": "そのグラスには気をつけてください。"
+          "word": "treatment",
+          "meaningJa": "治療",
+          "exampleEn": "Early treatment is vital for recovery.",
+          "exampleJa": "回復のためには早期治療が不可欠です。"
         }
       ],
-      "id": "beginner-2026-11-23",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/beginner.m4a",
+      "id": "beginner-2026-11-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner.m4a",
       "durationSeconds": 38
     },
     {
       "levelGroup": "intermediate",
-      "title": "The Art of Listening",
+      "title": "Using AI for Faster Cancer Screening",
       "cefrLevel": "B1",
-      "summaryJa": "友人関係において、相手の話に耳を傾け、共感を示すためのコミュニケーションスキルについて学びます。",
+      "summaryJa": "NHSがAI技術を用いた世界最大規模の乳がん検診試験を導入し、診断の効率化を図ります。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Building a strong connection with friends often starts with simply asking how they are doing.",
-          "translationJa": "友人との強い絆を築くことは、単に彼らがどうしているか尋ねることから始まることが多いです。",
-          "id": "intermediate-2026-11-23-s01",
+          "text": "The National Health Service has launched a major trial to test artificial intelligence in screening.",
+          "translationJa": "国民保健サービス（NHS）は、検診における人工知能を試験するための大規模なプロジェクトを開始しました。",
+          "id": "intermediate-2026-11-24-s01",
           "startMs": 0,
-          "endMs": 4544,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s01.m4a"
+          "endMs": 5074,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "However, the most important part of this process is truly listening to their honest responses.",
-          "translationJa": "しかし、この過程で最も重要なのは、彼らの正直な返答に心から耳を傾けることです。",
-          "id": "intermediate-2026-11-23-s02",
-          "startMs": 4944,
-          "endMs": 10177,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s02.m4a"
+          "text": "This study aims to discover if AI can help doctors identify breast cancer much earlier.",
+          "translationJa": "この研究は、AIが医師による乳がんの早期発見を助けられるかどうかを明らかにすることを目的としています。",
+          "id": "intermediate-2026-11-24-s02",
+          "startMs": 5474,
+          "endMs": 10650,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Many people focus on what to say next instead of paying attention to the speaker.",
-          "translationJa": "多くの人は、話し手に注意を払う代わりに、次に何を言うべきかに集中してしまいます。",
-          "id": "intermediate-2026-11-23-s03",
-          "startMs": 10577,
-          "endMs": 14912,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s03.m4a"
+          "text": "By using advanced software, the system can quickly analyze thousands of complex medical imaging scans.",
+          "translationJa": "高度なソフトウェアを使用することで、システムは何千もの複雑な医療画像スキャンを迅速に分析できます。",
+          "id": "intermediate-2026-11-24-s03",
+          "startMs": 11050,
+          "endMs": 17266,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "To be a better friend, you should try to put away your phone during conversations.",
-          "translationJa": "より良い友人になるためには、会話中はスマートフォンを片付けるよう努めるべきです。",
-          "id": "intermediate-2026-11-23-s04",
-          "startMs": 15312,
-          "endMs": 19666,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s04.m4a"
+          "text": "This technology is expected to significantly reduce the heavy workload currently facing many medical professionals.",
+          "translationJa": "この技術は、現在多くの医療専門家が直面している重い業務量を大幅に軽減することが期待されています。",
+          "id": "intermediate-2026-11-24-s04",
+          "startMs": 17666,
+          "endMs": 24096,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Maintain gentle eye contact to show that you are fully present in the current moment.",
-          "translationJa": "今この瞬間に完全に集中していることを示すために、穏やかなアイコンタクトを保ちましょう。",
-          "id": "intermediate-2026-11-23-s05",
-          "startMs": 20066,
-          "endMs": 24331,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s05.m4a"
+          "text": "As the world's largest trial of its kind, researchers hope to gather very important new data.",
+          "translationJa": "この種の試験としては世界最大規模であるため、研究者たちは非常に重要な新しいデータを集めたいと考えています。",
+          "id": "intermediate-2026-11-24-s05",
+          "startMs": 24496,
+          "endMs": 29727,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "If they seem distressed, offer your support without immediately trying to solve their personal problems.",
-          "translationJa": "もし彼らが悩んでいるようなら、すぐに個人的な問題を解決しようとせずに、サポートを申し出てください。",
-          "id": "intermediate-2026-11-23-s06",
-          "startMs": 24731,
-          "endMs": 30208,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s06.m4a"
+          "text": "Early detection remains one of the most effective ways to improve long-term survival for patients.",
+          "translationJa": "早期発見は、患者の長期的な生存率を向上させる最も効果的な方法の一つであり続けています。",
+          "id": "intermediate-2026-11-24-s06",
+          "startMs": 30127,
+          "endMs": 35287,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Sometimes people just want someone to acknowledge their feelings without any judgment or quick advice.",
-          "translationJa": "時として、人は批判や即座のアドバイスなしに、自分の感情を認めてくれる誰かを求めています。",
-          "id": "intermediate-2026-11-23-s07",
-          "startMs": 30608,
-          "endMs": 35963,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s07.m4a"
+          "text": "If the results are positive, this AI could be rolled out across the entire country soon.",
+          "translationJa": "もし結果が良好であれば、このAIはまもなく全国で展開される可能性があります。",
+          "id": "intermediate-2026-11-24-s07",
+          "startMs": 35687,
+          "endMs": 40467,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "You can ask open-ended questions like how they feel about a specific situation at work.",
-          "translationJa": "仕事での特定の状況についてどう感じているかなど、答えが一つに決まらない質問をしてみましょう。",
-          "id": "intermediate-2026-11-23-s08",
-          "startMs": 36363,
-          "endMs": 41162,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s08.m4a"
+          "text": "Many experts are optimistic that this could transform how we manage hospital waiting times for tests.",
+          "translationJa": "多くの専門家は、これが検査のための病院の待ち時間を管理する方法を一変させると楽観視しています。",
+          "id": "intermediate-2026-11-24-s08",
+          "startMs": 40867,
+          "endMs": 46456,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Showing genuine interest in their life helps them feel valued and much more comfortable sharing.",
-          "translationJa": "彼らの生活に心からの関心を示すことは、彼らが大切にされていると感じ、話しやすくなる助けとなります。",
-          "id": "intermediate-2026-11-23-s09",
-          "startMs": 41562,
-          "endMs": 46343,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s09.m4a"
+          "text": "However, human doctors will still play a crucial role in making final decisions for patients.",
+          "translationJa": "しかし、患者のための最終的な決定を下す際には、人間の医師が依然として重要な役割を果たします。",
+          "id": "intermediate-2026-11-24-s09",
+          "startMs": 46856,
+          "endMs": 52240,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Patience is a vital ingredient in any healthy relationship that you want to keep long-term.",
-          "translationJa": "忍耐は、長期的に維持したい健全な関係において欠かせない要素です。",
-          "id": "intermediate-2026-11-23-s10",
-          "startMs": 46743,
-          "endMs": 51512,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s10.m4a"
+          "text": "This trial highlights the growing importance of technology within our modern national health care system.",
+          "translationJa": "この試験は、現代の国民医療制度における技術の重要性が高まっていることを示しています。",
+          "id": "intermediate-2026-11-24-s10",
+          "startMs": 52640,
+          "endMs": 57967,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "By practicing these simple steps, you will become a reliable person that others trust deeply.",
-          "translationJa": "これらの簡単なステップを実践することで、あなたは他人が深く信頼できる頼もしい人になるでしょう。",
-          "id": "intermediate-2026-11-23-s11",
-          "startMs": 51912,
-          "endMs": 56943,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s11.m4a"
+          "text": "Public interest in this project is high as it could help save many lives every year.",
+          "translationJa": "毎年多くの命を救う可能性があるため、このプロジェクトに対する国民の関心は非常に高いです。",
+          "id": "intermediate-2026-11-24-s11",
+          "startMs": 58367,
+          "endMs": 62546,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s11.m4a"
         },
         {
           "index": 11,
-          "text": "Remember that quality time is always better than just talking about superficial things every day.",
-          "translationJa": "毎日表面的な話をするよりも、質の高い時間を過ごすほうが常に良いことを覚えておいてください。",
-          "id": "intermediate-2026-11-23-s12",
-          "startMs": 57343,
-          "endMs": 62459,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate-s12.m4a"
+          "text": "We will continue to watch how this innovative study develops over the coming months and years.",
+          "translationJa": "私たちはこの革新的な研究が今後数ヶ月から数年の間にどのように発展するかを見守っていきます。",
+          "id": "intermediate-2026-11-24-s12",
+          "startMs": 62946,
+          "endMs": 67569,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "connection",
-          "meaningJa": "つながり",
-          "exampleEn": "We have a strong connection.",
-          "exampleJa": "私たちは強いつながりがあります。"
+          "word": "launch",
+          "meaningJa": "開始する、立ち上げる",
+          "exampleEn": "The company will launch a new product next month.",
+          "exampleJa": "その会社は来月新製品を発売します。"
         },
         {
-          "word": "distressed",
-          "meaningJa": "悩んでいる",
-          "exampleEn": "She looked quite distressed.",
-          "exampleJa": "彼女はかなり悩んでいる様子でした。"
+          "word": "identify",
+          "meaningJa": "特定する、見分ける",
+          "exampleEn": "It is hard to identify the exact cause of the problem.",
+          "exampleJa": "問題の正確な原因を特定するのは困難です。"
         },
         {
-          "word": "acknowledge",
-          "meaningJa": "認める",
-          "exampleEn": "He acknowledged his mistake.",
-          "exampleJa": "彼は自分の間違いを認めました。"
+          "word": "significantly",
+          "meaningJa": "著しく、かなり",
+          "exampleEn": "Sales have increased significantly this quarter.",
+          "exampleJa": "今四半期、売上は著しく増加しました。"
         },
         {
-          "word": "genuine",
-          "meaningJa": "心からの",
-          "exampleEn": "She showed genuine concern.",
-          "exampleJa": "彼女は心からの懸念を示しました。"
+          "word": "optimistic",
+          "meaningJa": "楽観的な",
+          "exampleEn": "I am optimistic about the future of our project.",
+          "exampleJa": "私はプロジェクトの将来について楽観的です。"
         },
         {
-          "word": "vital",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Communication is vital for teams.",
-          "exampleJa": "チームにはコミュニケーションが不可欠です。"
+          "word": "innovative",
+          "meaningJa": "革新的な",
+          "exampleEn": "They developed an innovative solution to the energy crisis.",
+          "exampleJa": "彼らはエネルギー危機に対する革新的な解決策を開発しました。"
         }
       ],
-      "id": "intermediate-2026-11-23",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/intermediate.m4a",
-      "durationSeconds": 60
+      "id": "intermediate-2026-11-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate.m4a",
+      "durationSeconds": 65
     },
     {
       "levelGroup": "advanced",
-      "title": "Cultivating Deep Friendships",
+      "title": "AI Technology in Cancer Screening",
       "cefrLevel": "B2",
-      "summaryJa": "深い友情を維持するために必要な、能動的なリスニングと感情的なサポートの重要性について考察します。",
+      "summaryJa": "NHSは乳がん検診におけるAI技術の有効性を検証する大規模な臨床試験を開始しました。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/communication_relationships/checking-on-a-friend"
+        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Maintaining deep friendships requires more than just occasional casual greetings and light social interaction.",
-          "translationJa": "深い友情を維持するには、時折の何気ない挨拶や軽い交流以上のものが必要です。",
-          "id": "advanced-2026-11-23-s01",
+          "text": "The British health service has launched a massive trial to evaluate artificial intelligence technology.",
+          "translationJa": "英国の国民保健サービスは、AI技術を評価するための大規模な試験を開始しました。",
+          "id": "advanced-2026-11-24-s01",
           "startMs": 0,
-          "endMs": 5891,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s01.m4a"
+          "endMs": 5469,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "When you check on a friend, your intention should be to create a safe space.",
-          "translationJa": "友人の様子を伺うとき、あなたの意図は安全な空間を作り出すことであるべきです。",
-          "id": "advanced-2026-11-23-s02",
-          "startMs": 6291,
-          "endMs": 10356,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s02.m4a"
+          "text": "This study aims to determine if automated systems can detect signs of breast cancer earlier.",
+          "translationJa": "この研究は、自動化されたシステムが乳がんの兆候をより早期に発見できるかを判断することを目的としています。",
+          "id": "advanced-2026-11-24-s02",
+          "startMs": 5869,
+          "endMs": 10883,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is essential to move beyond surface-level chatter and invite them to share their experiences.",
-          "translationJa": "表面的なおしゃべりを超えて、彼らの経験を共有してもらうよう促すことが不可欠です。",
-          "id": "advanced-2026-11-23-s03",
-          "startMs": 10756,
-          "endMs": 15710,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s03.m4a"
+          "text": "Medical experts believe this innovation could significantly reduce the current heavy workload on staff members.",
+          "translationJa": "医療専門家は、この革新的な技術がスタッフの現在の重い業務負担を大幅に軽減できると考えています。",
+          "id": "advanced-2026-11-24-s03",
+          "startMs": 11283,
+          "endMs": 17185,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Active listening involves observing not just their words but also their tone and body language.",
-          "translationJa": "能動的な傾聴とは、彼らの言葉だけでなく、口調やボディランゲージも観察することを含みます。",
-          "id": "advanced-2026-11-23-s04",
-          "startMs": 16110,
-          "endMs": 21029,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s04.m4a"
+          "text": "Screening processes often require radiologists to analyze thousands of complex images for potential health risks.",
+          "translationJa": "検診プロセスでは、放射線科医が潜在的な健康リスクを求めて何千もの複雑な画像を分析する必要があります。",
+          "id": "advanced-2026-11-24-s04",
+          "startMs": 17585,
+          "endMs": 24240,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Often, what remains unsaid provides the most significant insight into their current emotional well-being.",
-          "translationJa": "多くの場合、語られないことこそが、彼らの現在の精神的な健康状態への最も重要な洞察を与えてくれます。",
-          "id": "advanced-2026-11-23-s05",
-          "startMs": 21429,
-          "endMs": 26981,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s05.m4a"
+          "text": "AI software can process these medical scans rapidly while maintaining a high level of clinical accuracy.",
+          "translationJa": "AIソフトウェアは、高い臨床精度を維持しながら、これらの医療スキャンを迅速に処理できます。",
+          "id": "advanced-2026-11-24-s05",
+          "startMs": 24640,
+          "endMs": 30720,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Resist the urge to jump into problem-solving mode before fully understanding the context of their story.",
-          "translationJa": "彼らの話の背景を十分に理解する前に、問題解決モードに飛び込みたいという衝動を抑えてください。",
-          "id": "advanced-2026-11-23-s06",
-          "startMs": 27381,
-          "endMs": 32845,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s06.m4a"
+          "text": "The trial involves multiple hospital sites across the country to ensure diverse and reliable data results.",
+          "translationJa": "この試験には、多様で信頼性の高いデータ結果を保証するため、全国の複数の病院が参加しています。",
+          "id": "advanced-2026-11-24-s06",
+          "startMs": 31120,
+          "endMs": 37030,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Empathy is about validating their feelings, even if you do not agree with their perspective.",
-          "translationJa": "共感とは、たとえ相手の視点に同意できなくても、彼らの感情を肯定することです。",
-          "id": "advanced-2026-11-23-s07",
-          "startMs": 33245,
-          "endMs": 38013,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s07.m4a"
+          "text": "Researchers hope the technology will assist doctors by flagging urgent cases for immediate professional review.",
+          "translationJa": "研究者は、この技術が緊急の症例を即座に専門家のレビューに回すことで、医師を支援することを期待しています。",
+          "id": "advanced-2026-11-24-s07",
+          "startMs": 37430,
+          "endMs": 43544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "By offering a listening ear, you allow them to process their own thoughts more clearly.",
-          "translationJa": "耳を傾けることで、彼らが自分自身の考えをより明確に整理できるよう手助けできます。",
-          "id": "advanced-2026-11-23-s08",
-          "startMs": 38413,
-          "endMs": 42887,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s08.m4a"
+          "text": "Early detection remains the most critical factor for improving long-term survival rates for cancer patients.",
+          "translationJa": "早期発見は、がん患者の長期生存率を向上させるための最も重要な要素であり続けています。",
+          "id": "advanced-2026-11-24-s08",
+          "startMs": 43944,
+          "endMs": 49835,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Regular check-ins demonstrate that you value the relationship beyond convenience or shared activities alone.",
-          "translationJa": "定期的な連絡は、利便性や単なる共通の活動を超えて、あなたがその関係を大切にしていることを示します。",
-          "id": "advanced-2026-11-23-s09",
-          "startMs": 43287,
-          "endMs": 49087,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s09.m4a"
+          "text": "By integrating digital tools, the healthcare system aims to provide faster results for every patient.",
+          "translationJa": "デジタルツールを統合することで、医療システムはすべての患者により迅速な結果を提供することを目指しています。",
+          "id": "advanced-2026-11-24-s09",
+          "startMs": 50235,
+          "endMs": 55870,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Building such trust takes considerable time and consistent effort from both sides of the friendship.",
-          "translationJa": "そのような信頼を築くには、友情の両側からかなりの時間と一貫した努力が必要です。",
-          "id": "advanced-2026-11-23-s10",
-          "startMs": 49487,
-          "endMs": 54542,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s10.m4a"
+          "text": "If successful, this initiative could transform how hospitals conduct routine screening programs in the future.",
+          "translationJa": "もし成功すれば、この取り組みは将来的に病院が日常的な検診プログラムを行う方法を変革する可能性があります。",
+          "id": "advanced-2026-11-24-s10",
+          "startMs": 56270,
+          "endMs": 62351,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Ultimately, being present is the greatest gift you can offer to your closest companions daily.",
-          "translationJa": "結局のところ、そばにいることは、あなたが親しい仲間に毎日提供できる最大の贈り物です。",
-          "id": "advanced-2026-11-23-s11",
-          "startMs": 54942,
-          "endMs": 60022,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s11.m4a"
+          "text": "The global medical community is closely watching these developments to see how AI impacts care.",
+          "translationJa": "世界の医療コミュニティは、AIがどのようにケアに影響を与えるかを確認するため、これらの進展を注視しています。",
+          "id": "advanced-2026-11-24-s11",
+          "startMs": 62751,
+          "endMs": 67906,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s11.m4a"
         },
         {
           "index": 11,
-          "text": "True friendship thrives when both individuals feel heard, respected, and genuinely cared for over time.",
-          "translationJa": "真の友情は、双方が時間をかけて話を聞いてもらい、尊重され、心から大切にされていると感じるときに育まれます。",
-          "id": "advanced-2026-11-23-s12",
-          "startMs": 60422,
-          "endMs": 66332,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced-s12.m4a"
+          "text": "Implementing such advanced systems represents a major step forward for modern diagnostic medicine and technology.",
+          "translationJa": "このような高度なシステムの導入は、現代の診断医学と技術にとって大きな前進を表しています。",
+          "id": "advanced-2026-11-24-s12",
+          "startMs": 68306,
+          "endMs": 74909,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "occasional",
-          "meaningJa": "時折の",
-          "exampleEn": "We have occasional meetings.",
-          "exampleJa": "時々打ち合わせをします。"
+          "word": "evaluate",
+          "meaningJa": "評価する",
+          "exampleEn": "They will evaluate the results of the study.",
+          "exampleJa": "彼らは研究の結果を評価する予定です。"
         },
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Trust is essential for success.",
-          "exampleJa": "成功には信頼が不可欠です。"
+          "word": "radiologist",
+          "meaningJa": "放射線科医",
+          "exampleEn": "The radiologist reviewed the X-ray carefully.",
+          "exampleJa": "放射線科医はレントゲン写真を注意深く確認しました。"
         },
         {
-          "word": "insight",
-          "meaningJa": "洞察",
-          "exampleEn": "He provided deep insight.",
-          "exampleJa": "彼は深い洞察を提供しました。"
+          "word": "accuracy",
+          "meaningJa": "正確さ",
+          "exampleEn": "Data accuracy is essential for this research.",
+          "exampleJa": "この研究にはデータの正確さが不可欠です。"
         },
         {
-          "word": "empathy",
-          "meaningJa": "共感",
-          "exampleEn": "She has great empathy.",
-          "exampleJa": "彼女は素晴らしい共感力を持っています。"
+          "word": "integrate",
+          "meaningJa": "統合する",
+          "exampleEn": "We plan to integrate the new software.",
+          "exampleJa": "私たちは新しいソフトウェアを統合する計画です。"
         },
         {
-          "word": "thrive",
-          "meaningJa": "繁栄する、成長する",
-          "exampleEn": "Plants thrive in sunlight.",
-          "exampleJa": "植物は日光の下でよく育ちます。"
+          "word": "initiative",
+          "meaningJa": "取り組み",
+          "exampleEn": "The new government initiative helps local businesses.",
+          "exampleJa": "新しい政府の取り組みは地元企業を支援します。"
         }
       ],
-      "id": "advanced-2026-11-23",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-23/advanced.m4a",
-      "durationSeconds": 64
+      "id": "advanced-2026-11-24",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced.m4a",
+      "durationSeconds": 73
     }
   ],
-  "topicCategory": "communication_relationships"
+  "topicCategory": "news"
 }

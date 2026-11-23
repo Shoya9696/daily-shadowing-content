@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-22T15:01:13Z",
-  "latestLessonDate": "2026-11-23",
+  "generatedAtUtc": "2026-11-23T23:18:32Z",
+  "latestLessonDate": "2026-11-24",
   "days": [
+    {
+      "lessonDate": "2026-11-24",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-24.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "AI Technology in Healthcare",
+          "durationSeconds": 38,
+          "summaryJa": "NHSはAIを使って乳がん検診をより早く行うための新しい試験を開始しました。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Using AI for Faster Cancer Screening",
+          "durationSeconds": 65,
+          "summaryJa": "NHSがAI技術を用いた世界最大規模の乳がん検診試験を導入し、診断の効率化を図ります。"
+        },
+        {
+          "level": "advanced",
+          "title": "AI Technology in Cancer Screening",
+          "durationSeconds": 73,
+          "summaryJa": "NHSは乳がん検診におけるAI技術の有効性を検証する大規模な臨床試験を開始しました。"
+        }
+      ],
+      "topicCategory": "news"
+    },
     {
       "lessonDate": "2026-11-23",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-23.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "news"
-    },
-    {
-      "lessonDate": "2026-10-24",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-24.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "How to Say No Kindly",
-          "durationSeconds": 31,
-          "summaryJa": "断ることは難しいですが、丁寧な表現を使えば相手との関係を壊さずに自分の意志を伝えることができます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering the Art of Polite Refusal",
-          "durationSeconds": 52,
-          "summaryJa": "相手の気持ちを尊重しつつ、自分の都合も大切にするための丁寧な断り方について学びます。"
-        },
-        {
-          "level": "advanced",
-          "title": "The Strategy of Assertive Communication",
-          "durationSeconds": 63,
-          "summaryJa": "相手との関係を維持しながら、毅然とした態度で自分の意思を伝えるための高度なコミュニケーション術を解説します。"
-        }
-      ],
-      "topicCategory": "communication_relationships"
     }
   ]
 }
