@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-23T23:18:32Z",
-  "latestLessonDate": "2026-11-24",
+  "generatedAtUtc": "2026-11-24T21:52:46Z",
+  "latestLessonDate": "2026-11-25",
   "days": [
+    {
+      "lessonDate": "2026-11-25",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-25.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Tips for a Tidy Home",
+          "durationSeconds": 29,
+          "summaryJa": "小さな部屋をきれいに保つための実用的な整理整頓術を紹介します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Creating a Comfortable Living Space",
+          "durationSeconds": 49,
+          "summaryJa": "限られたスペースを最大限に活用し、快適な住環境を作るためのアドバイス。"
+        },
+        {
+          "level": "advanced",
+          "title": "Strategies for Minimalist Living",
+          "durationSeconds": 65,
+          "summaryJa": "整理整頓を通じて、シンプルで心地よい暮らしを実現するための高度な戦略。"
+        }
+      ],
+      "topicCategory": "everyday_life"
+    },
     {
       "lessonDate": "2026-11-24",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-24.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "everyday_life"
-    },
-    {
-      "lessonDate": "2026-10-25",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-25.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Speaking Up at Work",
-          "durationSeconds": 37,
-          "summaryJa": "医師が職場での懸念を表明した後に直面した困難な状況についてのニュース記事。"
-        },
-        {
-          "level": "intermediate",
-          "title": "The Challenge of Raising Concerns",
-          "durationSeconds": 59,
-          "summaryJa": "職場での懸念を報告した医師が直面した困難と、組織におけるコミュニケーションの重要性。"
-        },
-        {
-          "level": "advanced",
-          "title": "Whistleblowing and Professional Integrity",
-          "durationSeconds": 66,
-          "summaryJa": "医療現場において懸念を提起した医師が直面した報復措置と、組織文化のあり方についての考察。"
-        }
-      ],
-      "topicCategory": "news"
     }
   ]
 }

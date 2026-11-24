@@ -1,452 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-23T23:18:32Z",
-  "lessonDate": "2026-11-24",
+  "generatedAtUtc": "2026-11-24T21:52:46Z",
+  "lessonDate": "2026-11-25",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "AI Technology in Healthcare",
+      "title": "Tips for a Tidy Home",
       "cefrLevel": "A2",
-      "summaryJa": "NHSはAIを使って乳がん検診をより早く行うための新しい試験を開始しました。",
+      "summaryJa": "小さな部屋をきれいに保つための実用的な整理整頓術を紹介します。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "The NHS is starting a new project for breast cancer screening today.",
-          "translationJa": "NHSは今日、乳がん検診のための新しいプロジェクトを開始します。",
-          "id": "beginner-2026-11-24-s01",
+          "text": "Living in a small apartment can be quite difficult sometimes.",
+          "translationJa": "小さなアパートで暮らすことは、時々かなり難しいことがあります。",
+          "id": "beginner-2026-11-25-s01",
           "startMs": 0,
-          "endMs": 3911,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s01.m4a"
+          "endMs": 3487,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "They want to see if artificial intelligence can help detect cancer early.",
-          "translationJa": "彼らはAIががんを早期に発見する助けになるかを知りたがっています。",
-          "id": "beginner-2026-11-24-s02",
-          "startMs": 4311,
-          "endMs": 8257,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s02.m4a"
+          "text": "You should start by sorting all your items into different groups.",
+          "translationJa": "まずはすべての持ち物を異なるグループに分けることから始めましょう。",
+          "id": "beginner-2026-11-25-s02",
+          "startMs": 3887,
+          "endMs": 7095,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Doctors hope that this new technology will make the process much faster.",
-          "translationJa": "医師たちはこの新しい技術によってプロセスがずっと早くなることを期待しています。",
-          "id": "beginner-2026-11-24-s03",
-          "startMs": 8657,
-          "endMs": 12565,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s03.m4a"
+          "text": "Keep only the things that you use every single day now.",
+          "translationJa": "毎日使うものだけを手元に残すようにしてください。",
+          "id": "beginner-2026-11-25-s03",
+          "startMs": 7495,
+          "endMs": 10361,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "AI can look at many medical images in a very short time.",
-          "translationJa": "AIは非常に短い時間で多くの医療画像を調べることができます。",
-          "id": "beginner-2026-11-24-s04",
-          "startMs": 12965,
-          "endMs": 16294,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s04.m4a"
+          "text": "It is helpful to have a special place for your keys.",
+          "translationJa": "鍵の置き場所を決めておくととても便利です。",
+          "id": "beginner-2026-11-25-s04",
+          "startMs": 10761,
+          "endMs": 13451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "This trial is the largest one in the world for this technology.",
-          "translationJa": "この試験はこの技術において世界最大規模のものです。",
-          "id": "beginner-2026-11-24-s05",
-          "startMs": 16694,
-          "endMs": 19908,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s05.m4a"
+          "text": "Clear off your kitchen table to make more open space today.",
+          "translationJa": "今日、キッチンのテーブルの上を片付けてスペースを広げましょう。",
+          "id": "beginner-2026-11-25-s05",
+          "startMs": 13851,
+          "endMs": 17193,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It will help reduce the pressure on many busy doctors and nurses.",
-          "translationJa": "それは多くの多忙な医師や看護師の負担を減らす助けとなるでしょう。",
-          "id": "beginner-2026-11-24-s06",
-          "startMs": 20308,
-          "endMs": 23753,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s06.m4a"
+          "text": "Try to put away your clothes as soon as you arrive.",
+          "translationJa": "帰宅したらすぐに服を片付けるように努めてください。",
+          "id": "beginner-2026-11-25-s06",
+          "startMs": 17593,
+          "endMs": 20113,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Patients will receive their results much sooner than they do right now.",
-          "translationJa": "患者は現在よりもずっと早く結果を受け取れるようになります。",
-          "id": "beginner-2026-11-24-s07",
-          "startMs": 24153,
-          "endMs": 27517,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s07.m4a"
+          "text": "Cleaning a little bit every day makes a huge difference later.",
+          "translationJa": "毎日少しずつ掃除をすることは、後で大きな違いを生みます。",
+          "id": "beginner-2026-11-25-s07",
+          "startMs": 20513,
+          "endMs": 23355,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Early detection is very important for successful treatment of the disease.",
-          "translationJa": "早期発見は病気の治療を成功させるために非常に重要です。",
-          "id": "beginner-2026-11-24-s08",
-          "startMs": 27917,
-          "endMs": 31834,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s08.m4a"
+          "text": "You will feel much more relaxed in a clean living area.",
+          "translationJa": "きれいなリビングエリアにいれば、ずっとリラックスできるはずです。",
+          "id": "beginner-2026-11-25-s08",
+          "startMs": 23755,
+          "endMs": 26604,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Experts believe that AI will change the future of modern medical care.",
-          "translationJa": "専門家はAIが現代医療の未来を変えると信じています。",
-          "id": "beginner-2026-11-24-s09",
-          "startMs": 32234,
-          "endMs": 35946,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s09.m4a"
-        },
-        {
-          "index": 9,
-          "text": "We look forward to seeing the results of this important new study.",
-          "translationJa": "私たちはこの重要な新しい研究の結果を見ることを楽しみにしています。",
-          "id": "beginner-2026-11-24-s10",
-          "startMs": 36346,
-          "endMs": 39622,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner-s10.m4a"
+          "text": "Enjoy your beautiful home and have a very wonderful day ahead.",
+          "translationJa": "美しい家を楽しんで、素晴らしい一日を過ごしてください。",
+          "id": "beginner-2026-11-25-s09",
+          "startMs": 27004,
+          "endMs": 30159,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "screening",
-          "meaningJa": "検診",
-          "exampleEn": "The hospital offers regular health screening.",
-          "exampleJa": "その病院は定期的な健康診断を提供しています。"
+          "word": "sort",
+          "meaningJa": "分類する",
+          "exampleEn": "I need to sort my laundry.",
+          "exampleJa": "洗濯物を分類する必要があります。"
         },
         {
-          "word": "artificial intelligence",
-          "meaningJa": "人工知能",
-          "exampleEn": "Artificial intelligence is changing many industries.",
-          "exampleJa": "人工知能は多くの産業を変えています。"
+          "word": "apartment",
+          "meaningJa": "アパート",
+          "exampleEn": "She lives in a small apartment.",
+          "exampleJa": "彼女は小さなアパートに住んでいます。"
         },
         {
-          "word": "detect",
-          "meaningJa": "見つける、検出する",
-          "exampleEn": "The machine can detect small changes in temperature.",
-          "exampleJa": "その機械は温度のわずかな変化を検出できます。"
+          "word": "items",
+          "meaningJa": "持ち物",
+          "exampleEn": "Please pack your personal items.",
+          "exampleJa": "個人の持ち物をまとめてください。"
         },
         {
-          "word": "trial",
-          "meaningJa": "試験",
-          "exampleEn": "The drug is currently in a clinical trial.",
-          "exampleJa": "その薬は現在臨床試験中です。"
+          "word": "relaxed",
+          "meaningJa": "リラックスした",
+          "exampleEn": "I feel very relaxed now.",
+          "exampleJa": "今、とてもリラックスしています。"
         },
         {
-          "word": "treatment",
-          "meaningJa": "治療",
-          "exampleEn": "Early treatment is vital for recovery.",
-          "exampleJa": "回復のためには早期治療が不可欠です。"
+          "word": "difference",
+          "meaningJa": "違い",
+          "exampleEn": "It makes a big difference.",
+          "exampleJa": "それは大きな違いを生みます。"
         }
       ],
-      "id": "beginner-2026-11-24",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/beginner.m4a",
-      "durationSeconds": 38
+      "id": "beginner-2026-11-25",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner.m4a",
+      "durationSeconds": 29
     },
     {
       "levelGroup": "intermediate",
-      "title": "Using AI for Faster Cancer Screening",
+      "title": "Creating a Comfortable Living Space",
       "cefrLevel": "B1",
-      "summaryJa": "NHSがAI技術を用いた世界最大規模の乳がん検診試験を導入し、診断の効率化を図ります。",
+      "summaryJa": "限られたスペースを最大限に活用し、快適な住環境を作るためのアドバイス。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "The National Health Service has launched a major trial to test artificial intelligence in screening.",
-          "translationJa": "国民保健サービス（NHS）は、検診における人工知能を試験するための大規模なプロジェクトを開始しました。",
-          "id": "intermediate-2026-11-24-s01",
+          "text": "Maintaining a clean home is essential for a peaceful and happy daily life.",
+          "translationJa": "清潔な家を保つことは、平和で幸せな日常生活を送るために不可欠です。",
+          "id": "intermediate-2026-11-25-s01",
           "startMs": 0,
-          "endMs": 5074,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s01.m4a"
+          "endMs": 3917,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "This study aims to discover if AI can help doctors identify breast cancer much earlier.",
-          "translationJa": "この研究は、AIが医師による乳がんの早期発見を助けられるかどうかを明らかにすることを目的としています。",
-          "id": "intermediate-2026-11-24-s02",
-          "startMs": 5474,
-          "endMs": 10650,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s02.m4a"
+          "text": "When you live in a small space, every single item needs its own place.",
+          "translationJa": "狭い場所に住んでいるときは、すべての物に決まった場所が必要です。",
+          "id": "intermediate-2026-11-25-s02",
+          "startMs": 4317,
+          "endMs": 8348,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "By using advanced software, the system can quickly analyze thousands of complex medical imaging scans.",
-          "translationJa": "高度なソフトウェアを使用することで、システムは何千もの複雑な医療画像スキャンを迅速に分析できます。",
-          "id": "intermediate-2026-11-24-s03",
-          "startMs": 11050,
-          "endMs": 17266,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s03.m4a"
+          "text": "Start by removing things that you have not used for a long time now.",
+          "translationJa": "長い間使っていないものを処分することから始めましょう。",
+          "id": "intermediate-2026-11-25-s03",
+          "startMs": 8748,
+          "endMs": 12384,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "This technology is expected to significantly reduce the heavy workload currently facing many medical professionals.",
-          "translationJa": "この技術は、現在多くの医療専門家が直面している重い業務量を大幅に軽減することが期待されています。",
-          "id": "intermediate-2026-11-24-s04",
-          "startMs": 17666,
-          "endMs": 24096,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s04.m4a"
+          "text": "You should consider using vertical storage to maximize your available living floor space.",
+          "translationJa": "利用可能な床面積を最大化するために、縦方向の収納を使うことを検討してください。",
+          "id": "intermediate-2026-11-25-s04",
+          "startMs": 12784,
+          "endMs": 17653,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "As the world's largest trial of its kind, researchers hope to gather very important new data.",
-          "translationJa": "この種の試験としては世界最大規模であるため、研究者たちは非常に重要な新しいデータを集めたいと考えています。",
-          "id": "intermediate-2026-11-24-s05",
-          "startMs": 24496,
-          "endMs": 29727,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s05.m4a"
+          "text": "Keeping surfaces clear helps your room feel much larger and more open than before.",
+          "translationJa": "表面を片付けておくと、部屋が以前よりもずっと広く開放的に感じられます。",
+          "id": "intermediate-2026-11-25-s05",
+          "startMs": 18053,
+          "endMs": 22451,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Early detection remains one of the most effective ways to improve long-term survival for patients.",
-          "translationJa": "早期発見は、患者の長期的な生存率を向上させる最も効果的な方法の一つであり続けています。",
-          "id": "intermediate-2026-11-24-s06",
-          "startMs": 30127,
-          "endMs": 35287,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s06.m4a"
+          "text": "Create a daily habit of putting away your belongings right after using them today.",
+          "translationJa": "今日から、物を使った直後に片付ける習慣を作りましょう。",
+          "id": "intermediate-2026-11-25-s06",
+          "startMs": 22851,
+          "endMs": 27087,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "If the results are positive, this AI could be rolled out across the entire country soon.",
-          "translationJa": "もし結果が良好であれば、このAIはまもなく全国で展開される可能性があります。",
-          "id": "intermediate-2026-11-24-s07",
-          "startMs": 35687,
-          "endMs": 40467,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s07.m4a"
+          "text": "Small changes in your routine can lead to a more organized and calm environment.",
+          "translationJa": "日課のちょっとした変更が、より整理された落ち着いた環境につながります。",
+          "id": "intermediate-2026-11-25-s07",
+          "startMs": 27487,
+          "endMs": 31831,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Many experts are optimistic that this could transform how we manage hospital waiting times for tests.",
-          "translationJa": "多くの専門家は、これが検査のための病院の待ち時間を管理する方法を一変させると楽観視しています。",
-          "id": "intermediate-2026-11-24-s08",
-          "startMs": 40867,
-          "endMs": 46456,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s08.m4a"
+          "text": "Try to donate items that are still in good condition to local charity shops.",
+          "translationJa": "まだ状態の良いものは、地元のチャリティーショップに寄付することを検討してください。",
+          "id": "intermediate-2026-11-25-s08",
+          "startMs": 32231,
+          "endMs": 36318,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "However, human doctors will still play a crucial role in making final decisions for patients.",
-          "translationJa": "しかし、患者のための最終的な決定を下す際には、人間の医師が依然として重要な役割を果たします。",
-          "id": "intermediate-2026-11-24-s09",
-          "startMs": 46856,
-          "endMs": 52240,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s09.m4a"
+          "text": "A clutter-free home provides a clear mind and reduces stress after a long day.",
+          "translationJa": "散らかりのない家は心を明晰にし、長い一日の後のストレスを軽減します。",
+          "id": "intermediate-2026-11-25-s09",
+          "startMs": 36718,
+          "endMs": 40883,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "This trial highlights the growing importance of technology within our modern national health care system.",
-          "translationJa": "この試験は、現代の国民医療制度における技術の重要性が高まっていることを示しています。",
-          "id": "intermediate-2026-11-24-s10",
-          "startMs": 52640,
-          "endMs": 57967,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s10.m4a"
+          "text": "You deserve to enjoy a comfortable and well-organized sanctuary every single evening at home.",
+          "translationJa": "あなたは毎晩、快適で整理された安らぎの場所を楽しむ価値があります。",
+          "id": "intermediate-2026-11-25-s10",
+          "startMs": 41283,
+          "endMs": 46221,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Public interest in this project is high as it could help save many lives every year.",
-          "translationJa": "毎年多くの命を救う可能性があるため、このプロジェクトに対する国民の関心は非常に高いです。",
-          "id": "intermediate-2026-11-24-s11",
-          "startMs": 58367,
-          "endMs": 62546,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "We will continue to watch how this innovative study develops over the coming months and years.",
-          "translationJa": "私たちはこの革新的な研究が今後数ヶ月から数年の間にどのように発展するかを見守っていきます。",
-          "id": "intermediate-2026-11-24-s12",
-          "startMs": 62946,
-          "endMs": 67569,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate-s12.m4a"
+          "text": "Start your journey toward a simpler lifestyle by making these small adjustments this week.",
+          "translationJa": "今週これらの小さな調整を行い、シンプルなライフスタイルへの旅を始めましょう。",
+          "id": "intermediate-2026-11-25-s11",
+          "startMs": 46621,
+          "endMs": 51337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "launch",
-          "meaningJa": "開始する、立ち上げる",
-          "exampleEn": "The company will launch a new product next month.",
-          "exampleJa": "その会社は来月新製品を発売します。"
+          "word": "essential",
+          "meaningJa": "不可欠な",
+          "exampleEn": "Water is essential for life.",
+          "exampleJa": "水は生命にとって不可欠です。"
         },
         {
-          "word": "identify",
-          "meaningJa": "特定する、見分ける",
-          "exampleEn": "It is hard to identify the exact cause of the problem.",
-          "exampleJa": "問題の正確な原因を特定するのは困難です。"
+          "word": "maximize",
+          "meaningJa": "最大化する",
+          "exampleEn": "We want to maximize our time.",
+          "exampleJa": "私たちは時間を最大限に活用したいです。"
         },
         {
-          "word": "significantly",
-          "meaningJa": "著しく、かなり",
-          "exampleEn": "Sales have increased significantly this quarter.",
-          "exampleJa": "今四半期、売上は著しく増加しました。"
+          "word": "clutter",
+          "meaningJa": "散らかり",
+          "exampleEn": "Clear the clutter from your desk.",
+          "exampleJa": "机の上の散らかったものを片付けてください。"
         },
         {
-          "word": "optimistic",
-          "meaningJa": "楽観的な",
-          "exampleEn": "I am optimistic about the future of our project.",
-          "exampleJa": "私はプロジェクトの将来について楽観的です。"
+          "word": "sanctuary",
+          "meaningJa": "安らぎの場所",
+          "exampleEn": "My room is my sanctuary.",
+          "exampleJa": "私の部屋は私の安らぎの場所です。"
         },
         {
-          "word": "innovative",
-          "meaningJa": "革新的な",
-          "exampleEn": "They developed an innovative solution to the energy crisis.",
-          "exampleJa": "彼らはエネルギー危機に対する革新的な解決策を開発しました。"
+          "word": "routine",
+          "meaningJa": "日課",
+          "exampleEn": "This is part of my morning routine.",
+          "exampleJa": "これは朝の日課の一部です。"
         }
       ],
-      "id": "intermediate-2026-11-24",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/intermediate.m4a",
-      "durationSeconds": 65
+      "id": "intermediate-2026-11-25",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate.m4a",
+      "durationSeconds": 49
     },
     {
       "levelGroup": "advanced",
-      "title": "AI Technology in Cancer Screening",
+      "title": "Strategies for Minimalist Living",
       "cefrLevel": "B2",
-      "summaryJa": "NHSは乳がん検診におけるAI技術の有効性を検証する大規模な臨床試験を開始しました。",
+      "summaryJa": "整理整頓を通じて、シンプルで心地よい暮らしを実現するための高度な戦略。",
       "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "The British health service has launched a massive trial to evaluate artificial intelligence technology.",
-          "translationJa": "英国の国民保健サービスは、AI技術を評価するための大規模な試験を開始しました。",
-          "id": "advanced-2026-11-24-s01",
+          "text": "Optimizing a compact living space requires a disciplined approach to managing your personal possessions.",
+          "translationJa": "コンパクトな住空間を最適化するには、個人の持ち物を管理するための規律あるアプローチが必要です。",
+          "id": "advanced-2026-11-25-s01",
           "startMs": 0,
-          "endMs": 5469,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s01.m4a"
+          "endMs": 5672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "This study aims to determine if automated systems can detect signs of breast cancer earlier.",
-          "translationJa": "この研究は、自動化されたシステムが乳がんの兆候をより早期に発見できるかを判断することを目的としています。",
-          "id": "advanced-2026-11-24-s02",
-          "startMs": 5869,
-          "endMs": 10883,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s02.m4a"
+          "text": "The core philosophy involves keeping only essential items that truly add value to your life.",
+          "translationJa": "中心となる哲学は、あなたの人生に真の価値をもたらす必要不可欠なものだけを保持することです。",
+          "id": "advanced-2026-11-25-s02",
+          "startMs": 6072,
+          "endMs": 11088,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Medical experts believe this innovation could significantly reduce the current heavy workload on staff members.",
-          "translationJa": "医療専門家は、この革新的な技術がスタッフの現在の重い業務負担を大幅に軽減できると考えています。",
-          "id": "advanced-2026-11-24-s03",
-          "startMs": 11283,
-          "endMs": 17185,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s03.m4a"
+          "text": "Begin by evaluating the utility of every object currently occupying space in your small home.",
+          "translationJa": "まずは、現在小さな家の中でスペースを占有しているすべての物の有用性を評価することから始めましょう。",
+          "id": "advanced-2026-11-25-s03",
+          "startMs": 11488,
+          "endMs": 16775,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Screening processes often require radiologists to analyze thousands of complex images for potential health risks.",
-          "translationJa": "検診プロセスでは、放射線科医が潜在的な健康リスクを求めて何千もの複雑な画像を分析する必要があります。",
-          "id": "advanced-2026-11-24-s04",
-          "startMs": 17585,
-          "endMs": 24240,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s04.m4a"
+          "text": "Designated storage solutions are necessary to prevent clutter from accumulating on your flat surfaces again.",
+          "translationJa": "平らな場所に再び散らかりが蓄積するのを防ぐためには、指定された収納ソリューションが必要です。",
+          "id": "advanced-2026-11-25-s04",
+          "startMs": 17175,
+          "endMs": 23195,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "AI software can process these medical scans rapidly while maintaining a high level of clinical accuracy.",
-          "translationJa": "AIソフトウェアは、高い臨床精度を維持しながら、これらの医療スキャンを迅速に処理できます。",
-          "id": "advanced-2026-11-24-s05",
-          "startMs": 24640,
-          "endMs": 30720,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s05.m4a"
+          "text": "Utilizing multi-functional furniture can significantly increase the efficiency of your limited square footage every day.",
+          "translationJa": "多機能家具を活用することで、限られた面積の効率を毎日大幅に向上させることができます。",
+          "id": "advanced-2026-11-25-s05",
+          "startMs": 23595,
+          "endMs": 30031,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "The trial involves multiple hospital sites across the country to ensure diverse and reliable data results.",
-          "translationJa": "この試験には、多様で信頼性の高いデータ結果を保証するため、全国の複数の病院が参加しています。",
-          "id": "advanced-2026-11-24-s06",
-          "startMs": 31120,
-          "endMs": 37030,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s06.m4a"
+          "text": "A proactive maintenance schedule ensures that your living environment remains orderly throughout the entire week.",
+          "translationJa": "積極的なメンテナンススケジュールにより、住環境は一週間を通して整頓された状態に保たれます。",
+          "id": "advanced-2026-11-25-s06",
+          "startMs": 30431,
+          "endMs": 36198,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Researchers hope the technology will assist doctors by flagging urgent cases for immediate professional review.",
-          "translationJa": "研究者は、この技術が緊急の症例を即座に専門家のレビューに回すことで、医師を支援することを期待しています。",
-          "id": "advanced-2026-11-24-s07",
-          "startMs": 37430,
-          "endMs": 43544,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s07.m4a"
+          "text": "Visual harmony is achieved when you minimize unnecessary decorations and focus on simple aesthetic choices.",
+          "translationJa": "不要な装飾を最小限に抑え、シンプルな美的選択に集中することで、視覚的な調和が実現します。",
+          "id": "advanced-2026-11-25-s07",
+          "startMs": 36598,
+          "endMs": 42802,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Early detection remains the most critical factor for improving long-term survival rates for cancer patients.",
-          "translationJa": "早期発見は、がん患者の長期生存率を向上させるための最も重要な要素であり続けています。",
-          "id": "advanced-2026-11-24-s08",
-          "startMs": 43944,
-          "endMs": 49835,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s08.m4a"
+          "text": "Reducing physical excess often leads to a noticeable improvement in your overall mental well-being too.",
+          "translationJa": "物理的な過剰さを減らすことは、多くの場合、全体的な精神的健康の著しい改善にもつながります。",
+          "id": "advanced-2026-11-25-s08",
+          "startMs": 43202,
+          "endMs": 48701,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "By integrating digital tools, the healthcare system aims to provide faster results for every patient.",
-          "translationJa": "デジタルツールを統合することで、医療システムはすべての患者により迅速な結果を提供することを目指しています。",
-          "id": "advanced-2026-11-24-s09",
-          "startMs": 50235,
-          "endMs": 55870,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s09.m4a"
+          "text": "Establish a consistent habit of reviewing your belongings to avoid acquiring unnecessary new items again.",
+          "translationJa": "不必要な新しい物を再び購入しないように、持ち物を見直す一貫した習慣を確立してください。",
+          "id": "advanced-2026-11-25-s09",
+          "startMs": 49101,
+          "endMs": 54938,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "If successful, this initiative could transform how hospitals conduct routine screening programs in the future.",
-          "translationJa": "もし成功すれば、この取り組みは将来的に病院が日常的な検診プログラムを行う方法を変革する可能性があります。",
-          "id": "advanced-2026-11-24-s10",
-          "startMs": 56270,
-          "endMs": 62351,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s10.m4a"
+          "text": "Embracing a minimalist mindset allows you to appreciate the quality of your remaining personal items.",
+          "translationJa": "ミニマリストの考え方を取り入れることで、残った持ち物の質を高く評価できるようになります。",
+          "id": "advanced-2026-11-25-s10",
+          "startMs": 55338,
+          "endMs": 60780,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "The global medical community is closely watching these developments to see how AI impacts care.",
-          "translationJa": "世界の医療コミュニティは、AIがどのようにケアに影響を与えるかを確認するため、これらの進展を注視しています。",
-          "id": "advanced-2026-11-24-s11",
-          "startMs": 62751,
-          "endMs": 67906,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Implementing such advanced systems represents a major step forward for modern diagnostic medicine and technology.",
-          "translationJa": "このような高度なシステムの導入は、現代の診断医学と技術にとって大きな前進を表しています。",
-          "id": "advanced-2026-11-24-s12",
-          "startMs": 68306,
-          "endMs": 74909,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced-s12.m4a"
+          "text": "Ultimately, a refined home environment fosters focus and provides a peaceful retreat from modern life.",
+          "translationJa": "最終的に、洗練された家庭環境は集中力を育み、現代生活からの平和な隠れ家となります。",
+          "id": "advanced-2026-11-25-s11",
+          "startMs": 61180,
+          "endMs": 67200,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "evaluate",
-          "meaningJa": "評価する",
-          "exampleEn": "They will evaluate the results of the study.",
-          "exampleJa": "彼らは研究の結果を評価する予定です。"
+          "word": "optimizing",
+          "meaningJa": "最適化すること",
+          "exampleEn": "We are optimizing the system.",
+          "exampleJa": "私たちはシステムを最適化しています。"
         },
         {
-          "word": "radiologist",
-          "meaningJa": "放射線科医",
-          "exampleEn": "The radiologist reviewed the X-ray carefully.",
-          "exampleJa": "放射線科医はレントゲン写真を注意深く確認しました。"
+          "word": "philosophy",
+          "meaningJa": "哲学",
+          "exampleEn": "His life philosophy is simple.",
+          "exampleJa": "彼の人生哲学はシンプルです。"
         },
         {
-          "word": "accuracy",
-          "meaningJa": "正確さ",
-          "exampleEn": "Data accuracy is essential for this research.",
-          "exampleJa": "この研究にはデータの正確さが不可欠です。"
+          "word": "utility",
+          "meaningJa": "有用性",
+          "exampleEn": "The utility of this tool is high.",
+          "exampleJa": "このツールの有用性は高いです。"
         },
         {
-          "word": "integrate",
-          "meaningJa": "統合する",
-          "exampleEn": "We plan to integrate the new software.",
-          "exampleJa": "私たちは新しいソフトウェアを統合する計画です。"
+          "word": "harmonious",
+          "meaningJa": "調和のとれた",
+          "exampleEn": "They have a harmonious relationship.",
+          "exampleJa": "彼らは調和のとれた関係にあります。"
         },
         {
-          "word": "initiative",
-          "meaningJa": "取り組み",
-          "exampleEn": "The new government initiative helps local businesses.",
-          "exampleJa": "新しい政府の取り組みは地元企業を支援します。"
+          "word": "proactive",
+          "meaningJa": "積極的な",
+          "exampleEn": "We need a proactive approach.",
+          "exampleJa": "私たちは積極的なアプローチが必要です。"
         }
       ],
-      "id": "advanced-2026-11-24",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-24/advanced.m4a",
-      "durationSeconds": 73
+      "id": "advanced-2026-11-25",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced.m4a",
+      "durationSeconds": 65
     }
   ],
-  "topicCategory": "news"
+  "topicCategory": "everyday_life"
 }
