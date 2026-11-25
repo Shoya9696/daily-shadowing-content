@@ -1,425 +1,434 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-24T21:52:46Z",
-  "lessonDate": "2026-11-25",
+  "generatedAtUtc": "2026-11-25T20:59:33Z",
+  "lessonDate": "2026-11-26",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Tips for a Tidy Home",
+      "title": "How to Start a Meeting",
       "cefrLevel": "A2",
-      "summaryJa": "小さな部屋をきれいに保つための実用的な整理整頓術を紹介します。",
+      "summaryJa": "会議をスムーズに開始するための挨拶と目的の伝え方。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Living in a small apartment can be quite difficult sometimes.",
-          "translationJa": "小さなアパートで暮らすことは、時々かなり難しいことがあります。",
-          "id": "beginner-2026-11-25-s01",
+          "text": "Good morning everyone and thank you for joining our meeting today.",
+          "translationJa": "皆さんおはようございます。本日の会議に参加してくれてありがとうございます。",
+          "id": "beginner-2026-11-26-s01",
           "startMs": 0,
-          "endMs": 3487,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s01.m4a"
+          "endMs": 3057,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You should start by sorting all your items into different groups.",
-          "translationJa": "まずはすべての持ち物を異なるグループに分けることから始めましょう。",
-          "id": "beginner-2026-11-25-s02",
-          "startMs": 3887,
-          "endMs": 7095,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s02.m4a"
+          "text": "I would like to start by talking about our main goal now.",
+          "translationJa": "まずは今日の主な目標について話すことから始めたいと思います。",
+          "id": "beginner-2026-11-26-s02",
+          "startMs": 3457,
+          "endMs": 6344,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Keep only the things that you use every single day now.",
-          "translationJa": "毎日使うものだけを手元に残すようにしてください。",
-          "id": "beginner-2026-11-25-s03",
-          "startMs": 7495,
-          "endMs": 10361,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s03.m4a"
+          "text": "We need to discuss the new project plan for this next month.",
+          "translationJa": "来月の新しいプロジェクト計画について話し合う必要があります。",
+          "id": "beginner-2026-11-26-s03",
+          "startMs": 6744,
+          "endMs": 9997,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "It is helpful to have a special place for your keys.",
-          "translationJa": "鍵の置き場所を決めておくととても便利です。",
-          "id": "beginner-2026-11-25-s04",
-          "startMs": 10761,
-          "endMs": 13451,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s04.m4a"
+          "text": "Please feel free to share your ideas during this short session.",
+          "translationJa": "この短いセッションの間に、自由にアイデアを共有してください。",
+          "id": "beginner-2026-11-26-s04",
+          "startMs": 10397,
+          "endMs": 13588,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Clear off your kitchen table to make more open space today.",
-          "translationJa": "今日、キッチンのテーブルの上を片付けてスペースを広げましょう。",
-          "id": "beginner-2026-11-25-s05",
-          "startMs": 13851,
-          "endMs": 17193,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s05.m4a"
+          "text": "I want to make sure that we reach a good decision today.",
+          "translationJa": "今日、良い決定を下せるようにしたいと思っています。",
+          "id": "beginner-2026-11-26-s05",
+          "startMs": 13988,
+          "endMs": 16910,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Try to put away your clothes as soon as you arrive.",
-          "translationJa": "帰宅したらすぐに服を片付けるように努めてください。",
-          "id": "beginner-2026-11-25-s06",
-          "startMs": 17593,
-          "endMs": 20113,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s06.m4a"
+          "text": "Does anyone have any questions before we look at the slides?",
+          "translationJa": "スライドを見る前に何か質問はありますか？",
+          "id": "beginner-2026-11-26-s06",
+          "startMs": 17310,
+          "endMs": 20543,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Cleaning a little bit every day makes a huge difference later.",
-          "translationJa": "毎日少しずつ掃除をすることは、後で大きな違いを生みます。",
-          "id": "beginner-2026-11-25-s07",
-          "startMs": 20513,
-          "endMs": 23355,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s07.m4a"
+          "text": "Let us keep our discussion focused on the main topic today.",
+          "translationJa": "今日の議論は主要なトピックに集中させましょう。",
+          "id": "beginner-2026-11-26-s07",
+          "startMs": 20943,
+          "endMs": 24198,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "You will feel much more relaxed in a clean living area.",
-          "translationJa": "きれいなリビングエリアにいれば、ずっとリラックスできるはずです。",
-          "id": "beginner-2026-11-25-s08",
-          "startMs": 23755,
-          "endMs": 26604,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s08.m4a"
+          "text": "We have about thirty minutes to finish all our important work.",
+          "translationJa": "重要な仕事をすべて終えるまでに約30分あります。",
+          "id": "beginner-2026-11-26-s08",
+          "startMs": 24598,
+          "endMs": 27689,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Enjoy your beautiful home and have a very wonderful day ahead.",
-          "translationJa": "美しい家を楽しんで、素晴らしい一日を過ごしてください。",
-          "id": "beginner-2026-11-25-s09",
-          "startMs": 27004,
-          "endMs": 30159,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner-s09.m4a"
+          "text": "Let us begin by looking at the first point on the list.",
+          "translationJa": "リストの最初の項目を見ることから始めましょう。",
+          "id": "beginner-2026-11-26-s09",
+          "startMs": 28089,
+          "endMs": 30787,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "sort",
-          "meaningJa": "分類する",
-          "exampleEn": "I need to sort my laundry.",
-          "exampleJa": "洗濯物を分類する必要があります。"
+          "word": "join",
+          "meaningJa": "参加する",
+          "exampleEn": "Thank you for joining the team.",
+          "exampleJa": "チームに参加してくれてありがとう。"
         },
         {
-          "word": "apartment",
-          "meaningJa": "アパート",
-          "exampleEn": "She lives in a small apartment.",
-          "exampleJa": "彼女は小さなアパートに住んでいます。"
+          "word": "goal",
+          "meaningJa": "目標",
+          "exampleEn": "Our goal is to finish early.",
+          "exampleJa": "私たちの目標は早く終えることです。"
         },
         {
-          "word": "items",
-          "meaningJa": "持ち物",
-          "exampleEn": "Please pack your personal items.",
-          "exampleJa": "個人の持ち物をまとめてください。"
+          "word": "discuss",
+          "meaningJa": "話し合う",
+          "exampleEn": "We need to discuss the plan.",
+          "exampleJa": "私たちは計画を話し合う必要があります。"
         },
         {
-          "word": "relaxed",
-          "meaningJa": "リラックスした",
-          "exampleEn": "I feel very relaxed now.",
-          "exampleJa": "今、とてもリラックスしています。"
+          "word": "session",
+          "meaningJa": "会議、期間",
+          "exampleEn": "The session was very productive.",
+          "exampleJa": "そのセッションはとても生産的でした。"
         },
         {
-          "word": "difference",
-          "meaningJa": "違い",
-          "exampleEn": "It makes a big difference.",
-          "exampleJa": "それは大きな違いを生みます。"
+          "word": "focused",
+          "meaningJa": "集中した",
+          "exampleEn": "Stay focused on your work.",
+          "exampleJa": "仕事に集中しなさい。"
         }
       ],
-      "id": "beginner-2026-11-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/beginner.m4a",
+      "id": "beginner-2026-11-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner.m4a",
       "durationSeconds": 29
     },
     {
       "levelGroup": "intermediate",
-      "title": "Creating a Comfortable Living Space",
+      "title": "Effective Meeting Openings",
       "cefrLevel": "B1",
-      "summaryJa": "限られたスペースを最大限に活用し、快適な住環境を作るためのアドバイス。",
+      "summaryJa": "会議の冒頭で参加者の注意を引き、効率的に議論を進めるための表現。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Maintaining a clean home is essential for a peaceful and happy daily life.",
-          "translationJa": "清潔な家を保つことは、平和で幸せな日常生活を送るために不可欠です。",
-          "id": "intermediate-2026-11-25-s01",
+          "text": "Thank you all for taking the time to attend this important meeting today.",
+          "translationJa": "皆さん、本日の重要な会議に出席していただきありがとうございます。",
+          "id": "intermediate-2026-11-26-s01",
           "startMs": 0,
-          "endMs": 3917,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s01.m4a"
+          "endMs": 3693,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "When you live in a small space, every single item needs its own place.",
-          "translationJa": "狭い場所に住んでいるときは、すべての物に決まった場所が必要です。",
-          "id": "intermediate-2026-11-25-s02",
-          "startMs": 4317,
-          "endMs": 8348,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s02.m4a"
+          "text": "The main purpose of our gathering is to review the current project progress.",
+          "translationJa": "今回の集まりの主な目的は、現在のプロジェクトの進捗状況を確認することです。",
+          "id": "intermediate-2026-11-26-s02",
+          "startMs": 4093,
+          "endMs": 7960,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Start by removing things that you have not used for a long time now.",
-          "translationJa": "長い間使っていないものを処分することから始めましょう。",
-          "id": "intermediate-2026-11-25-s03",
-          "startMs": 8748,
-          "endMs": 12384,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s03.m4a"
+          "text": "We have a packed agenda, so let us try to stay on track.",
+          "translationJa": "議題が盛りだくさんですので、話が脱線しないようにしましょう。",
+          "id": "intermediate-2026-11-26-s03",
+          "startMs": 8360,
+          "endMs": 11764,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "You should consider using vertical storage to maximize your available living floor space.",
-          "translationJa": "利用可能な床面積を最大化するために、縦方向の収納を使うことを検討してください。",
-          "id": "intermediate-2026-11-25-s04",
-          "startMs": 12784,
-          "endMs": 17653,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s04.m4a"
+          "text": "Before we dive into the details, I would like to hear your thoughts.",
+          "translationJa": "詳細に入る前に、皆さんの考えを聞かせてほしいです。",
+          "id": "intermediate-2026-11-26-s04",
+          "startMs": 12164,
+          "endMs": 15756,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Keeping surfaces clear helps your room feel much larger and more open than before.",
-          "translationJa": "表面を片付けておくと、部屋が以前よりもずっと広く開放的に感じられます。",
-          "id": "intermediate-2026-11-25-s05",
-          "startMs": 18053,
-          "endMs": 22451,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s05.m4a"
+          "text": "Please do not hesitate to speak up if you have any concerns later.",
+          "translationJa": "後で懸念点があれば、遠慮なく発言してください。",
+          "id": "intermediate-2026-11-26-s05",
+          "startMs": 16156,
+          "endMs": 19625,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Create a daily habit of putting away your belongings right after using them today.",
-          "translationJa": "今日から、物を使った直後に片付ける習慣を作りましょう。",
-          "id": "intermediate-2026-11-25-s06",
-          "startMs": 22851,
-          "endMs": 27087,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s06.m4a"
+          "text": "Our goal is to finalize the strategy by the end of this hour.",
+          "translationJa": "私たちの目標は、この1時間で戦略を確定させることです。",
+          "id": "intermediate-2026-11-26-s06",
+          "startMs": 20025,
+          "endMs": 23133,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Small changes in your routine can lead to a more organized and calm environment.",
-          "translationJa": "日課のちょっとした変更が、より整理された落ち着いた環境につながります。",
-          "id": "intermediate-2026-11-25-s07",
-          "startMs": 27487,
-          "endMs": 31831,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s07.m4a"
+          "text": "I believe that your input will be very valuable for our final decision.",
+          "translationJa": "皆さんの意見は最終決定を下す上で非常に貴重なものになるはずです。",
+          "id": "intermediate-2026-11-26-s07",
+          "startMs": 23533,
+          "endMs": 27186,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Try to donate items that are still in good condition to local charity shops.",
-          "translationJa": "まだ状態の良いものは、地元のチャリティーショップに寄付することを検討してください。",
-          "id": "intermediate-2026-11-25-s08",
-          "startMs": 32231,
-          "endMs": 36318,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s08.m4a"
+          "text": "Let us open the floor for any initial comments regarding the project status.",
+          "translationJa": "プロジェクトの状況に関する最初のコメントがあれば、どなたからでもどうぞ。",
+          "id": "intermediate-2026-11-26-s08",
+          "startMs": 27586,
+          "endMs": 31654,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "A clutter-free home provides a clear mind and reduces stress after a long day.",
-          "translationJa": "散らかりのない家は心を明晰にし、長い一日の後のストレスを軽減します。",
-          "id": "intermediate-2026-11-25-s09",
-          "startMs": 36718,
-          "endMs": 40883,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s09.m4a"
+          "text": "I hope we can maintain a productive atmosphere throughout our meeting session today.",
+          "translationJa": "今日の会議を通じて生産的な雰囲気を維持できることを願っています。",
+          "id": "intermediate-2026-11-26-s09",
+          "startMs": 32054,
+          "endMs": 36288,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "You deserve to enjoy a comfortable and well-organized sanctuary every single evening at home.",
-          "translationJa": "あなたは毎晩、快適で整理された安らぎの場所を楽しむ価値があります。",
-          "id": "intermediate-2026-11-25-s10",
-          "startMs": 41283,
-          "endMs": 46221,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s10.m4a"
+          "text": "Let us start by looking at the key milestones we achieved last week.",
+          "translationJa": "先週達成した主要なマイルストーンを確認することから始めましょう。",
+          "id": "intermediate-2026-11-26-s10",
+          "startMs": 36688,
+          "endMs": 40303,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Start your journey toward a simpler lifestyle by making these small adjustments this week.",
-          "translationJa": "今週これらの小さな調整を行い、シンプルなライフスタイルへの旅を始めましょう。",
-          "id": "intermediate-2026-11-25-s11",
-          "startMs": 46621,
-          "endMs": 51337,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate-s11.m4a"
+          "text": "Are there any items that need to be added to our agenda today?",
+          "translationJa": "今日の議題に追加すべき項目はありますか？",
+          "id": "intermediate-2026-11-26-s11",
+          "startMs": 40703,
+          "endMs": 43811,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "essential",
-          "meaningJa": "不可欠な",
-          "exampleEn": "Water is essential for life.",
-          "exampleJa": "水は生命にとって不可欠です。"
+          "word": "attend",
+          "meaningJa": "出席する",
+          "exampleEn": "I will attend the meeting.",
+          "exampleJa": "会議に出席します。"
         },
         {
-          "word": "maximize",
-          "meaningJa": "最大化する",
-          "exampleEn": "We want to maximize our time.",
-          "exampleJa": "私たちは時間を最大限に活用したいです。"
+          "word": "agenda",
+          "meaningJa": "議題",
+          "exampleEn": "What is on the agenda?",
+          "exampleJa": "議題は何ですか？"
         },
         {
-          "word": "clutter",
-          "meaningJa": "散らかり",
-          "exampleEn": "Clear the clutter from your desk.",
-          "exampleJa": "机の上の散らかったものを片付けてください。"
+          "word": "hesitate",
+          "meaningJa": "ためらう",
+          "exampleEn": "Do not hesitate to call me.",
+          "exampleJa": "遠慮なく電話してください。"
         },
         {
-          "word": "sanctuary",
-          "meaningJa": "安らぎの場所",
-          "exampleEn": "My room is my sanctuary.",
-          "exampleJa": "私の部屋は私の安らぎの場所です。"
+          "word": "valuable",
+          "meaningJa": "貴重な",
+          "exampleEn": "Your advice is very valuable.",
+          "exampleJa": "あなたのアドバイスはとても貴重です。"
         },
         {
-          "word": "routine",
-          "meaningJa": "日課",
-          "exampleEn": "This is part of my morning routine.",
-          "exampleJa": "これは朝の日課の一部です。"
+          "word": "milestone",
+          "meaningJa": "重要な節目",
+          "exampleEn": "We reached a major milestone.",
+          "exampleJa": "私たちは大きな節目に到達しました。"
         }
       ],
-      "id": "intermediate-2026-11-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/intermediate.m4a",
-      "durationSeconds": 49
+      "id": "intermediate-2026-11-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate.m4a",
+      "durationSeconds": 42
     },
     {
       "levelGroup": "advanced",
-      "title": "Strategies for Minimalist Living",
+      "title": "Mastering the Meeting Start",
       "cefrLevel": "B2",
-      "summaryJa": "整理整頓を通じて、シンプルで心地よい暮らしを実現するための高度な戦略。",
+      "summaryJa": "会議の冒頭で明確な方向性を示し、プロフェッショナルな議論を導くためのスキル。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/everyday_life/tidying-small-spaces"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Optimizing a compact living space requires a disciplined approach to managing your personal possessions.",
-          "translationJa": "コンパクトな住空間を最適化するには、個人の持ち物を管理するための規律あるアプローチが必要です。",
-          "id": "advanced-2026-11-25-s01",
+          "text": "I appreciate everyone joining this session to align our goals for the quarter.",
+          "translationJa": "今四半期の目標を調整するために、このセッションに参加していただき感謝します。",
+          "id": "advanced-2026-11-26-s01",
           "startMs": 0,
-          "endMs": 5672,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s01.m4a"
+          "endMs": 3897,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "The core philosophy involves keeping only essential items that truly add value to your life.",
-          "translationJa": "中心となる哲学は、あなたの人生に真の価値をもたらす必要不可欠なものだけを保持することです。",
-          "id": "advanced-2026-11-25-s02",
-          "startMs": 6072,
-          "endMs": 11088,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s02.m4a"
+          "text": "Our primary objective today is to resolve the pending issues in the workflow.",
+          "translationJa": "今日の主な目的は、ワークフローにおける保留中の問題を解決することです。",
+          "id": "advanced-2026-11-26-s02",
+          "startMs": 4297,
+          "endMs": 8252,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Begin by evaluating the utility of every object currently occupying space in your small home.",
-          "translationJa": "まずは、現在小さな家の中でスペースを占有しているすべての物の有用性を評価することから始めましょう。",
-          "id": "advanced-2026-11-25-s03",
-          "startMs": 11488,
-          "endMs": 16775,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s03.m4a"
+          "text": "We need to identify the bottlenecks that are currently slowing down our production cycle.",
+          "translationJa": "現在、生産サイクルを遅らせているボトルネックを特定する必要があります。",
+          "id": "advanced-2026-11-26-s03",
+          "startMs": 8652,
+          "endMs": 13345,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Designated storage solutions are necessary to prevent clutter from accumulating on your flat surfaces again.",
-          "translationJa": "平らな場所に再び散らかりが蓄積するのを防ぐためには、指定された収納ソリューションが必要です。",
-          "id": "advanced-2026-11-25-s04",
-          "startMs": 17175,
-          "endMs": 23195,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s04.m4a"
+          "text": "I have outlined the main points on the board for our shared reference today.",
+          "translationJa": "今日の共有参照用として、ボードに主要なポイントをまとめました。",
+          "id": "advanced-2026-11-26-s04",
+          "startMs": 13745,
+          "endMs": 17340,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Utilizing multi-functional furniture can significantly increase the efficiency of your limited square footage every day.",
-          "translationJa": "多機能家具を活用することで、限られた面積の効率を毎日大幅に向上させることができます。",
-          "id": "advanced-2026-11-25-s05",
-          "startMs": 23595,
-          "endMs": 30031,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s05.m4a"
+          "text": "Let us ensure that every participant has a chance to contribute their unique insights.",
+          "translationJa": "すべての参加者が独自の洞察を提供する機会を持てるようにしましょう。",
+          "id": "advanced-2026-11-26-s05",
+          "startMs": 17740,
+          "endMs": 22295,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "A proactive maintenance schedule ensures that your living environment remains orderly throughout the entire week.",
-          "translationJa": "積極的なメンテナンススケジュールにより、住環境は一週間を通して整頓された状態に保たれます。",
-          "id": "advanced-2026-11-25-s06",
-          "startMs": 30431,
-          "endMs": 36198,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s06.m4a"
+          "text": "Keeping our discussion concise will help us reach a conclusion within the timeframe.",
+          "translationJa": "議論を簡潔に保つことは、時間内に結論を出す助けになります。",
+          "id": "advanced-2026-11-26-s06",
+          "startMs": 22695,
+          "endMs": 27082,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Visual harmony is achieved when you minimize unnecessary decorations and focus on simple aesthetic choices.",
-          "translationJa": "不要な装飾を最小限に抑え、シンプルな美的選択に集中することで、視覚的な調和が実現します。",
-          "id": "advanced-2026-11-25-s07",
-          "startMs": 36598,
-          "endMs": 42802,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s07.m4a"
+          "text": "Please feel free to challenge ideas if you believe there is a better approach.",
+          "translationJa": "より良いアプローチがあると思う場合は、遠慮なくアイデアに異論を唱えてください。",
+          "id": "advanced-2026-11-26-s07",
+          "startMs": 27482,
+          "endMs": 31346,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Reducing physical excess often leads to a noticeable improvement in your overall mental well-being too.",
-          "translationJa": "物理的な過剰さを減らすことは、多くの場合、全体的な精神的健康の著しい改善にもつながります。",
-          "id": "advanced-2026-11-25-s08",
-          "startMs": 43202,
-          "endMs": 48701,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s08.m4a"
+          "text": "Collaboration is essential to achieving the high standards we set for this project.",
+          "translationJa": "このプロジェクトに設定した高い基準を達成するには、協力が不可欠です。",
+          "id": "advanced-2026-11-26-s08",
+          "startMs": 31746,
+          "endMs": 36053,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Establish a consistent habit of reviewing your belongings to avoid acquiring unnecessary new items again.",
-          "translationJa": "不必要な新しい物を再び購入しないように、持ち物を見直す一貫した習慣を確立してください。",
-          "id": "advanced-2026-11-25-s09",
-          "startMs": 49101,
-          "endMs": 54938,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s09.m4a"
+          "text": "Let us establish a clear plan of action before we conclude this meeting session.",
+          "translationJa": "この会議を終える前に、明確な行動計画を確立しましょう。",
+          "id": "advanced-2026-11-26-s09",
+          "startMs": 36453,
+          "endMs": 40683,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Embracing a minimalist mindset allows you to appreciate the quality of your remaining personal items.",
-          "translationJa": "ミニマリストの考え方を取り入れることで、残った持ち物の質を高く評価できるようになります。",
-          "id": "advanced-2026-11-25-s10",
-          "startMs": 55338,
-          "endMs": 60780,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s10.m4a"
+          "text": "I am confident that we will find an effective solution through our collective effort.",
+          "translationJa": "私たちの共同の努力を通じて、効果的な解決策が見つかると確信しています。",
+          "id": "advanced-2026-11-26-s10",
+          "startMs": 41083,
+          "endMs": 45236,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Ultimately, a refined home environment fosters focus and provides a peaceful retreat from modern life.",
-          "translationJa": "最終的に、洗練された家庭環境は集中力を育み、現代生活からの平和な隠れ家となります。",
-          "id": "advanced-2026-11-25-s11",
-          "startMs": 61180,
-          "endMs": 67200,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced-s11.m4a"
+          "text": "Let us begin with a brief overview of the updates from the last week.",
+          "translationJa": "先週の更新内容の簡単な概要から始めましょう。",
+          "id": "advanced-2026-11-26-s11",
+          "startMs": 45636,
+          "endMs": 49135,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "Does anyone have urgent matters to address before we dive into the main agenda?",
+          "translationJa": "主要な議題に入る前に、誰か対処すべき緊急の用件はありますか？",
+          "id": "advanced-2026-11-26-s12",
+          "startMs": 49535,
+          "endMs": 53523,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s12.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "optimizing",
-          "meaningJa": "最適化すること",
-          "exampleEn": "We are optimizing the system.",
-          "exampleJa": "私たちはシステムを最適化しています。"
+          "word": "align",
+          "meaningJa": "調整する",
+          "exampleEn": "We need to align our schedules.",
+          "exampleJa": "スケジュールを調整する必要があります。"
         },
         {
-          "word": "philosophy",
-          "meaningJa": "哲学",
-          "exampleEn": "His life philosophy is simple.",
-          "exampleJa": "彼の人生哲学はシンプルです。"
+          "word": "objective",
+          "meaningJa": "目的",
+          "exampleEn": "The objective is clear.",
+          "exampleJa": "目的は明確です。"
         },
         {
-          "word": "utility",
-          "meaningJa": "有用性",
-          "exampleEn": "The utility of this tool is high.",
-          "exampleJa": "このツールの有用性は高いです。"
+          "word": "bottleneck",
+          "meaningJa": "ボトルネック、障害",
+          "exampleEn": "We found a bottleneck.",
+          "exampleJa": "ボトルネックを見つけました。"
         },
         {
-          "word": "harmonious",
-          "meaningJa": "調和のとれた",
-          "exampleEn": "They have a harmonious relationship.",
-          "exampleJa": "彼らは調和のとれた関係にあります。"
+          "word": "concise",
+          "meaningJa": "簡潔な",
+          "exampleEn": "Please keep your report concise.",
+          "exampleJa": "報告書を簡潔にまとめてください。"
         },
         {
-          "word": "proactive",
-          "meaningJa": "積極的な",
-          "exampleEn": "We need a proactive approach.",
-          "exampleJa": "私たちは積極的なアプローチが必要です。"
+          "word": "collective",
+          "meaningJa": "集団の、共同の",
+          "exampleEn": "It was a collective decision.",
+          "exampleJa": "それは集団での決定でした。"
         }
       ],
-      "id": "advanced-2026-11-25",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-25/advanced.m4a",
-      "durationSeconds": 65
+      "id": "advanced-2026-11-26",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced.m4a",
+      "durationSeconds": 51
     }
   ],
-  "topicCategory": "everyday_life"
+  "topicCategory": "work_productivity"
 }

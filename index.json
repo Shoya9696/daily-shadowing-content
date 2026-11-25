@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-24T21:52:46Z",
-  "latestLessonDate": "2026-11-25",
+  "generatedAtUtc": "2026-11-25T20:59:33Z",
+  "latestLessonDate": "2026-11-26",
   "days": [
+    {
+      "lessonDate": "2026-11-26",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-26.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "How to Start a Meeting",
+          "durationSeconds": 29,
+          "summaryJa": "会議をスムーズに開始するための挨拶と目的の伝え方。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Effective Meeting Openings",
+          "durationSeconds": 42,
+          "summaryJa": "会議の冒頭で参加者の注意を引き、効率的に議論を進めるための表現。"
+        },
+        {
+          "level": "advanced",
+          "title": "Mastering the Meeting Start",
+          "durationSeconds": 51,
+          "summaryJa": "会議の冒頭で明確な方向性を示し、プロフェッショナルな議論を導くためのスキル。"
+        }
+      ],
+      "topicCategory": "work_productivity"
+    },
     {
       "lessonDate": "2026-11-25",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-25.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "work_productivity"
-    },
-    {
-      "lessonDate": "2026-10-26",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-26.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Starting Your Morning Right",
-          "durationSeconds": 31,
-          "summaryJa": "朝の時間を有効に使い、穏やかに一日をスタートさせるための習慣について学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Creating a Calm Morning Routine",
-          "durationSeconds": 54,
-          "summaryJa": "忙しい朝を穏やかに過ごし、生産性を高めるための具体的なステップを紹介します。"
-        },
-        {
-          "level": "advanced",
-          "title": "Optimizing Your Daily Morning Habits",
-          "durationSeconds": 59,
-          "summaryJa": "一日のパフォーマンスを最大化するために、朝の習慣を戦略的に構築する方法を探ります。"
-        }
-      ],
-      "topicCategory": "everyday_life"
     }
   ]
 }
