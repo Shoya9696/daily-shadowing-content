@@ -1,0 +1,425 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-26T15:01:22Z",
+  "lessonDate": "2026-11-27",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Visiting a Museum for the First Time",
+      "cefrLevel": "A2",
+      "summaryJa": "美術館を初めて訪れる際のチケット購入や展示の見方についてのガイド。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Today I am going to visit a large city museum for the first time.",
+          "translationJa": "今日、私は初めて大きな市立美術館に行きます。",
+          "id": "beginner-2026-11-27-s01",
+          "startMs": 0,
+          "endMs": 3622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "I need to buy a ticket at the front desk near the main entrance.",
+          "translationJa": "正面入り口近くの受付でチケットを買う必要があります。",
+          "id": "beginner-2026-11-27-s02",
+          "startMs": 4022,
+          "endMs": 7199,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "The staff member asks if I would like to see the special art exhibit.",
+          "translationJa": "スタッフが特別展も見たいかどうか尋ねてくれます。",
+          "id": "beginner-2026-11-27-s03",
+          "startMs": 7599,
+          "endMs": 11222,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "I say yes because I want to see the beautiful paintings on display today.",
+          "translationJa": "今日展示されている美しい絵画を見たいので、はいと答えます。",
+          "id": "beginner-2026-11-27-s04",
+          "startMs": 11622,
+          "endMs": 15682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "I should follow the signs to find the correct room for the main show.",
+          "translationJa": "メイン展示の正しい部屋を見つけるために案内板に従うべきです。",
+          "id": "beginner-2026-11-27-s05",
+          "startMs": 16082,
+          "endMs": 19573,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "It is important to walk slowly and look at all the interesting art pieces.",
+          "translationJa": "ゆっくり歩いて、すべての興味深い芸術作品を見ることが大切です。",
+          "id": "beginner-2026-11-27-s06",
+          "startMs": 19973,
+          "endMs": 23732,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "I can also ask the friendly guide for more information about the history here.",
+          "translationJa": "ここの歴史についてもっと知るために、親切なガイドに尋ねることもできます。",
+          "id": "beginner-2026-11-27-s07",
+          "startMs": 24132,
+          "endMs": 28134,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "I will take some photos of the statues if it is allowed inside here.",
+          "translationJa": "もし館内での撮影が許可されていれば、彫像の写真を何枚か撮ります。",
+          "id": "beginner-2026-11-27-s08",
+          "startMs": 28534,
+          "endMs": 31967,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Visiting a local museum is a wonderful way to learn about a new culture.",
+          "translationJa": "地元の美術館を訪れることは、新しい文化について学ぶ素晴らしい方法です。",
+          "id": "beginner-2026-11-27-s09",
+          "startMs": 32367,
+          "endMs": 36145,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "entrance",
+          "meaningJa": "入り口",
+          "exampleEn": "The entrance is on the left.",
+          "exampleJa": "入り口は左側にあります。"
+        },
+        {
+          "word": "exhibit",
+          "meaningJa": "展示品",
+          "exampleEn": "This exhibit is very popular.",
+          "exampleJa": "この展示はとても人気があります。"
+        },
+        {
+          "word": "display",
+          "meaningJa": "展示",
+          "exampleEn": "The items are on display.",
+          "exampleJa": "アイテムが展示されています。"
+        },
+        {
+          "word": "statue",
+          "meaningJa": "彫像",
+          "exampleEn": "I saw a large stone statue.",
+          "exampleJa": "大きな石の彫像を見ました。"
+        },
+        {
+          "word": "culture",
+          "meaningJa": "文化",
+          "exampleEn": "I enjoy learning about local culture.",
+          "exampleJa": "地元の文化について学ぶのが好きです。"
+        }
+      ],
+      "id": "beginner-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner.m4a",
+      "durationSeconds": 35
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Navigating a Large Art Museum",
+      "cefrLevel": "B1",
+      "summaryJa": "美術館で効率的に展示を楽しみ、スタッフとコミュニケーションをとるためのヒント。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Visiting a large museum requires a good plan to see everything you find interesting.",
+          "translationJa": "大きな美術館を訪れる際は、興味のあるものをすべて見るために良い計画が必要です。",
+          "id": "intermediate-2026-11-27-s01",
+          "startMs": 0,
+          "endMs": 4602,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "First, you should check the museum map to locate the galleries you want to visit.",
+          "translationJa": "まず、行きたいギャラリーの場所を確認するために館内マップを見るべきです。",
+          "id": "intermediate-2026-11-27-s02",
+          "startMs": 5002,
+          "endMs": 9392,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many museums offer audio guides that explain the history behind each famous art piece.",
+          "translationJa": "多くの美術館では、各有名な芸術作品の背景にある歴史を説明する音声ガイドを提供しています。",
+          "id": "intermediate-2026-11-27-s03",
+          "startMs": 9792,
+          "endMs": 14672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "If you are unsure about the rules, feel free to ask the staff for assistance.",
+          "translationJa": "ルールについて不明な点があれば、遠慮なくスタッフに助けを求めてください。",
+          "id": "intermediate-2026-11-27-s04",
+          "startMs": 15072,
+          "endMs": 19516,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Some areas might be closed for maintenance, so checking the website beforehand is very helpful.",
+          "translationJa": "メンテナンスのために閉鎖されているエリアもあるかもしれないので、事前にウェブサイトを確認すると役立ちます。",
+          "id": "intermediate-2026-11-27-s05",
+          "startMs": 19916,
+          "endMs": 25399,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "Remember to keep your voice low so that other visitors can enjoy the quiet atmosphere.",
+          "translationJa": "他の来館者が静かな雰囲気を楽しめるよう、自分の声は小さく保つことを忘れないでください。",
+          "id": "intermediate-2026-11-27-s06",
+          "startMs": 25799,
+          "endMs": 30323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Taking notes about your favorite paintings can make your museum experience much more memorable today.",
+          "translationJa": "お気に入りの絵画についてメモを取ることは、今日の美術館体験をより思い出深いものにできます。",
+          "id": "intermediate-2026-11-27-s07",
+          "startMs": 30723,
+          "endMs": 36052,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Most museums have a cafe where you can sit down and rest between the exhibits.",
+          "translationJa": "ほとんどの美術館には、展示の合間に座って休憩できるカフェがあります。",
+          "id": "intermediate-2026-11-27-s08",
+          "startMs": 36452,
+          "endMs": 40740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Do not rush through the rooms because art is best enjoyed with plenty of time.",
+          "translationJa": "芸術は時間をかけて楽しむのが一番なので、急いで各部屋を回らないようにしましょう。",
+          "id": "intermediate-2026-11-27-s09",
+          "startMs": 41140,
+          "endMs": 45137,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Finally, check the gift shop for unique souvenirs to remember your special day at museum.",
+          "translationJa": "最後に、美術館での特別な日を記念して、ユニークな土産物をギフトショップで探しましょう。",
+          "id": "intermediate-2026-11-27-s10",
+          "startMs": 45537,
+          "endMs": 50577,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "A museum visit is a perfect way to spend a peaceful afternoon in the city.",
+          "translationJa": "美術館への訪問は、街で穏やかな午後を過ごすための完璧な方法です。",
+          "id": "intermediate-2026-11-27-s11",
+          "startMs": 50977,
+          "endMs": 54921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "navigate",
+          "meaningJa": "案内する、進む",
+          "exampleEn": "It is easy to navigate the halls.",
+          "exampleJa": "館内を回るのは簡単です。"
+        },
+        {
+          "word": "locate",
+          "meaningJa": "位置を見つける",
+          "exampleEn": "I need to locate the main exit.",
+          "exampleJa": "メインの出口の場所を見つける必要があります。"
+        },
+        {
+          "word": "maintenance",
+          "meaningJa": "メンテナンス、保守",
+          "exampleEn": "The room is under maintenance.",
+          "exampleJa": "その部屋はメンテナンス中です。"
+        },
+        {
+          "word": "atmosphere",
+          "meaningJa": "雰囲気",
+          "exampleEn": "The museum has a calm atmosphere.",
+          "exampleJa": "その美術館は落ち着いた雰囲気です。"
+        },
+        {
+          "word": "memorable",
+          "meaningJa": "記憶に残る",
+          "exampleEn": "It was a truly memorable trip.",
+          "exampleJa": "本当に思い出に残る旅でした。"
+        }
+      ],
+      "id": "intermediate-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate.m4a",
+      "durationSeconds": 53
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Art of Engaging with Museum Collections",
+      "cefrLevel": "B2",
+      "summaryJa": "美術館のコレクションを深く鑑賞し、知的で文化的な体験にするためのアドバイス。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Engaging with museum collections offers a unique window into the history of human creative expression.",
+          "translationJa": "美術館のコレクションに触れることは、人類の創造的表現の歴史を知るユニークな窓口となります。",
+          "id": "advanced-2026-11-27-s01",
+          "startMs": 0,
+          "endMs": 5395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "To maximize your experience, begin by identifying the specific periods or artists you appreciate most.",
+          "translationJa": "体験を最大限にするには、あなたが最も高く評価する特定の時代や芸術家を特定することから始めましょう。",
+          "id": "advanced-2026-11-27-s02",
+          "startMs": 5795,
+          "endMs": 12099,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Many institutions now provide digital resources that allow you to preview the main permanent exhibitions.",
+          "translationJa": "多くの施設が現在、主要な常設展示を事前に確認できるデジタルリソースを提供しています。",
+          "id": "advanced-2026-11-27-s03",
+          "startMs": 12499,
+          "endMs": 18227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Once inside, try to focus your attention on individual works rather than viewing every single item.",
+          "translationJa": "館内に入ったら、すべての作品を見ようとするのではなく、個々の作品に注意を集中させてみてください。",
+          "id": "advanced-2026-11-27-s04",
+          "startMs": 18627,
+          "endMs": 24376,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Observing the brushwork or the texture of a sculpture reveals much about the artist's technique.",
+          "translationJa": "筆致や彫刻の質感を観察すると、芸術家の技術について多くのことがわかります。",
+          "id": "advanced-2026-11-27-s05",
+          "startMs": 24776,
+          "endMs": 29544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "If you have questions, the curatorial staff is often happy to share insights about the background.",
+          "translationJa": "もし質問があれば、学芸員は背景に関する洞察を喜んで共有してくれることが多いです。",
+          "id": "advanced-2026-11-27-s06",
+          "startMs": 29944,
+          "endMs": 35572,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "It is also beneficial to visit during weekday mornings to avoid the large weekend tourist crowds.",
+          "translationJa": "週末の大きな観光客の波を避けるために、平日の午前中に訪れることも有益です。",
+          "id": "advanced-2026-11-27-s07",
+          "startMs": 35972,
+          "endMs": 41217,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Photography rules vary by institution, so always verify the policy before taking out your camera.",
+          "translationJa": "撮影のルールは施設によって異なるため、カメラを取り出す前に必ず方針を確認してください。",
+          "id": "advanced-2026-11-27-s08",
+          "startMs": 41617,
+          "endMs": 47737,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Reflecting on the themes presented in the gallery can deepen your understanding of cultural narratives.",
+          "translationJa": "ギャラリーで提示されたテーマを振り返ることは、文化的な物語への理解を深めることができます。",
+          "id": "advanced-2026-11-27-s09",
+          "startMs": 48137,
+          "endMs": 53322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Consider keeping a journal to record your personal reactions to the most moving pieces of art.",
+          "translationJa": "最も感動した芸術作品に対する個人的な反応を記録するために、日記をつけることを検討してください。",
+          "id": "advanced-2026-11-27-s10",
+          "startMs": 53722,
+          "endMs": 58621,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Ultimately, a museum visit should be an intentional practice of curiosity and quiet intellectual exploration.",
+          "translationJa": "結局のところ、美術館への訪問は、好奇心と静かな知的探求を意図的に実践する場であるべきです。",
+          "id": "advanced-2026-11-27-s11",
+          "startMs": 59021,
+          "endMs": 65401,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "institution",
+          "meaningJa": "施設、機関",
+          "exampleEn": "This is a world-class institution.",
+          "exampleJa": "ここは世界クラスの施設です。"
+        },
+        {
+          "word": "permanent",
+          "meaningJa": "常設の、永続的な",
+          "exampleEn": "We saw the permanent collection.",
+          "exampleJa": "常設コレクションを見ました。"
+        },
+        {
+          "word": "curatorial",
+          "meaningJa": "学芸員の",
+          "exampleEn": "The curatorial team manages the art.",
+          "exampleJa": "学芸チームがアートを管理しています。"
+        },
+        {
+          "word": "narrative",
+          "meaningJa": "物語、語り口",
+          "exampleEn": "The narrative is quite compelling.",
+          "exampleJa": "その物語は非常に説得力があります。"
+        },
+        {
+          "word": "intentional",
+          "meaningJa": "意図的な",
+          "exampleEn": "His choice was very intentional.",
+          "exampleJa": "彼の選択は非常に意図的なものでした。"
+        }
+      ],
+      "id": "advanced-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced.m4a",
+      "durationSeconds": 63
+    }
+  ],
+  "topicCategory": "travel_culture"
+}

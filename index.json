@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-25T20:59:33Z",
-  "latestLessonDate": "2026-11-26",
+  "generatedAtUtc": "2026-11-26T15:01:22Z",
+  "latestLessonDate": "2026-11-27",
   "days": [
+    {
+      "lessonDate": "2026-11-27",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-27.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Visiting a Museum for the First Time",
+          "durationSeconds": 35,
+          "summaryJa": "美術館を初めて訪れる際のチケット購入や展示の見方についてのガイド。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Navigating a Large Art Museum",
+          "durationSeconds": 53,
+          "summaryJa": "美術館で効率的に展示を楽しみ、スタッフとコミュニケーションをとるためのヒント。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Art of Engaging with Museum Collections",
+          "durationSeconds": 63,
+          "summaryJa": "美術館のコレクションを深く鑑賞し、知的で文化的な体験にするためのアドバイス。"
+        }
+      ],
+      "topicCategory": "travel_culture"
+    },
     {
       "lessonDate": "2026-11-26",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-26.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "travel_culture"
-    },
-    {
-      "lessonDate": "2026-10-27",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-27.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Taking Short Notes After a Call",
-          "durationSeconds": 28,
-          "summaryJa": "通話直後に決定事項や次のステップをメモする重要性と、その実践的な方法についてのレッスンです。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Post-Call Documentation",
-          "durationSeconds": 50,
-          "summaryJa": "通話後のメモ取りを習慣化し、仕事の効率とチームの連携を高めるための具体的なアドバイス。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Post-Call Documentation",
-          "durationSeconds": 63,
-          "summaryJa": "通話直後に決定事項や次のステップ、期限をメモする習慣の重要性と具体的な方法についての解説。"
-        }
-      ],
-      "topicCategory": "work_productivity"
     }
   ]
 }

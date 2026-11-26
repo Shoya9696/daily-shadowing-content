@@ -1,434 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-25T20:59:33Z",
-  "lessonDate": "2026-11-26",
+  "generatedAtUtc": "2026-11-26T15:01:22Z",
+  "lessonDate": "2026-11-27",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "How to Start a Meeting",
+      "title": "Visiting a Museum for the First Time",
       "cefrLevel": "A2",
-      "summaryJa": "会議をスムーズに開始するための挨拶と目的の伝え方。",
+      "summaryJa": "美術館を初めて訪れる際のチケット購入や展示の見方についてのガイド。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Good morning everyone and thank you for joining our meeting today.",
-          "translationJa": "皆さんおはようございます。本日の会議に参加してくれてありがとうございます。",
-          "id": "beginner-2026-11-26-s01",
+          "text": "Today I am going to visit a large city museum for the first time.",
+          "translationJa": "今日、私は初めて大きな市立美術館に行きます。",
+          "id": "beginner-2026-11-27-s01",
           "startMs": 0,
-          "endMs": 3057,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s01.m4a"
+          "endMs": 3622,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "I would like to start by talking about our main goal now.",
-          "translationJa": "まずは今日の主な目標について話すことから始めたいと思います。",
-          "id": "beginner-2026-11-26-s02",
-          "startMs": 3457,
-          "endMs": 6344,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s02.m4a"
+          "text": "I need to buy a ticket at the front desk near the main entrance.",
+          "translationJa": "正面入り口近くの受付でチケットを買う必要があります。",
+          "id": "beginner-2026-11-27-s02",
+          "startMs": 4022,
+          "endMs": 7199,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "We need to discuss the new project plan for this next month.",
-          "translationJa": "来月の新しいプロジェクト計画について話し合う必要があります。",
-          "id": "beginner-2026-11-26-s03",
-          "startMs": 6744,
-          "endMs": 9997,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s03.m4a"
+          "text": "The staff member asks if I would like to see the special art exhibit.",
+          "translationJa": "スタッフが特別展も見たいかどうか尋ねてくれます。",
+          "id": "beginner-2026-11-27-s03",
+          "startMs": 7599,
+          "endMs": 11222,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Please feel free to share your ideas during this short session.",
-          "translationJa": "この短いセッションの間に、自由にアイデアを共有してください。",
-          "id": "beginner-2026-11-26-s04",
-          "startMs": 10397,
-          "endMs": 13588,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s04.m4a"
+          "text": "I say yes because I want to see the beautiful paintings on display today.",
+          "translationJa": "今日展示されている美しい絵画を見たいので、はいと答えます。",
+          "id": "beginner-2026-11-27-s04",
+          "startMs": 11622,
+          "endMs": 15682,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "I want to make sure that we reach a good decision today.",
-          "translationJa": "今日、良い決定を下せるようにしたいと思っています。",
-          "id": "beginner-2026-11-26-s05",
-          "startMs": 13988,
-          "endMs": 16910,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s05.m4a"
+          "text": "I should follow the signs to find the correct room for the main show.",
+          "translationJa": "メイン展示の正しい部屋を見つけるために案内板に従うべきです。",
+          "id": "beginner-2026-11-27-s05",
+          "startMs": 16082,
+          "endMs": 19573,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Does anyone have any questions before we look at the slides?",
-          "translationJa": "スライドを見る前に何か質問はありますか？",
-          "id": "beginner-2026-11-26-s06",
-          "startMs": 17310,
-          "endMs": 20543,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s06.m4a"
+          "text": "It is important to walk slowly and look at all the interesting art pieces.",
+          "translationJa": "ゆっくり歩いて、すべての興味深い芸術作品を見ることが大切です。",
+          "id": "beginner-2026-11-27-s06",
+          "startMs": 19973,
+          "endMs": 23732,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Let us keep our discussion focused on the main topic today.",
-          "translationJa": "今日の議論は主要なトピックに集中させましょう。",
-          "id": "beginner-2026-11-26-s07",
-          "startMs": 20943,
-          "endMs": 24198,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s07.m4a"
+          "text": "I can also ask the friendly guide for more information about the history here.",
+          "translationJa": "ここの歴史についてもっと知るために、親切なガイドに尋ねることもできます。",
+          "id": "beginner-2026-11-27-s07",
+          "startMs": 24132,
+          "endMs": 28134,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "We have about thirty minutes to finish all our important work.",
-          "translationJa": "重要な仕事をすべて終えるまでに約30分あります。",
-          "id": "beginner-2026-11-26-s08",
-          "startMs": 24598,
-          "endMs": 27689,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s08.m4a"
+          "text": "I will take some photos of the statues if it is allowed inside here.",
+          "translationJa": "もし館内での撮影が許可されていれば、彫像の写真を何枚か撮ります。",
+          "id": "beginner-2026-11-27-s08",
+          "startMs": 28534,
+          "endMs": 31967,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Let us begin by looking at the first point on the list.",
-          "translationJa": "リストの最初の項目を見ることから始めましょう。",
-          "id": "beginner-2026-11-26-s09",
-          "startMs": 28089,
-          "endMs": 30787,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner-s09.m4a"
+          "text": "Visiting a local museum is a wonderful way to learn about a new culture.",
+          "translationJa": "地元の美術館を訪れることは、新しい文化について学ぶ素晴らしい方法です。",
+          "id": "beginner-2026-11-27-s09",
+          "startMs": 32367,
+          "endMs": 36145,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "join",
-          "meaningJa": "参加する",
-          "exampleEn": "Thank you for joining the team.",
-          "exampleJa": "チームに参加してくれてありがとう。"
+          "word": "entrance",
+          "meaningJa": "入り口",
+          "exampleEn": "The entrance is on the left.",
+          "exampleJa": "入り口は左側にあります。"
         },
         {
-          "word": "goal",
-          "meaningJa": "目標",
-          "exampleEn": "Our goal is to finish early.",
-          "exampleJa": "私たちの目標は早く終えることです。"
+          "word": "exhibit",
+          "meaningJa": "展示品",
+          "exampleEn": "This exhibit is very popular.",
+          "exampleJa": "この展示はとても人気があります。"
         },
         {
-          "word": "discuss",
-          "meaningJa": "話し合う",
-          "exampleEn": "We need to discuss the plan.",
-          "exampleJa": "私たちは計画を話し合う必要があります。"
+          "word": "display",
+          "meaningJa": "展示",
+          "exampleEn": "The items are on display.",
+          "exampleJa": "アイテムが展示されています。"
         },
         {
-          "word": "session",
-          "meaningJa": "会議、期間",
-          "exampleEn": "The session was very productive.",
-          "exampleJa": "そのセッションはとても生産的でした。"
+          "word": "statue",
+          "meaningJa": "彫像",
+          "exampleEn": "I saw a large stone statue.",
+          "exampleJa": "大きな石の彫像を見ました。"
         },
         {
-          "word": "focused",
-          "meaningJa": "集中した",
-          "exampleEn": "Stay focused on your work.",
-          "exampleJa": "仕事に集中しなさい。"
+          "word": "culture",
+          "meaningJa": "文化",
+          "exampleEn": "I enjoy learning about local culture.",
+          "exampleJa": "地元の文化について学ぶのが好きです。"
         }
       ],
-      "id": "beginner-2026-11-26",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/beginner.m4a",
-      "durationSeconds": 29
+      "id": "beginner-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/beginner.m4a",
+      "durationSeconds": 35
     },
     {
       "levelGroup": "intermediate",
-      "title": "Effective Meeting Openings",
+      "title": "Navigating a Large Art Museum",
       "cefrLevel": "B1",
-      "summaryJa": "会議の冒頭で参加者の注意を引き、効率的に議論を進めるための表現。",
+      "summaryJa": "美術館で効率的に展示を楽しみ、スタッフとコミュニケーションをとるためのヒント。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Thank you all for taking the time to attend this important meeting today.",
-          "translationJa": "皆さん、本日の重要な会議に出席していただきありがとうございます。",
-          "id": "intermediate-2026-11-26-s01",
+          "text": "Visiting a large museum requires a good plan to see everything you find interesting.",
+          "translationJa": "大きな美術館を訪れる際は、興味のあるものをすべて見るために良い計画が必要です。",
+          "id": "intermediate-2026-11-27-s01",
           "startMs": 0,
-          "endMs": 3693,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s01.m4a"
+          "endMs": 4602,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "The main purpose of our gathering is to review the current project progress.",
-          "translationJa": "今回の集まりの主な目的は、現在のプロジェクトの進捗状況を確認することです。",
-          "id": "intermediate-2026-11-26-s02",
-          "startMs": 4093,
-          "endMs": 7960,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s02.m4a"
+          "text": "First, you should check the museum map to locate the galleries you want to visit.",
+          "translationJa": "まず、行きたいギャラリーの場所を確認するために館内マップを見るべきです。",
+          "id": "intermediate-2026-11-27-s02",
+          "startMs": 5002,
+          "endMs": 9392,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "We have a packed agenda, so let us try to stay on track.",
-          "translationJa": "議題が盛りだくさんですので、話が脱線しないようにしましょう。",
-          "id": "intermediate-2026-11-26-s03",
-          "startMs": 8360,
-          "endMs": 11764,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s03.m4a"
+          "text": "Many museums offer audio guides that explain the history behind each famous art piece.",
+          "translationJa": "多くの美術館では、各有名な芸術作品の背景にある歴史を説明する音声ガイドを提供しています。",
+          "id": "intermediate-2026-11-27-s03",
+          "startMs": 9792,
+          "endMs": 14672,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Before we dive into the details, I would like to hear your thoughts.",
-          "translationJa": "詳細に入る前に、皆さんの考えを聞かせてほしいです。",
-          "id": "intermediate-2026-11-26-s04",
-          "startMs": 12164,
-          "endMs": 15756,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s04.m4a"
+          "text": "If you are unsure about the rules, feel free to ask the staff for assistance.",
+          "translationJa": "ルールについて不明な点があれば、遠慮なくスタッフに助けを求めてください。",
+          "id": "intermediate-2026-11-27-s04",
+          "startMs": 15072,
+          "endMs": 19516,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Please do not hesitate to speak up if you have any concerns later.",
-          "translationJa": "後で懸念点があれば、遠慮なく発言してください。",
-          "id": "intermediate-2026-11-26-s05",
-          "startMs": 16156,
-          "endMs": 19625,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s05.m4a"
+          "text": "Some areas might be closed for maintenance, so checking the website beforehand is very helpful.",
+          "translationJa": "メンテナンスのために閉鎖されているエリアもあるかもしれないので、事前にウェブサイトを確認すると役立ちます。",
+          "id": "intermediate-2026-11-27-s05",
+          "startMs": 19916,
+          "endMs": 25399,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Our goal is to finalize the strategy by the end of this hour.",
-          "translationJa": "私たちの目標は、この1時間で戦略を確定させることです。",
-          "id": "intermediate-2026-11-26-s06",
-          "startMs": 20025,
-          "endMs": 23133,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s06.m4a"
+          "text": "Remember to keep your voice low so that other visitors can enjoy the quiet atmosphere.",
+          "translationJa": "他の来館者が静かな雰囲気を楽しめるよう、自分の声は小さく保つことを忘れないでください。",
+          "id": "intermediate-2026-11-27-s06",
+          "startMs": 25799,
+          "endMs": 30323,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "I believe that your input will be very valuable for our final decision.",
-          "translationJa": "皆さんの意見は最終決定を下す上で非常に貴重なものになるはずです。",
-          "id": "intermediate-2026-11-26-s07",
-          "startMs": 23533,
-          "endMs": 27186,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s07.m4a"
+          "text": "Taking notes about your favorite paintings can make your museum experience much more memorable today.",
+          "translationJa": "お気に入りの絵画についてメモを取ることは、今日の美術館体験をより思い出深いものにできます。",
+          "id": "intermediate-2026-11-27-s07",
+          "startMs": 30723,
+          "endMs": 36052,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Let us open the floor for any initial comments regarding the project status.",
-          "translationJa": "プロジェクトの状況に関する最初のコメントがあれば、どなたからでもどうぞ。",
-          "id": "intermediate-2026-11-26-s08",
-          "startMs": 27586,
-          "endMs": 31654,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s08.m4a"
+          "text": "Most museums have a cafe where you can sit down and rest between the exhibits.",
+          "translationJa": "ほとんどの美術館には、展示の合間に座って休憩できるカフェがあります。",
+          "id": "intermediate-2026-11-27-s08",
+          "startMs": 36452,
+          "endMs": 40740,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "I hope we can maintain a productive atmosphere throughout our meeting session today.",
-          "translationJa": "今日の会議を通じて生産的な雰囲気を維持できることを願っています。",
-          "id": "intermediate-2026-11-26-s09",
-          "startMs": 32054,
-          "endMs": 36288,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s09.m4a"
+          "text": "Do not rush through the rooms because art is best enjoyed with plenty of time.",
+          "translationJa": "芸術は時間をかけて楽しむのが一番なので、急いで各部屋を回らないようにしましょう。",
+          "id": "intermediate-2026-11-27-s09",
+          "startMs": 41140,
+          "endMs": 45137,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Let us start by looking at the key milestones we achieved last week.",
-          "translationJa": "先週達成した主要なマイルストーンを確認することから始めましょう。",
-          "id": "intermediate-2026-11-26-s10",
-          "startMs": 36688,
-          "endMs": 40303,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s10.m4a"
+          "text": "Finally, check the gift shop for unique souvenirs to remember your special day at museum.",
+          "translationJa": "最後に、美術館での特別な日を記念して、ユニークな土産物をギフトショップで探しましょう。",
+          "id": "intermediate-2026-11-27-s10",
+          "startMs": 45537,
+          "endMs": 50577,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Are there any items that need to be added to our agenda today?",
-          "translationJa": "今日の議題に追加すべき項目はありますか？",
-          "id": "intermediate-2026-11-26-s11",
-          "startMs": 40703,
-          "endMs": 43811,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate-s11.m4a"
+          "text": "A museum visit is a perfect way to spend a peaceful afternoon in the city.",
+          "translationJa": "美術館への訪問は、街で穏やかな午後を過ごすための完璧な方法です。",
+          "id": "intermediate-2026-11-27-s11",
+          "startMs": 50977,
+          "endMs": 54921,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "attend",
-          "meaningJa": "出席する",
-          "exampleEn": "I will attend the meeting.",
-          "exampleJa": "会議に出席します。"
+          "word": "navigate",
+          "meaningJa": "案内する、進む",
+          "exampleEn": "It is easy to navigate the halls.",
+          "exampleJa": "館内を回るのは簡単です。"
         },
         {
-          "word": "agenda",
-          "meaningJa": "議題",
-          "exampleEn": "What is on the agenda?",
-          "exampleJa": "議題は何ですか？"
+          "word": "locate",
+          "meaningJa": "位置を見つける",
+          "exampleEn": "I need to locate the main exit.",
+          "exampleJa": "メインの出口の場所を見つける必要があります。"
         },
         {
-          "word": "hesitate",
-          "meaningJa": "ためらう",
-          "exampleEn": "Do not hesitate to call me.",
-          "exampleJa": "遠慮なく電話してください。"
+          "word": "maintenance",
+          "meaningJa": "メンテナンス、保守",
+          "exampleEn": "The room is under maintenance.",
+          "exampleJa": "その部屋はメンテナンス中です。"
         },
         {
-          "word": "valuable",
-          "meaningJa": "貴重な",
-          "exampleEn": "Your advice is very valuable.",
-          "exampleJa": "あなたのアドバイスはとても貴重です。"
+          "word": "atmosphere",
+          "meaningJa": "雰囲気",
+          "exampleEn": "The museum has a calm atmosphere.",
+          "exampleJa": "その美術館は落ち着いた雰囲気です。"
         },
         {
-          "word": "milestone",
-          "meaningJa": "重要な節目",
-          "exampleEn": "We reached a major milestone.",
-          "exampleJa": "私たちは大きな節目に到達しました。"
+          "word": "memorable",
+          "meaningJa": "記憶に残る",
+          "exampleEn": "It was a truly memorable trip.",
+          "exampleJa": "本当に思い出に残る旅でした。"
         }
       ],
-      "id": "intermediate-2026-11-26",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/intermediate.m4a",
-      "durationSeconds": 42
+      "id": "intermediate-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/intermediate.m4a",
+      "durationSeconds": 53
     },
     {
       "levelGroup": "advanced",
-      "title": "Mastering the Meeting Start",
+      "title": "The Art of Engaging with Museum Collections",
       "cefrLevel": "B2",
-      "summaryJa": "会議の冒頭で明確な方向性を示し、プロフェッショナルな議論を導くためのスキル。",
+      "summaryJa": "美術館のコレクションを深く鑑賞し、知的で文化的な体験にするためのアドバイス。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/work_productivity/starting-a-meeting"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/travel_culture/museum-visit"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "I appreciate everyone joining this session to align our goals for the quarter.",
-          "translationJa": "今四半期の目標を調整するために、このセッションに参加していただき感謝します。",
-          "id": "advanced-2026-11-26-s01",
+          "text": "Engaging with museum collections offers a unique window into the history of human creative expression.",
+          "translationJa": "美術館のコレクションに触れることは、人類の創造的表現の歴史を知るユニークな窓口となります。",
+          "id": "advanced-2026-11-27-s01",
           "startMs": 0,
-          "endMs": 3897,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s01.m4a"
+          "endMs": 5395,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Our primary objective today is to resolve the pending issues in the workflow.",
-          "translationJa": "今日の主な目的は、ワークフローにおける保留中の問題を解決することです。",
-          "id": "advanced-2026-11-26-s02",
-          "startMs": 4297,
-          "endMs": 8252,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s02.m4a"
+          "text": "To maximize your experience, begin by identifying the specific periods or artists you appreciate most.",
+          "translationJa": "体験を最大限にするには、あなたが最も高く評価する特定の時代や芸術家を特定することから始めましょう。",
+          "id": "advanced-2026-11-27-s02",
+          "startMs": 5795,
+          "endMs": 12099,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "We need to identify the bottlenecks that are currently slowing down our production cycle.",
-          "translationJa": "現在、生産サイクルを遅らせているボトルネックを特定する必要があります。",
-          "id": "advanced-2026-11-26-s03",
-          "startMs": 8652,
-          "endMs": 13345,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s03.m4a"
+          "text": "Many institutions now provide digital resources that allow you to preview the main permanent exhibitions.",
+          "translationJa": "多くの施設が現在、主要な常設展示を事前に確認できるデジタルリソースを提供しています。",
+          "id": "advanced-2026-11-27-s03",
+          "startMs": 12499,
+          "endMs": 18227,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "I have outlined the main points on the board for our shared reference today.",
-          "translationJa": "今日の共有参照用として、ボードに主要なポイントをまとめました。",
-          "id": "advanced-2026-11-26-s04",
-          "startMs": 13745,
-          "endMs": 17340,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s04.m4a"
+          "text": "Once inside, try to focus your attention on individual works rather than viewing every single item.",
+          "translationJa": "館内に入ったら、すべての作品を見ようとするのではなく、個々の作品に注意を集中させてみてください。",
+          "id": "advanced-2026-11-27-s04",
+          "startMs": 18627,
+          "endMs": 24376,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Let us ensure that every participant has a chance to contribute their unique insights.",
-          "translationJa": "すべての参加者が独自の洞察を提供する機会を持てるようにしましょう。",
-          "id": "advanced-2026-11-26-s05",
-          "startMs": 17740,
-          "endMs": 22295,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s05.m4a"
+          "text": "Observing the brushwork or the texture of a sculpture reveals much about the artist's technique.",
+          "translationJa": "筆致や彫刻の質感を観察すると、芸術家の技術について多くのことがわかります。",
+          "id": "advanced-2026-11-27-s05",
+          "startMs": 24776,
+          "endMs": 29544,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "Keeping our discussion concise will help us reach a conclusion within the timeframe.",
-          "translationJa": "議論を簡潔に保つことは、時間内に結論を出す助けになります。",
-          "id": "advanced-2026-11-26-s06",
-          "startMs": 22695,
-          "endMs": 27082,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s06.m4a"
+          "text": "If you have questions, the curatorial staff is often happy to share insights about the background.",
+          "translationJa": "もし質問があれば、学芸員は背景に関する洞察を喜んで共有してくれることが多いです。",
+          "id": "advanced-2026-11-27-s06",
+          "startMs": 29944,
+          "endMs": 35572,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Please feel free to challenge ideas if you believe there is a better approach.",
-          "translationJa": "より良いアプローチがあると思う場合は、遠慮なくアイデアに異論を唱えてください。",
-          "id": "advanced-2026-11-26-s07",
-          "startMs": 27482,
-          "endMs": 31346,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s07.m4a"
+          "text": "It is also beneficial to visit during weekday mornings to avoid the large weekend tourist crowds.",
+          "translationJa": "週末の大きな観光客の波を避けるために、平日の午前中に訪れることも有益です。",
+          "id": "advanced-2026-11-27-s07",
+          "startMs": 35972,
+          "endMs": 41217,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Collaboration is essential to achieving the high standards we set for this project.",
-          "translationJa": "このプロジェクトに設定した高い基準を達成するには、協力が不可欠です。",
-          "id": "advanced-2026-11-26-s08",
-          "startMs": 31746,
-          "endMs": 36053,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s08.m4a"
+          "text": "Photography rules vary by institution, so always verify the policy before taking out your camera.",
+          "translationJa": "撮影のルールは施設によって異なるため、カメラを取り出す前に必ず方針を確認してください。",
+          "id": "advanced-2026-11-27-s08",
+          "startMs": 41617,
+          "endMs": 47737,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Let us establish a clear plan of action before we conclude this meeting session.",
-          "translationJa": "この会議を終える前に、明確な行動計画を確立しましょう。",
-          "id": "advanced-2026-11-26-s09",
-          "startMs": 36453,
-          "endMs": 40683,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s09.m4a"
+          "text": "Reflecting on the themes presented in the gallery can deepen your understanding of cultural narratives.",
+          "translationJa": "ギャラリーで提示されたテーマを振り返ることは、文化的な物語への理解を深めることができます。",
+          "id": "advanced-2026-11-27-s09",
+          "startMs": 48137,
+          "endMs": 53322,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "I am confident that we will find an effective solution through our collective effort.",
-          "translationJa": "私たちの共同の努力を通じて、効果的な解決策が見つかると確信しています。",
-          "id": "advanced-2026-11-26-s10",
-          "startMs": 41083,
-          "endMs": 45236,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s10.m4a"
+          "text": "Consider keeping a journal to record your personal reactions to the most moving pieces of art.",
+          "translationJa": "最も感動した芸術作品に対する個人的な反応を記録するために、日記をつけることを検討してください。",
+          "id": "advanced-2026-11-27-s10",
+          "startMs": 53722,
+          "endMs": 58621,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Let us begin with a brief overview of the updates from the last week.",
-          "translationJa": "先週の更新内容の簡単な概要から始めましょう。",
-          "id": "advanced-2026-11-26-s11",
-          "startMs": 45636,
-          "endMs": 49135,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "Does anyone have urgent matters to address before we dive into the main agenda?",
-          "translationJa": "主要な議題に入る前に、誰か対処すべき緊急の用件はありますか？",
-          "id": "advanced-2026-11-26-s12",
-          "startMs": 49535,
-          "endMs": 53523,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced-s12.m4a"
+          "text": "Ultimately, a museum visit should be an intentional practice of curiosity and quiet intellectual exploration.",
+          "translationJa": "結局のところ、美術館への訪問は、好奇心と静かな知的探求を意図的に実践する場であるべきです。",
+          "id": "advanced-2026-11-27-s11",
+          "startMs": 59021,
+          "endMs": 65401,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "align",
-          "meaningJa": "調整する",
-          "exampleEn": "We need to align our schedules.",
-          "exampleJa": "スケジュールを調整する必要があります。"
+          "word": "institution",
+          "meaningJa": "施設、機関",
+          "exampleEn": "This is a world-class institution.",
+          "exampleJa": "ここは世界クラスの施設です。"
         },
         {
-          "word": "objective",
-          "meaningJa": "目的",
-          "exampleEn": "The objective is clear.",
-          "exampleJa": "目的は明確です。"
+          "word": "permanent",
+          "meaningJa": "常設の、永続的な",
+          "exampleEn": "We saw the permanent collection.",
+          "exampleJa": "常設コレクションを見ました。"
         },
         {
-          "word": "bottleneck",
-          "meaningJa": "ボトルネック、障害",
-          "exampleEn": "We found a bottleneck.",
-          "exampleJa": "ボトルネックを見つけました。"
+          "word": "curatorial",
+          "meaningJa": "学芸員の",
+          "exampleEn": "The curatorial team manages the art.",
+          "exampleJa": "学芸チームがアートを管理しています。"
         },
         {
-          "word": "concise",
-          "meaningJa": "簡潔な",
-          "exampleEn": "Please keep your report concise.",
-          "exampleJa": "報告書を簡潔にまとめてください。"
+          "word": "narrative",
+          "meaningJa": "物語、語り口",
+          "exampleEn": "The narrative is quite compelling.",
+          "exampleJa": "その物語は非常に説得力があります。"
         },
         {
-          "word": "collective",
-          "meaningJa": "集団の、共同の",
-          "exampleEn": "It was a collective decision.",
-          "exampleJa": "それは集団での決定でした。"
+          "word": "intentional",
+          "meaningJa": "意図的な",
+          "exampleEn": "His choice was very intentional.",
+          "exampleJa": "彼の選択は非常に意図的なものでした。"
         }
       ],
-      "id": "advanced-2026-11-26",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-26/advanced.m4a",
-      "durationSeconds": 51
+      "id": "advanced-2026-11-27",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-27/advanced.m4a",
+      "durationSeconds": 63
     }
   ],
-  "topicCategory": "work_productivity"
+  "topicCategory": "travel_culture"
 }
