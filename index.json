@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-26T15:01:22Z",
-  "latestLessonDate": "2026-11-27",
+  "generatedAtUtc": "2026-11-27T15:01:19Z",
+  "latestLessonDate": "2026-11-28",
   "days": [
+    {
+      "lessonDate": "2026-11-28",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-28.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Getting Started with Smart Homes",
+          "durationSeconds": 29,
+          "summaryJa": "スマートホームの基本機能と、音声アシスタントを使った便利な生活について解説します。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Making Life Easier with Smart Tech",
+          "durationSeconds": 49,
+          "summaryJa": "スマートホーム技術を活用して、家事を効率化し生活を快適にする方法を紹介します。"
+        },
+        {
+          "level": "advanced",
+          "title": "The Evolution of Modern Smart Living",
+          "durationSeconds": 65,
+          "summaryJa": "スマートホーム環境を構築し、日常生活を最適化するための戦略的なアプローチについて考えます。"
+        }
+      ],
+      "topicCategory": "science_technology"
+    },
     {
       "lessonDate": "2026-11-27",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-27.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "science_technology"
-    },
-    {
-      "lessonDate": "2026-10-28",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-28.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Finding Your Way Around",
-          "durationSeconds": 26,
-          "summaryJa": "新しい街で道を聞く際の丁寧な表現と、ランドマークの確認方法を学びます。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Navigating Like a Local",
-          "durationSeconds": 48,
-          "summaryJa": "目的地までの道順を尋ね、目印を使って相手と情報を共有する実践的な会話です。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Urban Navigation",
-          "durationSeconds": 56,
-          "summaryJa": "都市部で複雑な場所を尋ねたり、ランドマークを基準に道順を理解したりする高度な会話練習です。"
-        }
-      ],
-      "topicCategory": "travel_culture"
     }
   ]
 }

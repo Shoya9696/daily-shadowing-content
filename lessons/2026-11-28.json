@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "generatedAtUtc": "2026-11-27T15:01:19Z",
+  "lessonDate": "2026-11-28",
+  "lessons": [
+    {
+      "levelGroup": "beginner",
+      "title": "Getting Started with Smart Homes",
+      "cefrLevel": "A2",
+      "summaryJa": "スマートホームの基本機能と、音声アシスタントを使った便利な生活について解説します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Many people use smart home devices in their daily lives now.",
+          "translationJa": "今では多くの人が日常生活でスマートホームデバイスを使っています。",
+          "id": "beginner-2026-11-28-s01",
+          "startMs": 0,
+          "endMs": 3348,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can talk to your voice assistant to play some music.",
+          "translationJa": "音声アシスタントに話しかけて音楽をかけることができます。",
+          "id": "beginner-2026-11-28-s02",
+          "startMs": 3748,
+          "endMs": 6573,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "It is very easy to set a timer while you cook.",
+          "translationJa": "料理中にタイマーをセットするのはとても簡単です。",
+          "id": "beginner-2026-11-28-s03",
+          "startMs": 6973,
+          "endMs": 9536,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Smart lights help you change the brightness of your living room.",
+          "translationJa": "スマートライトはリビングルームの明るさを変えるのに役立ちます。",
+          "id": "beginner-2026-11-28-s04",
+          "startMs": 9936,
+          "endMs": 12991,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can also turn off all your lights from your bed.",
+          "translationJa": "ベッドの中からすべての電気を消すこともできます。",
+          "id": "beginner-2026-11-28-s05",
+          "startMs": 13391,
+          "endMs": 15914,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "These small tools make our homes feel much more comfortable today.",
+          "translationJa": "これらの小さなツールのおかげで、今の家はとても快適に感じられます。",
+          "id": "beginner-2026-11-28-s06",
+          "startMs": 16314,
+          "endMs": 19784,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "I really like using my phone to control the home temperature.",
+          "translationJa": "私はスマホを使って室温を管理するのがとても気に入っています。",
+          "id": "beginner-2026-11-28-s07",
+          "startMs": 20184,
+          "endMs": 23361,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Technology is changing how we spend time in our own houses.",
+          "translationJa": "テクノロジーは私たちが家で過ごす時間を変えています。",
+          "id": "beginner-2026-11-28-s08",
+          "startMs": 23761,
+          "endMs": 27105,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Do you want to try using a smart device at home?",
+          "translationJa": "家でスマートデバイスを使ってみたいですか？",
+          "id": "beginner-2026-11-28-s09",
+          "startMs": 27505,
+          "endMs": 30272,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s09.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "device",
+          "meaningJa": "装置、機器",
+          "exampleEn": "This device is very useful.",
+          "exampleJa": "この機器はとても便利です。"
+        },
+        {
+          "word": "assistant",
+          "meaningJa": "アシスタント、助手",
+          "exampleEn": "I ask my assistant for help.",
+          "exampleJa": "アシスタントに助けを求めます。"
+        },
+        {
+          "word": "timer",
+          "meaningJa": "タイマー",
+          "exampleEn": "Set a timer for ten minutes.",
+          "exampleJa": "10分でタイマーをセットして。"
+        },
+        {
+          "word": "brightness",
+          "meaningJa": "明るさ",
+          "exampleEn": "Adjust the brightness of the screen.",
+          "exampleJa": "画面の明るさを調整してください。"
+        },
+        {
+          "word": "control",
+          "meaningJa": "操作する、管理する",
+          "exampleEn": "I can control the fan speed.",
+          "exampleJa": "ファンの速度を調整できます。"
+        }
+      ],
+      "id": "beginner-2026-11-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner.m4a",
+      "durationSeconds": 29
+    },
+    {
+      "levelGroup": "intermediate",
+      "title": "Making Life Easier with Smart Tech",
+      "cefrLevel": "B1",
+      "summaryJa": "スマートホーム技術を活用して、家事を効率化し生活を快適にする方法を紹介します。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Setting up a smart home system does not have to be a difficult project.",
+          "translationJa": "スマートホームシステムを構築することは、難しいプロジェクトである必要はありません。",
+          "id": "intermediate-2026-11-28-s01",
+          "startMs": 0,
+          "endMs": 3823,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "You can start with a simple smart speaker to manage your daily schedule easily.",
+          "translationJa": "簡単なスマートスピーカーから始めて、毎日のスケジュールを簡単に管理できます。",
+          "id": "intermediate-2026-11-28-s02",
+          "startMs": 4223,
+          "endMs": 8337,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "Voice commands allow you to control lights or music without touching any physical buttons.",
+          "translationJa": "音声コマンドを使えば、物理的なボタンに触れることなく照明や音楽を操作できます。",
+          "id": "intermediate-2026-11-28-s03",
+          "startMs": 8737,
+          "endMs": 13548,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Many people find that using smart plugs helps them save energy throughout the year.",
+          "translationJa": "多くの人は、スマートプラグを使うことで年間を通じて節電できることに気づいています。",
+          "id": "intermediate-2026-11-28-s04",
+          "startMs": 13948,
+          "endMs": 18225,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "You can program your coffee machine to start brewing before you wake up every morning.",
+          "translationJa": "コーヒーメーカーをプログラムして、毎朝起きる前に淹れ始めることができます。",
+          "id": "intermediate-2026-11-28-s05",
+          "startMs": 18625,
+          "endMs": 22890,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "It feels wonderful to walk into a warm room during the cold winter months.",
+          "translationJa": "寒い冬の間に暖かい部屋に入ると、とても素晴らしい気分になります。",
+          "id": "intermediate-2026-11-28-s06",
+          "startMs": 23290,
+          "endMs": 27281,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Automation handles the boring tasks so you can focus on more important personal matters.",
+          "translationJa": "自動化が退屈な作業を処理してくれるので、より重要な個人的な事柄に集中できます。",
+          "id": "intermediate-2026-11-28-s07",
+          "startMs": 27681,
+          "endMs": 32630,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "Modern technology provides us with many ways to improve our living space very quickly.",
+          "translationJa": "現代のテクノロジーは、生活空間を素早く改善するための多くの方法を提供してくれます。",
+          "id": "intermediate-2026-11-28-s08",
+          "startMs": 33030,
+          "endMs": 37771,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "Even simple upgrades make a big difference in how your house functions every day.",
+          "translationJa": "単純なアップグレードでも、家が毎日どのように機能するかに大きな違いをもたらします。",
+          "id": "intermediate-2026-11-28-s09",
+          "startMs": 38171,
+          "endMs": 42161,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Start with one device and see how it changes your routine at home today.",
+          "translationJa": "まずは一つのデバイスから始めて、それが今日の家での習慣をどう変えるか見てみましょう。",
+          "id": "intermediate-2026-11-28-s10",
+          "startMs": 42561,
+          "endMs": 46441,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Technology is truly a great partner for creating a more relaxed lifestyle at home.",
+          "translationJa": "テクノロジーは、家でよりリラックスした生活を送るための本当に素晴らしいパートナーです。",
+          "id": "intermediate-2026-11-28-s11",
+          "startMs": 46841,
+          "endMs": 51427,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s11.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "schedule",
+          "meaningJa": "予定、スケジュール",
+          "exampleEn": "Check your schedule for today.",
+          "exampleJa": "今日の予定を確認してください。"
+        },
+        {
+          "word": "command",
+          "meaningJa": "命令、指令",
+          "exampleEn": "Give a voice command.",
+          "exampleJa": "音声コマンドを出してください。"
+        },
+        {
+          "word": "physical",
+          "meaningJa": "物理的な、物質的な",
+          "exampleEn": "No physical contact is needed.",
+          "exampleJa": "物理的な接触は不要です。"
+        },
+        {
+          "word": "energy",
+          "meaningJa": "エネルギー、電力",
+          "exampleEn": "Save energy by turning off lights.",
+          "exampleJa": "電気を消して節電しましょう。"
+        },
+        {
+          "word": "automation",
+          "meaningJa": "自動化",
+          "exampleEn": "Home automation is very popular.",
+          "exampleJa": "ホームオートメーションはとても人気があります。"
+        }
+      ],
+      "id": "intermediate-2026-11-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate.m4a",
+      "durationSeconds": 49
+    },
+    {
+      "levelGroup": "advanced",
+      "title": "The Evolution of Modern Smart Living",
+      "cefrLevel": "B2",
+      "summaryJa": "スマートホーム環境を構築し、日常生活を最適化するための戦略的なアプローチについて考えます。",
+      "sourceUrls": [
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+      ],
+      "sentences": [
+        {
+          "index": 0,
+          "text": "Integrating smart technology into your home is a practical way to enhance daily efficiency.",
+          "translationJa": "スマートテクノロジーを自宅に取り入れることは、日々の効率を高めるための実践的な方法です。",
+          "id": "advanced-2026-11-28-s01",
+          "startMs": 0,
+          "endMs": 5187,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s01.m4a"
+        },
+        {
+          "index": 1,
+          "text": "Many users begin by installing voice-activated speakers to streamline their morning and evening routines.",
+          "translationJa": "多くのユーザーは、朝や夜のルーチンを効率化するために音声起動スピーカーを導入することから始めます。",
+          "id": "advanced-2026-11-28-s02",
+          "startMs": 5587,
+          "endMs": 11292,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s02.m4a"
+        },
+        {
+          "index": 2,
+          "text": "These devices act as a central hub for controlling various appliances throughout your living space.",
+          "translationJa": "これらのデバイスは、居住空間全体のさまざまな家電を操作するための中央ハブとして機能します。",
+          "id": "advanced-2026-11-28-s03",
+          "startMs": 11692,
+          "endMs": 16984,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s03.m4a"
+        },
+        {
+          "index": 3,
+          "text": "Smart lighting systems allow you to adjust the ambiance according to your specific personal mood.",
+          "translationJa": "スマート照明システムを使用すると、特定の個人の気分に合わせて雰囲気を調整できます。",
+          "id": "advanced-2026-11-28-s04",
+          "startMs": 17384,
+          "endMs": 22483,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s04.m4a"
+        },
+        {
+          "index": 4,
+          "text": "Automated climate control ensures that your house maintains a perfect temperature throughout the entire day.",
+          "translationJa": "自動化された空調管理により、家の中は一日中完璧な温度に保たれます。",
+          "id": "advanced-2026-11-28-s05",
+          "startMs": 22883,
+          "endMs": 28458,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s05.m4a"
+        },
+        {
+          "index": 5,
+          "text": "You can set timers for kitchen appliances to ensure your dinner is ready on time.",
+          "translationJa": "キッチンの家電にタイマーをセットして、夕食が時間通りに準備できるようにできます。",
+          "id": "advanced-2026-11-28-s06",
+          "startMs": 28858,
+          "endMs": 33320,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s06.m4a"
+        },
+        {
+          "index": 6,
+          "text": "Security features like smart cameras give you peace of mind when you are away traveling.",
+          "translationJa": "スマートカメラのようなセキュリティ機能は、旅行で外出している際に安心感を与えてくれます。",
+          "id": "advanced-2026-11-28-s07",
+          "startMs": 33720,
+          "endMs": 38378,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s07.m4a"
+        },
+        {
+          "index": 7,
+          "text": "The main benefit of this technology is the time saved on repetitive household chores daily.",
+          "translationJa": "このテクノロジーの主な利点は、毎日の繰り返しの家事に費やす時間を節約できることです。",
+          "id": "advanced-2026-11-28-s08",
+          "startMs": 38778,
+          "endMs": 43585,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s08.m4a"
+        },
+        {
+          "index": 8,
+          "text": "As these systems become more intuitive, they integrate seamlessly into our existing lifestyle patterns easily.",
+          "translationJa": "これらのシステムがより直感的になるにつれて、既存の生活パターンに簡単に溶け込んでいきます。",
+          "id": "advanced-2026-11-28-s09",
+          "startMs": 43985,
+          "endMs": 50215,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s09.m4a"
+        },
+        {
+          "index": 9,
+          "text": "Investing in high-quality smart devices is often worth the cost for long-term comfort gains.",
+          "translationJa": "高品質なスマートデバイスへの投資は、長期的な快適さを考えると多くの場合コストに見合います。",
+          "id": "advanced-2026-11-28-s10",
+          "startMs": 50615,
+          "endMs": 55778,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s10.m4a"
+        },
+        {
+          "index": 10,
+          "text": "Smart home integration represents a significant shift toward a more connected and efficient future lifestyle.",
+          "translationJa": "スマートホームの統合は、より接続された効率的な未来のライフスタイルへの大きな転換を表しています。",
+          "id": "advanced-2026-11-28-s11",
+          "startMs": 56178,
+          "endMs": 62101,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s11.m4a"
+        },
+        {
+          "index": 11,
+          "text": "You should explore these options to see how they can improve your personal home experience.",
+          "translationJa": "これらの選択肢を検討して、それがどのようにあなたの家の体験を改善できるかを確認してください。",
+          "id": "advanced-2026-11-28-s12",
+          "startMs": 62501,
+          "endMs": 67079,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s12.m4a"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "integrate",
+          "meaningJa": "統合する、取り入れる",
+          "exampleEn": "Integrate new tools into your work.",
+          "exampleJa": "新しいツールを仕事に取り入れてください。"
+        },
+        {
+          "word": "streamline",
+          "meaningJa": "効率化する、合理化する",
+          "exampleEn": "We need to streamline the process.",
+          "exampleJa": "プロセスを効率化する必要があります。"
+        },
+        {
+          "word": "ambiance",
+          "meaningJa": "雰囲気、環境",
+          "exampleEn": "The lighting creates a nice ambiance.",
+          "exampleJa": "照明が素敵な雰囲気を作ります。"
+        },
+        {
+          "word": "repetitive",
+          "meaningJa": "繰り返しの、反復的な",
+          "exampleEn": "Avoid repetitive tasks if possible.",
+          "exampleJa": "可能なら反復作業は避けましょう。"
+        },
+        {
+          "word": "intuitive",
+          "meaningJa": "直感的な",
+          "exampleEn": "The interface is very intuitive.",
+          "exampleJa": "そのインターフェースはとても直感的です。"
+        }
+      ],
+      "id": "advanced-2026-11-28",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced.m4a",
+      "durationSeconds": 65
+    }
+  ],
+  "topicCategory": "science_technology"
+}
