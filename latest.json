@@ -1,434 +1,425 @@
 {
   "version": 1,
-  "generatedAtUtc": "2026-11-27T15:01:19Z",
-  "lessonDate": "2026-11-28",
+  "generatedAtUtc": "2026-11-28T15:02:15Z",
+  "lessonDate": "2026-11-29",
   "lessons": [
     {
       "levelGroup": "beginner",
-      "title": "Getting Started with Smart Homes",
+      "title": "Staying Hydrated at Work",
       "cefrLevel": "A2",
-      "summaryJa": "スマートホームの基本機能と、音声アシスタントを使った便利な生活について解説します。",
+      "summaryJa": "仕事中に水分補給をしっかり行うための簡単なヒント。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Many people use smart home devices in their daily lives now.",
-          "translationJa": "今では多くの人が日常生活でスマートホームデバイスを使っています。",
-          "id": "beginner-2026-11-28-s01",
+          "text": "It is very important to drink enough water every day at work.",
+          "translationJa": "仕事中に毎日十分な水を飲むことはとても大切です。",
+          "id": "beginner-2026-11-29-s01",
           "startMs": 0,
-          "endMs": 3348,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s01.m4a"
+          "endMs": 3190,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can talk to your voice assistant to play some music.",
-          "translationJa": "音声アシスタントに話しかけて音楽をかけることができます。",
-          "id": "beginner-2026-11-28-s02",
-          "startMs": 3748,
-          "endMs": 6573,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s02.m4a"
+          "text": "Many people forget to drink water when they are very busy.",
+          "translationJa": "多くの人はとても忙しいときに水を飲むことを忘れてしまいます。",
+          "id": "beginner-2026-11-29-s02",
+          "startMs": 3590,
+          "endMs": 6485,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s02.m4a"
         },
         {
           "index": 2,
-          "text": "It is very easy to set a timer while you cook.",
-          "translationJa": "料理中にタイマーをセットするのはとても簡単です。",
-          "id": "beginner-2026-11-28-s03",
-          "startMs": 6973,
-          "endMs": 9536,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s03.m4a"
+          "text": "You should keep a full water bottle on your office desk.",
+          "translationJa": "オフィスのデスクに満タンのウォーターボトルを置いておきましょう。",
+          "id": "beginner-2026-11-29-s03",
+          "startMs": 6885,
+          "endMs": 9699,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Smart lights help you change the brightness of your living room.",
-          "translationJa": "スマートライトはリビングルームの明るさを変えるのに役立ちます。",
-          "id": "beginner-2026-11-28-s04",
-          "startMs": 9936,
-          "endMs": 12991,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s04.m4a"
+          "text": "This helps you remember to take small sips during the day.",
+          "translationJa": "そうすれば日中に少しずつ飲むことを思い出しやすくなります。",
+          "id": "beginner-2026-11-29-s04",
+          "startMs": 10099,
+          "endMs": 13104,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You can also turn off all your lights from your bed.",
-          "translationJa": "ベッドの中からすべての電気を消すこともできます。",
-          "id": "beginner-2026-11-28-s05",
-          "startMs": 13391,
-          "endMs": 15914,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s05.m4a"
+          "text": "If you feel tired, you might need a glass of water.",
+          "translationJa": "もし疲れたと感じたら、コップ一杯の水が必要かもしれません。",
+          "id": "beginner-2026-11-29-s05",
+          "startMs": 13504,
+          "endMs": 16427,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s05.m4a"
         },
         {
           "index": 5,
-          "text": "These small tools make our homes feel much more comfortable today.",
-          "translationJa": "これらの小さなツールのおかげで、今の家はとても快適に感じられます。",
-          "id": "beginner-2026-11-28-s06",
-          "startMs": 16314,
-          "endMs": 19784,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s06.m4a"
+          "text": "Taking a short break helps your body and your mind relax.",
+          "translationJa": "短い休憩を取ることは体と心をリラックスさせるのに役立ちます。",
+          "id": "beginner-2026-11-29-s06",
+          "startMs": 16827,
+          "endMs": 19834,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s06.m4a"
         },
         {
           "index": 6,
-          "text": "I really like using my phone to control the home temperature.",
-          "translationJa": "私はスマホを使って室温を管理するのがとても気に入っています。",
-          "id": "beginner-2026-11-28-s07",
-          "startMs": 20184,
-          "endMs": 23361,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s07.m4a"
+          "text": "Try to drink water before you feel very thirsty each afternoon.",
+          "translationJa": "午後に喉が渇きすぎる前に水を飲むようにしましょう。",
+          "id": "beginner-2026-11-29-s07",
+          "startMs": 20234,
+          "endMs": 23671,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Technology is changing how we spend time in our own houses.",
-          "translationJa": "テクノロジーは私たちが家で過ごす時間を変えています。",
-          "id": "beginner-2026-11-28-s08",
-          "startMs": 23761,
-          "endMs": 27105,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s08.m4a"
+          "text": "Good hydration can help you stay focused on your important tasks.",
+          "translationJa": "適切な水分補給は重要なタスクに集中し続ける助けになります。",
+          "id": "beginner-2026-11-29-s08",
+          "startMs": 24071,
+          "endMs": 27720,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Do you want to try using a smart device at home?",
-          "translationJa": "家でスマートデバイスを使ってみたいですか？",
-          "id": "beginner-2026-11-28-s09",
-          "startMs": 27505,
-          "endMs": 30272,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner-s09.m4a"
+          "text": "Your health is more important than finishing every task right now.",
+          "translationJa": "今すぐすべての仕事を終えることよりも、あなたの健康が大切です。",
+          "id": "beginner-2026-11-29-s09",
+          "startMs": 28120,
+          "endMs": 31479,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner-s09.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "device",
-          "meaningJa": "装置、機器",
-          "exampleEn": "This device is very useful.",
-          "exampleJa": "この機器はとても便利です。"
+          "word": "Hydration",
+          "meaningJa": "水分補給",
+          "exampleEn": "Proper hydration is essential for health.",
+          "exampleJa": "適切な水分補給は健康に不可欠です。"
         },
         {
-          "word": "assistant",
-          "meaningJa": "アシスタント、助手",
-          "exampleEn": "I ask my assistant for help.",
-          "exampleJa": "アシスタントに助けを求めます。"
+          "word": "Busy",
+          "meaningJa": "忙しい",
+          "exampleEn": "I am too busy to take a break.",
+          "exampleJa": "休憩を取るには忙しすぎます。"
         },
         {
-          "word": "timer",
-          "meaningJa": "タイマー",
-          "exampleEn": "Set a timer for ten minutes.",
-          "exampleJa": "10分でタイマーをセットして。"
+          "word": "Bottle",
+          "meaningJa": "ボトル",
+          "exampleEn": "Carry a water bottle with you.",
+          "exampleJa": "水筒を持ち歩いてください。"
         },
         {
-          "word": "brightness",
-          "meaningJa": "明るさ",
-          "exampleEn": "Adjust the brightness of the screen.",
-          "exampleJa": "画面の明るさを調整してください。"
+          "word": "Sip",
+          "meaningJa": "ちびちび飲む",
+          "exampleEn": "Take a small sip of water.",
+          "exampleJa": "水を少しだけ飲んでください。"
         },
         {
-          "word": "control",
-          "meaningJa": "操作する、管理する",
-          "exampleEn": "I can control the fan speed.",
-          "exampleJa": "ファンの速度を調整できます。"
+          "word": "Focus",
+          "meaningJa": "集中する",
+          "exampleEn": "I need to focus on my work.",
+          "exampleJa": "仕事に集中する必要があります。"
         }
       ],
-      "id": "beginner-2026-11-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/beginner.m4a",
-      "durationSeconds": 29
+      "id": "beginner-2026-11-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/beginner.m4a",
+      "durationSeconds": 30
     },
     {
       "levelGroup": "intermediate",
-      "title": "Making Life Easier with Smart Tech",
+      "title": "Maintaining Hydration for Better Productivity",
       "cefrLevel": "B1",
-      "summaryJa": "スマートホーム技術を活用して、家事を効率化し生活を快適にする方法を紹介します。",
+      "summaryJa": "仕事の生産性を高めるための水分補給の習慣について。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Setting up a smart home system does not have to be a difficult project.",
-          "translationJa": "スマートホームシステムを構築することは、難しいプロジェクトである必要はありません。",
-          "id": "intermediate-2026-11-28-s01",
+          "text": "Staying properly hydrated is one of the simplest ways to improve your daily work performance.",
+          "translationJa": "適切に水分補給をすることは、日々の仕事のパフォーマンスを向上させる最も簡単な方法の一つです。",
+          "id": "intermediate-2026-11-29-s01",
           "startMs": 0,
-          "endMs": 3823,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s01.m4a"
+          "endMs": 4971,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s01.m4a"
         },
         {
           "index": 1,
-          "text": "You can start with a simple smart speaker to manage your daily schedule easily.",
-          "translationJa": "簡単なスマートスピーカーから始めて、毎日のスケジュールを簡単に管理できます。",
-          "id": "intermediate-2026-11-28-s02",
-          "startMs": 4223,
-          "endMs": 8337,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s02.m4a"
+          "text": "When you are busy with meetings, it is easy to forget about your physical needs.",
+          "translationJa": "会議で忙しいときは、自分の身体の必要性を忘れてしまいがちです。",
+          "id": "intermediate-2026-11-29-s02",
+          "startMs": 5371,
+          "endMs": 9587,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s02.m4a"
         },
         {
           "index": 2,
-          "text": "Voice commands allow you to control lights or music without touching any physical buttons.",
-          "translationJa": "音声コマンドを使えば、物理的なボタンに触れることなく照明や音楽を操作できます。",
-          "id": "intermediate-2026-11-28-s03",
-          "startMs": 8737,
-          "endMs": 13548,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s03.m4a"
+          "text": "Dehydration often leads to headaches, lack of energy, and difficulty concentrating on complex tasks.",
+          "translationJa": "脱水症状はしばしば頭痛やエネルギー不足、複雑なタスクへの集中困難につながります。",
+          "id": "intermediate-2026-11-29-s03",
+          "startMs": 9987,
+          "endMs": 16436,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Many people find that using smart plugs helps them save energy throughout the year.",
-          "translationJa": "多くの人は、スマートプラグを使うことで年間を通じて節電できることに気づいています。",
-          "id": "intermediate-2026-11-28-s04",
-          "startMs": 13948,
-          "endMs": 18225,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s04.m4a"
+          "text": "To prevent this, try to make drinking water a regular part of your office routine.",
+          "translationJa": "これを防ぐために、水を飲むことをオフィスの日課の一部にしてみてください。",
+          "id": "intermediate-2026-11-29-s04",
+          "startMs": 16836,
+          "endMs": 21619,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s04.m4a"
         },
         {
           "index": 4,
-          "text": "You can program your coffee machine to start brewing before you wake up every morning.",
-          "translationJa": "コーヒーメーカーをプログラムして、毎朝起きる前に淹れ始めることができます。",
-          "id": "intermediate-2026-11-28-s05",
-          "startMs": 18625,
-          "endMs": 22890,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s05.m4a"
+          "text": "Keeping a reusable water bottle within reach is an effective strategy for most professionals.",
+          "translationJa": "手の届く範囲に再利用可能なボトルを置いておくことは、多くのビジネスパーソンにとって効果的な戦略です。",
+          "id": "intermediate-2026-11-29-s05",
+          "startMs": 22019,
+          "endMs": 26951,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s05.m4a"
         },
         {
           "index": 5,
-          "text": "It feels wonderful to walk into a warm room during the cold winter months.",
-          "translationJa": "寒い冬の間に暖かい部屋に入ると、とても素晴らしい気分になります。",
-          "id": "intermediate-2026-11-28-s06",
-          "startMs": 23290,
-          "endMs": 27281,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s06.m4a"
+          "text": "You can also use a mobile app to send reminders if you struggle with consistency.",
+          "translationJa": "もし継続が難しい場合は、リマインダーを送ってくれるモバイルアプリを使うこともできます。",
+          "id": "intermediate-2026-11-29-s06",
+          "startMs": 27351,
+          "endMs": 31767,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Automation handles the boring tasks so you can focus on more important personal matters.",
-          "translationJa": "自動化が退屈な作業を処理してくれるので、より重要な個人的な事柄に集中できます。",
-          "id": "intermediate-2026-11-28-s07",
-          "startMs": 27681,
-          "endMs": 32630,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s07.m4a"
+          "text": "Taking a short break to refill your glass is also a good moment to stretch.",
+          "translationJa": "コップに水を補充するために短い休憩を取ることは、ストレッチをする良い機会でもあります。",
+          "id": "intermediate-2026-11-29-s07",
+          "startMs": 32167,
+          "endMs": 36068,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s07.m4a"
         },
         {
           "index": 7,
-          "text": "Modern technology provides us with many ways to improve our living space very quickly.",
-          "translationJa": "現代のテクノロジーは、生活空間を素早く改善するための多くの方法を提供してくれます。",
-          "id": "intermediate-2026-11-28-s08",
-          "startMs": 33030,
-          "endMs": 37771,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s08.m4a"
+          "text": "Listen to your body carefully and pay attention to early signs of mild fatigue today.",
+          "translationJa": "自分の体に注意深く耳を傾け、軽い疲労の初期サインに今日は注目してください。",
+          "id": "intermediate-2026-11-29-s08",
+          "startMs": 36468,
+          "endMs": 41128,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s08.m4a"
         },
         {
           "index": 8,
-          "text": "Even simple upgrades make a big difference in how your house functions every day.",
-          "translationJa": "単純なアップグレードでも、家が毎日どのように機能するかに大きな違いをもたらします。",
-          "id": "intermediate-2026-11-28-s09",
-          "startMs": 38171,
-          "endMs": 42161,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s09.m4a"
+          "text": "Small habits like these can make a significant difference in how you feel by evening.",
+          "translationJa": "このような小さな習慣が、夕方までに感じる疲れ方に大きな違いを生むことがあります。",
+          "id": "intermediate-2026-11-29-s09",
+          "startMs": 41528,
+          "endMs": 45872,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Start with one device and see how it changes your routine at home today.",
-          "translationJa": "まずは一つのデバイスから始めて、それが今日の家での習慣をどう変えるか見てみましょう。",
-          "id": "intermediate-2026-11-28-s10",
-          "startMs": 42561,
-          "endMs": 46441,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s10.m4a"
+          "text": "Prioritizing your well-being helps you maintain a positive and productive mindset throughout the day.",
+          "translationJa": "健康を優先することは、一日を通して前向きで生産的な考え方を維持する助けになります。",
+          "id": "intermediate-2026-11-29-s10",
+          "startMs": 46272,
+          "endMs": 51367,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Technology is truly a great partner for creating a more relaxed lifestyle at home.",
-          "translationJa": "テクノロジーは、家でよりリラックスした生活を送るための本当に素晴らしいパートナーです。",
-          "id": "intermediate-2026-11-28-s11",
-          "startMs": 46841,
-          "endMs": 51427,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate-s11.m4a"
+          "text": "Make sure that you drink enough fluids before you start feeling thirsty at your desk.",
+          "translationJa": "デスクで喉が渇き始める前に、十分な水分を摂取するようにしてください。",
+          "id": "intermediate-2026-11-29-s11",
+          "startMs": 51767,
+          "endMs": 56067,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "schedule",
-          "meaningJa": "予定、スケジュール",
-          "exampleEn": "Check your schedule for today.",
-          "exampleJa": "今日の予定を確認してください。"
+          "word": "Performance",
+          "meaningJa": "パフォーマンス、実行力",
+          "exampleEn": "Good sleep improves work performance.",
+          "exampleJa": "十分な睡眠は仕事のパフォーマンスを向上させます。"
         },
         {
-          "word": "command",
-          "meaningJa": "命令、指令",
-          "exampleEn": "Give a voice command.",
-          "exampleJa": "音声コマンドを出してください。"
+          "word": "Dehydration",
+          "meaningJa": "脱水症状",
+          "exampleEn": "Dehydration can cause dizziness.",
+          "exampleJa": "脱水症状はめまいを引き起こす可能性があります。"
         },
         {
-          "word": "physical",
-          "meaningJa": "物理的な、物質的な",
-          "exampleEn": "No physical contact is needed.",
-          "exampleJa": "物理的な接触は不要です。"
+          "word": "Routine",
+          "meaningJa": "日課",
+          "exampleEn": "I have a morning exercise routine.",
+          "exampleJa": "私には朝の運動の日課があります。"
         },
         {
-          "word": "energy",
-          "meaningJa": "エネルギー、電力",
-          "exampleEn": "Save energy by turning off lights.",
-          "exampleJa": "電気を消して節電しましょう。"
+          "word": "Strategy",
+          "meaningJa": "戦略",
+          "exampleEn": "We need a new strategy for this project.",
+          "exampleJa": "このプロジェクトには新しい戦略が必要です。"
         },
         {
-          "word": "automation",
-          "meaningJa": "自動化",
-          "exampleEn": "Home automation is very popular.",
-          "exampleJa": "ホームオートメーションはとても人気があります。"
+          "word": "Prioritize",
+          "meaningJa": "優先する",
+          "exampleEn": "You should prioritize your health.",
+          "exampleJa": "健康を優先すべきです。"
         }
       ],
-      "id": "intermediate-2026-11-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/intermediate.m4a",
-      "durationSeconds": 49
+      "id": "intermediate-2026-11-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/intermediate.m4a",
+      "durationSeconds": 54
     },
     {
       "levelGroup": "advanced",
-      "title": "The Evolution of Modern Smart Living",
+      "title": "Optimizing Hydration and Energy at Work",
       "cefrLevel": "B2",
-      "summaryJa": "スマートホーム環境を構築し、日常生活を最適化するための戦略的なアプローチについて考えます。",
+      "summaryJa": "仕事中のエネルギー維持と最適な水分補給戦略について。",
       "sourceUrls": [
-        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/science_technology/smart-home-basics"
+        "https://shoya9696.github.io/daily-shadowing-content/topics/evergreen/health_wellness/hydration-at-work"
       ],
       "sentences": [
         {
           "index": 0,
-          "text": "Integrating smart technology into your home is a practical way to enhance daily efficiency.",
-          "translationJa": "スマートテクノロジーを自宅に取り入れることは、日々の効率を高めるための実践的な方法です。",
-          "id": "advanced-2026-11-28-s01",
+          "text": "Maintaining optimal hydration levels throughout the workday is essential for sustaining high energy and cognitive function.",
+          "translationJa": "仕事中に最適な水分レベルを維持することは、高いエネルギーと認知機能を維持するために不可欠です。",
+          "id": "advanced-2026-11-29-s01",
           "startMs": 0,
-          "endMs": 5187,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s01.m4a"
+          "endMs": 6146,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s01.m4a"
         },
         {
           "index": 1,
-          "text": "Many users begin by installing voice-activated speakers to streamline their morning and evening routines.",
-          "translationJa": "多くのユーザーは、朝や夜のルーチンを効率化するために音声起動スピーカーを導入することから始めます。",
-          "id": "advanced-2026-11-28-s02",
-          "startMs": 5587,
-          "endMs": 11292,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s02.m4a"
+          "text": "Many professionals mistakenly believe that caffeine can replace the need for pure water during busy hours.",
+          "translationJa": "多くのプロフェッショナルが、忙しい時間帯にはカフェインが純粋な水の代わりになると誤解しています。",
+          "id": "advanced-2026-11-29-s02",
+          "startMs": 6546,
+          "endMs": 12158,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s02.m4a"
         },
         {
           "index": 2,
-          "text": "These devices act as a central hub for controlling various appliances throughout your living space.",
-          "translationJa": "これらのデバイスは、居住空間全体のさまざまな家電を操作するための中央ハブとして機能します。",
-          "id": "advanced-2026-11-28-s03",
-          "startMs": 11692,
-          "endMs": 16984,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s03.m4a"
+          "text": "While coffee provides a temporary boost, it does not provide the hydration your body truly requires.",
+          "translationJa": "コーヒーは一時的な活力を与えますが、体が真に必要とする水分補給は提供しません。",
+          "id": "advanced-2026-11-29-s03",
+          "startMs": 12558,
+          "endMs": 18528,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s03.m4a"
         },
         {
           "index": 3,
-          "text": "Smart lighting systems allow you to adjust the ambiance according to your specific personal mood.",
-          "translationJa": "スマート照明システムを使用すると、特定の個人の気分に合わせて雰囲気を調整できます。",
-          "id": "advanced-2026-11-28-s04",
-          "startMs": 17384,
-          "endMs": 22483,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s04.m4a"
+          "text": "Chronic mild dehydration often manifests as afternoon brain fog or an inability to focus on tasks.",
+          "translationJa": "慢性的な軽い脱水症状は、しばしば午後の頭の霧やタスクに集中できない状態として現れます。",
+          "id": "advanced-2026-11-29-s04",
+          "startMs": 18928,
+          "endMs": 24952,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s04.m4a"
         },
         {
           "index": 4,
-          "text": "Automated climate control ensures that your house maintains a perfect temperature throughout the entire day.",
-          "translationJa": "自動化された空調管理により、家の中は一日中完璧な温度に保たれます。",
-          "id": "advanced-2026-11-28-s05",
-          "startMs": 22883,
-          "endMs": 28458,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s05.m4a"
+          "text": "Establishing a conscious habit of sipping water at regular intervals creates a more stable energy flow.",
+          "translationJa": "定期的に水を飲むという意識的な習慣を確立することで、より安定したエネルギーの流れが生まれます。",
+          "id": "advanced-2026-11-29-s05",
+          "startMs": 25352,
+          "endMs": 31003,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s05.m4a"
         },
         {
           "index": 5,
-          "text": "You can set timers for kitchen appliances to ensure your dinner is ready on time.",
-          "translationJa": "キッチンの家電にタイマーをセットして、夕食が時間通りに準備できるようにできます。",
-          "id": "advanced-2026-11-28-s06",
-          "startMs": 28858,
-          "endMs": 33320,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s06.m4a"
+          "text": "Positioning your water container in a visible spot serves as an effective visual cue for your brain.",
+          "translationJa": "水筒を目に見える場所に置くことは、脳にとって効果的な視覚的合図として機能します。",
+          "id": "advanced-2026-11-29-s06",
+          "startMs": 31403,
+          "endMs": 36465,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s06.m4a"
         },
         {
           "index": 6,
-          "text": "Security features like smart cameras give you peace of mind when you are away traveling.",
-          "translationJa": "スマートカメラのようなセキュリティ機能は、旅行で外出している際に安心感を与えてくれます。",
-          "id": "advanced-2026-11-28-s07",
-          "startMs": 33720,
-          "endMs": 38378,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s07.m4a"
+          "text": "Taking brief, intentional breaks to hydrate also allows you to mentally reset from complex project demands.",
+          "translationJa": "水分補給のために短く意図的な休憩を取ることは、複雑なプロジェクトの要求から精神的にリセットする時間にもなります。",
+          "id": "advanced-2026-11-29-s07",
+          "startMs": 36865,
+          "endMs": 43204,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s07.m4a"
         },
         {
           "index": 7,
-          "text": "The main benefit of this technology is the time saved on repetitive household chores daily.",
-          "translationJa": "このテクノロジーの主な利点は、毎日の繰り返しの家事に費やす時間を節約できることです。",
-          "id": "advanced-2026-11-28-s08",
-          "startMs": 38778,
-          "endMs": 43585,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s08.m4a"
+          "text": "If you find yourself feeling sluggish, a glass of cool water is often more effective than snacks.",
+          "translationJa": "もし体がだるいと感じるなら、冷たいコップ一杯の水は多くの場合、スナックよりも効果的です。",
+          "id": "advanced-2026-11-29-s08",
+          "startMs": 43604,
+          "endMs": 49046,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s08.m4a"
         },
         {
           "index": 8,
-          "text": "As these systems become more intuitive, they integrate seamlessly into our existing lifestyle patterns easily.",
-          "translationJa": "これらのシステムがより直感的になるにつれて、既存の生活パターンに簡単に溶け込んでいきます。",
-          "id": "advanced-2026-11-28-s09",
-          "startMs": 43985,
-          "endMs": 50215,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s09.m4a"
+          "text": "Pay close attention to early indicators of fatigue rather than waiting until you feel severely thirsty.",
+          "translationJa": "激しい喉の渇きを感じるまで待つのではなく、疲労の初期兆候に細心の注意を払ってください。",
+          "id": "advanced-2026-11-29-s09",
+          "startMs": 49446,
+          "endMs": 54830,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s09.m4a"
         },
         {
           "index": 9,
-          "text": "Investing in high-quality smart devices is often worth the cost for long-term comfort gains.",
-          "translationJa": "高品質なスマートデバイスへの投資は、長期的な快適さを考えると多くの場合コストに見合います。",
-          "id": "advanced-2026-11-28-s10",
-          "startMs": 50615,
-          "endMs": 55778,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s10.m4a"
+          "text": "Integrating these small adjustments into your daily schedule supports long-term wellness and professional success.",
+          "translationJa": "これらの小さな調整を日々のスケジュールに組み込むことは、長期的な健康と職業上の成功を支えます。",
+          "id": "advanced-2026-11-29-s10",
+          "startMs": 55230,
+          "endMs": 60997,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s10.m4a"
         },
         {
           "index": 10,
-          "text": "Smart home integration represents a significant shift toward a more connected and efficient future lifestyle.",
-          "translationJa": "スマートホームの統合は、より接続された効率的な未来のライフスタイルへの大きな転換を表しています。",
-          "id": "advanced-2026-11-28-s11",
-          "startMs": 56178,
-          "endMs": 62101,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s11.m4a"
-        },
-        {
-          "index": 11,
-          "text": "You should explore these options to see how they can improve your personal home experience.",
-          "translationJa": "これらの選択肢を検討して、それがどのようにあなたの家の体験を改善できるかを確認してください。",
-          "id": "advanced-2026-11-28-s12",
-          "startMs": 62501,
-          "endMs": 67079,
-          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced-s12.m4a"
+          "text": "Ultimately, proactive self-care is the foundation for performing at your absolute best every single day.",
+          "translationJa": "結局のところ、能動的な自己管理こそが毎日最高のパフォーマンスを発揮するための基盤なのです。",
+          "id": "advanced-2026-11-29-s11",
+          "startMs": 61397,
+          "endMs": 67231,
+          "sentenceAudioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced-s11.m4a"
         }
       ],
       "vocabulary": [
         {
-          "word": "integrate",
-          "meaningJa": "統合する、取り入れる",
-          "exampleEn": "Integrate new tools into your work.",
-          "exampleJa": "新しいツールを仕事に取り入れてください。"
+          "word": "Cognitive",
+          "meaningJa": "認知の",
+          "exampleEn": "Exercise improves cognitive function.",
+          "exampleJa": "運動は認知機能を向上させます。"
         },
         {
-          "word": "streamline",
-          "meaningJa": "効率化する、合理化する",
-          "exampleEn": "We need to streamline the process.",
-          "exampleJa": "プロセスを効率化する必要があります。"
+          "word": "Chronic",
+          "meaningJa": "慢性的な",
+          "exampleEn": "She suffers from chronic back pain.",
+          "exampleJa": "彼女は慢性的な腰痛に苦しんでいます。"
         },
         {
-          "word": "ambiance",
-          "meaningJa": "雰囲気、環境",
-          "exampleEn": "The lighting creates a nice ambiance.",
-          "exampleJa": "照明が素敵な雰囲気を作ります。"
+          "word": "Cue",
+          "meaningJa": "合図、きっかけ",
+          "exampleEn": "The bell was a cue to start.",
+          "exampleJa": "ベルが開始の合図でした。"
         },
         {
-          "word": "repetitive",
-          "meaningJa": "繰り返しの、反復的な",
-          "exampleEn": "Avoid repetitive tasks if possible.",
-          "exampleJa": "可能なら反復作業は避けましょう。"
+          "word": "Sluggish",
+          "meaningJa": "動きの鈍い、だるい",
+          "exampleEn": "I felt sluggish after lunch.",
+          "exampleJa": "昼食後に体がだるく感じました。"
         },
         {
-          "word": "intuitive",
-          "meaningJa": "直感的な",
-          "exampleEn": "The interface is very intuitive.",
-          "exampleJa": "そのインターフェースはとても直感的です。"
+          "word": "Proactive",
+          "meaningJa": "前向きな、能動的な",
+          "exampleEn": "We need a proactive approach.",
+          "exampleJa": "私たちは能動的なアプローチが必要です。"
         }
       ],
-      "id": "advanced-2026-11-28",
-      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-28/advanced.m4a",
+      "id": "advanced-2026-11-29",
+      "audioUrl": "https://shoya9696.github.io/daily-shadowing-content/audio/2026-11-29/advanced.m4a",
       "durationSeconds": 65
     }
   ],
-  "topicCategory": "science_technology"
+  "topicCategory": "health_wellness"
 }

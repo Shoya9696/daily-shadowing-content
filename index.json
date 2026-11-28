@@ -1,12 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-11-27T15:01:19Z",
-  "latestLessonDate": "2026-11-28",
+  "generatedAtUtc": "2026-11-28T15:02:15Z",
+  "latestLessonDate": "2026-11-29",
   "days": [
+    {
+      "lessonDate": "2026-11-29",
+      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-29.json",
+      "isLatest": true,
+      "lessons": [
+        {
+          "level": "beginner",
+          "title": "Staying Hydrated at Work",
+          "durationSeconds": 30,
+          "summaryJa": "仕事中に水分補給をしっかり行うための簡単なヒント。"
+        },
+        {
+          "level": "intermediate",
+          "title": "Maintaining Hydration for Better Productivity",
+          "durationSeconds": 54,
+          "summaryJa": "仕事の生産性を高めるための水分補給の習慣について。"
+        },
+        {
+          "level": "advanced",
+          "title": "Optimizing Hydration and Energy at Work",
+          "durationSeconds": 65,
+          "summaryJa": "仕事中のエネルギー維持と最適な水分補給戦略について。"
+        }
+      ],
+      "topicCategory": "health_wellness"
+    },
     {
       "lessonDate": "2026-11-28",
       "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-11-28.json",
-      "isLatest": true,
+      "isLatest": false,
       "lessons": [
         {
           "level": "beginner",
@@ -678,32 +704,6 @@
         }
       ],
       "topicCategory": "health_wellness"
-    },
-    {
-      "lessonDate": "2026-10-29",
-      "manifestUrl": "https://shoya9696.github.io/daily-shadowing-content/lessons/2026-10-29.json",
-      "isLatest": false,
-      "lessons": [
-        {
-          "level": "beginner",
-          "title": "Setting Up Your New Devices",
-          "durationSeconds": 39,
-          "summaryJa": "新しいデバイスをWi-Fiに接続し、アプリを更新して快適に使うための基本的な手順。"
-        },
-        {
-          "level": "intermediate",
-          "title": "Mastering Your Digital Tools",
-          "durationSeconds": 61,
-          "summaryJa": "日常のデジタル機器を適切に管理し、接続トラブルを解決するための実用的なスキル。"
-        },
-        {
-          "level": "advanced",
-          "title": "Mastering Your Digital Home Setup",
-          "durationSeconds": 67,
-          "summaryJa": "家庭内のデジタルデバイスをスムーズにセットアップし、トラブルを解決するための実用的なガイド。"
-        }
-      ],
-      "topicCategory": "science_technology"
     }
   ]
 }
